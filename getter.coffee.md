@@ -8,8 +8,8 @@ Getter is a utility to fetch evidence to Parliamentary committees from data.parl
 Cheerio is a helper from Matthew Mueller: http://matthewmueller.github.io/cheerio/
 
     cheerio = require("cheerio")
-    rimraf "./data/", (err) ->
-        throw err  if err
+    rimraf "./output/", (err) ->
+        throw err if err
     
     walker = walk.walk("./data/")
     
