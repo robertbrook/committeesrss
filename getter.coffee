@@ -1,17 +1,17 @@
 # Getter is a utility to fetch evidence to Parliamentary committees from data.parliament.uk and make their content available for onward use.
 
+# # Getter
+
 request =   require("request")
 fs      =   require("fs")
+
+# **walk** prevents getter opening too many files at once
+
 walk    =   require("walk")
-rimraf  =   require("rimraf")
 
-# Cheerio is a helper from Matthew Mueller: http://matthewmueller.github.io/cheerio/
+# **cheerio** is a helper from <https://github.com/MatthewMueller/cheerio>
 
-cheerio = require("cheerio")
-rimraf "./output/", (err) ->
-    throw err if err
-fs.mkdir "./output/", (err) ->
-    throw err if err
+cheerio =   require("cheerio")
 
 walker = walk.walk("./data/")
 
@@ -24,13 +24,17 @@ walker.on "file", (root, fileStats, next) ->
     $("p span").each (index, element) ->
       if element.attribs["style"]
         if ~(element.attribs["style"]).indexOf("bold")
+          # ## Header
+          # I found something _bold!_
           myString += element.children[0].data
-          myState = "[bold]"
+          
         else
-          myState = "[normal]"
+          # this is just normal text
+          # This is an [example link](http://example.com/).
           myString += element.children[0].data
           myString += "\n"
         myString += myState
+        
     if fileStats.size > 1647        
       fs.writeFile "./output/" + fileStats.name, myString, (err) ->
         if err
