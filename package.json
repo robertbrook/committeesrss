@@ -18,8 +18,7 @@
     "coffee": "0.0.1",
     "docco": "~0.6.3",
     "walk": "*",
-    "rimraf": "*",
-    "mkdirp": "*"
+    "cheerio": "*"
   },
   "license": "Open Parliament Licence"
 }
