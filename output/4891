@@ -1,0 +1,248 @@
+&#xa0;
+[normal]Written evidence from 
+[normal]Sanjeev Appicharla
+[normal] (CYS0110)
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]The
+[normal] ai
+[normal]m of the S
+[normal]ubm
+[normal]ission is to inform the decision making process of the Chair and Members of Transport Select Committee by advancing support for the arguments presented 
+[normal]and 
+[normal]correcting an 
+[normal]error in 
+[normal]the 
+[normal]probabilistic argument 
+[normal]in the earlier Written Evidence dated 08 Jan 2014.
+[normal] 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]During
+[normal] the last 10 years
+[normal] or so
+[normal], he 
+[normal]has 
+[normal]specialised in 
+[normal]the activity of 
+[normal]modelling and analysis of safety critical system and accidents
+[normal] following 
+[normal]the
+[normal] generalising the
+[normal] 
+[normal]hazard identification and analysis 
+[normal]process 
+[normal]and information decision making framework 
+[normal]contained in the IEC 61508, a generic safety standard, to conduct hazard identification and analysis using the 
+[normal]engineering analytical fault 
+[normal]Management Oversight and Risk T
+[normal]ree
+[normal] and Human factors Framework, Skills-Rules and Knowledge Framework
+[normal]. 
+[normal] 
+[normal]&#xa0;
+[normal]Author‘s expertise
+[normal] in system 
+[normal]safet
+[normal]y engineering research 
+[normal]is evidenced by the publications of 
+[normal]six
+[normal] peer reviewed publications at the 
+[normal]Institute of Engineers and Technology ( IET) 
+[normal]Intern
+[normal]ational System Safety Conf
+[normal]erences in 2006, 2010, 2011, 
+[normal]2012
+[normal] and 2013
+[normal]. Author
+[normal] worked as a Command Controls Signalling Engineer 
+[normal]promoting the idea of System Approach to Safety 
+[normal]at RSSB from 2004 till 2010
+[normal]. 
+[normal] 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Using the published data, the pattern of Poisson distribution is used to infer occurrences of fatalities and result of Excel sheet calculations 
+[normal]are published in the following text. These figures can be verified by readers to be correct or wrong. 
+[normal]&#xa0;
+[normal]Author does not envisage greater 
+[normal]mathematical 
+[normal]effort to be 
+[normal]applied 
+[normal]into statistics 
+[normal]awareness 
+[normal]for the purposes of risk management
+[normal]. This is
+[normal] because 
+[normal]the 
+[normal]pa
+[normal]ttern of causality is evident from the hazard identification and analysis in the earlier paper b
+[normal]y the
+[normal] author. 
+[normal]The results of statistical analysis indicated that there are high chances of fatalities to recur if there is no intervention. Reason
+[normal] for  that non
+[normal]-repeating 
+[normal] of pattern of accidents at Bow Roundabout can be attributed to learning of the hazardous nature of the Bow Roundabout by cyclists and motor vehicle drivers alike. When memories fade patterns re-appear. 
+[normal]&#xa0;
+[normal]Argument that there is small size of dat
+[normal]a
+[normal] 
+[normal]is refuted 
+[normal]by using
+[normal] Poisson distribution applies to rare events by an uninterested observer
+[normal]. 
+[normal]&#xa0;
+[normal]The behavioural pattern observed in the data (outlier) coinciding with financial crisis of 2008 is a project waiting further research. 
+[normal]&#xa0;
+[normal]data
+[normal]&#xa0;
+[normal]Poisson Distrib
+[normal]ution
+[normal]20
+[normal]&#xa0;
+[normal]88.94%
+[normal]19
+[normal]&#xa0;
+[normal]83.91%
+[normal]8
+[normal]&#xa0;
+[normal]2.73%
+[normal]21
+[normal]&#xa0;
+[normal]92.68%
+[normal]19
+[normal]&#xa0;
+[normal]83.91%
+[normal]15
+[normal]&#xa0;
+[normal]50.69%
+[normal]15
+[normal]&#xa0;
+[normal]50.69%
+[normal]13
+[normal]&#xa0;
+[normal]30.83%
+[normal]10
+[normal]&#xa0;
+[normal]9.21%
+[normal]16
+[normal]&#xa0;
+[normal]60.56%
+[normal]1
+[normal]&#xa0;
+[normal]0.000279%
+[normal]Expected Mean
+[normal]15.6
+[normal]&#xa0;
+[normal]Expected Median
+[normal]15.5
+[normal]&#xa0;
+[normal]Expected Mode
+[normal]19
+[normal]&#xa0;
+[normal]Variance
+[normal]18.71111
+[normal]&#xa0;
+[normal]Std deviation
+[normal]4.325634
+[normal]&#xa0;
+[normal]Confidence
+[normal] Interval
+[normal]2.681007
+[normal]&#xa0;
+[normal]Maximum fatality
+[normal]18.28101
+[normal]&#xa0;
+[normal]Minimum fatality
+[normal]12.91899
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Nobel Prize winning psychologist, Daniel Kahneman, 
+[normal]argues that people are prone to apply causal thinking inappropriately; to situations that require statistical reasoning. Statistical thinking derives conclusions about individual cases from properties of categories and ensembles. Unfortunately, System 1 do
+[normal]es not have capability for this mode of reasoning: System 2 can learn to think statically, but few people receive the training. He writes that psychology of causality was the basis of the decision to describe psychological processes by metaphors of agency,
+[normal] with little concern for consistency (pp77)
+[normal] 
+[normal](Kahneman, 2011)
+[normal]. 
+[normal]&#xa0;
+[normal]Author argues that engineers do get trained in the use of statistics and probability, but they do not appreciate the errors they introduce into their reasoning when they confound intentional and physical causality.  Several examples of this nature emerge f
+[normal]rom the consideration of 
+[normal]scientific 
+[normal]literature 
+[normal]since Rene Descartes time. Arthur Schopenhauer (1813) gives an example of heat, a property of matter, being the cause of rising quicksilver in a thermometer as an example of physical causality(pp155)
+[normal] 
+[normal](Schopenhaeur, 1813/2006)
+[normal].   Arthur Schopenhauer (1813) refuted Rene Descartes’s 
+[normal]ontological argument for God by saying that the immensity of God is a logical reason, from which it follows, that God needs no cause; whereas Rene Descarte
+[normal]s confounds the two 
+[normal]together and obviously has no clear consciousness of the difference between reason and cause
+[normal]. 
+[normal]Properly speaking however, it is his intention which mars his insight
+[normal]. 
+[normal]&#xa0;
+[normal]The Descartes error of dualism between the world of objects (soulles
+[normal]s bodies) and world of mental subjects (bodies less souls) makes appearance in the writings of Daniel Kahneman drawing upon writings of Paul Bloom (pp77)
+[normal] 
+[normal](Kahneman, 2011)
+[normal]. 
+[normal]Psychologist Paul Bloom
+[normal] writes on his website that t
+[normal]he
+[normal]re is considerable evidence that adults are natural dualists--we see
+[normal] 
+[normal]the world as Descartes did, as containing physical things (or bodies) and social entities (or souls). I am interested in how this common-sense dualism emerges in development, and the impl
+[normal]ications that it has for domains such as morality and religion.
+[normal] 
+[normal]&#xa0;
+[normal]Managers and engineers, author speculates, without the background in design of systems, are prone to confound
+[normal] reasoning about
+[normal] intentional and physical 
+[normal]causation. This can be treated as a rep
+[normal]resentative bias which appears in reasoning over human error frequently in accident investigations (pp149)
+[normal] 
+[normal](Kahneman, 2011)
+[normal]. 
+[normal]Every policy decision on risk and safety involves assumptions about human nature, in particular about 
+[normal]choices that people may make and the consequences of choices for themselves and society. The Exhibition 
+[normal]Road 
+[normal]has become safer because there is less chance of interaction between pedestrians and motorised vehicles
+[normal] because British vehicles drivers use a para
+[normal]llel road after hundred million pound investment, but few exemplary organisations think otherwise
+[normal]. Managers and engineers who made decisions on planning and delivery of technological projects and associated activities rarely appear on the radar of the acc
+[normal]ident investigator
+[normal] 
+[normal]investigating a particular rare event in operations that 
+[normal]has 
+[normal]led to fatalities.
+[normal]&#xa0;
+[normal]Author did not find evidence that Danish Roads afford any more safety to cyclists than British Roads 
+[normal]from the limited information available 
+[normal]on the Web
+[normal] article
+[normal].
+[normal]1
+[normal]&#xa0;
+[normal] More details can be located here: 
+[normal]http://en.wikipedia.org/wiki/Poisson_distribution
+[normal]&#xa0;
+[normal] More details can be located here:
+[normal] 
+[normal] 
+[normal]http://en.wikisource.org/wiki/On_the_Fourfold_Root_of_the_Princ
+[normal]iple_of_Sufficient_Reason
+[normal] More details can be located here:
+[normal] 
+[normal]http://psychology.yale.edu/faculty/paul-bloom
+[normal] More details can be located here:
+[normal] 
+[normal]http://www.redcross.org.uk/What-we-do/Teaching-resources/Newsthink/Discussion-store/Shared-spaces
+[normal]&#xa0;
+[normal] More details can be located here:
+[normal] 
+[normal] 
+[normal]http://en.wikipedia.org/wiki/Cycling_in_Denmark
+[normal]

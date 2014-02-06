@@ -1,0 +1,351 @@
+Change Management [bold]- [bold]Basic details of change[bold]Version date
+[normal]:  
+[normal]20 
+[normal]July 
+[normal]2009
+[normal]Data source[bold]:  [bold]Live  ITBM[bold]Change ID[bold]:[bold]Title[bold]:[bold]Move the data.parliament.uk/briefingpapers web service back to LBi from Fujitsu
+[normal]Kelly, Caroline
+[normal]Customer[bold]:[bold]&#xa0;
+[normal]6,487
+[normal]Due to performance issues for one particular service on the Fujitsu web hosting platform
+[normal], 
+[normal]we are temporarily migrating the 
+[normal]service back to LBi while a resolution is sought
+[normal].
+[normal]&#xa0;
+[normal]This needs to be done as soon as possible as the briefing papers area of the website is slow and sometimes fails to display
+[normal].
+[normal]Description[bold]:[bold]Implementer[bold]:[bold]Bull, Stephen
+[normal]Status[bold]:[bold]Closed Successful
+[normal]Customer[bold]: [bold]Kelly, Caroline
+[normal]bullsj
+[normal]Fast Track
+[normal]Service Outage expected [bold]?[bold]Yes
+[normal]Description[bold]:[bold]There will be a freeze on publishing new briefing papers during the change 
+[normal]window
+[normal].
+[normal]Depts[bold]/[bold]Services effected[bold]:[bold]Commons and Lords Library staff, POST
+[normal]Planned End date[bold]/[bold]time[bold]:[bold]10/01/2013
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]14:00:15
+[normal]Scheduled End date[bold]/[bold]time[bold]:[bold]10/01/2013
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]14:00:40
+[normal]Planned Start date[bold]/[bold]time[bold]:[bold]10/01/2013
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]11:00:15
+[normal]Scheduled Start date[bold]/[bold]time[bold]:[bold]10/01/2013
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]11:00:40
+[normal]Implementation Group[bold]:[bold]Knowledge
+[normal]1
+[normal]. 
+[normal]ACSN and PICT TS to create new DNS records for service
+[normal]:
+[normal]&#xa0;
+[normal]  Bppublish
+[normal].
+[normal]webpublishing
+[normal].
+[normal]parliament
+[normal].
+[normal]uk         
+[normal]157
+[normal].
+[normal]125
+[normal].
+[normal]69
+[normal].
+[normal]189
+[normal]  Bpdata
+[normal].
+[normal]data
+[normal].
+[normal]parliament
+[normal].
+[normal]uk                            
+[normal]157
+[normal].
+[normal]125
+[normal].
+[normal]69
+[normal].
+[normal]189
+[normal]&#xa0;
+[normal]  Bppublish
+[normal].
+[normal]webpublishingppe
+[normal].
+[normal]parliament
+[normal].
+[normal]uk   
+[normal]157
+[normal].
+[normal]125
+[normal].
+[normal]69
+[normal].
+[normal]190
+[normal]  Bpdata
+[normal].
+[normal]datappe
+[normal].
+[normal]parliament
+[normal].
+[normal]uk                      
+[normal]157
+[normal].
+[normal]125
+[normal].
+[normal]69
+[normal].
+[normal]190
+[normal]&#xa0;
+[normal]2
+[normal]. 
+[normal]Copy latest briefing papers pdf files from Fujitsu to LBi
+[normal]3
+[normal]. 
+[normal]Backup and restore latest database from Fujitsu to LBi
+[normal]4
+[normal]. 
+[normal]Log onto MWEB
+[normal]015 
+[normal]and open file C
+[normal]:
+[normal]\
+[normal]InternalPublisher
+[normal]\
+[normal]Parliament
+[normal].
+[normal]InternalPublisher
+[normal].
+[normal]Service
+[normal].
+[normal]Host
+[normal]\
+[normal]web
+[normal].
+[normal]config
+[normal]5
+[normal]. 
+[normal]Change 
+[normal]'
+[normal]ExternalCallUriBase
+[normal]' 
+[normal]from 
+[normal]    https
+[normal]://
+[normal]webpublishing
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers
+[normal]/
+[normal]UploadPublishingService
+[normal].
+[normal]svc to
+[normal]    https
+[normal]://
+[normal]bppublish
+[normal].
+[normal]webpublishing
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers
+[normal]/
+[normal]UploadPublishingService
+[normal].
+[normal]svc
+[normal]6
+[normal]. 
+[normal]Restart service
+[normal]7
+[normal]. 
+[normal]Add HOSTS file entries for hosts in step 
+[normal]1
+[normal]. 
+[normal]above on MWEB
+[normal]003
+[normal]Z
+[normal], 
+[normal]MWEB
+[normal]004
+[normal]Z
+[normal], 
+[normal]MAPP
+[normal]002
+[normal]Z
+[normal]8
+[normal]. 
+[normal]Amend appsettings
+[normal].
+[normal]config files on servers MWEB
+[normal]003
+[normal]Z
+[normal], 
+[normal]MWEB
+[normal]004
+[normal]Z
+[normal], 
+[normal]MAPP
+[normal]002
+[normal]Z to change 
+[normal]data
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers to Bpdata
+[normal].
+[normal]data
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers
+[normal]Implementation plan[bold]:[bold]Pre Change testing[bold]:[bold]We are moving the service back to a known working platform
+[normal], 
+[normal]albeit with a new host name
+[normal].  
+[normal]The new name will be tested 
+[normal]from pre
+[normal]-
+[normal]prod prior to making the site live
+[normal].
+[normal]Post Change testing[bold]:[bold]Test www
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers is working
+[normal]Test Briefing Papers Authoring Client can publish new papers
+[normal]Details of implementation communications plan[bold]:[bold]Bryn Morgan has been advised of this change
+[normal]Details of backout plan[bold]:[bold]Page 1 of 2
+[normal]30/09/2013
+[normal]16:46:21
+[normal]Printed
+[normal]:
+[normal]Change ID[bold]:[bold]Title[bold]:[bold]Move the data.parliament.uk/briefingpapers web service back to LBi from Fujitsu
+[normal]Kelly, Caroline
+[normal]Customer[bold]:[bold]&#xa0;
+[normal]6,487
+[normal]1
+[normal]. 
+[normal]Copy latest briefing papers pdf files from LBi to Fujitsu
+[normal]2
+[normal]. 
+[normal]Backup and restore latest database from LBi to Fujitsu
+[normal]3
+[normal]. 
+[normal]Log onto MWEB
+[normal]015 
+[normal]and open file C
+[normal]:
+[normal]\
+[normal]InternalPublisher
+[normal]\
+[normal]Parliament
+[normal].
+[normal]InternalPublisher
+[normal].
+[normal]Service
+[normal].
+[normal]Host
+[normal]\
+[normal]web
+[normal].
+[normal]config
+[normal]4
+[normal]. 
+[normal]Change 
+[normal]'
+[normal]ExternalCallUriBase
+[normal]' 
+[normal]from 
+[normal]    https
+[normal]://
+[normal]bppublish
+[normal].
+[normal]webpublishing
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers
+[normal]/
+[normal]UploadPublishingService
+[normal].
+[normal]svc to
+[normal]    https
+[normal]://
+[normal]webpublishing
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers
+[normal]/
+[normal]UploadPublishingService
+[normal].
+[normal]svc
+[normal]5
+[normal]. 
+[normal]Restart service
+[normal]6
+[normal]. 
+[normal]Amend appsettings
+[normal].
+[normal]config files on servers MWEB
+[normal]003
+[normal]Z
+[normal], 
+[normal]MWEB
+[normal]004
+[normal]Z
+[normal], 
+[normal]MAPP
+[normal]002
+[normal]Z to change 
+[normal]Bpdata
+[normal].
+[normal]data
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers to data
+[normal].
+[normal]parliament
+[normal].
+[normal]uk
+[normal]/
+[normal]briefingpapers
+[normal]Bryn Morgan
+[normal], 
+[normal]DIS
+[normal]Caroline Kelly
+[normal], 
+[normal]PICT KAT Manager
+[normal]Details of backout plan contingency[bold]:[bold]Page 2 of 2
+[normal]30/09/2013
+[normal]16:46:21
+[normal]Printed
+[normal]:
+[normal]&#xa0;
+[normal]

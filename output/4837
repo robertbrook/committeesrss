@@ -1,0 +1,1310 @@
+&#xa0;
+[normal]Written evidence from Sanjeev Appicharla (CYS 108)
+[normal]&#xa0;
+[normal]The
+[normal] ai
+[normal]m of the S
+[normal]ubm
+[normal]ission is to present a coherently argued viewpoint to inform 
+[normal]the
+[normal] judgement and decision making process
+[normal]es
+[normal] of the Chair and Members of the UK Transport Select Committee on the theme of 
+[normal]C
+[normal]yclist 
+[normal]S
+[normal]afety. 
+[normal]The paper identifies
+[normal] 
+[normal]the group of people who 
+[normal]can be influenced 
+[normal]to 
+[normal]plan and implement 
+[normal]safety measures 
+[normal]to el
+[normal]iminate danger 
+[normal]posed to cyclist due to a collision s
+[normal]cenario. Author 
+[normal]gathered ideas 
+[normal]from the current research
+[normal] being conducted to s
+[normal]olve
+[normal] the problem faced by cyclist and represented these
+[normal] ideas 
+[normal]in the ha
+[normal]zard and barrier modelling 
+[normal]and analysis 
+[normal]in the Submission
+[normal].
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]During
+[normal] the last 10 years
+[normal] or so
+[normal], he 
+[normal]has 
+[normal]specialised in 
+[normal]the activity of 
+[normal]modelling and analysis of safety critical system and accidents
+[normal] following 
+[normal]the
+[normal] generalising the
+[normal] process
+[normal] 
+[normal]and information decision making framework 
+[normal]contained in the IEC 61508, a generic safety standard, to conduct hazard identification and analysis using the Management Oversight and Risk Tree. 
+[normal] 
+[normal]&#xa0;
+[normal]Author‘s expertise
+[normal] in system 
+[normal]safet
+[normal]y engineering research 
+[normal]is evi
+[normal]denced by the publications of 
+[normal]six
+[normal] peer reviewed publications at the 
+[normal]Institute of Engineers and Technology ( IET) 
+[normal]International System Safety Conf
+[normal]erences in 2006, 2010, 2011, 
+[normal]2012
+[normal] and 2013
+[normal]. Author
+[normal] worked as a Command Controls Signalling Engineer 
+[normal]promoting t
+[normal]he idea of System Approach to Safety 
+[normal]at RSSB from 2004 till 2010
+[normal]. 
+[normal] 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Photo [bold]1[bold]: A photo of the Bow Roundabout prior to the installation of the early-start cycle light system. Photo courtesy: [bold]http://aseasyasridingabike.word[bold]press.com/2012/06/08/bow-roundabout/[bold]&#xa0;
+[normal]At 08:45 AM GMT at Bow Roundabout
+[normal] on 13
+[normal]th
+[normal] November
+[normal] 2013
+[normal], 
+[normal]Venera Minakhmetova
+[normal], 24, 
+[normal]was waiting for the 
+[normal]East Bound 
+[normal]Early Cycle Start S
+[normal]ignal to clear. As soon as the tr
+[normal]affic signal cleared
+[normal] she made a decision to
+[normal] start
+[normal] 
+[normal]cycling. W
+[normal]ithin a distance of few metres she was horrified 
+[normal]to 
+[normal]found herself 
+[normal]hit by a
+[normal] 
+[normal]lorry. 
+[normal]The resulting collision event
+[normal], a tragic event,
+[normal] took away her precious life
+[normal] before any medical
+[normal] help could be afforded to her
+[normal]. 
+[normal]&#xa0;
+[normal]Approximately year ago, Transport for
+[normal] London installed an Early Start Traffic Light Scheme at the Bow Roundabout to improve safety at the Bow Roundabout
+[normal] 
+[normal](BBC News, 2013)
+[normal]. Prior to this safety intervention, a Cycle Super Highways (Blue Colour pathway) Scheme was in
+[normal]troduced by the Transport for London in 2010. Transport for London
+[normal] took a decision to make these interventions after consultation with 
+[normal]cycling, road user and safety organisations
+[normal] 
+[normal](Mayor of London, May 2013)
+[normal].
+[normal]The actions 
+[normal]of var
+[normal]ious people directly involved in the tragic situation are examined hereafter
+[normal] using the information afforded by the Transport for London video showing the Concept of Operations
+[normal]. 
+[normal]Concept of Operations is a systems engineering term to describe
+[normal] to the user how
+[normal] to use the proposed system. More details on Concept of Operations can be accessed on the Web
+[normal].
+[normal]a)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]The woman 
+[normal]cyclist (Person A) 
+[normal]was afforded 
+[normal]information by the Early Start 
+[normal]Bicycle Signal 
+[normal]System
+[normal] to go West
+[normal] on her planned route starting from Cycle Super Highway
+[normal] 
+[normal]CS2 
+[normal]Advanced Stop 
+[normal]Line (ASL)
+[normal].  
+[normal]b)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]The Lorry driver
+[normal] (Person B) was
+[normal] afforded information by the 
+[normal]Road t
+[normal]raffic Signal 
+[normal]System 
+[normal]to go across on his planned route
+[normal] few moments
+[normal] later
+[normal]. 
+[normal]c)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]The specification and implementation of the 
+[normal]Road Traffic Control System, Early Start Signal 
+[normal]System and Cycle Superhighway 
+[normal]CS2 Advanced Stop Line 
+[normal]assumed 
+[normal]that 
+[normal]cycle and lorry routes do not conflict
+[normal] with each other following the 
+[normal]installation of the Early Start Bicycle Signal System
+[normal] and CS2 Advanced St
+[normal]op Line
+[normal].
+[normal] 
+[normal]&#xa0;
+[normal]From the above it is clear that both woman cyclist and the lorry driver did not have any 
+[normal]visual percep
+[normal]tion of each other’s route IS
+[normal] in conflict
+[normal] in the 
+[normal]circular (shared
+[normal] space
+[normal]) passageway away
+[normal] from the
+[normal] 
+[normal]Cycle Super Highway CS2
+[normal]. 
+[normal]&#xa0;
+[normal]Conjunction of th
+[normal]e three events 
+[normal]transformed normal safe acts of cycling and vehicle 
+[normal]driving 
+[normal]into unsafe acts posing risk to life of Venera
+[normal] Minakhmetova
+[normal]. Author speculates 
+[normal]at this stage of investigation that this conjunction of events went 
+[normal]un
+[normal]recognised at the planning, revi
+[normal]ew and 
+[normal]delivery stages of the schemes. 
+[normal]Perhaps, t
+[normal]he integrated risk assessment and reviews were not conducted by traffic engineer
+[normal]s or designers or contractors as they 
+[normal]were conducted for the London Olympics 2012
+[normal].
+[normal] 
+[normal]Author discounts the possibility that the s
+[normal]kills of dead cyclist and lorry driver were deficient in this case. Nor was this case of hit-run accident as the lorry driver stopped after the accident. 
+[normal]&#xa0;
+[normal]The te
+[normal]xt in the following 
+[normal]section presents 
+[normal]the 
+[normal]idea of
+[normal] Syste
+[normal]ms Thinking 
+[normal]Approach to 
+[normal]Safety. 
+[normal]This a
+[normal]pproach was presented by author in hi
+[normal]s publication in 2006
+[normal] and in free online publication in 2012
+[normal] 
+[normal](Appicharla, 2006)
+[normal],
+[normal] 
+[normal](Appicharla, 2012)
+[normal]. 
+[normal]This follows the 
+[normal]Soft Systems Thinking 
+[normal]tradition started by 
+[normal]Peter Checkland
+[normal] 
+[normal](Checkland, 2000)
+[normal]. 
+[normal]&#xa0;
+[normal]The hypotheses underlying the Systems Thinking Approach to Safety are as under:
+[normal]a)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Release of harmful energy is a prior co
+[normal]ndition
+[normal]/state
+[normal] to any 
+[normal]physical 
+[normal]event involving harm
+[normal] 
+[normal]b)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Lack of 
+[normal]protective 
+[normal]measures to 
+[normal]mitigate the harmful energy so released leads
+[normal] to injuries, loss
+[normal] of limbs and lives
+[normal]c)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Managerial oversights and assumed risk 
+[normal](acceptable
+[normal] 
+[normal]risks are
+[normal] risks accepted by an authority after a formal risk 
+[normal]assessment)
+[normal] are 
+[normal]fallible decisions that trigger t
+[normal]he accidental flow of events. 
+[normal]&#xa0;
+[normal]The single factor behind the lack of availability of safety measures to guard against the release of hazardous energy is
+[normal] the 
+[normal]systematic errors committed (
+[normal]inherent biases
+[normal])
+[normal] in safety evaluations and risk assessments. 
+[normal]Therefore, 
+[normal]the 
+[normal]utility of Systems Thinking Approach to Safety lies in screening out of hazardous scenarios from the concept of operations itself such that either the activity itself can be modified or specification of the infrastructure and control systems
+[normal] may be written in a such way that probability of hazardous scenarios can be eliminated or controlled to the extent that it is no longer a cause for concern. 
+[normal]&#xa0;
+[normal]Objections against the utility of Systems Thinking Approach to Safety by the adherents of tradit
+[normal]ional probabilisti
+[normal]c and/or statistical 
+[normal]approach to risk management 
+[normal]are answered in t
+[normal]his way. T
+[normal]raditional method of estimatin
+[normal]g numerically the risk 
+[normal]posed by
+[normal] an activity using the data collected from past accidents and 
+[normal]by treating accident
+[normal] fatalities 
+[normal]as a ra
+[normal]ndom variable does not yield insight into whether 
+[normal]the activity is itself is safe or not due to availability 
+[normal]and representative 
+[normal]biases (pp137)
+[normal] 
+[normal](Kahneman, 2011)
+[normal]. 
+[normal]&#xa0;
+[normal]Traditional d
+[normal]ecision making process entails making choices for th
+[normal]e future to solve a given problem with various constraints impinging upon the solution. Both in theory and practise, 
+[normal]utilitarian 
+[normal]decision making entails a view to be taken of prevalent state of affair(s)
+[normal] and partition them into risk less and risky choices 
+[normal]. 
+[normal]This representation takes the shape of an event tree diagram and probabilities are worked out against each outcome used in probabilistic risk assessment used by risk assessor and managers. The details of probabilistic risk assessment and its inadequacy t
+[normal]o deal with human error were discussed by James Reason and therefore, not discussed again (pp219)
+[normal] 
+[normal](Reason, 1990)
+[normal]. 
+[normal]&#xa0;
+[normal]Prospect theory advanced by Nobel Laureate Daniel Kahneman and his collab
+[normal]orator, Amos Tversky, highlights error
+[normal]s in
+[normal] the traditional utilitarian decision making and suggest the idea that emotions of hope and fear colour the 
+[normal]choices we make when we want 
+[normal]confront the problem of decis
+[normal]ion making under risk. 
+[normal]Thus, drawing lessons from the Prospect 
+[normal]Theory
+[normal] 
+[normal]and his own 2010
+[normal] publication 
+[normal]author arrives at the judgement that long standing debate on morality and economics of safety can be concluded in favour of morality. 
+[normal]Author’s 2010 publication argued that 
+[normal]Group-think bias
+[normal] is major factor in decision makin
+[normal]g when setting safet
+[normal]y standards was
+[normal] noted by 
+[normal] 
+[normal](Appicharla, 2010)
+[normal]. 
+[normal]&#xa0;
+[normal]The Figure 1 presents the data given by Danny Williams, a cyclist blogger to the BBC News
+[normal]. 
+[normal]Figure [bold]1[bold]: Data on cycle [bold]t[bold]rips a day and fatalities [bold]Year
+[normal]Average cycle trips a day
+[normal]Fatalities
+[normal]2002
+[normal]300,000
+[normal]20
+[normal]2003
+[normal]320,000
+[normal]19
+[normal]2004
+[normal]330,000
+[normal]8
+[normal]2005
+[normal]390,000
+[normal]21
+[normal]2006
+[normal]420,000
+[normal]19
+[normal]2007
+[normal]420,000
+[normal]15
+[normal]2008
+[normal]440,000
+[normal]15
+[normal]2009
+[normal]470,000
+[normal]13
+[normal]2010
+[normal]490,000
+[normal]10
+[normal]2011
+[normal]500,000
+[normal]16
+[normal]&#xa0;
+[normal]If we consider the accident metric of fatality 
+[normal]per millions of
+[normal] cycle trips then the data is presented in the form of 
+[normal]a s
+[normal]catter Graph using Microsoft excel for the ten observation periods.  The accident metric has never fallen below 2.04 deaths per million of cycle trips during the 
+[normal]past 
+[normal]ten observation 
+[normal]periods (See Figure2).   
+[normal]Moreover the inspection of the graph shows that there is no co-relation between the average cycle trips per day and the resulting fatalities. 
+[normal]&#xa0;
+[normal]The figure of 2.04 deaths per million of cycle trips can be regarded as a subjective me
+[normal]asure of mortality risk as per Paul Slovic‘s psychological criteria
+[normal] 
+[normal](Kahneman, 2011)
+[normal]. However, the figure compared against a scientific criterion of chances of death per million, it is clear that the human activit
+[normal]y of cycling i
+[normal]n London
+[normal] has become dangerous.
+[normal]&#xa0;
+[normal]Figure 
+[normal]2
+[normal] Scatter graph representation 
+[normal]&#xa0;
+[normal]The risk 
+[normal]assessment 
+[normal]criterion of one chance per million opportunities is
+[normal] derived from Ian Murphy’s 1997 publication
+[normal] 
+[normal](Murphy, 1997)
+[normal]. 
+[normal]Apart from one outlier 
+[normal](2008) 
+[normal]during the observational 
+[normal]period where the metric went down to 8 fatalities, the fatalities have been consistently in the double figure range. 
+[normal]Further
+[normal], statistics perspective of fatalities calculated are mean=15.6, median = 15.5, mode is 19 and standard deviation is 4.32. From these figures, using a Poisson probability distribution, the probability of first fatality is less than .04%. 
+[normal] Author is of the 
+[normal]opinion that cautious behaviour on part of the cyclists and road drivers shows up as a constraint upon the accident fatalities in accordance with Dr Ashby’s perspective
+[normal] 
+[normal](Ashby, 1957)
+[normal]. 
+[normal]&#xa0;
+[normal]Author has noted that risk of death from a cardio vascular heart 
+[normal]disease (
+[normal]CVD) 
+[normal]is greater than risk than death from a cycle accident
+[normal]. It is expected by World Health Organisation that 
+[normal]some 23
+[normal].3 million deaths are likely
+[normal] due to 
+[normal]CVD in 2030. 
+[normal] The most important behavioural risk factors of heart disease and stroke are unhealthy diet, physical inactivity, tobacco use and harmful use of alcohol. Behavioural risk factors are responsible for about 80% of coronary heart disease and cere
+[normal]brovascular disease
+[normal]. 
+[normal]&#xa0;
+[normal]However, the text 
+[normal]in this section shows that 
+[normal]research into behavioural attitudes of cyclists as suggested by Transport for London document is 
+[normal]not useful 
+[normal]activity
+[normal]. Let us consider the fact that 
+[normal]in 2009 there were 13 fatalities 
+[normal]and 33
+[normal]96 injuries (see Chapter 2 London Transport document).  
+[normal]From t
+[normal]hese figures 
+[normal]it can be inferred that
+[normal] there were 3409 collision events
+[normal] between a cyclist and other vehicle
+[normal] in the following manner
+[normal]. 
+[normal]&#xa0;
+[normal]Using 
+[normal]the Bayesian Rules of conditional probabilities, we 
+[normal]can
+[normal] work out the probabilities of human actors’ performance 
+[normal] 
+[normal](Pal &amp; Sarkar, 2005)
+[normal]. 
+[normal]Total 
+[normal]number of collision events 
+[normal]reported 
+[normal]in 2009= 3409. For risk computational purposes, it is assumed that there are 10,000 hours per annum. 
+[normal]Let 
+[normal]P (
+[normal]B) den
+[normal]ote the total probability of interactions between road vehicle and cyclists. 
+[normal]The base rate of injurious collisions 
+[normal]events 
+[normal]per year 
+[normal]suffered by cyclists
+[normal]= P (A) = 3409/10000= 0.3409
+[normal]The base r
+[normal]ate of non –fatal non- injurious interaction events 
+[normal]per year = P (A
+[normal]C
+[normal]) = 1-0.3409= 0.6591
+[normal]The probabi
+[normal]lity of a fatality given a colli
+[normal]sion situation = P (B/A) = 13/3409= .00381
+[normal]The probability of an 
+[normal]injury given a colli
+[normal]sion situation = P (B
+[normal]C
+[normal]/A) = 3396/3409=0.99619.
+[normal]&#xa0;
+[normal]The
+[normal] number 
+[normal]of 
+[normal]events in which 
+[normal]road vehicle 
+[normal]driver’s unreliability is indicated by the ratio 
+[normal]= 
+[normal]P (
+[normal]B
+[normal]C
+[normal]/A
+[normal]C
+[normal]) =
+[normal] 
+[normal]13*6561/3409= 25.
+[normal] 
+[normal]Thus, the probability of fatality involving a cyclist
+[normal]’s unreliable performance in
+[normal] creating a collusion situation = 13/13+25= .3411 or 34%. 
+[normal]The rest 66% contribution to danger 
+[normal]can be attributed to road users and other authorities. 
+[normal]This way of calculation can be
+[normal] 
+[normal]evaluated using the example of accident analysis given by the Bayesian inference 
+[normal]by Nobel laureate Daniel Kahneman
+[normal] 
+[normal](Kahneman, 2011)
+[normal]. 
+[normal]&#xa0;
+[normal]James 
+[normal]Reason (1990) argued that problem solvers tend to over simply causality (pp91)
+[normal] 
+[normal](Reason, 1990)
+[normal]. Causal explanations suffer from various kinds of biases. 
+[normal]Author has noted the fact Nobel Laureate Bertrand Russell’s 
+[normal]perceptual 
+[normal]acco
+[normal]unt o
+[normal]f everyday world
+[normal] of seeing, hearing, touching, smelling and tasting subs
+[normal]tances is an illusion. 
+[normal]Bertrand Russell may be echoing the ancient statement of Epicharamus that it is the mind that sees and hears; all besides is deaf and blind is stated by Art
+[normal]hur Schopenhauer
+[normal] 
+[normal](Schopenhaeur, 1813/2006)
+[normal].  
+[normal]According to Arthur Schopenhauer, to order to contemplate an explanation for a particular thing, one must assume that there is subject (oneself) that thinks about the object 
+[normal](to
+[normal] be e
+[normal]xplained)
+[normal]. However, in the cases of explaining a sequence of events that led to an accidental death, we must be carefully to avoid repeating errors committed by David Hume and Immanuel Kant in their causal explanations. David Hume asserts that all conseque
+[normal]nce is mere sequence of perceptions whereas Kant affirms that all sequence of perceptions must necessarily be consequence. The law of causality is not known to us empirically but is given a priory (pp 106
+[normal]/107
+[normal])
+[normal] 
+[normal](Schopenhaeur, 1813/20
+[normal]06)
+[normal]. 
+[normal]&#xa0;
+[normal]O
+[normal]verthrowing of causality 
+[normal]as suggested by Bertrand Russell 
+[normal]following the sceptical philosophy of David Hume is
+[normal] not a remedy 
+[normal]in the hope that science has absorbed all philosophy
+[normal] 
+[normal](Russell, 1945)
+[normal], 
+[normal](Rasmussen, et al., 1994)
+[normal].  This 
+[normal]idea 
+[normal]is 
+[normal]evidenced from the writings 
+[normal]of Nobel
+[normal] Laureate Albert Einstein, author of relativity theories
+[normal],
+[normal] who 
+[normal]urged us to consider
+[normal] the role of causal reasoning in scientific 
+[normal]explanations
+[normal]. An 
+[normal]illustration of causal reasoning 
+[normal]stated 
+[normal]by Albert Einstein 
+[normal]is given. B
+[normal]y means of comparison of steam arising from water boiling in a pan heated on a gas stove 
+[normal]with a steam not arising from the adjacent pan 
+[normal]not lit
+[normal], Albert Einstein argued that heat is the c
+[normal]ause for the effect of steam arising
+[normal] from the pan
+[normal](
+[normal]pp
+[normal]72)
+[normal] 
+[normal](Einstein, 1920)
+[normal]. 
+[normal]&#xa0;
+[normal]M
+[normal]ost of us do not take into account Lorentz transforma
+[normal]tions when computing distances i
+[normal]s suggested by
+[normal] Nobel Laureate Albert Einstein. Nor do we 
+[normal]take int
+[normal]o account statistical 
+[normal]and causal 
+[normal]base rates when computing risk i
+[normal]s suggested by
+[normal] Nobel Laureate Daniel Kahneman. From these observations
+[normal] made by Albert Einstein (1920) and
+[normal] 
+[normal]Daniel Kahneman (1974
+[normal]),
+[normal] 
+[normal]author concludes 
+[normal]from the foregoing 
+[normal]discussions 
+[normal]that there is 
+[normal]a strong demand to be aware of biases (or thumb rules) presents
+[normal] in 
+[normal]our 
+[normal]own intuitions
+[normal] and distort judgement(s) or decision(s)
+[normal].
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Th
+[normal]e text in this sec
+[normal]tion presents the hazard model in the form of 
+[normal]HAZOP, EBTA and MORT worksheets in tabular form to represent the hazard faced by a cyclist, its causes and consequences 
+[normal]as a desktop study
+[normal]. 
+[normal]Table [bold]1[bold]: [bold]Hypothetical [bold]Parti[bold]al HAZOP study (Operating and Support Hazop Study) [bold]Drawing Number
+[normal]Transport for London Bow Roundabout Consultation Map 
+[normal]https://www.tfl.gov.uk/assets/downloads/corporate/Bow_
+[normal]Roundabout.pdf
+[normal]System 
+[normal]Early Start Traffic Light System ( ESTLS)
+[normal]Analyst 
+[normal]Sanjeev Appicharla dated 06 Jan 2014 
+[normal]Operator Task 
+[normal]Proceed A11 side to West bound roundabout 
+[normal]Design intent
+[normal]Segregate cyclist and motorised traffic by delaying motorised traffic 
+[normal]No [bold]Item [bold]Function/purpose [bold]Parameter /purpose [bold]Guide word [bold]Conseque[bold]-[bold]nce [bold]Cause [bold]Recommen[bold]d[bold]ation [bold]Action[bold]1
+[normal]ESTLS
+[normal]Show proceed aspect to cyclist
+[normal] relative to proceed aspect to the motorised vehicles
+[normal]Display Green
+[normal]No 
+[normal]Cyclist may mis-interpret dark aspect as failure of lamp proceeds
+[normal] to colli
+[normal]sion area.
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]-Human error
+[normal] in operations 
+[normal]-Circuit has failed
+[normal]-Lamp may have failed 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]-Signs on the 
+[normal]Advanced S
+[normal]top Line --- 
+[normal]improve  circuit reliability 
+[normal]-Transport for London 
+[normal]&#xa0;
+[normal]2
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]ESTLS
+[normal]-ditto-
+[normal]-ditto-
+[normal]Less
+[normal]Cyclist may mis-interpret dim aspect as failure of lamp proceeds to collision area.
+[normal]&#xa0;
+[normal]-Human error in operation 
+[normal]- sunlight dimming the light intensity 
+[normal]-fog and rain condition(s)
+[normal]- Signs on the ASL
+[normal]&#xa0;
+[normal]-sun screens if needed
+[normal]- lamp design 
+[normal]-Transport for London 
+[normal]&#xa0;
+[normal]3
+[normal]ESTLS
+[normal]-ditto-
+[normal]-ditto-
+[normal]Reverse
+[normal]-
+[normal]Displays Green 
+[normal]when 
+[normal]Motorised traffic is signalled to 
+[normal]Move into 
+[normal]collision area
+[normal]&#xa0;
+[normal]-cyclist may move into collision area
+[normal]-human error in ESTLS logic 
+[normal]- 
+[normal]timing error in 
+[normal]ESTLS logic
+[normal]- human error in SCOOT logic
+[normal]-Design review 
+[normal]for Scoot Logic as well as ESTLS logic
+[normal]-Transport for London
+[normal]4
+[normal]ESTLS
+[normal]-ditto-
+[normal]-ditto-
+[normal]Early 
+[normal]Displa
+[normal]ys Green when 
+[normal]Motorised traffic is signalled to 
+[normal]Move into collision area or cyclist is struck behind vehicles 
+[normal]&#xa0;
+[normal]-cyclist may move into collision area
+[normal]-human error in ESTLS logic 
+[normal]- timing error in ESTLS logic
+[normal]&#xa0;
+[normal]- human error in requirements specification 
+[normal]&#xa0;
+[normal]- collision may occur beyond CS2 area as motorised traffic may have accelerated
+[normal]-Design review
+[normal]-Transport for London
+[normal]Note: 
+[normal]1. 
+[normal]Collision area is any area beyond as designated CS2.  
+[normal]2. This is a partial HAZOP study. 3. Use of such above tables without a s
+[normal]afety management expert supervision is not recommended. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]The Tab
+[normal]le 1 shows that human (
+[normal]latent failures) committed by various stakeholder
+[normal](s) organisations 
+[normal]dominate
+[normal] the rare and bad event of a cyclist accidental death. 
+[normal]The stakeholder organisations range from the legislative 
+[normal](
+[normal]central and local
+[normal]) assemblies, academic,
+[normal] research 
+[normal]and supply 
+[normal]organisations who advise the departments within the statutory transport organisations, and organisations investigating road accidents
+[normal] as 
+[normal]well
+[normal].  
+[normal]From the partial HAZOP study it can be inferred that accelerating motorised traffic relative to cyclist is an occupational hazard. 
+[normal]Because in a relative (from Albert 
+[normal]Einstein’s perspective)
+[normal] 
+[normal]universe, 
+[normal]inertial path is less than accelerated path
+[normal] or in
+[normal] geometric terms, the diagonal of a triangle is less than 
+[normal]sum of it sides is shown by Sir Roger Penrose
+[normal] 
+[normal](Penrose, 2004)
+[normal]. 
+[normal]&#xa0;
+[normal]Having established the fact that the Traffic Light System can induce errors and contribute a collision h
+[normal]azard, it is necessary to pay attention to the barriers that can prevent and protect the cyclist from this occupation hazard. 
+[normal]Pedestrians are also killed due to error in the specification of traffic light systems. 
+[normal]A road user may be presented with a green 
+[normal]aspect and motorised traffic with a flashing amber aspect thus giving rise to an opportunity for an accelerating motor traffic   to collide with a pedestrian. This aspect is usually ignored by safety researchers. For
+[normal] example
+[normal], a study of Transport for Lond
+[normal]on on Pedestrian Safety completely ignored 
+[normal]role of traffic lights and focused on behavioural aspects and measures to remedy the behaviour. 
+[normal]&#xa0;
+[normal]Table [bold]2[bold]: Energy Barrier [bold]Trace [bold]Analysis[bold] [bold]Model [bold](EBTA[bold]) [bold]Hazard ( Energy trigger) 
+[normal]Victim 
+[normal]Barrier
+[normal] 
+[normal]( preventive as well as protective ) 
+[normal]Collision hazard between a cyclist and a road vehicle 
+[normal]Loss of life of a cyclist 
+[normal]Control of traffic movements streams by traffic engineering without creating conflicts LTA
+[normal]Truck driver vision enhanced by
+[normal] Fresnel lens LTA
+[normal]Early start traffic light system LTA
+[normal]Generation of collision(hazard)  scenarios during the scheme planning stages LTA 
+[normal]Specification of Traffic light schemes LTA 
+[normal]Accident Investigation techniques LTA 
+[normal]Representations to generate and capture hazard scenarios LTA 
+[normal]Comprehension of systemic causal factors LTA 
+[normal]Use of radar to raise awareness of presence of heavy vehicles LTA 
+[normal]HGV Ban LTA 
+[normal]Sky cycle
+[normal] LTA
+[normal]&#xa0;
+[normal]The role of above barriers 
+[normal]is
+[normal] studied by the application of Management Oversight and Risk Tree. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Table [bold]3[bold]: Management Oversight and Risk Tree Table[bold]The 
+[normal]text in this section presents the MORT view of the accident. 
+[normal]MORT Branch Description 
+[normal]Problem Statement 
+[normal]E
+[normal]vidence 
+[normal]Specific Control Factors
+[normal]( Engineering Branch)
+[normal] LTA
+[normal]SA1: Description of Accident: [bold]At 08:45 AM GMT at Bow Roundabout on 13
+[normal]th
+[normal] November 2013, 
+[normal]Venera Minakhmetova
+[normal], 24 was struck by a lorry and killed instantly
+[normal]BBC 
+[normal]Web 
+[normal]News report dated 2013
+[normal]http://www.bbc.co.uk/news/uk-england-london-24925390
+[normal]&#xa0;
+[normal]SA2: Stabilisation and Recovery:
+[normal]There 
+[normal]was no scope to afford medical help
+[normal]Metro London News report 
+[normal]http://metro.co.uk/2013/11/13/four-london-cyclists-killed-in-eight-days-4185374/
+[normal]&#xa0;
+[normal]SD1 Technical Information System LTA
+[normal] 
+[normal]SD1.b1. Knowledge LTA
+[normal]SD1.d2. Application of knowledge from codes and 
+[normal]manuals LTA
+[normal]SD1.d3. Was existing but unwritten knowledge about work flow /process know to active person undertaking the work 
+[normal]SD1.d4. Was research directed to the solution of the work flow problem LTA
+[normal]&#xa0;
+[normal]Cyclist and the lorry drivers are active persons invol
+[normal]ved in the work flow situation considered here. 
+[normal]&#xa0;
+[normal]Expert knowledge of modern physics LTA by the traffic engineers. The planning of cycle early start schemes was done without considering all collision scenarios and the efficacy of safety measures. 
+[normal]&#xa0;
+[normal]Complia
+[normal]nce with rules developed for the early traffic light system and/or CS2 does not protect a cyclist from being hit by another vehicle when trying to avoid an obstruction on the CS2 or the road ahead. 
+[normal]1. Traffic engineering expert’s assumptions abou
+[normal]t the rea
+[normal]l traffic situation is learnt from this video and official statement. 
+[normal]&#xa0;
+[normal]http://www.youtube.com/watch?v=Y5AyytzMMyM&amp;list=PLtnlusA0ZogiFpNgb3E_6JqOAf3JxXwp3
+[normal]http://beta.tfl.gov.uk/travel-information/improvements-and-projects/bow-roundabout
+[normal]&#xa0;
+[normal]2. The 13
+[normal]th
+[normal] November 2013 at Bow Roundabout accident occurred away from CS2 and there is no evidence that cyclist did jump red signal nor cut across the truck. See news reports cited above. 
+[normal]&#xa0;
+[normal]3. The traffic engineer’s idea that compliance with rules of cycle early st
+[normal]art traffic light system 
+[normal]( two stop lines and early cycle start system) 
+[normal]and the CS2 are sufficient
+[normal] elements to form a system to afford
+[normal] safety to cyclists is inferred from the above video. 
+[normal]The above video assumes that the trajectory of the cyclists and moto
+[normal]rised vehicles are different because 
+[normal]early start given to the cyclists. In others words, it assumes that whole of motorised traffic movement at Bow Roundabout in their nature acts per classical Newton’s mechanics law that particles sufficiently removed in 
+[normal]distance continue to move uniformly in a straight line(pp71)
+[normal] 
+[normal](Einstein, 1920)
+[normal]. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]SD1 Technical Information System LTA[bold]d5. Previous investigation and analysis LTA 
+[normal]&#xa0;
+[normal]b4. Independent organisation and person review of the work/pr
+[normal]ocess to identify potential hazards LTA 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Both London Cycling Campaign and The Transport for London’s analysis of past accident assumes the following: 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Either the time settings or the tr
+[normal]affic modelling were erroneous. No lessons were learnt from past accidents at the same location. 
+[normal]&#xa0;
+[normal]The proposed cycle early-start facility on the westbound
+[normal] section of Bow roundabout was designed to provide further improvements for cyclists. The intention was to get cyclists ahead of the westbound traffic and to cross the roundabout ahead of vehicles turning left. Further lessons learnt have led to improving 
+[normal]the traffic light timings to allow more time for cyclists to get across the roundabout. Additionally, with the provision of dedicated cycle lanes and a cycle bus stop bypass on approach to the roundabout, cyclists will be able to avoid standing traffic, pr
+[normal]oviding improved journey times
+[normal]&#xa0;
+[normal]http://lcc.org.uk/uploads/4713
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]http://www.tfl.gov.uk/assets/downloads/businessandpartners/lcds_chapter2.pdf
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Mgmt. Branch events[bold]The is branch of MORT[bold] Accident Tree is  judged to be Less Than Adequate ( LTA) for the following reasons[bold]MORT Branch Description [bold]Problem Statement [bold]Evidence [bold]MA2. Implementation of Safety Policy LTA 
+[normal]The 
+[normal]safety investment to improve the cycling safety at the Bow Roundabout did not follow the recommendations in the Guidance Note HSE 238 to safe guard against control system failures 
+[normal]The UK HSE Document No. 238 
+[normal]illustrates how errors in control system 
+[normal]specification design and development can be averted
+[normal] 
+[normal](The UK Health and Safety Executive, 2003)
+[normal].   
+[normal]MA3. Risk Assessment and Control System LTA
+[normal]MB1 Hazard Analysis Process LTA
+[normal] No evidence of hazard identification and analysis. 
+[normal]&#xa0;
+[normal]MA3. Standards LTA
+[normal]No evidence of standard processes like Management Oversight and Risk Tree method to help identify engineering and organisational errors. 
+[normal]&#xa0;
+[normal]Accident data analysis LTA
+[normal]Accident fatalities data is not analysed properly. 
+[normal]&#xa0;
+[normal]Safety Program 
+[normal]Review LTA
+[normal]No assurance that safety interventions achieve their objectives. 
+[normal]&#xa0;
+[normal]Altering the electrical characteristics of devices through doping has launched electronics revolution as Nobel Laureate Jack S. Kilby acknowledged in 2000 lecture
+[normal]. However, huma
+[normal]n wisdom has not kept pace with the unintended effect
+[normal]s
+[normal] of electronic revolution. 
+[normal]http://www.tfl.gov.uk/assets/downloads/businessandpartners/lcds_chapter2.pdf
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Site accident
+[normal] investigation may reveal how
+[normal] [bold]Venera Minakhmetova
+[normal] was struck by the lorry. This paper assumes that she may have been avoiding an obstruction on the road ahead or the lorry driver may have mis-judged her movements.
+[normal] 
+[normal]&#xa0;
+[normal]The Economist Report dated 28 the April 
+[normal]2012 noted that British t
+[normal]raffic engineers 
+[normal]are
+[normal] aware that capacity effects are different after an intervention
+[normal].
+[normal] The concept of shared spaces on roads work for different reasons than what traffic engineers and transport policy makes envisaged: British road 
+[normal]vehicle drivers abandon the roads (like Exhibition Road in London and New Road in Brighton) where concept of shared space by pedestrians and motorised traffic is introduced and parallel roads are available. From a cultural perspective, concept of shared sp
+[normal]ace is welcomed by British motor vehicle drivers. 
+[normal]&#xa0;
+[normal]Loisue Butcher discussed the the legislative and other related issues in the House of Commons Library Standard Note SN 2254 dated 2 May 2012. The Submission by author draws attention to the concerns not i
+[normal]dentified in the May 2012 paper. 
+[normal]&#xa0;
+[normal]No formal hazard identification and analysis procedures
+[normal] and risk 
+[normal]assessments 
+[normal]were
+[normal] applied by Transport for London prior to making changes to traffic light schemes at Bow Roundabout.
+[normal]From the inspection of the 
+[normal]data, reasoning advanced by various stakeholders, and efforts to improve the safety
+[normal] of cyclist being currently undertaken
+[normal] by 
+[normal]various 
+[normal]research agencies, it is concluded by the author that specification of 
+[normal]Scoot 
+[normal]traffic control systems and road 
+[normal]infrastructur
+[normal]e (ASL, CS2)
+[normal] to afford safe passage to both cyclists and heavy vehicles needs a 
+[normal]fundamental 
+[normal]rethink on the part of traffic engineers and managers.  Their awareness of human factors and systems safety 
+[normal]engineering and
+[normal] occupational hazard causal factors is le
+[normal]ss than adequate. This is the group of people in various organisations 
+[normal]that is 
+[normal]required to be influenced to achieve a safe road junction
+[normal](
+[normal]s
+[normal])
+[normal] for the cyclists and road users
+[normal].
+[normal] 
+[normal]The key performance indicator for the safety performance
+[normal], in author’s judgement
+[normal],
+[normal] is
+[normal] that over
+[normal] the next 10 y
+[normal]ears is that the mean of cyclist 
+[normal]fatalities in over next 10 years has to be zero. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]A.G.Hessami, 2012. A Systems Approach to Assurance of Safety, Security and Sustainability in Railways. Croatia: InTech.
+[normal]Althaus, C. E., 2005. 
+[normal]A Disciplinary Perspective on the Epistemological Status of Risk. 
+[normal][Online] 
+[normal]Available at: 
+[normal]http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2005.00625.x/abstract
+[normal][Accessed 03 Jan 2014].
+[normal]Appicharla, S., 2006. 
+[normal]System for Investigat
+[normal]ion of Railway Interfaces. 
+[normal]London, Institution of Engineering and Technology, pp. pp.7-16.
+[normal]&#xa0;
+[normal]Appicharla, S., 2012. System for Investigation of Railway Interfaces. In: 
+[normal]Reliabiity and Safety in Railways . 
+[normal]Crotia: http://www.intechopen.com/, pp. 144-192.
+[normal]Appic
+[normal]harla, S., 2013. Technical Review of Common Safety Method using System for Investigating Railway Interfaces( SIRI) SYSTEM FOR INVESTIGATION OF RAILWAY INTERFACES (SIRI) METHODOLOGY, Cardiff: IET International System Safety Conference 2013.
+[normal]Ashby, W. &amp; Cona
+[normal]nt, C., 1970. Every Good Regulator of a System must be model of the System. 
+[normal]International Journal of System Science, 
+[normal]Volume Vol 1, No.2, pp. 89-97.
+[normal]&#xa0;
+[normal]Ashby, W. R., 1957. 
+[normal]Introduction to Cybernetics. 
+[normal]London: Chapman and Hall.
+[normal]BBC News, 2013. 
+[normal]The lorry driver
+[normal]'s eye view of London cyclists. 
+[normal][Online] 
+[normal]Available at: 
+[normal]http://www.bbc.co.uk/news/uk-england-london-25007830
+[normal][Accessed 03 Jan 2014].
+[normal]&#xa0;
+[normal]BBC News, 2013. 
+[normal]Whitechapel bus collision leaves cyclist dead. 
+[normal][Online] 
+[normal]Available at: 
+[normal]http://www.bbc.co.uk/news/uk-englan
+[normal]d-london-24936942
+[normal][Accessed 03 Jan 2014].
+[normal]&#xa0;
+[normal]Checkland, P., 2000. Soft Systems Methodology. 
+[normal]Systems Research and Behavorial Science, 
+[normal]pp. pp.11-58.
+[normal]&#xa0;
+[normal]Einstein, A., 1920. 
+[normal]Relativity. 
+[normal]London: Routledge.
+[normal]Hansson, S. O., 2011. 
+[normal]Risk, The Stanford Encyclopedia of Philosophy (Winter 2012 Edition). 
+[normal][Online] 
+[normal]Available at: 
+[normal]http://plato.stanford.edu/entries/risk/
+[normal][Accessed 03 Jan 2014].
+[normal]Kahneman, D., 2011. 
+[normal]Thinking Fast and Slow. 
+[normal]London: Penguin Group .
+[normal]Mayor of London, May 2013. 
+[normal]Furt
+[normal]her Safety Improvements at Bow Roundabout, 
+[normal]London: Transport for London.
+[normal]Murphy, I. S., 1997. 
+[normal]Risk Assessment of Railway Junctions Layouts. 
+[normal]Glasgow : Arklay Publishers.
+[normal]Pal, N. &amp; Sarkar, S., 2005. 
+[normal]Statistics, Concepts and Applications. 
+[normal]New Delhi: Prentics 
+[normal]Hall of India Private Limited.
+[normal]Rasmussen, J., Pejtersen, A. M. &amp; Goodstein, L. P., 1994. 
+[normal]Cognitive Systems Engineering. 
+[normal]New York: John Wiley&amp; Sons, Inc.
+[normal]Reason, J., 1990. 
+[normal]Human Error. 
+[normal]17th ed. New York: Cambridge University Press.
+[normal]Reason, J., 2008. Human C
+[normal]ontribution: Unsafe Acts, Accidents and Heroic Recoveries. Surrey: Ashgate Publishing .
+[normal]Russell, B., 1945. 
+[normal]The History of Western Philosophy, 
+[normal]New York: Simon Schuster.
+[normal]The UK Health and Safety Executive, 2003. 
+[normal]HSG 238 Out of Control. 
+[normal]Suffolk: The Health an
+[normal]d Safety Executive.
+[normal]&#xa0;
+[normal]This section describes in general the concept of system approach to safety. 
+[normal]This section introduced to draw a clear distinction between system approach to safety and system approach to 
+[normal]safety assurance
+[normal]. Both of these methods are described in freely available online publication
+[normal] 
+[normal](Appicharla, 2012)
+[normal],
+[normal] 
+[normal](A.G.Hessami, 2012)
+[normal]. 
+[normal] 
+[normal]&#xa0;
+[normal]The third information item
+[normal] on page 
+[normal]3
+[normal] may be surprising to 
+[normal]an 
+[normal]unfamiliar reader
+[normal]. 
+[normal] However, those who are conversant with the works of Dr Ashby work on Cybernetics know that information conveyed by a traffic light with a cycle
+[normal] symbol display contains a variety of messages
+[normal] 
+[normal](Ashby, 1957)
+[normal].  The meanings assigned to the elements of the set of messages Red, Amber, and Green such as Stop, Caution and Go may appear unambiguous to the reader but physically these messages introduce ambiguity. There are cyclic transitions between aspects from Red
+[normal] to Red-Yellow, Yellow to Green and Green-Yellow –Red to command stopped traffic to move and command a flowing traffic to a halt. Out of probable nine states (lit, unlit and failed state and ignoring the transitions pointed out earlier) only five are utili
+[normal]sed by the road user to infer. In other words, a fraction of 5/8= .625 fraction of the probable states 
+[normal]from user perspective 
+[normal]is useful. Thus, the quantity of information used by a user of the traffic light system is only 62.5% and the rest 37.5% are don’t 
+[normal]care situations. Apart from this, the specification of the twin traffic lights systems assumes a mathematical Cartesian Framework of Co-ordinate system in infrastructure planning and delivery:  the eastbound cyclist has an early start and therefore will no
+[normal]t be in conflict with the left turning vehicles. 
+[normal]It is hard to imagine the role of non-Euclidean frameworks of Geometry in daily modern work life.  
+[normal]&#xa0;
+[normal]Reactions to the Bow Roundabout accident by various stakeholders reported in the general press varied depe
+[normal]nding upon their roles: cyclist
+[normal], lorry driver, commissioner of transport or CEO of a charitable organisation
+[normal], and the Mayor of London. Cyclist Commissioner,
+[normal] 
+[normal]Andrew Gilligan, took a  
+[normal]pessimistic view that designing out hazards is not feasible
+[normal] 
+[normal](BBC News, 2013)
+[normal]. The Mayor of London, Boris Johnson, as a knee jerk reaction promised to invest one billion UK pounds of funds over next ten years to improve safety of the cyclists and appears to be sharing the same view advanced by
+[normal] 
+[normal]An
+[normal]drew Gilligan by admitting the idea that no traffic engineer in the world can imagine every eventuality that can occur on the road
+[normal]. 
+[normal]&#xa0;
+[normal]Author does not consider the proposition of how person A can harm person B unintentionally at a road junction cannot be i
+[normal]magined by a group of traffic engineers, given the past history of such occurrences. However, author considers it is realistic to consider the idea that traffic engineers may be impaired in their ability to plan for safety improvements without giving rise 
+[normal]to unintended effects.  Because they may be under cognitive stress to balance safety risk concerns against a legal and cost decision criterion and thus
+[normal],
+[normal] may be biased in their approach to hazards management. 
+[normal]Author notes that Nobel Laureate Daniel Kahnema
+[normal]n argued successfully that there is no such thing as cost efficient risk management criteria when moral intuitions are taken into account
+[normal] 
+[normal](Kahneman, 2011)
+[normal]. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Safety and the avoidance of risk 
+[normal]are major concerns in any 
+[normal]engineering
+[normal] activity
+[normal].
+[normal] For more details on various interpretations of the word, risk, readers may wish to consult the paper hosted on the Stanford University Website
+[normal] 
+[normal](Hansson, 2011)
+[normal]. There is an extensive discussion on 
+[normal]the epist
+[normal]emological understanding and deﬁnition of risk
+[normal] in a paper published by 
+[normal]Catherine E. Althaus
+[normal] in 2005
+[normal] 
+[normal](Althaus, 2005)
+[normal].
+[normal] 
+[normal]Catherine E. Althaus
+[normal] argued in her 2005 paper that 
+[normal]story of history about
+[normal] risk may be dating back 3102 BCE
+[normal] and
+[normal] other ancient civilisations
+[normal]. 
+[normal]From a hindsight perspective, author infers that the 
+[normal]chanting of peace mantras by the sages of the Upanishads indicates awareness of concept of harm 
+[normal]and peace on their part 
+[normal]dating back to 3000 BCE as per some historians
+[normal] of ancient India
+[normal] 
+[normal](Valerie, 2003)
+[normal]. 
+[normal]Thus, author does not feel that there are 
+[normal]any 
+[normal]novel ideas about risk assessment and
+[normal] 
+[normal]management
+[normal] 
+[normal]of sources of harm (hazards) 
+[normal]in this submission. 
+[normal]  
+[normal]From a human error (Swiss Cheese Model) pers
+[normal]pective, active errors are errors whose effects are felt immediately and latent errors are whose effects lay dormant for a time period
+[normal]. Human error experts acknowledge the idea that Management Oversight ad Risk Tree is a technique that can be used for org
+[normal]anisational analysis and safety studies in the published literature and on Wikipedia database
+[normal] 
+[normal](Rasmussen, et al., 1994)
+[normal].  
+[normal]Based upon the reading of the foregoing philosophical and psychological papers  author is of the
+[normal] professional opinion that every accident can be prevented: blaming the active human errors on the part of the cyclist and/or truck driver involved in the accident, and/or defending the latent human error on the part of traffic engineer and managers, and/o
+[normal]r entertaining the naïve hope of raising awareness on the part of the cyclist or the heavy vehicle (lorry or bus driver) through technology, and/or accepting the theological position that such events are all acts of God 
+[normal] 
+[normal]is no solution to the problem faced
+[normal] by the cyclist. Because cyclist accidental death arises from known physical, situational and cognitive factors and these factors may be managed through application of right resources: prioritising safety is absolutely necessary when using information cont
+[normal]rol systems via modern technology that can unintentionally release harmful energy. An instance where these facts go recognised familiar to the author is drawn from the railway transport domain. Besides author, German academic aviation researchers and DB ra
+[normal]ilways are not convinced of the ability of the new European automatic train control system, ETCS, in averting hypothetical collisions between trains
+[normal] 
+[normal](Appicharla, 2013)
+[normal]. An IEEE paper published by Armin Zimmermann and G
+[normal]unter Ho
+[normal]mmel
+[normal] of Technical Berlin University in 2003 observed that probability of trains braking under GSM-R radio based automatic train control system operating in moving block system is 94% for the time deadline of 6 seconds, braking distance of 4500 metres, leng
+[normal]th of 410 metres. The probability worsens with increase of time deadline and braking distance
+[normal]. Thus, positive safety performance of ETCS can be regarded as doubtful. Further, this conviction finds support in the case of metro train control system failures
+[normal] as well. The cancellation of Bombardier’s Signalling Contract by Transport for London is 
+[normal]a 
+[normal]evidence
+[normal] in support of the assertion made
+[normal]. 
+[normal]Despite the contrary and relevant evidence from three sources, the European Railway Agency and GB Railway Industry orga
+[normal]nisations consider promoting the European Train Control System (ETCS) as a 
+[normal]satisficing
+[normal] strategy. 
+[normal]Developing a common safety regulating strategy to promote ETCS as a standard automatic train control system is the main focus of managerial attention at this
+[normal] point of time. Author agrees to the idea that German aviation
+[normal] and DB railway 
+[normal]researchers were right in drawing their readers’ attention to the inherent weakness in the ETCS technology. But German aviation researchers have not considered the contribution o
+[normal]f latent human errors in the specification of the TCAS device in 2002 accident prior to thinking about the solution to the problem of rail and/or road accident situations
+[normal].  Apart from the sources cited, author 
+[normal]has 
+[normal]learnt that practitioners in the safety critical railway domain suffer from lack of awareness of Systems Thinking Approach to Safety as well. This inference is drawn from reading Ali Hessami’s work on safety assurance approach 
+[normal](A.G.
+[normal]Hessami, 2012)
+[normal]. Ali Hessami is the main author of the Yellow Book and CENELEC railway specific safety standards used by Network Rail, ORR, RSSB, ATOC and Transport for London Railway Organisations for safety assurance.  Ali Hessami follows the traditi
+[normal]onal methods of safety assurance assuming the equation user error equals human error. In his previous role of Head of System Safety, Ali Hessami promoted the Yellow Book for Engineering Safety Management methods. 
+[normal]The utility of application of Yellow Book t
+[normal]ype or fault and event tree modelling process for supporting safety critical decisions is learnt from the example as these procedures cannot be used for modelling fallible decisions that shape the performance of operators or users of electrical/programmabl
+[normal]e/ software electronic control systems. 
+[normal]James Reason (1990) observed that failure types that originate at the management layers and take the shape of fallible decisions and finding ways to neutralising these the major challenge facing human factor researc
+[normal]hers with preserving the safety of complex, high risk systems. This Submission has shown how the fallible decisions
+[normal] when implemented that pose danger to 
+[normal]a cyclist
+[normal] 
+[normal]from a particular example of Bow Roundabout Accident 
+[normal]can be revealed 
+[normal]without conducting 
+[normal]deep 
+[normal]mathematical and 
+[normal]psychological research. 
+[normal]Author has noted that risk can be approached in several ways and has made efforts to include all the perspectives into the accident modelling and analysis. 
+[normal]&#xa0;
+[normal]January 2014
+[normal]18
+[normal]&#xa0;
+[normal] More details can be accessed from the URL
+[normal]:
+[normal] 
+[normal]http://beta.tfl.gov.uk/travel-information/improvements-and-projects/
+[normal]bow-roundabout
+[normal] More details can be accessed from the URL:
+[normal] 
+[normal]http://en.wikipedia.org/wiki/Concept_of_operations
+[normal] More details can be accessed from the URL: 
+[normal]http://www.bbc.co.uk/news/uk-england-london-24925390
+[normal] More details can be accessed from the URL
+[normal]:
+[normal] 
+[normal]http://www.hse.gov.uk/research/rrpdf/rr941.pdf
+[normal] More details can be accessed from the URL: 
+[normal]http://en.wikipedia.org/wiki/Risk
+[normal] More details can be accessed from the URL: 
+[normal]http://www.bbc.co
+[normal].uk/news/uk-england-london-24989985
+[normal]. 
+[normal] 
+[normal]More details can be accessed from the URL: 
+[normal]http://www.who.int/mediacentre/factsheets/fs317/en/
+[normal] 
+[normal]More details can be accessed from the URL: 
+[normal] 
+[normal]http
+[normal]://www.tfl.gov.uk/assets/downloads/corporate/cycling/cycle-safety-action-plan.pdf
+[normal] 
+[normal]More details can be accessed from the URL
+[normal] 
+[normal]http://www.tfl.gov.uk/assets/downloads/Factors-Influencing-pedestrian-safety-literature-review.pdf
+[normal] 
+[normal]More details can be accessed from the URL: 
+[normal]http://www.bbc.co.uk/news/magazine-24998730
+[normal] 
+[normal]More details can be accessed from the URL: 
+[normal]http://www.bbc.co.uk/news/uk-england-london-25549789
+[normal] More details can be seen at this url: 
+[normal]http://www.nobelprize.org/nobel_prizes/physics/laureates/2000/kilby-lecture.pdf
+[normal] More details can be accessed from the URL: 
+[normal]http://www.economist.com/node/2155
+[normal]3497
+[normal] More details can be accessed from the URL
+[normal]:
+[normal]http://www.bbc.co.uk/news/uk-24930598
+[normal] More details can be accessed from the URL: 
+[normal]http://www.theguardian.com/environment/2013/nov/14/london-cycling-death-toll-is-utterly-intolerable
+[normal] More details can be accessed from the URL:  
+[normal]http://www.theguardian.com/commentisfree/2013/nov/20/london-cyclist-deaths-panic-change-wont-work
+[normal] More details can be accessed from the URL
+[normal]:
+[normal]http://www
+[normal].bbc.co.uk/news/uk-24930598
+[normal] More details can be accessed from the URL: 
+[normal]http://en.wikipedia.org/wiki/History_of_India
+[normal] More details can be accessed from the URL: 
+[normal]http://en.wikipedia.org/wiki/History_of_India
+[normal] More details can be accessed from the URL: 
+[normal]http://en.wikipedia.org/wiki/Swiss_cheese_
+[normal]model
+[normal] More details can be accessed from the URL
+[normal] 
+[normal]http://en.wikipedia.org/wiki/Human_error
+[normal] More details can be accessed from the URL: 
+[normal]http://elib.dlr.de/48880/1/Rico07Comparison.pdf
+[normal] More details can be accessed from the URL: 
+[normal]http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1213234
+[normal] More de
+[normal]tails can be accessed from the URL:
+[normal] 
+[normal]http://www.railjournal.com/index.php/financial/london-underground-and-bombar
+[normal]dier-abandon-tube-signalling-contract.html?channel=532
+[normal] Satisficing is a term introduced by Nobel Laureate Herbert A.Simon to denote tendencies displayed by organisations to pick up the first alternative to meet the decision criteria. More details can 
+[normal]be accessed from the URL:
+[normal] 
+[normal]http://en.wikipedia.org/wiki/Satisficing
+[normal] More details can be accessed from the URL: 
+[normal]http://en.w
+[normal]ikipedia.org/wiki/%C3%9Cberlingen_mid-air_collision
+[normal]

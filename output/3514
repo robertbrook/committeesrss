@@ -1,0 +1,1250 @@
+Supplementary written evidence from 
+[normal]Sanjeev
+[normal] 
+[normal]Appiccharla
+[normal] (SLC 04
+[normal]1
+[normal])
+[normal]&#xa0;
+[normal]The Additional Written Evidence is a submission by the author in his personal capacity. The Additional 
+[normal]Evidence presents examination of the 
+[normal]Worst Case Accident Scenario of bus full of school children being struck by a
+[normal] high speed train at an Automatic Half Barrier Crossing
+[normal].  
+[normal]The Case study shows that the societal risk resulting from a hazardous event of a train crash into bus carrying passenger
+[normal](s) or workers at Automatic Half Barrier or Full Barrier Crossings or Unmanned Private Crossings are real and fall into intolerable zone. 
+[normal]This submission is to be read together with the earlier 
+[normal]Additional Written Evidence and 
+[normal]Written Evidence SLC 015. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Author is British Naturalised citizen since 2006. 
+[normal]Author‘s experience in system safety engineering research and experience is evidenced by the publications of peer reviewed publications at the Institute of Engineers and Technology ( IE
+[normal]T) International System Safety Conf
+[normal]erences in 2006, 2010, 2011, 2012 and 2013. 
+[normal]&#xa0;
+[normal]Author was employed at RSSB from 2004 till 2010 as a System Engineer and deployed the System for Railway Investigations Methodology at RSSB
+[normal] for identifying hazards and analysing risks of few signalling systems
+[normal]. This methodology showed that RSSB Safety Risk Assessment 
+[normal]and Decision Making Process 
+[normal]suffer from 
+[normal]what is known as Group-think bias
+[normal]. 
+[normal]This finding was shared with the community of 
+[normal]railwa
+[normal]y 
+[normal]engineers at the IET System Safety Conference October 2010. 
+[normal]&#xa0;
+[normal]Author was awarded a Letter of Gratitude by the IET in 2009 for his contribution to the UK HSE Consultation Document,’’ Be Part of Solution, the UK HSE’s Strategy for the 21st
+[normal] Century’’. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]This paper presents
+[normal] the results of analysis of 
+[normal]specific type 
+[normal]of 
+[normal]l
+[normal]evel crossing acc
+[normal]ident 
+[normal]using 
+[normal]the System for Railway Investigations Methodology (SIRI)
+[normal]. An unpublished paper by author explored the risks of a bus-train 
+[normal]collision and established the fact operating in knowledge based behaviour using the widely accepted Skill-Rules-Knowledge Framework will lead to a 
+[normal]fata
+[normal] bus and train collision due to the lack of effective measures to prevent such an occurrence
+[normal] (Appicharla,
+[normal] 2009)
+[normal]. 
+[normal]In this 
+[normal]latest 
+[normal]application, the
+[normal] SIRI Methodology explores two
+[normal] kinds of in
+[normal]terfaces. First, 
+[normal]interfaces between the hazard (release event of uncontrolled energy), the victims and the system of barriers and controls to prevent the uncontrolled energy
+[normal] f
+[normal]rom harming the victims. Second, interfaces between information item available from historical accident data and using Bayesian approach to risk assessment for updating the information item to verify biases inherent in subject matter experts risk analysis
+[normal].
+[normal] Examination of these interfaces 
+[normal]by the analyst 
+[normal]presents a complete picture of human latent and active errors. 
+[normal]&#xa0;
+[normal]The aim of the study is to produce a
+[normal] comprehensive 
+[normal]discussion of factors that can contribute to a 
+[normal]potential sever
+[normal]e
+[normal] accident as 
+[normal]using the public
+[normal]ly available data. The study results are submitted to the Transport Select Committee to inform their decision making
+[normal] process 
+[normal]on the theme of Safety at Level Crossings. 
+[normal]&#xa0;
+[normal]The study assumes that the actions 
+[normal]of 
+[normal]staff and management of the UK Emergency service
+[normal]s of 
+[normal]Train Operating Company, British Transport Police, and NHS staff in rendering assistance to the affected members of public 
+[normal]in the aftermath of accident 
+[normal]are good and are not studied in this paper
+[normal] (Regulator, 2008)
+[normal]. 
+[normal]Further, author has noted that the en
+[normal]vironments in which these professionals practice their skills are not regular, and not conducive to experimental observations. 
+[normal]Author has noted that BBC News has reported about certain NHS trust
+[normal](s)
+[normal] 
+[normal]are 
+[normal]failing to achieve 
+[normal]the 
+[normal]duty of care expected of them. 
+[normal]However, 
+[normal]these human errors 
+[normal]that occur 
+[normal]in the area of medicine are not studied in this paper
+[normal] (News, 2013)
+[normal] 
+[normal]&#xa0;
+[normal]Illusion of understanding is a term borrowed from Nobel Laureate, Daniel 
+[normal]Kahneman
+[normal] (Kahneman, 2011)
+[normal]. The illusion of understanding is graphically illustrated in the enigmatic picture shown on the next page. 
+[normal]Our perceptions are not stable can be learnt from the double perception resulting from viewing the picture of a woman in the Figure
+[normal] 1. This can be treated as a case in epistemic blindness. 
+[normal]The case of double perception is an active subjective of research for psychologists. 
+[normal]&#xa0;
+[normal]An
+[normal]other
+[normal] example of epistemic blindness is the legal case of Essex Level crossing Accident. Judge Turner accuse
+[normal]d Network Rail of "corporate blindness". He said: "The Company unreservedly apologises for its failures which contributed to the deaths of these young girls." Network Rail, in part by itself and in part through its predecessor 
+[normal]Railtrack
+[normal], failed to ensure t
+[normal]hat the risks were properly assessed, controlled or managed." 
+[normal] 
+[normal]The company concedes that the procedures or standards in place for conducting level crossing risk assessments before 2005 were deficient." (BBC News 2012)
+[normal] (Appicharla, 2012)
+[normal].
+[normal]&#xa0;
+[normal]Figure 
+[normal]1
+[normal] 
+[normal]The picture shows an old crone or a 19
+[normal]th
+[normal] century young girl, depending upon the perspective of person looking at the picture.
+[normal]&#xa0;
+[normal]There is a lack of awareness on the part of professionals working in the railway world-wide that accident and 
+[normal]risk analysis form two parts of the same coin: successful 
+[normal]S
+[normal]ystem 
+[normal]Safety M
+[normal]anagement. This lack of awareness is reflected in the way the formal requirements for accident and incident investigation are specified
+[normal] (RSSB, 2008)
+[normal]. 
+[normal]&#xa0;
+[normal]The information structure 
+[normal]in th
+[normal]e RSSB mandated Railway Group Standard 
+[normal]imposed on the Infrastructure managers and railway undertakings to investigate accidents or incidents to establish
+[normal] the causes leading to the adverse or unwanted outcome are as under
+[normal]: 
+[normal]a) The events leading up to the a
+[normal]ccident or incident 
+[normal]b) The immediate cause(s) 
+[normal]c) The underlying cause(s)
+[normal]&#xa0;
+[normal]If the above information structure is applied to the Herefordshire Level Crossing Accident
+[normal] 2011
+[normal], 
+[normal]then 
+[normal]from the inspec
+[normal]ti
+[normal]on of the 
+[normal]map
+[normal](
+[normal]Fi
+[normal]g
+[normal]ure 
+[normal]2
+[normal]) 
+[normal] drawn based upon the qualitative data provided by
+[normal] the RAIB Investigation Process reveals several 
+[normal]errors that cannot be categorised
+[normal] into
+[normal] the
+[normal] aforementioned three categories. 
+[normal]&#xa0;
+[normal]The location o
+[normal]f stop signal ML 42 is an action taking by project personnel in 2003 when fitting the Train Protection Warning Signal at the Stop Signal 42. This latent event does not appear in the RAIB Report. Further, all organisations like RAIB/ORR/RSSB/Network Rail/AT
+[normal]OC/TOC/IRSE/BTP maintain studied silence over this aspect. Is TPWS required to be fitted to all stop signals at the level crossings? If yes, then why was it fitted to a signal that was not provided with adequate stop-distance? If TPWS is required to be fit
+[normal]ted at all stop signals then why it is not fitted at stop signals to prevent trains crashing into vehicles with barriers raised? 
+[normal]&#xa0;
+[normal]Author does not have access to data which RAIB/RSSB/N
+[normal]etwork Rail/ TOC possess 
+[normal]and therefore is not in a position to answer th
+[normal]ese questions. However, this igno
+[normal]rance does not prevent author 
+[normal]examin
+[normal]ing
+[normal] the potential case for train-bus collision
+[normal] scenario
+[normal]. 
+[normal]&#xa0;
+[normal]Figure 
+[normal]2
+[normal]: Herefordshire Level Crossing Accident Event Causal Factor Analysis Diagram 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]The
+[normal] SIRI
+[normal] analysis started with the recording of facts connected with the potential accident(s) 
+[normal]of bus –train collision 
+[normal]which is treated as the top event or loss event in the Management Oversight and Risk Tree 
+[normal]Diagram
+[normal] 
+[normal](MORT
+[normal]). MORT 
+[normal]forms an essential p
+[normal]art of 
+[normal]the hazard causal analysis stage of 
+[normal]the SIRI Methodology.
+[normal] A 
+[normal]set of 
+[normal]MORT 
+[normal]questions relates to 
+[normal]examination of 
+[normal]data analysis in relation to the 
+[normal]identified
+[normal] hazardous event
+[normal] and its analysis and strategy to deal with it
+[normal]. 
+[normal]&#xa0;
+[normal]Accident
+[normal](
+[normal]s
+[normal])
+[normal] 
+[normal]involving loss of li
+[normal]ves 
+[normal]reveal the efficacy and adequacy of active (preventative) or protective (passive) barriers. 
+[normal]Near miss events are warning signs of impending disasters. 
+[normal]Humanity has had to deal with false alarms as well as real alarms disguised as noisy signals in relat
+[normal]ion to the impending danger. Decision theorists have spent their efforts to explain illusion of validity of our skills and knowledge learnt in one environment to their application in other environment. The concept of illusion of validity is discussed by No
+[normal]bel Laureate, Daniel 
+[normal]Kahneman
+[normal] (Kahneman, 2011)
+[normal]&#xa0;
+[normal]It is a world- wide phenomenon that in the case of level crossings, system of signalling rules and operational rules for front-line staff and their users constitute active safety (barriers) system in the eyes
+[normal] of the executives
+[normal],
+[normal] staff of the railway firms
+[normal] and the police and judiciary as well
+[normal].
+[normal] The activity of organising, participating, sharing information on their experiences gives these people immense pleasure. Since the beginning of the 21
+[normal]st
+[normal] century, they have
+[normal] organised 12 such events. The latest one being that was organised at London in 2012. 
+[normal]Here is the 
+[normal]url
+[normal] to the event. 
+[normal]http://www.levelcrossing2012
+[normal].org/papers/Pages/Paper
+[normal]s-and-Presentations.aspx
+[normal]. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Author is unaware of how statistics of accidental events have yielded the British Transport Constabulary the knowledge of underlying causes. 
+[normal]&#xa0;
+[normal]T
+[normal]he C
+[normal]hief 
+[normal]Constable 
+[normal]presented eight causes
+[normal] at the conference as under:
+[normal]&#xa0;
+[normal]a)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Road 
+[normal]vehicle driver error: 53%
+[normal]b)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Road accidents and stranded vehicles: 7%
+[normal]c)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Environment: 11% 
+[normal]d)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Vandalism: 4%
+[normal]e)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Equipment: 1%
+[normal]f)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Road vehicle deliberate actions( including suicide):17%
+[normal]g)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Signaller, crossing keeper, and track worker error: 7%
+[normal]h)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]SPAD, over speeding and train dr
+[normal]iver error: &lt; 1% 
+[normal]   
+[normal]&#xa0;
+[normal]Psychologists (belonging to industrial and social ergonomics domain), and economists (belonging to industrial and capital economics
+[normal] domain
+[normal]) who attend and study papers from such conferences share a common illusion of understanding of 
+[normal]trying to balance safety with productivity. 
+[normal]&#xa0;
+[normal]This illusion of understanding reveals itself 
+[normal]again 
+[normal]when we try to count and aggregate different objects in a basket when looking at them. For example, it is easy to count two apples and three apples together a
+[normal]nd sum them up as five apples. But this delight in mathematics soon flounders into pain as soon as we spot two apples and three oranges together and repeat the same exercise again to arrive five ?? things in the ?? basket?? . 
+[normal]&#xa0;
+[normal]Author learns f
+[normal]rom the 
+[normal]infor
+[normal]mation displayed on the UK
+[normal] HSE 
+[normal]Website informing its readers 
+[normal]Best Practice
+[normal] for Risk Management
+[normal], risk assessment should cover both societal and individual risk. The GB Rail Industry excludes societal risk from its risk assessments was noted in the RSSB docu
+[normal]ment published by author in a peer reviewed publication in 2010
+[normal] (Appicharla, 2010)
+[normal]. This is a latent human error in the GB Rail Industry Risk Management Processes. 
+[normal]Two accident cases of bus being trapped on the level crossings have come to author’s attenti
+[normal]on. The case of 
+[normal]Egham
+[normal] level crossing in 2000 where the bus driver managed to avert the accident by emptying the bus before it was struck. In 2003, a mini-bus carrying three workers was stuck. In 2012
+[normal], 
+[normal]a video posted on the You tube shows how a double 
+[normal]decker
+[normal] bus got trapped. In another incident, the double 
+[normal]decker
+[normal] bus crashed into the barrier
+[normal]. 
+[normal]The BBC News informs that another bus driver was involved in a similar incident in Devon in November 2012
+[normal]. 
+[normal]&#xa0;
+[normal]The historical data till date since 2000s pertaining
+[normal] to the train –bus collisions world-wide is captured in the Table 1. 
+[normal]&#xa0;
+[normal]Date 
+[normal]Country where the fatal event occurred
+[normal]Number of fatalities
+[normal]Status of Barriers 
+[normal] 17
+[normal]th 
+[normal]October 2000  
+[normal]Egham
+[normal] Level Crossing,  United Kingdom
+[normal]0 
+[normal]http://news.bbc.co.uk/1/hi/uk/976558.stm
+[normal]http://www.theguardian.com/world/2000/oct/17/transport.uk
+[normal]31
+[normal]st
+[normal] May 2001
+[normal]India 
+[normal]38
+[normal]&#xa0;
+[normal]23
+[normal]rd
+[normal] August 2001
+[normal]United Kingdom 
+[normal]0 
+[normal]3 
+[normal]injuries, no data 
+[normal]http://news.bbc.co.uk/1/hi/scotland/1505734.stm
+[normal]June 2002 
+[normal]India 
+[normal]32
+[normal]Gates were closed
+[normal]20 Feb 2002 
+[normal]Egypt 
+[normal]9
+[normal]&#xa0;
+[normal]9
+[normal]th
+[normal] July 2003
+[normal]United Kingdom 
+[normal]3 
+[normal]Un-manned private crossing  
+[normal]20 September 2003
+[normal]Pakistan 
+[normal]27
+[normal]&#xa0;
+[normal]16 April 2004
+[normal]Turkey 
+[normal]7
+[normal]&#xa0;
+[normal]27 April 2005 
+[normal]Sri-Lanka
+[normal]35
+[normal]Closed Level Crossings ( Meaning not known) 
+[normal]21 Aug 2006
+[normal]Mexico 
+[normal]21
+[normal]&#xa0;
+[normal]28 December 2006
+[normal]Turkey 
+[normal]49
+[normal]&#xa0;
+[normal]2
+[normal]nd
+[normal] June 2008
+[normal]France 
+[normal]5
+[normal]&#xa0;
+[normal]16
+[normal]th
+[normal] July 2008
+[normal]Egypt 
+[normal]40
+[normal]No data 
+[normal]3
+[normal]rd
+[normal] September 2008
+[normal]Argentina 
+[normal]17
+[normal]&#xa0;
+[normal] 14 Aug 2009
+[normal]Romania 
+[normal]11
+[normal]&#xa0;
+[normal]25
+[normal]th
+[normal] Aug 2010 
+[normal]South Africa 
+[normal]8
+[normal]&#xa0;
+[normal]12
+[normal]th
+[normal] October 2010 
+[normal]Ukraine
+[normal]42 
+[normal]&#xa0;
+[normal]7
+[normal]th
+[normal] July 2011
+[normal]India 
+[normal]3
+[normal]8
+[normal]&#xa0;
+[normal]30
+[normal]th
+[normal] July 2012
+[normal]Poland 
+[normal]8
+[normal]No barriers
+[normal]March 2012 
+[normal]Argentina
+[normal]0
+[normal]Bus stranded
+[normal]12
+[normal]th
+[normal] October 2012 
+[normal]Egypt 
+[normal]50
+[normal]Barriers did not lower
+[normal]19
+[normal]th
+[normal] September 2013 
+[normal]Canada 
+[normal]6
+[normal]Lowering 
+[normal]11
+[normal]th 
+[normal]October 2013
+[normal]USA ( logging truck)
+[normal]1
+[normal]&#xa0;
+[normal]24 October 2013
+[normal]Australia 
+[normal]0
+[normal]AHB crossing, barrier lowered
+[normal]http://lxinfo.org/2013/10/25/perth-western-australia-train-collides-with-bus-on-level-crossing/
+[normal]30 October 2013
+[normal]Kenya 
+[normal]11
+[normal]No information
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Table 1: Data collected from UK BBC and Reuters News Websites on 08 November 2013 18.46 hrs.  
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]Based upon the data, the mean time between fatal events (Mean Time between Fatal Events, MTBFE) is calculated as the number of fatal events
+[normal] pe
+[normal]r 
+[normal]reported
+[normal] 
+[normal]period as a ratio of the total number of opera
+[normal]ting hours in the reported 
+[normal]period. 
+[normal]&#xa0;
+[normal]MTBFE = Total number of fatal events in the Reporting Period / Total number of hours in the Reporting Period…………………………………………………..[1] 
+[normal]&#xa0;
+[normal]MTBFE = 1
+[normal]9
+[normal] counts of fatal 
+[normal]e
+[normal]vent / (13years
+[normal]*10,000
+[normal] hrs per year
+[normal])
+[normal] (
+[normal]approx. 
+[normal]operating h
+[normal]ours
+[normal] per year) = .000
+[normal]192 
+[normal]hrs 
+[normal]per annum. 
+[normal] U
+[normal]sing a scientific notation, 
+[normal]the probability works out to 
+[normal]1
+[normal]. 92 chances
+[normal] per 10,
+[normal] 000 opportunities
+[normal]. 
+[normal]Or a chance of bus-tra
+[normal]in collision manifests in 
+[normal]every 5,200 
+[normal]years. 
+[normal]If the process of bus –train interaction be considered as a managed one then the failure rate signifies that the process is a very defective one. 
+[normal]The que
+[normal]stion of whether the 
+[normal]risk 
+[normal]figure 
+[normal]is acceptable is e
+[normal]xamined in the following text
+[normal]. 
+[normal]&#xa0;
+[normal]Definition: 
+[normal]Average, which is the arithmetic mean, and is calculated by adding a group of numbers and then dividing by the count of those numbers
+[normal]. The average number of fatalities 
+[normal]per accident works out to 17
+[normal].7
+[normal]8
+[normal]. 
+[normal]&#xa0;
+[normal]A
+[normal]s
+[normal] we are not aware of actual mechanisms 
+[normal]underlying
+[normal] such fatal events
+[normal], the risk posed by assets like level crossing 
+[normal]leading to fatal bus-train crash based upon the data 
+[normal]can be worked out as under 
+[normal]as per the UK HSE definition of risk. 
+[normal]  
+[normal]&#xa0;
+[normal]Definition: Risk is the mathematical product of frequency o
+[normal]f and severity resulting from the fatal event. 
+[normal]&#xa0;
+[normal]Thus, 
+[normal]risk of fatal train –bus collision from the above 
+[normal]world –wide 
+[normal]dat
+[normal]a per
+[normal] annum 
+[normal]for the last decade 
+[normal]works out to 17.78
+[normal]*.
+[normal]000192=.00342
+[normal].
+[normal] 
+[normal]From RSSB perspective, 
+[normal]a worst case a
+[normal]ccident with 25 fatalities per a
+[normal]nnum or more works out to 
+[normal](25*.0013) = .00325
+[normal]. 
+[normal]This data has been sourced from the data presented by RSSB to the UK Law Commission and can be found in the 
+[normal]para
+[normal] 26 of the UK Law Commission’s Regulator Impact Assessment documents. 
+[normal]The
+[normal] risk f
+[normal]igu
+[normal]re computed by
+[normal] RSSB is lower
+[normal] fro
+[normal]m author’s risk estimate by 
+[normal]4.96
+[normal] 
+[normal]%
+[normal] taking author
+[normal]’s
+[normal] estimate as base figure
+[normal] (Young, Septmeber 2013)
+[normal].  
+[normal]&#xa0;
+[normal]Author
+[normal] has assumed that RSSB’s aggregate risk estimate with
+[normal] 25 fatalities has the same statistical significance as
+[normal] the
+[normal] risk from a single collision event from risk manager’s perspective. However, socia
+[normal]l and political 
+[normal]perspective, a single
+[normal] hazardous event 
+[normal]of 25 fatalities 
+[normal]has different meaning as shown by public response to Ladbroke Grove 
+[normal]accident
+[normal] (Wolff, 2002)
+[normal]. 
+[normal] 
+[normal]In the ab
+[normal]sence of any data on the SIMIS and ALCRM databases, RSSB or Network Rail
+[normal] on bus and train 
+[normal]collision
+[normal] hazardous event 
+[normal]will
+[normal] 
+[normal]make it difficult
+[normal] for them to produce
+[normal] an 
+[normal]risk 
+[normal]estimate.  
+[normal]RRUKA industry co-chair Colin Dennis (Director of Policy, Research and Risk, R
+[normal]SSB), and George 
+[normal]Bearfield
+[normal] (Head of Safety Knowledge and Planning, RSSB)
+[normal] have discussed the difficulty in predicting risk. In their address to the 
+[normal]RRUK 
+[normal]audience in 2012, they 
+[normal]noted that there is a lot of good data and information on past events, but that i
+[normal]t is not predictive and that the sheer length of processing time required means that it is at best giving an indication of the level of risk 6 months ago. The rail industry wants to have a better understanding of how risk might change in the future, so tha
+[normal]t we can plan for it and mitigate its effects, rather than just react to it with little time for thinking
+[normal] (RRUK, 2013)
+[normal].
+[normal] 
+[normal]&#xa0;
+[normal]Given the foregoing self confession, author is unable to accept the claim that RSSB Safety Risk Model is the most advanced in the worl
+[normal]d and its justification for the support it gives to the safety assurance when it cannot identify accident pre-cursors involving local and wider human factors
+[normal] (RSSB, 2013)
+[normal].   
+[normal]Moreover,  author drew reader’s attention 
+[normal]in October 2013 
+[normal]to the fact that ex Brit
+[normal]ish Railway Boa
+[normal]rd members 
+[normal]thought that mean time between failures of the Solid State Interlocking System is 1,000 times the age of the Universe at the time of Newton Junction Accident in 1991. The Newton Junction Accident Report is freely available on the 
+[normal]Railway Archives website. 
+[normal]&#xa0;
+[normal]Nobel Laurea
+[normal]te Daniel 
+[normal]Kahneman
+[normal] cautioned 
+[normal]against blaming experts for their failing to forecast accurately in an unpredictable world (pp241)
+[normal] (Kahneman, 2011)
+[normal].  As per Daniel 
+[normal]Kahneman
+[normal] claims for correct intuitions in an unpredicta
+[normal]ble situation are self-delusional at best, sometimes worse. In the absence of valid- cues, intuitive “hits” are due to either luck or to lies. The rule to remember is that intuition cannot be trusted in the absence of stable regularities in the environment
+[normal]. Author notes that this rule applies to author as well as 
+[normal]a 
+[normal]railway firm’s executives.  
+[normal]&#xa0;
+[normal]Arthur Schopenhauer noted in the early 19
+[normal]th
+[normal] century, that firms have a tendency of issuing bank notes without making adequate capital provision(pp123)
+[normal] (Schopenhaeur,
+[normal] 1813/2006)
+[normal]. This tendency is still prevalent among firms in the 21
+[normal]st
+[normal] century has become public knowledge in 2008. Arthur Schopenhauer argued that both David Hume and Immanuel Kant did not comprehend the phenomena of cau
+[normal]sation correctly (pp106)
+[normal] (Schopenhae
+[normal]ur, 1813/2006)
+[normal]. Nobel Laureate Bertrand Russell argued
+[normal] 
+[normal]Arthur Schopenhauer did not refute inductive hypothesis advanced by David Hume in his treatise of History of Western Philosophy
+[normal] (Russell, 1945)
+[normal].  
+[normal]However, with the Bayesian approach to accident and risk analysis by advanced by 
+[normal]Nobel Laureate Daniel
+[normal] 
+[normal]Kahneman
+[normal], objection raised against Arthur Schopenhauer is no longer tenable. 
+[normal]Nobel Laureate Daniel 
+[normal]Kahneman
+[normal] draws our attention to the fact that an insti
+[normal]tutional risk manager acting as an agent on behalf of an organisation has to note the decision dilemma between intensely loss-averse moral attitudes and efficient risk management has no simple 
+[normal]and 
+[normal]compelling solution (
+[normal]pp342).  However, GB Rail industry exe
+[normal]cutives behave as if 
+[normal]they have a simple and compelling solution to the problem of harm arising at level crossings: educate 
+[normal]and enforce rules and regulations on 
+[normal]the public. 
+[normal]&#xa0;
+[normal]Roger Ford echoes author’s sentiments. 
+[normal]Roger Ford writes in the latest issue of Modern Railways that the past president of IRSE, Francis How, explained 
+[normal]why concept of “safety” went missing 
+[normal]  
+[normal]from the Rail Technical Strategy Leadership’s document. Because Britain’s railways are among the safest 
+[normal]in Europe and while it I always important to look for ways of improving safety that it is not our most important priority in terms of achieving a major improvement
+[normal] (Ford, November, 2013)
+[normal]. 
+[normal]Roger Ford’s solution is to set up a new discipline called Transitio
+[normal]n Safety Management to deal with changes and how to maintain safety during those changes so that we do not lose safety on the way.  
+[normal]&#xa0;
+[normal]Risk assessor
+[normal]s and electronic 
+[normal]engineers’
+[normal] constant refrain is that o
+[normal]f inherent uncertainty at the atomic level of matter.  
+[normal]Let us consider their objection. 
+[normal]Atomic physicists are aware of the striking feature of the unstable particles in the atomic world is their stability. No excited state of atom is truly discrete, stationary and permanent. For example, an electron orbiting B
+[normal]ohr’s orbit during a time period of 10
+[normal]-15 
+[normal]seconds lives in that state for a period of 10
+[normal]-8 
+[normal]seconds. During this period 
+[normal]of 10
+[normal]-8 
+[normal]seconds, an electron goes through 
+[normal]some 
+[normal]10
+[normal]7 
+[normal]oscillations
+[normal] (pp46)
+[normal] (Merzbacher, 1961)
+[normal]. 
+[normal] 
+[normal]&#xa0;
+[normal]However, if we extend the 
+[normal]Nobel Laureate’s 
+[normal]Bohr’s model to the entire universe
+[normal] under the th
+[normal]esis that everything is produced 
+[normal]by chance occurrence
+[normal] 
+[normal]leads to 
+[normal]an absurd conclusion
+[normal].  
+[normal]We cannot be actors and observe all results of our actions at the same time. 
+[normal] 
+[normal]But risk assessors and institutional risk ma
+[normal]nagers continue to operate in the GB Railways as if we were living in an atomic world full of changes without any measure of certainty and level crossing users possess either dull intellects or are risk takers.  
+[normal]&#xa0;
+[normal]Let us consider the proposition that n
+[normal]o one has experienced that a lotus flower can be produced by an apple tree and vice versa. 
+[normal]Arthur Schopenhauer recognised this fact
+[normal], like G.W 
+[normal]Libeniz
+[normal], before him. 
+[normal] 
+[normal]Arthur Schopenhauer drew attention to the fact that 
+[normal]application of 
+[normal]the empirical principle o
+[normal]f causation 
+[normal]to anything apart from 
+[normal]changes in the states of empirical given world is an abuse of the 
+[normal]principle (
+[normal]pp110)
+[normal] (Schopenhaeur, 1813/2006)
+[normal]. 
+[normal]Author notes that analogous type 
+[normal]of reasoning led Nobel Laurea
+[normal]te, Erwin Schrodinger, to formulate 
+[normal]his famous t
+[normal]hought
+[normal] experiment
+[normal], Cat experiment. The consideration of Schrodinger Cat experiment can lead one to 
+[normal]learn how Schrödinger to sought
+[normal] support for 
+[normal]his beliefs in 
+[normal]the 
+[normal]Advaita
+[normal] Vedanta philosophy as stated in
+[normal] his 19
+[normal]43/
+[normal]44 talk
+[normal] (Schrödinger, 1943)
+[normal]. 
+[normal]&#xa0;
+[normal]Anyone who 
+[normal]wit
+[normal]nessed the proceedings of the Safety at Lev
+[normal]el Crossings Inquiry will not
+[normal] h
+[normal]esitate 
+[normal]to praise the dignity of individual families
+[normal] whose members 
+[normal]have suffered harm at the level crossings. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]If we assume that the above data is po
+[normal]ssessed of some kind of 
+[normal]central 
+[normal]tendency then it is 
+[normal]possible
+[normal] to work out 
+[normal]the mea
+[normal]n rate of fatalities and
+[normal] the confidence interval for the given data set.
+[normal]&#xa0;
+[normal]The following definition
+[normal] of Confidence Interval is taken from the Microsoft Excel package licensed to use by Microsoft to the author. 
+[normal]Books on Statistics can also be consulted for verification. 
+[normal]&#xa0;
+[normal]The confidence interval is a range of values. Your sample mean, x, is at the centre 
+[normal]of this range and the range is x ± CONFIDENCE.NORM. For example, if x is the sample mean of delivery times for products ordered through the mail, x ± CONFIDENCE.NORM is a range of population means. For any population mean, μ0, in this range, the probabilit
+[normal]y of obtaining a sample mean further from μ0 than x is greater than alpha; for any population mean, μ0, not in this range, the probability of obtaining a sample mean further from μ0 than x is less than alpha. In other words, assume that we use x, 
+[normal]standard_
+[normal]dev
+[normal], and size to construct a two-tailed test at significance level alpha of the hypothesis that the population mean is μ0. Then we will not
+[normal] 
+[normal]reject 
+[normal]that
+[normal] hypothesis if μ0 is in the confidence interval and will reject that hypothesis if μ0 is not in the confidence interval. The confidence interval does not allow us to infer that there is probability 1 – alpha that our next package will take a delivery time 
+[normal]that is in the confidence interval.
+[normal] 
+[normal]Therefore, based upon the alpha of .05 and a three sigma deviation, the confidence interval for the data set of fatalities is computed to 
+[normal]a mean value of 
+[normal]17.78 ± 1.75978
+[normal]. 
+[normal]However, 
+[normal]we find that range of 
+[normal]fatalities
+[normal] o
+[normal]bserve
+[normal]d fall outside this range
+[normal]. Therefore, the thesis of 3 sigma deviation is not true. We must seek an alternate figure to satisfy the dispersion in the data. Based
+[normal] u
+[normal]pon the alpha of .05 and 
+[normal]80
+[normal] sigma deviation, the confidence interval for the data set of fatal
+[normal]ities
+[normal] is worked out to a mean value of 
+[normal]17.78±
+[normal]31.35
+[normal]. 
+[normal]Author is unable to comprehend how 
+[normal]any risk assessor 
+[normal]can
+[normal] find any 
+[normal]meaningful 
+[normal]pattern 
+[normal]of risk 
+[normal]from such widely dispersed data of fatalities. 
+[normal]&#xa0;
+[normal]Now, let us consider how our intuitive explanations 
+[normal]mis
+[normal]-lead u
+[normal]s into thinking 
+[normal]that 
+[normal]we comprehend the causal factors correctly. 
+[normal]&#xa0;
+[normal]The application of 
+[normal]Bayes
+[normal] Rules is argued by Nobel Laureate, Daniel 
+[normal]Kahneman
+[normal] is chapter 16 of his treatise
+[normal] on human thinking (pp166-167)
+[normal] (Kahneman, 2011)
+[normal].  The case 
+[normal]scenario
+[normal] involves a hit-r
+[normal]un accident in the night. First, information item is that there are 85% of the cabs operating in the city of Blue colour. The second information item is that eye witness identified the car as blue one. The third information item is that the witness reliabi
+[normal]lity in successfully identifying the two colours is 80% of the time. 
+[normal]&#xa0;
+[normal]The Box 1 below is an application of 
+[normal]Bayes’s
+[normal] rule to infer the changes in the 
+[normal]environment
+[normal]. This example is drawn from the medical science paper published in Nature magazine in 2009
+[normal] (The
+[normal]odore J Perkins, 2009)
+[normal]. 
+[normal]&#xa0;
+[normal]The prior probability of an un-observed random variable X, based upon the another random variable say Y is observed
+[normal] can be computed using the Bayesian rule
+[normal].
+[normal]&#xa0;
+[normal]In the case of hit and run scenario, the variable X takes a value of 0.15 
+[normal]based upon the prior probability. Given the fact that an eye witness account has observed a blue colour, and the reliability of the eye witness to be 80%, we can update our prior pro
+[normal]bability information in the following way. 
+[normal]&#xa0;
+[normal]The visualisation of the above relation between two random variables X and Y is shown in Figure 
+[normal]3
+[normal].
+[normal] This depicts the four –fold pattern suggested by 
+[normal]Nobel Laureate Daniel
+[normal] 
+[normal]Kahneman
+[normal](pp 310-333)
+[normal] (Kahneman, 2011)
+[normal]. Au
+[normal]thor 
+[normal]as noted the 
+[normal]Nobel Laureate Daniel
+[normal] 
+[normal]Kahneman
+[normal] insight that decision weights that people assign to outcomes are not identical to the probabilities of these outcomes. This insight was revealed 
+[normal]in form of 
+[normal]the subjective biases on the part of 
+[normal]members of 
+[normal]Jap
+[normal]anese civil engineering society and executives of 
+[normal]nuclear
+[normal] plant operator, supplier and other agencies whose actions contributed to the Japanese Nuclear Accident studied by author
+[normal] (Appicharla, 2013)
+[normal]. 
+[normal]&#xa0;
+[normal]Figure 
+[normal]3
+[normal]: Diagram showing conditional probabilities between two random variables X and Y
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]P(X = 
+[normal]Not Green /
+[normal] Given Y) = P(Y
+[normal]= 
+[normal]Blue
+[normal]/ X= 
+[normal]Blue
+[normal]) 
+[normal]P(X= 
+[normal]Blue
+[normal]) /
+[normal] 
+[normal]P(Y= Blue). 
+[normal]&#xa0;
+[normal]The probability of P(Y= 
+[normal]Blue
+[normal])
+[normal]= 
+[normal]( Y = Not Green / X = Not Green)
+[normal]* P(X = Not Green) 
+[normal] +  P( Y = Not Green / X = Green)
+[normal]* P( 
+[normal] 
+[normal]X = Green)
+[normal]              
+[normal]              
+[normal]              
+[normal]       = .15*.8 +.85*.2
+[normal]              
+[normal]              
+[normal]              
+[normal]       = .29
+[normal]P( Y = Not Green / X = Not Green)
+[normal]*
+[normal] 
+[normal]P(X = Not Green)  
+[normal] = .15*.8 =.12
+[normal]&#xa0;
+[normal]Therefore, 
+[normal]P(X = Not Green / Given Y= Blue) = .12/.29 = .0041 = 41%. This 
+[normal]result 
+[normal]is different 
+[normal]from 15% base rate information as well as 80% of the eye witness reliability
+[normal] available to us to form a risk judgement on the road accident. 
+[normal]&#xa0;
+[normal]Similarly, in
+[normal] the 
+[normal]case of level crossing accident, railway firm’s world-wide informs
+[normal] us that 90% of the times, the
+[normal] system of barriers and co
+[normal]ntrols were ON
+[normal] 
+[normal]ie
+[normal] they were closed
+[normal]. 
+[normal]By this statement
+[normal] it
+[normal] is meant that the user of level crossing is presented with adequate audio-visual warning of impending danger in the form of a train. 
+[normal]This may be called as the variable X. 
+[normal]&#xa0;
+[normal]Eye witness accoun
+[normal]ts inform us that bus driver 
+[normal]ran past the closed barriers. Assuming that the eye witness reliability is 90%, we can update our prior information 
+[normal]in 
+[normal]following
+[normal] way 
+[normal]using the
+[normal] above examples. 
+[normal] 
+[normal]&#xa0;
+[normal]P( X = Barriers 
+[normal] 
+[normal]ON
+[normal]) 
+[normal]/ Y= Barriers 
+[normal]ON
+[normal]) 
+[normal]= P (Y= Barrier 
+[normal]ON
+[normal] / X= Barrier OFF
+[normal])*P (X= Barrier OFF
+[normal]) +
+[normal] P 
+[normal](Y
+[normal] = Barriers ON /X = Barriers ON
+[normal]) *P (X = Barriers 
+[normal]ON
+[normal])
+[normal] 
+[normal]= .9*.9+.1*.1= 
+[normal]0.82. 
+[normal]Now, 
+[normal]P (Y= Barrier ON / X= Barrier ON)*P (X= Barrier ON) = .9*.9= .81
+[normal]&#xa0;
+[normal]Therefore, 
+[normal]P(X = Barriers ON) / Y= Barriers ON
+[normal]) = .81/.82= 98.7%.  Thus, our prior information Rate has been updated from 90% to 98.7%. 
+[normal]&#xa0;
+[normal]At first sight, t
+[normal]he above calculation seems to support the railway firms’ idea that railway firms are not responsible for the accidents conditioned on the fact
+[normal]ual
+[normal] e
+[normal]ye witness account attest to the idea that barriers were ON at the time of accident. However, 
+[normal]if 
+[normal]our information from eye witness 
+[normal]account 
+[normal]is
+[normal] not 
+[normal]reliable
+[normal] then railway 
+[normal]firms’
+[normal] 
+[normal]claim is 
+[normal]not tenable. For example, in the a
+[normal]bove historical data, only four
+[normal] cases o
+[normal]f 
+[normal]the 
+[normal]bus crashes have eye witness accounts. If we use this figure, then our prior informati
+[normal]on will get updated to = .9*.16/(.9*.16+..875)= 62%
+[normal] or 
+[normal]from 90% to 
+[normal]62
+[normal]%. 
+[normal]This subtle point is overlooked by many railway authorities
+[normal] and executives and staff of railway firms
+[normal]. 
+[normal] An example of this
+[normal] lack of eye-witness account can be explained by the level crossing accident in 2001
+[normal]. 
+[normal]&#xa0;
+[normal]T
+[normal]he 
+[normal]Moulinearn
+[normal] level crossing near 
+[normal]Ballinluig
+[normal] in Perth and Kinross
+[normal] has seen fatal accidents in 1953, 200
+[normal]1 and 2009. The 1953 and 2001 accidents were investigated and the gate operator and road user were blamed by railway firms British Railway Board and 
+[normal]Railtrack
+[normal] respectively. It is not clear to author as to why RAIB failed to investigate the 2009 accident. 
+[normal]&#xa0;
+[normal]The previous quantitative risk assessments by Prof Stott’s review showed that 1.62 parts in 10,000 were admitted in UK HSE 1998 document
+[normal]. The QRA conducted in 1987 did recommend a conversion of automatic level crossings. In comparison with the above figu
+[normal]re, the risk figure worked out earlier as 1.92 parts in 10,000 require an intervention to improve the protection afforded to 
+[normal]the level
+[normal] crossing users. 
+[normal]Nobel Laureate Daniel 
+[normal]Kahneman
+[normal] insight that the structure of complex system involving many components wit
+[normal]h low failure rates may have overall high probability of failure due anchoring bias is relevant here(pp428)
+[normal] (Kahneman, 2011)
+[normal]. 
+[normal]&#xa0;
+[normal]Author has noted the fact researcher(s) in safety critical domain tend to disto
+[normal]rt risk communications. But author thinks that they are ready to consider the errors in reviewing published literature. 
+[normal]Four
+[normal] examples known to the author is discussed below
+[normal] in relation to the current risk regulating regime
+[normal]. 
+[normal]&#xa0;
+[normal]First, 
+[normal]Author came across a pa
+[normal]per in 1998 that claims that unreliability (wrong side failures) of the Automatic Half barriers was less than 2
+[normal]% 
+[normal](
+[normal]Hessami, March 1998)
+[normal]. The same percep
+[normal]tion prevails on the part of ex-HMRI personnel like Stanley Hall 
+[normal]and train driving experts think that lev
+[normal]el crossing(s) never fail unsafely (Hall.S &amp; Mark, 2008). 
+[normal]&#xa0;
+[normal]Second, i
+[normal]n a review of the author’s published paper in 2010, the research conducted by DNV for the European Railway Agency has drawn conclusions contradicting author’s own conclusions (DNV, June 2
+[normal]013). The report can be accessed from the ERA website. The exact review is reproduced on the next page. 
+[normal]&#xa0;
+[normal]Author had raised the issue with the European Railway Agency and DNV. The corrections suggested by author to the DNV and ERA are as the following via 
+[normal]private communication on 29 October 2013.
+[normal]&#xa0;
+[normal]a)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Synopsis of paper. The final sentence could be re-written to state that “This revealed situations in which a hazard arose for one 
+[normal]dutyholder
+[normal] and the mitigation was not controlled by a separate 
+[normal]dutyholder
+[normal] and hence
+[normal] in disaggregating the system level standards, measures such as these were lost”.
+[normal]b)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Learning points relevant to risk regulation regimes and implications for the EU rail risk regulation regime. It should be made clear that these are DNVs interpretation and no
+[normal]t the authors.
+[normal]c)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Limitations. It should be made clear that the author’s experiences relate to the UK rail environment between 2006 and 2010.
+[normal]d)
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Further references of note. SA requested that the reference to “Taking Safe Decisions” be removed as he had reference
+[normal]d it in the study in a negative sense (i.e. being critical of its findings) and by including it as a reference of interest it might be construed that the study supported it.
+[normal]&#xa0;
+[normal]Author is waiting 
+[normal]for 
+[normal]the European Railway Agency’s 
+[normal]response to the above as DNV 
+[normal]has
+[normal] expressed their readiness to amend their research. 
+[normal]&#xa0;
+[normal]SIRI 2010 paper had drawn attention to this fact stating that other statutory bodies like Highways Authority or Local Councils and private individuals are involved in the matter and these interfaces 
+[normal]need to be included in the Risk Equation. The UK Law Commission have published their recommendations to the Ministry of Transport in September 2013 to amend the law to allow duty of co-operation to be extended beyond the Infrastructure Manager and Railway 
+[normal]Undertaking to other statutory authorities as well to facilitate faster closure of level crossings and bring all level crossings to be regulated by the UK Health and Safety at Work 1974 Act.
+[normal]&#xa0;
+[normal]Third, if the UK Law Commission has recommended that the law
+[normal] on level crossings be reformed in September 2013 to align with the UK HSE Best Practice for Risk Management, then how can the GB Industry claim that they were complaint with the law as the law as it applies t
+[normal]o the level crossings itself found to be incons
+[normal]istent and complex to apply? 
+[normal]&#xa0;
+[normal]Fourth, t
+[normal]he 
+[normal]accident investigator 
+[normal]and train driver account of the safety critical incident are not reliable
+[normal] due to hindsight bias
+[normal] in operation
+[normal]. The observations of accident and train driver’s information 
+[normal]cannot be included in
+[normal] the Bayesian inference process as the random variable X is unobservable
+[normal] in the risk analysis
+[normal] (Kahneman, 2011)
+[normal]. 
+[normal]&#xa0;
+[normal]Thus, from Bayesian application to risk assessment(s), it is impo
+[normal]rtant to recognise five
+[normal] facts. First
+[normal], it is possible to use two information i
+[normal]tems through the Bayesian Rule to infer about the unobserved random variable. Two, reliability of the eye witness accounts must be known beforehand. 
+[normal] 
+[normal]Third, for truly random process, the probabilities
+[normal] from relative frequency interpretation
+[normal] cannot exceed 50
+[normal]%. 
+[normal] 
+[normal]Fourth, we are not intuitive Bayesians. Fifth, we become 
+[normal]Laplacians
+[normal] due to operation of hindsight bias. 
+[normal]&#xa0;
+[normal]Apart from the 
+[normal]potential 
+[normal]accident analysis, the study has shown that research in the molecular systems biology argue that Bayesian approach is relevant in the 
+[normal]decision making area of risk analysis. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]The
+[normal] 
+[normal]chances of
+[normal] a train-bus collision increase with the following conditions
+[normal]. 
+[normal]&#xa0;
+[normal]The proximity of schools, farms, structure of roads leading to the AHB/ABCL and Unmanned Private Crossings afford chances of greater harm.  Apart from the long term measures of replacing lev
+[normal]el crossings with suitable replacement like bridges etc, intermediate measures to safe-guard against loss of protection can be made. 
+[normal]&#xa0;
+[normal]As reported by the Telegraph report in 2012
+[normal], it is 
+[normal]clear,
+[normal] as ruled by the 
+[normal]Magistrate, it
+[normal] is better to mandate 
+[normal]a clear 
+[normal]vehicle 
+[normal]space be afforded to the bus drivers
+[normal] ( and others as well)
+[normal] before they follow the traffic onto the crossing space. 
+[normal] 
+[normal]With this measure specified for the bus drivers, it is also mandatory that TPWS be installed at the stop signal to prevent a train e
+[normal]ntering the crossing space when the barriers are raised. Modifications to the signalling systems and Highway Agency’s Rules and Regulations may be necessary as a result. 
+[normal]Unwanted occurrences like increased costs of signalling projects, 
+[normal] costs of civil engi
+[normal]neering projects, 
+[normal]waiting times at the level crossings, reduction in BTP police to monitor level crossings after a period 
+[normal]etc are tasks for economists and lawyers to argue over and is beyond the data available to the author. 
+[normal]&#xa0;
+[normal]The idea that a vehicle stopp
+[normal]ing ahead behind the level crossing barriers 
+[normal]can be treated as a barrier 
+[normal]advanced by Professor Stott’s Review 
+[normal]does not accord
+[normal] with the UK HSE Best Practice for Risk Management. This practice calls for designing safety into the system. 
+[normal]Improving crash worth
+[normal]iness of train vehicle from the collision with a vehicle on the level crossings may be appealing to few engineers and organisations
+[normal]. But this method of 
+[normal]passive barrier system is not so appealing if the crashing event can be prevented in first place by othe
+[normal]r engineering measures. 
+[normal]&#xa0;
+[normal]In all the accident studies studied using the SIRI Methodology, author found that 
+[normal]a stakeholder
+[normal] in the form of s
+[normal]uppliers, operator, and /or a researcher 
+[normal]had a premonition of danger and made efforts to stop the operations 
+[normal]or limit 
+[normal]the damage
+[normal]. The examples of Fukushima 2011, Space Shuttle Challenger 1986 illustrate this point
+[normal] and refute the Charles Per rows Normal Accident Theory
+[normal] (Perrow, 1984)
+[normal]. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]The Additional Written Submission examined the worst case accident scenario 
+[normal]of bus-train collision 
+[normal]using the SIRI Methodology taking into account insights generated by Nobel Laureate Daniel 
+[normal]Kahnman’s
+[normal] treatise on human thinking about rare events and risk as
+[normal]sessments. The case study showed that the potential accident has a high probability of failure of 1.92 parts in 10,000   and in comparison to the UK HSE 1987 study that revealed a risk of 1.6 parts in 10,000
+[normal]. The
+[normal] 
+[normal]1987 
+[normal]document called for improvement in the
+[normal] working of level crossings. 
+[normal]This study complements other Submissions made already. 
+[normal]&#xa0;
+[normal]Author appeals to the members of Transport Select Committee to introduce reforms to improve protection afforded to road users keeping in view the various types of road us
+[normal]ers. 
+[normal]&#xa0;
+[normal]&#xa0;
+[normal]November 2013
+[normal]1
+[normal]&#xa0;
+[normal] 
+[normal]The video can be accessed here: 
+[normal]http://www.youtube.com/watch?v=TOLjgL4SVz8
+[normal] The news item can be accessed here: 
+[normal]http://www.gazette-news.co.uk/news/9984976.Bus_in_railway_crossing_drama/?ref=ar
+[normal] The news item can be accessed here
+[normal] 
+[normal]http://www.bbc.co.uk/news/uk-england-devon-19820950
+[normal] URL can be accessed here : 
+[normal]http://news.bbc.co.uk/1/hi/scotland/1318220.stm
+[normal] 
+[normal]URL: 
+[normal]http://paulthorn.co.uk/healthandsafety/Risk%20Management/Quantified%20Risk%20Assessment%20HSE.pdf
+[normal] URL: 
+[normal]http://www.hse.gov.uk/researc
+[normal]h/rrpdf/rr359.pdf
+[normal] URL: 
+[normal]http://www.telegraph.co.uk/news/newstopics/howaboutthat/9646593/The-moment-a-bu
+[normal]s-driver-got-stuck-squeezing-through-level-crossing.html
+[normal]

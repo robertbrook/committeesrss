@@ -1,0 +1,27 @@
+Ontology Manager new Installation
+[normal]&#xa0;
+[normal]Servers 
+[normal]&#xa0;
+[normal]Ontology Manager, Ontology Server and SES are all on one server:
+[normal]&#xa0;
+[normal]PPE = MWEB037P (10.201.5.84)
+[normal]Live = MWEB043 (10.101.74.138)
+[normal]&#xa0;
+[normal]Database user (has full control over the database so used to run the Ontology Service =
+[normal]&#xa0;
+[normal]PPE = 
+[normal]Ontology_User
+[normal] – Password stored in 
+[normal]KeyPass
+[normal]LIVE = Ontology – Passwords stored in 
+[normal]KeyPass
+[normal]&#xa0;
+[normal]To make a backup of CSV files:  
+[normal]Open Command Line as Administrator:
+[normal]&#xa0;
+[normal]"&lt;Ontology Server installation directory&gt;\ontologyserver.exe" 
+[normal]csvexport_online
+[normal] --
+[normal]csvdir
+[normal]="&lt;backup directory&gt;"
+[normal]

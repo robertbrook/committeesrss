@@ -1,0 +1,588 @@
+&#xa0;
+[normal]Written evidence submitted by [bold]Siraj[bold] Ahmed [bold]Shaik[bold] (WSC005)[bold]Executive Summary[bold]1
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]This evidence has a primary focus on computer science, which is an important STEM subject and 
+[normal]underpins a large majority of professional roles in the 
+[normal]Information Technology (
+[normal]IT
+[normal]) 
+[normal]industry both in private and public sectors. 
+[normal]2
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Some of the key messages included in this evidence are summarised as follows
+[normal]All of the above issues are systematically addressed in dedicated sections 
+[normal]below. This is followed by 
+[normal]a set of 
+[normal]brief 
+[normal]recommendations
+[normal].
+[normal]The final item in this document is 
+[normal]a list o
+[normal]f references
+[normal] that have been 
+[normal]consulted 
+[normal]for compiling this 
+[normal]document. 
+[normal]This 
+[normal]is important as it serves as a set of surveys, scientific observations an
+[normal]d studies, and research contributions, 
+[normal]that form the basis of a set of coherent views presented in this document. 
+[normal] 
+[normal]Author[bold] (and Declaration of Interest)[bold]3
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]This evidence is submitted in 
+[normal]personal capacity by Dr. Siraj Ahmed Shaikh, who is a Reader in the Department of Computing at the Faculty of Engineering and Computing, Coventry University, Coventry, UK. He has been actively involved in teaching and research of computer science for over 
+[normal]12 years. He holds a PhD in Computer Science and a MA in Higher and Professional Education. 
+[normal]He is a Chartered Scientist (Member of the Science Council) and a Chartered Fellow of the BCS-The Chartered Institute of IT. 
+[normal]4
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]As part of his day-to-day professional
+[normal] activities, he works with female colleagues (both senior and junior in rank), and female students (in class room and one-to-one supervisory capacity).
+[normal]5
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]The set of views and opinions presented in this document 
+[normal]belong solely to the 
+[normal]author and do not represen
+[normal]t 
+[normal]the views of 
+[normal]Coventry University.
+[normal]The Image P[bold]roblem[bold]6
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]From a philosophical perspective, computer science has been criticised from a feminist perspective and called ‘another masculine science’. The underlying epistemology – the nature of knowledge – for 
+[normal]the subject has been shown to be ‘masculinist’ and ‘decontextualised from its objects of study’, attributed with abstraction, reductionism, sacredness and value-freeness. Such 
+[normal]characterisations reinforce traditional 
+[normal]stereotype of science
+[normal] as an exclusive 
+[normal]do
+[normal]main of male scientists.
+[normal] 
+[normal]7
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]The 
+[normal]education process does not 
+[normal]help the image problem either. 
+[normal]The subject is typically aligned with mathematics and e
+[normal]ngineering, carrying forward a
+[normal] ‘pure’ and ‘masculine’ image as students progress through school and university education. 
+[normal]At school, there is some evidence to suggest that there is a 
+[normal]general lack of enjoyment of computer use by girls, not helped by a 
+[normal]lack of well-trained I
+[normal]T teachers an
+[normal]d staff. 
+[normal]8
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]A contributing factor is also to do with the associated professional culture
+[normal], which in the case of 
+[normal]computer science 
+[normal]is seen as highly demanding, male dominated, individually isolating, ‘nerdy’ and ‘boring’
+[normal]. 
+[normal]This 
+[normal]do
+[normal]es
+[normal] not help school girls’ percep
+[normal]tion of 
+[normal]the 
+[normal]IT
+[normal] 
+[normal]profession 
+[normal]who are encouraged to make early career choices in an increasingly competitive world. 
+[normal]Confid[bold]ence and S[bold]elf-E[bold]steem[bold]9
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]There is 
+[normal]evidence of lack of self-belief and confidence 
+[normal]in
+[normal] female students in their ability to perform 
+[normal]and progress 
+[normal]in computer science as a subject. 
+[normal]Surveys show
+[normal] this gap between perceived and actual ability 
+[normal]of female students despite being successful in the discipline. 
+[normal]The findings include
+[normal] 
+[normal]that 
+[normal]female students are less likely to correct a professor in cla
+[normal]ss than their
+[normal] male counterparts
+[normal],
+[normal] and 
+[normal]a 
+[normal]lack of self-confidence in software programming abilities in female students
+[normal], which lies at the heart of many high-paid
+[normal] IT jobs.
+[normal]10
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]A lack of an adequate number of women is in itself an excluding factor for women from a subject. A critical mass is necessary for a particular subgroup to influence the group it belongs to in any way. In order for women to constructively participate in the
+[normal] discourse and reshape gender relations in classrooms, a critical mass of women is necessary among men. Studies have shown, while examining various 
+[normal]university 
+[normal]departmental characteristics that affect retention of female students, computer science departmen
+[normal]ts with a higher number of female students are more likely to retain them
+[normal],
+[normal] as gender-related perceptions and tensions 
+[normal]are less likely to be prevalent. 
+[normal] 
+[normal]Lack of Role Models[bold]11
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]An aspect of the critical mass factor, which serves as both a cause and a consequen
+[normal]ce of it, is the lack of mentoring and female role models in 
+[normal]computer science
+[normal]. The media coverage of the IT industry moguls, like Bill Gates and Steve Jobs (along with so many others – mostly men), projects an image of a male-dominated profession where wom
+[normal]en are either not present at all or their achievements have not been significant. A lack of female role models propagates the masculine image further, one where only geeky, workaholic men, with no family or social responsibilities
+[normal] and,
+[normal] with an unethical ‘h
+[normal]ackers’ mentality can survive
+[normal].
+[normal] 
+[normal]12
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]T
+[normal]he role model process ought to start early for girls, with teachers at schools to act as examples of women working with computers. 
+[normal]Surveys on
+[normal] 
+[normal]gender and computer use in schools
+[normal] 
+[normal]find a correlation between the number of women
+[normal] teachers at school and the gender equality in terms of computer use. 
+[normal]13
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]The presence of female 
+[normal]academic staff 
+[normal]in universities 
+[normal]is one important source of mentoring. Fresh new students look up to their lecturers and professors for inspiration and future guida
+[normal]nce. What better example of successful women in 
+[normal]computer science 
+[normal]can be served t
+[normal]o female students than their 
+[normal]tutors? 
+[normal]Evidence suggests that 
+[normal]this is particularly important as a positive higher education environment 
+[normal]serves to inspire 
+[normal]women
+[normal],
+[normal] and 
+[normal]positive fee
+[normal]dback is more important to them
+[normal] than their male counterparts
+[normal].
+[normal]14
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]S
+[normal]ome other evidence suggests
+[normal] that university 
+[normal]departments with 
+[normal]less 
+[normal]female 
+[normal]academics 
+[normal]lost female student
+[normal]s at high rates relative to men
+[normal]. 
+[normal]Recent figures show that 
+[normal]in the UK 
+[normal]only one in 20 computin
+[normal]g professors, one in eight computing researchers and one in four PhD students are female
+[normal].
+[normal] 
+[normal]Reversing Trends[bold]15
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]C
+[normal]omputer science
+[normal] as a discipline is unique, both in its history, as young but fast developing and, in its nature as problem-solving, algorithmic and technology-oriented. In recent years, its boundaries have expanded to overlap and adjoin a number of other disciplines, inc
+[normal]luding business and management (information systems), philosophy and psychology (human computer interaction and artificial intelligence), physiology (genetic algorithms and neural networks), digital art and graphics (multimedia and entertainment) and lingu
+[normal]istics, which have been traditionally outside the realm of science. It is important to observe this 
+[normal]so that it offers a unique proposition for sustaining and welcoming many more women in IT-related careers, as 
+[normal]opposed to traditional sciences and many other
+[normal] STEM subjects
+[normal].
+[normal]16
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]The IT 
+[normal]industry more re
+[normal]cently has launched some encouraging initiatives 
+[normal]which offer hope and 
+[normal]a bright future for a lot of women entering IT-related careers. The notable of these initiatives include The Google Anita Borg Memorial Scholarship
+[normal], Grace Hopper Celebration of Women in Computing, 
+[normal]Athena SWAN (an initiative of the Equality Change Unit (ECU) and UK Research Councils (UKRC)) 
+[normal]and BCSWomen (a specialist group of the British Computer Society dedicated to women members). 
+[normal]Recommendations[bold]17
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Computer Science, along with 
+[normal]the 
+[normal]wider 
+[normal]range of 
+[normal]STEM subjects,
+[normal] 
+[normal]need
+[normal]s
+[normal] an image makeover. 
+[normal]A 
+[normal]coordinated 
+[normal]national effort is needed to 
+[normal]address 
+[normal]this and raise the profile of STEM as 
+[normal]progressive and welcoming careers 
+[normal]for women.
+[normal] 
+[normal]This has to be 
+[normal]realised thro
+[normal]ugh a
+[normal] mix of 
+[normal]top-down 
+[normal]and bottom-up policy 
+[normal]initiatives
+[normal], and should be a medium- to long-term goal. 
+[normal]No quick fixes would serve to be effective. 
+[normal] 
+[normal] 
+[normal] 
+[normal]18
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]The early years, through school and university education, are critical 
+[normal]if we
+[normal] are to allow women to raise confidenc
+[normal]e and self-esteem.
+[normal] 
+[normal]A variety of areas need particular attention including 
+[normal]appropriate 
+[normal]training
+[normal] of school staff in STEM subjects, 
+[normal]female
+[normal] mentoring
+[normal],
+[normal] and 
+[normal]after-school 
+[normal]resources
+[normal],
+[normal] to overcome cultural and confidence issues for female students. 
+[normal]19
+[normal]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+[normal]Large industry players, such as Google, IBM, Intel and 
+[normal]Microsoft
+[normal],
+[normal] 
+[normal]are beginning to play a positive role for women scientists in the IT sector. 
+[normal]The go
+[normal]vernment and the third-sector 
+[normal]need to work with 
+[normal]them to 
+[normal]address this jointly, through more scholarships and
+[normal] internships,
+[normal] better recognition of achievement of women in STEM sectors, 
+[normal]dedicated professional networking opportunities, 
+[normal]and more family-friendly 
+[normal]working policies 
+[normal]to allow for a 
+[normal]better 
+[normal]work-life balance.
+[normal] 
+[normal]References[bold]AAUW (2000) American Association of Un
+[normal]iversity Women, Tech-savvy: Educating girls in the 
+[normal]              
+[normal]new computer age 2000 [Online], Available at: www.aau
+[normal]w.org/2000/techsavvy.html 
+[normal]Barker, L and Weston, T (2003) ‘Institutional Effects and Participation of Women in 
+[normal]              
+[normal]Computer Science’, Work in progress [Online], Available at: 
+[normal]              
+[normal]http://www.colorado.edu/ATLAS/evaluation/ite/Instit
+[normal]utional_Effects_Study.pdf
+[normal]Barker, L and Garvin-Doxas, K (2003) ‘The Effect of Institutional Characteristics on 
+[normal]              
+[normal]Participation of Women in Comput
+[normal]er Science Bachelors Degree Programs’, in 
+[normal]              
+[normal]Proceedings of the 8th Annual Conference on Innovation and Technology in 
+[normal]              
+[normal]Computer Science Education, June 30-July 2, 2003, Thessaloniki, Greece, pp 242-242
+[normal]Barker, L, Garvin-Doxas, K and Roberts, E (2005) ‘What C
+[normal]an Computer Science Learn from a 
+[normal]              
+[normal]Fine Arts Approach to Teaching?’, 
+[normal]I
+[normal]n Proceedings of Technical Symposium on 
+[normal]              
+[normal]Computer Science Education (SIGCSE’05), St. Louis, Missouri, USA
+[normal]Benbow, CP (1988) ‘Sex differences in mathematical reasoning ability in intellect
+[normal]ually 
+[normal]              
+[normal]talented preadolescents: Their nature, effects, and possible causes’,
+[normal] 
+[normal]Behavioural and 
+[normal]              
+[normal]Brain Sciences, Volume 11, pp 169-232
+[normal]Biglan, A (1973a) ‘The characteristics of subject matter in different academic areas’, Journal 
+[normal]              
+[normal]of Applied Psychology, Volum
+[normal]e 57, pp 195-203
+[normal]Biglan, A (1973b) ‘Relationships between subject matter characteristics and the structure 
+[normal]              
+[normal]and output of university departments’, Journal of Applied Psychology, Volume 57, pp 
+[normal]              
+[normal]204-213
+[normal]Bjorkman, C, Christoff, I, Palm, F and Vallin, A (1998)
+[normal] ‘Exploring the Pipeline: Towards an 
+[normal]              
+[normal]Understanding of the Male Dominated Computing Culture and its Influence on 
+[normal]              
+[normal]Women’, inroads (SIGCSE Bulletin), Volume 30, No. 2, pp 64-69
+[normal]Breen, R (1999) ‘Student motivation and conceptions of disciplinary knowledge’, 
+[normal]              
+[normal]Proceedings of HERDSA Annual International Conference, Melbourne, Australia, 12-
+[normal]              
+[normal]15 July 1999
+[normal]Bryant, RE and Irwin, MJ (2001) ‘1999-2000 Taulbee Survey: Current and Future Ph.D. 
+[normal]              
+[normal]Output will not satisfy demand for Faculty’, Computing Research News, March 
+[normal]2001
+[normal]Beyer, S, Rynes, K, Perrault, J, Hay, K and Haller, S (2003) ‘Gender Differences in Computer 
+[normal]              
+[normal]Science Students’, in Proceedings of Technical Symposium on Computer Science 
+[normal]              
+[normal]Education (SIGCSE’03), February 19-23, 2003, Nevada, USA, pp 49-53
+[normal]Camp, T (199
+[normal]7) ‘The incredible shrinking pipeline’, Communications of the ACM, Volume 40, 
+[normal]              
+[normal]No. 10, pp 103-110
+[normal]Carter, J and Jenkins, T (1999) ‘Gender and Programming: What’s going on?’, in Proceedings 
+[normal]              
+[normal]of the 4th Annual SIGCSE/SIGCUE conference on Innovation and Techn
+[normal]ology in 
+[normal]              
+[normal]Computer Science Education ITiCSE'99, Krakow, Poland, pp 1-4
+[normal]Clark, M (2003) ‘Computer Science: a hard-applied discipline?’, Teaching in Higher 
+[normal]              
+[normal]Education, Volume 8, No. 1, pp 71-87
+[normal]Clayton, D and Lynch, T (2002) ‘Departmental Differences Can Poi
+[normal]nt the Way to Improving 
+[normal]              
+[normal]Female Retention in Computer Science’, inroads (SIGCSE Bulletin), Volume 34, No. 2, 
+[normal]              
+[normal]pp 89-93
+[normal]Cohoon, JM (1999) ‘Departmental Differences Can Point the Way to Improving Female 
+[normal]              
+[normal]R
+[normal]etention in Computer Science’, I
+[normal]n Proceedings of Technical Symposium on 
+[normal]              
+[normal]Computer Science Education (SIGCSE’99), New Orleans, USA, pp 198-202
+[normal]Cohoon, JM (2001) ‘Toward Improving Female Retention in the Computer Science Majors’, 
+[normal]              
+[normal]Communications of the ACM, Volume 44, No. 5, May 2001, pp 1
+[normal]08-114
+[normal]Cohoon, JM (2002) ‘Women in CS and Biology’, in Proceedings of Technical Symposium on 
+[normal]              
+[normal]Computer Science education 
+[normal]              
+[normal](SIGCSE’02), Kentucky, USA, pp 82-86
+[normal]Countryman, J, Feldman, A, Kekelis, L and Spertus, E (2002) ‘Developing a Hardware and 
+[normal]              
+[normal]Programmi
+[normal]ng Curriculum for Middle 
+[normal]              
+[normal]School Girls’, inroads (SIGCSE Bulletin), Volume 
+[normal]              
+[normal]34, No. 2, pp 44-47
+[normal]De Palma, P (2001) ‘Why Women avoid Computer Science’, Communications of the ACM, 
+[normal]              
+[normal]Volume 44, No. 6, pp 27-29
+[normal]Denning, P, Comer, D, Gries, M, Mulder, M, Tucker,
+[normal] A, Turner, J and Young, P (1989) 
+[normal]              
+[normal]‘Computing as a discipline’, Communications of the ACM, Volume 32, pp 9-23
+[normal]Edwards, J and Kay, J (2001) ‘A Sorry Tale - A Study of Women's Participation in IT Higher 
+[normal]              
+[normal]Education in Australia’, Journal of Research and Pract
+[normal]ice in Information Technology, 
+[normal]              
+[normal]Volume 33, No. 4, pp 329-335
+[normal]Fisher, A and Margolis, J (2002) ‘Unlocking the Clubhouse: The Carnegie-Mellon Experience’, 
+[normal]              
+[normal]inroads (SIGCSE Bulletin), Volume 34, No. 2, pp 79-83
+[normal]Gal-Ezer, J and Harel, D (1998) ‘What else shoul
+[normal]d CS educators know?’, Communications of 
+[normal]              
+[normal]the ACM, Volume 41, pp 77-84
+[normal]Galpin, V (2002) ‘Women in Computing Around the World’, inroads (SIGCSE Bulletin), 
+[normal]              
+[normal]Volume 34, No. 2, pp 94-100
+[normal]Glegg, S and Trayhurn, D (1999) ‘Gender and Computing: not the same old p
+[normal]roblem’, British 
+[normal]              
+[normal]Educational Research Journal, Volume 26, No. 1, pp 75-89
+[normal]Goldberg, P (1999) ‘Creeping Toward Inclusivity in Science’, in Women in Science and 
+[normal]              
+[normal]Engineering: Choices For Success, eds CC Selby, Annals of The New York Academy of 
+[normal]              
+[normal]Sciences, Vo
+[normal]lume 869, New York, USA, pp 7-15
+[normal]Goldweber, M, Impagliazzo, J, Bogoiavlenski, IA, Clear, AG, Davies, G, Flack, H, Myers, JP and 
+[normal]              
+[normal]Rasala, R (1997) ‘Historical perspectives on the computing curriculum’, Report of the 
+[normal]              
+[normal]ITiCSE'97 WG
+[normal] on Historical Perspectives 
+[normal]in Computing Education, pp 94-111 
+[normal]Gupta, N and Sharma, AK (2003) ‘Gender inequality in the work environment at institutes of 
+[normal]              
+[normal]h
+[normal]igher learning in science and technology in India’, Work, employment and society, 
+[normal]              
+[normal]Volume 17, No. 4, December 2003, pp 597-616
+[normal]G
+[normal]ürer, D and Camp, T (2002) ‘An ACM-W Literature Review on Women in Computing’, 
+[normal]              
+[normal]inroads (SIGCSE Bulletin), Volume 34, No. 2, pp 121-127
+[normal]Fisher, A, Margolis, J and Miller, F (1997) ‘Undergraduate Women in Computer Science: 
+[normal]              
+[normal]Experience, Motivation and Cultur
+[normal]e’, in
+[normal] ACM SIGCSE Bulletin, 
+[normal]29
+[normal] (1) 
+[normal]pp 106-110
+[normal]Hafkin, N and Taggart, N (2001) Gender, Information Technology, and Developing Countries: 
+[normal]              
+[normal]An Analytic Study, Academy for Educational Development (AED), Office of Women in 
+[normal]              
+[normal]Development Bureau for Global Programs, Field Support and Research, US Agency 
+[normal]              
+[normal]for International Development
+[normal]Harding, S (1986) The Science Question in Feminism
+[normal], Cornell University Press, N
+[normal]Y, USA
+[normal]Hartmanis, J (1994) ‘About the nature of computer sci
+[normal]ence’, B
+[normal]ulletin of EATCS 53, 
+[normal]170-190
+[normal]Hewlett, SA (2002) ‘Executive Women and the Myth of Having it All’, Harvard Business 
+[normal]              
+[normal]Review, April 2002, pp 66-73
+[normal]Jamnik, M (2005) ‘A network for female academics’, in Computing, Issue 9th June 2005
+[normal]Lopez, Jr., AM and Schulte,
+[normal] LJ (2002) ‘African American Women in the Computing Sciences: 
+[normal]              
+[normal]A group to be studied’ in Proceedings of the 33rd Technical Symposium on Computer 
+[normal]              
+[normal]Science education, Kentucky, USA, pp 87-90
+[normal]Myers, Jr., JP (1992) ‘Men Supporting Women Computer Science Studen
+[normal]ts’, in Proceedings 
+[normal]              
+[normal]of the 23rd Technical Symposium on Computer Science education, Missouri, USA, 
+[normal]              
+[normal]1992, pp 63-66
+[normal]Panteli, A, Stack, J, Atkinson, M and Ramsay, H (1999) ‘The status of women in the UK IT 
+[normal]              
+[normal]industry: an empirical study’, 
+[normal]              
+[normal]European Journal of
+[normal] Information Systems, Volume 8, 
+[normal]              
+[normal]pp 170-182
+[normal]Pratt, L and Misra, M (2002) ‘Perspectives on Academic vs. Industry Environments for 
+[normal]              
+[normal]Women in Computer Science’, inroads (SIGCSE Bulletin), Volume 34, No. 2, pp 20-22
+[normal]Reinen, IJ and Plomp, T (1997) ‘Information 
+[normal]Technology and Gender Equality: A 
+[normal]              
+[normal]Contradiction in Terminis?’, Computers and 
+[normal]              
+[normal]Education, Volume 28, No. 2, Elsevier 
+[normal]              
+[normal]Science, pp 65-78
+[normal]Rich, L, Perry, H and Guzdial, M (2004) ‘A CS1 Course designed to Address Interests of 
+[normal]              
+[normal]Women’, in Proceedings of Techni
+[normal]cal Symposium on Computer Science Education 
+[normal]              
+[normal](SIGCSE’04), Norfolk, Virginia, USA, pp 190-194
+[normal]Rodger, SH and Walker, EL (1996) ‘PipeLINK: Connecting women and girls in the computer 
+[normal]              
+[normal]science pipeline’, in Proceedings of the
+[normal] National Educational Computing 
+[normal]Con
+[normal]ference 
+[normal]              
+[normal]NECC’96, June 1996, pp 378-384
+[normal]Roldan, M, Soe, L and Yakura, EK (2004) ‘Perceptions of Chill
+[normal] IT Organizational Contexts and 
+[normal]              
+[normal]their Effect on the Retention and Promotion of Women in IT’, in Proceedings of the 
+[normal]              
+[normal]SIGMIS 
+[normal]conference on Careers, Culture and Ethics in a Networked 
+[normal]              
+[normal]Environment,
+[normal] 
+[normal]              
+[normal]April 22-24, 
+[normal]Tucson, Arizona, USA, pp 108-113
+[normal]Scragg, G and Smith, J (1993) ‘A study of barriers to women in undergraduate computer 
+[normal]              
+[normal]science’, in Proceedings of the 29th Technical Symp
+[normal]osium on Computer Science 
+[normal]              
+[normal]education, Atlanta, Georgia, USA, pp 82-86
+[normal]Stepulevage, L and Plumeridge, S (1998) ‘Women Taking Positions Within Computer 
+[normal]              
+[normal]Science’, Gender and Education, Volume 10, No. 3, pp 313-326 
+[normal]Sonnert
+[normal], G (1999) ‘Women in Science and Engineering: Advances, Challenges, and 
+[normal]              
+[normal]Solutions’, in Women in Science and 
+[normal]              
+[normal]Engineering: Choices For Success, eds CC Selby, 
+[normal]              
+[normal]Annals of The New York Academy of Sciences, Volume 869, New York, USA, pp 34-57
+[normal]Taylor, S (2005) 
+[normal]‘Why Feminist Careerists Neutered Larry Summers’, in National Journal - 
+[normal]              
+[normal]Foundation for Individual Rights in Education (FIRE) Issue 5th February 2005
+[normal]Taylor, VE (2002) ‘Women of Color in Computing’, in
+[normal]roads (SIGCSE Bulletin), Vol 
+[normal]34
+[normal](2):
+[normal]22-23
+[normal]Teague, J (199
+[normal]7) ‘A structured review of reasons for the underrepresentation of women in 
+[normal]              
+[normal]computing’, in Proceedings of the 2nd Australasian conference on Computer science 
+[normal]              
+[normal]education, Melbourne, Australia, pp 91-98
+[normal]Thomas, K (1990) Gender and Subject in Higher Ed
+[normal]ucation
+[normal], Open University Press, 
+[normal]              
+[normal]Buckingham, UK
+[normal]Townsend, GC (2002) ‘People who make a Difference: Mentors and Role Models’, inroads 
+[normal]              
+[normal](SIGCSE Bulletin), Volume 34, No. 2, pp 57-61
+[normal]UCAS (2005) Universities and Colleges Admissions Service for the UK [Online], Avail
+[normal]able at: 
+[normal]              
+[normal]http://www.ucas.ac.uk/ [2005, June 26]
+[normal]Venkatesh, V and Morris, MG (2000) ‘Why don’t men ever stop to ask for directions? 
+[normal]              
+[normal]Gender, social influence, and their role in technology acceptance and user 
+[normal]              
+[normal]behaviour’, MIS Quarterly, Volume 24, No. 1, pp
+[normal] 115-139
+[normal]Venkatesh, V, Morris, MG and Ackerman, P (2000) ‘A longitudinal field investigation of 
+[normal]              
+[normal]gender differences in individual adopt and usage of technology’, Organizational 
+[normal]              
+[normal]Behaviour and Human Decision Processes, Volume 83, No. 1, pp 33-60
+[normal]Wajcman, J 
+[normal](1991) Feminism Confronts Technology, Pennsylvania University Press, 
+[normal]              
+[normal]University Park, PA, USA
+[normal]Webster, J (1996) Shaping Women’s Work: Gender, Employment and Information 
+[normal]              
+[normal]Technology, Longman, London, UK
+[normal]Wegner, P (1976) ‘Research paradigms in computer scie
+[normal]nce’, International Conference on 
+[normal]              
+[normal]Software Engineering, San Francisco, CA, USA
+[normal]Wilson, BC (2004) ‘Gender Differences in types of assignments preferred: Inferences for 
+[normal]              
+[normal]Computer Science classrooms’, Computer Science Education Journal, Sep 2004
+[normal]August 2013
+[normal]&#xa0;
+[normal]
