@@ -3,10 +3,13 @@ Getter is a utility to fetch evidence to Parliamentary committees from data.parl
     request = require("request")
     fs = require("fs")
     walk = require("walk")
+    rimraf = require("rimraf")
 
 Cheerio is a helper from Matthew Mueller: http://matthewmueller.github.io/cheerio/
 
     cheerio = require("cheerio")
+    rimraf "./data/", (err) ->
+        throw err  if err
     
     walker = walk.walk("./data/")
     
