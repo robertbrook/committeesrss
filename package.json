@@ -6,10 +6,6 @@
   "contributors": [
     "Robert Brook <robertbrook@fastmail.fm>"
   ],
-  "scripts": {
-    "start": "node ./bin/http-server",
-    "test": "vows --spec --isolate"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/robertbrook/committeesrss.git"
@@ -18,12 +14,9 @@
     "url": "https://github.com/robertbrook/committeesrss/issues"
   },
   "homepage": "https://github.com/robertbrook/committeesrss",
-  "main": "index.js",
   "dependencies": {
-    "vows": "~0.7.0",
     "coffee": "0.0.1",
     "docco": "~0.6.3"
   },
-  "devDependencies": {},
   "license": "Open Parliament Licence"
 }
