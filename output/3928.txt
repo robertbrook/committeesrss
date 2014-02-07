@@ -1,0 +1,647 @@
+&#xa0;Energy and Climate Change CommitteeOral evidence: Gas Storage, HC 871Thursday 28 November 2013Ordered by the House of Commons to be published on 28 November 2013.Watch the meetingMembers present: Sir Robert Smith (Chair); Ian Lavery; Albert Owen; Christopher Pincher; John Robertson; Graham Stringer; Dr Alan Whitehead&#xa0;Questions 1-47&#xa0;Witnesses: 
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]], Chair, Gas Storage Operators Group, 
+
+[[[Dr Tony White]]], Co-Founder, BW Energy, 
+
+[[[George Grant]]], Director, Stag Energy, and 
+
+[[[Jo ]]]
+
+[[[Vizor]]], Managing Director, E.ON Gas Storage UK Ltd, gave evidence.&#xa0;&#xa0;
+
+[[[Q1]]] 
+
+[[[Chair:]]] Thank you very much for agreeing to come and give us some evidence on gas storage. For the record, please give your name and organisation.
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] My name is Jo Vizor. I am the managing director of E.ON’s gas storage business in the UK.
+
+[[[George Grant:]]] George Grant, managing director of Stag Energy and chairman of Gateway Gas Storage.               
+
+[[[Dr White:]]] Tony White, director of BW Energy.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] Roddy Monroe, chair of the Gas Storage Operators Group, part of the Energy and Utilities Alliance.&#xa0;
+
+[[[Q2]]] 
+
+[[[Chair:]]] I suppose we could start with your view on the Department of Energy and Climate Change’s decision not to provide Government financial backing for new gas storage facilities. What do you think the impact of that will be? 
+
+[[[Dr White:]]] Is that apart from me seeing red? Which I did. I felt that that statement was being incredibly economical with the truth, if you look at the Redpoint report which was the basis of it. The Minister claimed that because of the decision £750 million will not be spent by customers on subsidising it. But if he had looked at the table from which that came, he would have also seen that, actually, you are forgoing the chance to save many hundreds of millions of pounds from gas customers’ bills—and that was in the worst case. In the three other cases, each time it showed that, in taking into account anything that the customers might pay on some subsidy mechanism plus the amount they would save by the facility being there, according to the Redpoint numbers, it was a no-brainer and it should be built.&#xa0;
+
+[[[Q3]]] 
+
+[[[Chair:]]] Do you others agree?
+
+[[[George Grant:]]] I would totally endorse that. I think it is a real missed opportunity. It seemed to smack of a very short-termist view. Clearly there is concern about costs that are being placed on consumers at the moment. But, as Tony says, if you look at the report that the Government commissioned, the net benefit to consumers over a period of time was in the tens of millions, or possibly even the hundreds of millions of pounds. Being economical with the figures is not in the best interests of consumers and we have heard a great deal in recent months about the focus being on costs and doing what is right for consumers.&#xa0;
+
+[[[Q4]]] 
+
+[[[Chair:]]] You were talking about the net benefit being over time. Was there an early up-front cost?
+
+[[[George Grant:]]] I think the Redpoint report looked at the period 2020 to 2030, so the total costs and benefits that were referred to in the report were referencing that period of time—so the net benefit was over that 10-year period.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] I agree with that. It was seen as a missed opportunity. I think there was enough in the Redpoint report for the Minister to make a positive decision on that. He chose not to, which I can only assume was a political decision. I think that, as a consequence of that, some of the projects that were ready to go if support was provided, will now not be available, should that decision be reviewed later on.
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] I have a different opinion. I looked at the Redpoint report and I can see the numbers that are being discussed. I also see a cost and an impact on existing storage operations, which are not considered in those numbers of benefits—what happens to the existing assets and the detrimental effect, and how existing storage operations would be dealt with. I also think that there is a very interesting way that these numbers are being looked at. Reports that I have seen have quoted that the cost of a subsidy would be £30 million to £35 million in some of the reporting of the Redpoint analysis. My understanding is that what is being looked for—4 billion cubic metres of long-range storage development—is actually more of a guarantee of £1.9 billion of income. That is for a single storage site, not for the industry as a whole to ensure that all of the various types of storage that we need going forward are in place and are economic.
+
+[[[Dr White:]]] I disagree with some of that, I’m afraid. In tables 38 and 37 of the report, it shows clearly the impact on consumers, on suppliers and on the people in the storage business. So they do take those into account. Yes, in some of the cases, some of the storage is negatively impacted—actually, in all of them—but in some it is still a kind of positive benefit. It is helpful to distinguish between two types of storage. There are the smaller-scale, fast-acting storage facilities, which are price takers—so if there is a high price you sell, and if there is a low price you buy and you do not have an impact on prices.What I was really considering was large-scale storage, where you buy in the summer when prices are low and you don’t have much of an impact on the price then, because it is oversupplied. Then by selling in the winter you have a big impact on the overall price—you lower it. So there is a benefit that goes across to everybody. The trouble with large-scale storage is that whoever builds it doesn’t get the total benefit, because it is shared over all the consumers. This is one of those cases where, yes, markets do work, but there are things that the market does and things that Governments do. One of my heroes, Adam Smith, said that there are three things Governments do: one is to ensure you don’t get invaded, two is to ensure you have rule of law, and the third is to do various public works. I would argue, gentlemen, that this is one of the cases for public works.&#xa0;
+
+[[[Q5]]] 
+
+[[[Chair:]]] Ms Vizor, you were saying that the impact on existing storage had not been worked out—what would be the consequences of that?
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] The consequences in the Redpoint analysis suggest that there is a negative effect of around £110 million under the cases in the tables. Two pages further on, it says that under different circumstances the actual effect on fast-churn storage—the storage needed to balance the market going forward, and to help to move towards a lower-carbon economy and ensure that there are gas supplies day-to-day when the UK customer needs them—could actually be something like £300 million a year of negative adverse effect, for 10 years. According to my simple maths, that is about £3 billion of adverse effect. I don’t know where the offsetting impact of that would come from. We would provide a subsidy for seasonal storage, but we are potentially taking £3 billion away from the existing storage facilities that are balancing our gas market now.&#xa0;
+
+[[[Q6]]] 
+
+[[[Chair:]]] So it would impact on existing storage. Would that impact on consumers?
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] I guess that depends. I would not expect there to be intervention that would treat existing and new assets differentially, so if intervention came along, I would expect there to be some measure of balance between new and existing assets. If we see intervention come along towards supporting seasonal storage assets, I have concerns that the market would not bring forward other investments that we have seen across a range of gas investments over recent years, whether that is liquid natural gas, pipelines, interconnectors or storage facilities, because there would be a real concern about the future impact on the value of those investments.
+
+[[[George Grant:]]] The problem with some of the points that Jo is making is that there is no detail as to what the proposed method of intervention is. The modelling from Redpoint looks at scenarios where additional gas storage is built in the UK and the benefit to consumers from the downward pressure on prices, which I think even Jo would agree is generally positive. I would agree with her when she says that any mechanism that is brought in will need to deal with existing storage and ensure that it is not detrimentally impacted, because we still need that capacity as well.To say that the Redpoint report is saying that existing storage will be detrimentally impacted and new storage will benefit—you cannot draw that conclusion from the report. The conclusion you can draw is that there is a net benefit to consumers from having more storage in the system. That is the point the Government have missed and that this Committee focused on back in 2011, when you were looking at energy security in the UK and recommended that the UK should double gas storage. I think the Redpoint report endorses that recommendation, and I would expect that you are also disappointed that that recommendation was not followed.&#xa0;
+
+[[[Q7]]] 
+
+[[[Chair:]]] Are you still going ahead with your Irish sea scheme?
+
+[[[George Grant:]]] Absolutely not, no. We are in a position where we have a facility that is permitted and we have done all the technical design work that would enable it to move forward into construction relatively swiftly, but under current market conditions there is absolutely no way that the Gateway project will move forward. As Tony says, there are areas where Government can play a role in bringing forward major infrastructure, and I think large long-term storage is an area where there is a role for Government to play.&#xa0;
+
+[[[Q8]]] 
+
+[[[Chair:]]] Mr Monroe, if the Government were to change their mind, would you be able to go ahead with schemes that you are shelving?
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] Well, currently the Baird project, if that is the one you are referring to, is in the process of being handed back to Perenco, which owns the field. When that process is completed, I suspect that they will commence with extracting whatever gas there is left in the field. Once the field becomes fully depleted, it becomes very difficult technically and economically to convert it into a gas storage facility, because the amount of cushion gas you would have to inject goes up significantly. I think for the Baird project, it moves from something like around £240 million or £250 million up to north of £400 million. The costs increase a lot, so the answer is it is most unlikely. &#xa0;
+
+[[[Q9]]] 
+
+[[[John Robertson:]]] Mr Monroe and Dr White alluded to political reasons for not going ahead. Could you expand on that?
+
+[[[Dr White:]]] I think there is currently a view that “thou shalt not interfere in the market.” It is a philosophical approach that it is not the role of Government to intervene in the energy market, which I think is misplaced. I would not say any more than that. 
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] My observations are only about what was said on the day, which is that the Minister is reluctant to increase customer bills through any additional subsidies. &#xa0;
+
+[[[Q10]]] 
+
+[[[John Robertson:]]] Purely on cost, it would put a cost on the consumer. That is what they are really saying, no?
+
+[[[Dr White:]]] If they are saying that, I think that is incorrect. What I think they are saying is that they do not want to make a commitment to pay someone to build a facility. If that facility is built, it might end up with bills going down, but they do not want to take that first step, which would be an intervention into a marketplace.&#xa0;
+
+[[[Q11]]] 
+
+[[[John Robertson: ]]]If a lot of shale gas came on the market, would storage be important or less important?
+
+[[[Dr White:]]] My understanding is that shale is not necessarily a particularly flexible form of gas supply, so you would still need to have some ability to store gas. 
+
+[[[George Grant:]]] There was an interesting report published by Pöyry this week, which looked at shale gas in the EU. [Interruption.] It was sponsored by the OECD, I think, and I will certainly circulate a copy after the meeting. The report looked at the no shale gas, medium shale gas and high shale gas scenarios. Over the period looking forward to 2050, even in the high shale gas scenario, the EU is still reliant on Russian gas for about 50% of supplies and LNG for about 25% of supplies. So there is a potential role if shale gas proves to be commercial, but it is not the solution to all our needs. 
+
+[[[Dr White:]]] Another thing that the Committee should consider is that a lot of long-term gas supply contracts were indexed to oil prices. There has been a move to try and get the prices indexed to the market price and make them more spot pricing. Some of the suppliers are saying, “Yeah, okay, we will move off oil indexation, but we will now move to spot pricing.” But in your original contracts, you had a certain amount of flexibility. Let’s say you would be buying 5 bcm a year. One year you might be able to nominate down to 4 bcm and make it up the next year or something. That flexibility is going, so suppliers will not be able to vary their demand on their producers as much as they could in the past. &#xa0;
+
+[[[Q12]]] 
+
+[[[Chair:]]] Are there any examples of schemes that are going to go ahead without a subsidy, Ms Vizor? 
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] I think there are many examples of schemes that have gone ahead without a subsidy, including the one that E.ON has built at Holford. There are other schemes that are currently being built in the UK that will come into operation in the coming months, which provide additional flexibility.              There are also other sources of gas flexibility that have been brought forward by the market over the past decade, such as LNG, interconnectors and greater flexibility through piped gas. Storage is just one part of that mix. We have to recognise that, yes, we need flexible gas supplies. We need to balance and to make sure that gas is available for customers when they need it. There are a number of different ways of providing that flexibility, of which storage is just one. At the moment intervention is not needed to provide additional flexibility. In some ways you could view the change of swing contracts as being that there is too much flexibility in the market and it cannot be fully utilised. What we are seeing at the moment is a world where there are a range of scenarios. I go back to Mr Robertson’s point. One of the key criteria here is around the affordability to the consumer because to guarantee or to subsidise will take money today and add to customers’ bills. We are very acutely aware of how difficult it is for energy to be affordable to homes and businesses in the current climate.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] Just a point on that. I think the subsidy that was under consideration was a revenue floor for gas storage operators. That cost would only be incurred once the facility was up and running and operating in the market. It would have an impact on costs. There are different views of what this cost would be, but I think in one of Redpoint’s assessments it was £4 million over the 10 years. In one assessment it was very trivial and in the other it was greater depending on where spreads ended up. But the central point is that if the floor mechanism with a cap is introduced, customers would not see the impact until the facilities were built and up and running, which is seven, eight years down the track.               
+
+[[[Dr White:]]] And even then they might not operate.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] My second point is about the amount of flexibility there is at the moment. You need different sorts of flexibility. You need stuff that can react very quickly: so when you need to fire up your combined cycle gas turbines, when the wind dies down, you need to generate more power. So you need your fast cycle stuff. There may well be a lot of capacity that can provide that. What I think was being looked at here was seasonal flexibility—a long duration of sustainable gas coming into the country. When you look at what happened last March when I(UK) went down, I don’t think we were in a particularly comfortable position where we had lots of flexibility that we could call upon. The LNG wasn’t turning up; storage was very close to being exhausted. So you were very much reliant on your interconnectors, and when one went down, things weren’t very comfortable. Had that gone on for a considerable time we would be in a slightly different place than we are today. Fortunately, it came back within a couple of hours, but had it gone out for a week to 10 days, I think things would have got a lot more hairy.&#xa0;
+
+[[[Q13]]] 
+
+[[[Albert Owen:]]] Before I come on to that security of supply issue specifically with Mr Monroe, may I ask Ms Vizor from E.ON about the storage facility? Is it a new-build storage facility?              
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] Yes.&#xa0;
+
+[[[Q14]]] 
+
+[[[Albert Owen:]]] How long did it take to get full consent for it? Is it in an area where there was planning before? It is a serious point. If people are just planning to do it now, when can we see them operable?
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] For Holford, we brought that as a consented project in 2005, and the first capacities became operational in 2011 with full capacity in February this year. &#xa0;
+
+[[[Q15]]] 
+
+[[[Albert Owen:]]] How much of that was business decisions for yourselves and how much of that was the actual planning process and consents?
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] The consent was already in place. We have also gone through a consenting process for Whitehill and have a consent in place for a second scheme at Whitehill. That took a number of years to go through, some of which was because we wanted to amend the design and some of which was going through all the due process. There are a number of schemes out there that have got consent and could be deployed. But there is a lead time with all these schemes.&#xa0;
+
+[[[Q16]]] 
+
+[[[Albert Owen:]]] In what time period can those be done—the ones that have got consent?
+
+[[[George Grant:]]] A rule of thumb is that you would expect to spend two to three years in obtaining planning consent and doing some of the initial design that will enable you to achieve that. Construction periods vary depending on the type of facility, but generally will be four years as a minimum and may be as long as eight to 10 years, depending on the type of facility. In total you are talking about close to 10 years as a minimum, so you really need to be looking reasonably far down the line in terms of making decisions on that. &#xa0;
+
+[[[Q17]]] 
+
+[[[Albert Owen:]]] Thank you very much. That is very useful. Going back to what Mr Monroe said about the potential for running out of gas this year, the Financial Times is quoted as saying we were six hours away from running out of natural gas in March and the chief executive of Centrica said that we came “uncomfortably close” to running out of gas this year. Did we really nearly run out of gas, or did we just have to pay a lot more for it? 
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] I think perhaps that is best directed to National Grid, who are in charge of the system, but my understanding is—
+
+[[[Albert Owen:]]] We would love to hear your views.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[: ]]]My views are that had I(UK) been out for longer than the short period that it was, prices would have responded. I think they peaked within days. They went up something like 50%—they were around £1 and they went up to £1.50—and I think had that been sustained for any longer period, then there would have been some customers turning down. I think there would have been a demand-side response as a result of those high prices, to balance the network. If you think about the gas market as roughly three equally sized bits—one is the power sector, one is the manufacturing and one is the domestic side—you think, “Were we likely to run out of gas for our household, our domestic customers?” then the answer to that is that it was highly unlikely, because of the amount of demand-side response that there is out there—if you like, two thirds.&#xa0;
+
+[[[Q18]]] 
+
+[[[Albert Owen:]]] What about the other two sections, then? How about industry?
+
+[[[Roddy]]]
+
+[[[ Monroe:]]] Had I(UK) been out for a longer period, then, depending primarily on the response of LNG—whether LNG would have diverted and come to this country— I think you would have seen quite a large-scale demand-side reduction from both power and industries. What you would have hoped would have happened is that the prices would have stayed at £1.50, gone up a bit, and then that would have attracted some of the cargoes that were Asia-bound. That would have come to our shores, and then that would have produced a reduction in price. &#xa0;
+
+[[[Q19]]] 
+
+[[[Albert Owen:]]] Would anybody else like to comment?
+
+[[[Dr White:]]] I don’t think this is a security of supply issue. I think it is a security of price issue. Because we didn’t have, I would argue, sufficient big storage there, we had big price rises over that period, you know, to attract it. That does get into traders’ minds. So I don’t think the price rises we have seen recently are totally unconnected with what was going on in March. 
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] I just want to give a slightly different perspective again. I am not sure how different the situation would have been had we had more commercially operated seasonal storage, because the whole mentality of that type of storage is that it fills during the summer and empties during the winter. Therefore by the end of March you would have expected that storage to have also been empty. So unless what we are actually talking about is gas in store that is locked away for these very extreme circumstances, then a commercially operated seasonal storage would have given us more storage capacity and given us more ability to shape the winter demand, but wouldn’t necessarily have given us any more gas in store by the end of March. I think it is true to say that the gas market worked very effectively in delivering the right price signals, and LNG did come along and there was flow through those interconnectors in those high-price times when the UK was struggling. All of that was in the context of it being very cold and a very prolonged winter, both here and across Europe. &#xa0;
+
+[[[Q20]]] 
+
+[[[Albert Owen:]]] Was it a prolonged winter, or was it a cold snap?
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] No; it was prolonged. I think if you look at the weather charts that National Grid show, it shows the cold spell starting very early and sustaining at below weather-normal demand pretty much through last winter. &#xa0;
+
+[[[Q21]]] 
+
+[[[Albert Owen:]]] But can we expect them in normal times, when we have nice hot summers and cold winters? I am being serious.               
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] I really don’t know. I am not a meteorologist. 
+
+[[[Albert Owen:]]] No, but you take your advice from them, I’m sure. Sorry, Mr Grant—would you like to say something?
+
+[[[George Grant:]]] I want to add to the point about last winter. We saw a situation in which LNG had been pulled into the Far East, largely because of nuclear outages in Japan, so the LNG in the UK was depleted—our storage was depleted—and, as we came to the end of the winter, we saw prices spike. If you compare that with the future price for next winter’s gas, it cost the economy—UK consumers—about £400 million. That is the sort of insurance that we think it is worth the Government putting in place.If you look at Germany, which has a similar-sized gas market to the UK, between 2009 and 2012 they added 10 bcm of gas storage in their market. That is double the amount of storage that we have in the UK currently. I would say that they are looking long-term—2030, 2040, 2050—rather than at the next four or five years, and the perception of costs that consumers will have to bear. There are important parallels that one can look at in similar-sized markets where they have taken steps to provide that consumer insurance.&#xa0;
+
+[[[Q22]]] 
+
+[[[Albert Owen:]]] So three of you are saying that gas storage would mitigate the risk of running out of gas. Am I clear on that?
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] Briefly, I think Jo raises an interesting question about whether more storage would have made a difference. Eclipse Energy, who are independent market analysts, did a paper on what the effect would have been on the market if I(UK) had been out to the end of March, so from the 22nd to the end of March. They did some analysis and looked at different scenarios about how quickly LNG would respond. Then, in their analysis, they layered in another seasonal storage facility and noted the difference. From that, they found that there was no demand-side reduction and prices were maintained at a reasonably low level. I am willing to share that paper with the Committee, because it helps to answer the question about what difference more seasonal storage would have made had it been available during this winter.&#xa0;
+
+[[[Q23]]] 
+
+[[[Albert Owen:]]] If I could move on to the North sea, would the gas fields be ramped up to meet demand, or would we have to rely on LNG imports? Is the resource that we have got there now recoverable and flexible enough to assist? 
+
+[[[George Grant:]]] I will have a go at answering first. Two points are relevant. First, the availability of domestic production is declining. I think we are all aware of that. In 2005, the UK was still capable of meeting 100% of our gas requirements. In a very short space of time, we are down to about 50% from domestic reserves now. Another relevant fact is that the flexibility from that gas production is decreasing, largely because gas from the Southern gas fields was generally from pure gas fields, and they were flexible fields. The majority of the gas being produced now is referred to as associated gas—it is produced along with oil—so the production profile is being driven by oil production rather than gas production.&#xa0;
+
+[[[Q24]]] 
+
+[[[Albert Owen:]]] So it is the wrong type of gas.              
+
+[[[George Grant:]]] It is the wrong type of gas.
+
+[[[Chair:]]] I should remind the Committee of my entry in the Register of Members’ Financial Interests to do with the oil and gas industry, particularly a shareholding in Shell.&#xa0;
+
+[[[Q25]]] 
+
+[[[Albert Owen:]]] I have a final point to make. Mr Robertson came in on shale gas. I heard your response, Mr Grant, when you mentioned the European level. Specifically on Britain, if the shale gas that we believe is there is recoverable, is it flexible enough to assist in the future, alongside interconnectors, without having storage? Can it be stored differently, and can it be stored near us so we do not have to rely on massive connections in the existing grid system?
+
+[[[George Grant:]]] The short answer is that shale gas is not flexible. Production is very flat. It will help in providing an additional diversity of supply to the UK market, but it will not help meet the difference between summer and winter demand. The peak winter day has four times the level of gas demand as the minimum in summer.&#xa0;
+
+[[[Q26]]] 
+
+[[[Albert Owen:]]] And it does not cover the decline of North sea gas either, in your opinion, even on the best estimates?.              
+
+[[[George Grant:]]] Sorry?
+
+[[[Albert Owen:]]] The decline of the North sea gas—does shale gas in some way cover that gap? I know that it is hard to predict.
+
+[[[George Grant:]]] No. I think even the most optimistic shale gas scenarios have the UK producing about 30% of our requirements in 2030, by which time we will be down to about 20% from conventional fuels. We will still need at least 50% from elsewhere.              
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] May I come in?&#xa0;
+
+[[[Q27]]] 
+
+[[[Dr Whitehead:]]] I wanted very briefly to pick up on the question of LNG diversion. I have raised the issue of literally commandeering ships full of LNG bound for the Asian markets and causing them, as far as I can understand, through a bid process, to turn round and come to Milford Haven instead. Bearing in mind the enormous price differential between Asian markets and European markets, how likely is it that that will act as a reliable addition of last resort in reality, bearing in mind that the bid price at that point would be so far in excess of anything that is normal in the UK markets that it would knowingly add an absolutely huge margin on to the overall gas prices in the process?
+
+[[[George Grant:]]] I am happy to take that one again. The LNG contracts are being signed today and all have diversion clauses in them. The shipper of that LNG has the ability to divert that ship to a different market if there is a higher price in that market. The price difference is shared with the original customer and the supplier. As you say, if the price is allowed to rise high enough, you can attract supplies from elsewhere around the world. The supply still will not be there tomorrow, because there might be a ship on the high seas, but you will have the ability to attract gas to the market if you are prepared to allow those prices to go wherever they need to. It comes back to Tony’s point that the issue is not about the security of physical supply; it is about what we need to do, if anything, to provide consumers with protection in the long run against international gas markets and prices.&#xa0;
+
+[[[Q28]]] 
+
+[[[Dr Whitehead:]]] But the Asian market is twice the level of the European market.              
+
+[[[George Grant:]]] That is right.&#xa0;
+
+[[[Q29]]] 
+
+[[[Dr Whitehead:]]] So you would predict that the normal LNG contract would be a huge hurdle to overcome in diverting any traffic.              
+
+[[[George Grant:]]] Exactly.              
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] At the current time. There are changes in the global market, with new LNG capacity coming on in places such as Australia, which will release gas from the Far East to serve other markets. Of course, the regasification or liquefaction of shale in the States and the release of shale gas from the States as LNG for the rest of the global market will change that picture. We have to be clear that we are working in a global market. It is important to understand that when we are filling any sort of storage with gas, that gas comes from a variety of sources. Some are UK, some are LNG, some are Norwegian and some are via the interconnectors to the continent. We do not provide ourselves with self-sufficient gas any more. We are inevitably linked, whether it is summer or winter, to that global gas market.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] If you look at the gas market as being made up of a series of stacks, the higher-price stacks are things such as the LNG and stuff like that that you need to attract when demand goes up. When sources of supply are removed lower down the stack through, for example, some sort of infrastructure failure, that is when you have to attract those higher prices. Seasonal storage means that you have more of the lower-price stack, so you do not have to go out to the LNG market to attract. That is the whole point, because otherwise you are fighting the Asian markets to attract those cargoes across. I think George is right, but I am not sure that all cargos have diversion rights. I think there are all sorts of other things going on, and whether an LNG producer would be comfortable in diverting ships that he promised to customers in the Far East needs to be tested.
+
+[[[Dr White:]]] I completely agree with that. I think the important thing is that, in all bar one of the last 10 years, there has been a major interruption into the UK of some sort. Each time, we have had the price consequences because of that. &#xa0;
+
+[[[Q30]]] 
+
+[[[Christopher Pincher:]]] Pursuant to the question of the impact of Far Eastern markets, you mentioned the impact that seasonal factors have on price, but demand in India, China and other places is growing, and that is a structural factor. Have you been able to quantify what impact that increase in demand will have on gas prices and, therefore, the effect it might have on the UK?
+
+[[[Dr White:]]] The only think I have looked at—as I say, I am not a gas man—is the fact that those Asian markets are very seasonal. There are very high temperatures in the summer and very, very low ones in the winter and you do get big increases in gas demand in the winter. So their timing would be the same as ours. I could not say any more than that.&#xa0;
+
+[[[Q31]]] 
+
+[[[Christopher Pincher:]]] And if they were to build more gas-fired power stations to provide electricity for their ever-growing industries, do you think that that would change demand out of season?
+
+[[[Dr White:]]] If they had lots and lots of air conditioning and everything else, would that flatten the total profile? Possibly. I have not seen evidence of that yet, but you might be right.
+
+[[[Roddy]]]
+
+[[[ Monroe:]]] Looking forward, one can assume that the Redpoint modelling that was done took into account forecasts of Asian demand, and the cost-benefit analysis they produced was based on the most current view of what that demand would look like and, hence, what global energy prices might be, taking into account Jo’s point that there will be additional LNG on the market when we get to 2020 or 2030. Hopefully, Redpoint picked up those points in their analysis. 
+
+[[[George Grant:]]] I think, to add to Roddy’s point, there clearly is uncertainty going forward. An interesting Eni presentation was made at one of the conferences a few months ago which looked at LNG supply in the northern hemisphere. It does highlight the significant difference between the summer and winter demand. I think one of the big unknowns is the demand we will see from China, in particular in future years. We hear a great deal about environmental concerns in China at the moment, and one of the areas they are looking at is trying to switch a percentage of coal generation to gas. If that happens and the demand in China moves by 1% or 2%, it will have a huge impact on the demand for LNG on the global gas market. That is really what we keep coming back to: the point about looking forward and insurance and price security, rather than physical security.&#xa0;
+
+[[[Q32]]] 
+
+[[[Christopher Pincher:]]] May I ask you a second question about DECC’s stated position? It says that, “Unless restrictions on their”—gas storage facilities—“use are put in place, storage facilities cannot be relied upon to have gas when needed by the market”. In other words, if it can be used all the time, it will not necessarily be available when it is needed in the winter-time. If DECC were to change its mind and go down the route of some form of floor mechanism or subsidy, do you think that such restrictions would need to be put in place so that we would benefit from storage?
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] I don’t think that would be necessary; I think the market is probably best placed to determine when the gas should or should not be used.&#xa0;
+
+[[[Q33]]] 
+
+[[[Christopher Pincher:]]] So you think it operates effectively now and the additional storage would not alter the situation?
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] No; as I said, there has been this piece of work by Eclipse that looked at how storage would be dispatched if I(UK) was out for longer, and what impact that would have on prices if there was more storage. The problem with putting French-style public service obligations on the use of storage is that you have to forecast when the demand will be there. The market actually is very good at taking gas out when it is needed and putting it back in when it is not. If you look at this winter, which I think is a good winter, although with large seasonal distortions, as storage got close to empty, the gas taken out was reduced as people preserved the stocks and they put it back in when prices dipped down. So the market is very good at knowing when to dispatch storage—probably better than any forecast would be, I suggest.
+
+[[[Dr White:]]] I am not sure I completely agree with that because the thing that always concerns me is the thing that you are not expecting. As I said, we have had almost one a year for the past 10 years. Maybe there will be a need to keep a certain minimum amount of storage in a storage facility in future, were you to have a floor put on your margin over a year for a new facility. Maybe that is something. What I was hoping was that the Government would have allowed us to explore that, rather than just saying no. 
+
+[[[George Grant:]]] We undertook some modelling with Pöyry trying to look at that question, which we shared with the Department of Energy and Climate Change. It looked at increasing amounts of additional storage in the UK market and whether you put a restriction on the release of gas from that storage as the winter progressed. In other words, you had to keep 80% until the end of January and then step down. It looked at a number of different years of actual weather patterns. In most years that restriction on how much gas was held back did not impact the market, but there were some years when there was a very cold December, for instance, when there was a restriction. The simple answer is that there is not a simple answer, I suppose. It will depend on how much storage you suggest or require the market to provide. The more you build, obviously, the fewer times you are going to bump up against that constraint.
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] It is interesting to think about how one intervention leads to other interventions. For me, when I look at the gas market, I see it working effectively and the price signals actually sending messages to shippers, suppliers and customers to perform in the right way. Intervention, which E.ON has not called for at the current time, puts a different piece into that jigsaw. Whether the market signals will be as effective then in getting the right behaviour is not entirely clear to me. If we have further interventions that limit how things work, I am not sure how all those additive measures work to make an efficient and effective market, and how they affect not just the new asset that may be being supported with intervention, but the existing assets that are already in the marketplace.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] I think that is right. I think that the market does work well. The question from a security of supply view is, “Is the market going to deliver the level of security of supply that policy makers require? Is more storage going to be delivered just through the market?” From what we heard earlier, the market will not deliver seasonal storage.
+
+[[[Dr White:]]] I would also add that there are lots of examples of the market not providing the right signals for somebody to do something that will be to the benefit of all customers. Our markets just do not work like that. That is not the way that markets operate. This is one case where we can see that, yes, there would be a negative impact on prices for all customers, but it would not be in the commercial interest of a company to build something.&#xa0;
+
+[[[Q34]]] 
+
+[[[Christopher Pincher:]]] What sort of messages are you getting from customers? Do you get any signal from them? I have a letter here to the Chair of the Committee from a dozen MPs, led by Paul Farrelly, representing constituencies that have energy-intensive industries. I shall quickly read two paragraphs of the letter:              “As the economy starts to recover, we need to ensure that UK manufacturers are well-placed to meet demand and feel confident enough to invest in manufacturing plant and equipment, into which much research and development has gone to ensure energy efficiency.               Concems about price volatility and shortages, and about potential interruptions of supply, in the UK gas market remain a very real subject of everyday discussion in the companies and  industries we represent”.Is that the sort of message that you get from gas and energy customers, particularly in the energy-intensive industries?              
+
+[[[Dr White:]]] Sorry, I don’t get those messages.
+
+[[[George Grant:]]] Yes is the short answer. We all speak fairly regularly with the Energy Intensive Users Group. Many of them are large gas users. In fact, we undertook a survey a couple of years ago to determine whether they felt that an insurance premium, effectively, would be worthwhile if it provided them with additional protection against gas price spikes. They looked at following the Committee’s recommendation to double UK gas storage at a cost of the order of £4 billion to build that gas storage capacity. Their calculations were that it would add about 1% to their gas bills, so less than 1p per therm, and that was a cost that they felt would be worth incurring if it provided the additional security. We have seen that energy-intensive users are very exposed to the international gas markets. Many of the small and medium-sized companies have to buy on the spot market and do not have the ability to enter into long-term contracts, so they are very exposed to price spikes and shortages.&#xa0;
+
+[[[Q35]]] 
+
+[[[Christopher Pincher:]]] That is helpful. One last question: in order to achieve gas security, is it cheaper and quicker to build more gas storage or to look for an additional energy terminal or an interconnector? Which is quicker, which is cheaper?
+
+[[[George Grant:]]] I seem to be doing an awful lot of talking, but again I am happy to answer that. They are very different assets. The period of time to build an LNG import terminal and a gas storage facility would probably be similar and a pipeline may be somewhat quicker. But you are still talking of the order of five years plus, as a minimum. The key difference is that building import capacity—be they pipelines or LNG import terminals—does not mean that the gas will be there when you need it. The difference about building gas storage within your borders is that you have a gas resource that is within the market area, which is accessible when you need it. There is a key difference between import capacity and gas storage capacity within your borders, effectively.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] I think at the moment we have around 190% import capacity compared to our annual average demand. There is no shortage of import capacity, so that is okay. If you look at how we perhaps stack up to similar gas markets with our gas storage, we are woefully short. I am not sure that adding more infrastructure, given that we are 190% over our annual demand anyway, would solve the problem.&#xa0;
+
+[[[Q36]]] 
+
+[[[Christopher Pincher:]]] So you think it would create a further imbalance?
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] I think that if the gas needs to come, there are routes for the gas to come. It is the price which you have to pay. As I explained, what you need is cheaper gas lower down the stack that is available to the market when the market needs it.
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] For me, I see a question about the utilisation of adding infrastructure that has already been invested in first. Why are we not thinking more about that and contracting for more LNG for inter-delivery, rather than necessarily adding another cost to a customer’s bill at a time when the customer is already struggling to afford the energy costs that they face? The infrastructure is there; we need to see it being more fully utilised.
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] What we were talking about was that the Redpoint report appeared to suggest that customers would have been better off, not worse off, if there was more storage. In three out of the four scenarios that Redpoint looked at, consumers would actually be better off, not worse off.
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] May I clarify that? Customers will be better off only if there is a differential treatment between a new supported storage asset and all existing storage assets. If that is not the case and all assets in the storage field are treated the same, it does not lead to that same answer.
+
+[[[Dr White:]]] If I may, Chairman, the real issue we are dealing with here is that if you want someone to build a storage facility, you need people to drill holes in the ground. Most of the oil industry, when it does that, is expecting returns of 15%, 18% or 20% for doing things. What we are talking about is that to do a storage facility, if you somehow guarantee a return, you can get the return that someone would accept down to maybe 8%. That is the key: how do you get the cost of putting in this infrastructure down? If you provide some sort of floor return for this facility, you get the cost of storage down and the price to customers goes down. That is what happens.Yes, there is an impact on the existing storage; I won’t deny it. It is not massive, at least not according to the Redpoint report, but we need to look at it. Let us see what kind of rules we would need so that perhaps the impact on the existing storage is not so bad. How could we do it? To me, the goal of being able to protect customers against the price excursions and price rises is the key thing we need to think about.
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] I think the answers in the Redpoint analysis show that there could be very considerable negative effects on existing storage. I know that the market economics for storage in today’s world are already very difficult, and putting a further negative effect on it will not help those assets that are already providing energy security and flexibility, both day to day and between seasons.&#xa0;
+
+[[[Q37]]] 
+
+[[[Dr Whitehead:]]] It is the case, isn’t it, that if we can hijack someone else’s energy vessel, they can hijack our previously contracted LNG vessels? That is, if we have LNG contracted from Qatar and, if there is a flexible contract on that, someone decides that they wish to divert it, and that happens, the reliability of turn-up to depots we have either existing or built seems rather fragile. Is that right?
+
+[[[George Grant:]]] Yes. I know that Tony pointed to the fact that there are some firm LNG contracts, but I think it is fair to say that almost all contracts being signed today have that diversion clause in them. They are therefore vulnerable to being diverted from whatever destination. They could be diverted to one destination and then go somewhere else because prices have jumped somewhere else in the market, so it is a very fluid situation.&#xa0;
+
+[[[Q38]]] 
+
+[[[Christopher Pincher:]]] So we are only sure when it is game point.              
+
+[[[George Grant:]]] You could be right, yes.
+
+[[[Chair:]]] We come to the last set of questions, from Ian Lavery.&#xa0;
+
+[[[Q39]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] I would like to move on to the interaction between gas storage, carbon reduction targets and climate change. Production from most renewable sources is variable, which inevitably means that responsive electricity is essential to provide cost-effective and reliable electricity. What is the role of gas storage in allowing renewable electricity sources to operate effectively?              
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] That is exactly what Holford is designed to do—to enable decarbonisation of the electricity sector to move ahead. We believe that fast-churn storage provides the security to move ahead with the renewable build—whether that is biomass, wind or, indeed, nuclear—in terms of a low-carbon agenda, because we then have an ability to provide very flexible gas into the market very quickly. A facility such as Holford can provide enough gas in one day to fuel 10 400 MW CCGTs for the full day, or 85 CCGTs for a four-hour period. I think it comes down to how long the wind is not blowing for, in terms of the question you asked. We believe that that is a key role for fast-churn storage in terms of balance in the UK energy market. 
+
+[[[Dr White:]]] I would argue that that is the story for all storage. I do not think it is necessarily just for fast-churn; I think it is all storage. If you can withdraw the gas, that enables you to run the power stations, which enables you to make up when the wind is not blowing, the sun is not shining or whatever.               
+
+[[[George Grant:]]] I think if we look at the low-carbon agenda, we see that from the power generation sector at least, coal is pretty much eliminated from the forecast by 2025 in the UK, and that is largely picked up by gas. We are moving from a coal, gas and nuclear environment in the past to a renewables, nuclear and gas environment in the future. There are two elements. Jo talked about flexibility from gas supplies and gas storage, which is important, and price. The price of gas is not only going to impact consumers using gas for heating, but it is going to impact electricity consumers, because we are going to be reliant on about 40% of our electricity production post 2030 from gas supplies. &#xa0;
+
+[[[Q40]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Gas is still a highly polluting fossil fuel, and emission levels are somewhere around 430 grams or 440 grams of CO2 per kWh. Because of that, is there a risk that increased gas storage will act as an economic lock-in for fossil fuels in the future? 
+
+[[[Dr White:]]] What it does is allow you to run those fossil fuels. If you then decide to put carbon capture and storage on your gas stations, it is not a problem. It is only a problem if we do not do something about the emissions from our gas stations. I should declare that I am on the board of the Crown Estate and we have made money by renting to CCS as well as gas storage. It means that if you want to completely decarbonise, you want electricity and you do not have all-nuclear, you are going to have to do some form of gas storage and you are going to have to do CCS with it.  
+
+[[[George Grant:]]] Just to reinforce that, the assets that we have in the gas storage sector are principally depleted reservoirs or salt caverns. Neither of those would necessarily be redundant assets in the future. Tony has talked about reservoirs being suitable for carbon capture and storage, if that becomes a viable technology. On salt caverns, quite a lot of work is being done to look at compressed air energy storage, which they are very suitable for. Both sectors would have a potential future in a low-carbon environment. If you look at the Netherlands and Germany, they tend to look at what they call synthetic gas or renewable gas as being a long-term solution where they are taking CO2 and creating methane. In almost any economy you look at, gas is an incredibly important fuel to support the transition to a low-carbon economy. 
+
+[[[Roddy]]]
+
+[[[ Monroe:]]] If you look at DECC’s projections in 2012 up to 2030, where they look to reduce the carbon emissions to 100 grams per kWh from the 400 grams that it is at the moment, gas is very much in that mix and they achieve their targets. DECC look at an increased use of gas in generation and still achieve the targets that they have set out. 
+
+[[[Dr White:]]] Also, National Grid did some work where they looked at how much anaerobic digestion you could get going to create biogas. If you inject biogas into our national grid system, you will need storage like any other gas, so it could work.&#xa0;
+
+[[[Q41]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Mr Monroe, you touch on an important point. Basically, the targets that DECC set the nation were to decarbonise to less than 100 grams of CO2 per kWh by 2050. That suggests that gas can be used to generate, between now and then, probably around 30% of our electricity. Will gas storage still be needed at this level of use?
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] I know the question was directed to Roddy, but I think that gas storage is critical in those environments for providing the day-to-day flexibility to balance the electricity system. That is exactly where things like fast-churn storage come into the fore—if there is excess gas on one day, but gas is needed the next day. Being able to support that decarbonisation—&#xa0;
+
+[[[Q42]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] It will become more critical.              
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] It becomes more critical, yes.
+
+[[[George Grant:]]] At the moment, gas is running 30% or 35% of our electricity generation. You are talking about it being around 30% or 35% of our electricity generation in 2050, so it is as critical in 2050 as it is today.              
+
+[[[Roddy]]]
+
+[[[ ]]]
+
+[[[Monroe]]]
+
+[[[:]]] indicated assent.&#xa0;
+
+[[[Q43]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] According to OECD figures, fossil fuels receive up to six times more subsidy than renewable energy. Do you think that subsidising gas storage runs counter to the carbon reduction objectives?              
+
+[[[Dr White:]]] For the reasons said, no.&#xa0;
+
+[[[Q44]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] I think I knew the answer to that, but I wanted to put it on the record. Is it as simple as that?              
+
+[[[Dr White:]]] I think so. From what Jo and I were saying, it does not run counter at all.
+
+[[[George Grant:]]] I think that is a global figure. Certainly, that ratio is not true in the UK at all. If you step back from that global number and look at what is happening in the UK, the money that is going to support low-carbon generation is vastly in excess of anything that is going into the conventional sector.
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] On carbon reduction, we really have to think about how gas storage is treated in that world. Gas storage facilities pay under the carbon reduction commitment, when what they are doing is helping support the move towards a lower-carbon environment. To perform that service, which enables the UK to move in that direction, we get charged additional amounts, which is a further economic pressure on existing storage facilities. That puts those businesses under enormous pressure.&#xa0;
+
+[[[Q45]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] If the Government’s hopes—not just hopes; their aims and aspirations—for nuclear build in the future are successful and a substantial amount of electricity is generated by nuclear, what would be the implications for gas storage demand?
+
+[[[Dr White:]]] I would say, first, that it is a long time out, because we are looking past 2020 now for Hinkley Point C to start working. You will still have nuclear. However much you have, it will not match demand, so you will still have your electricity demand going up and down. Therefore, you will need some flexible supplies. I see gas as being that flexible electricity supply.&#xa0;
+
+[[[Q46]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] So basically it will not have much implication for gas storage?              
+
+[[[Dr White:]]] No, I do not think it does. 
+
+[[[George Grant:]]] The nuclear programme is largely designed to replace nuclear facilities that are going to be retired in the 2020s. They are talking about the first station, which has just been committed to, getting online in 2023. Any other stations will be subsequent to that. Really, we are talking about replacement at the moment. The balance of the generation mix will still come from renewables and gas. 
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] I want to ensure that we see this as a whole: that renewables, gas and nuclear are all part of the energy mix and work together to bring down the carbon intensity of the UK. The type of storage that that may require may not be seasonal storage; it may be a much faster type of storage than something that fills during the summer and empties during the winter.&#xa0;
+
+[[[Q47]]] 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Very interesting. One way of balancing out seasonal energy demand is to produce gas from excess summer electricity—power to gas. Do you see a role for gas storage facilities being used for future low-carbon gas technologies?
+
+[[[George Grant:]]] Very much so. As I alluded to a moment ago, there is quite a significant focus on that in the Netherlands and Germany, where they are looking to produce synthetic gas effectively from renewables during periods of excess power. Gas is a commodity with a fairly high energy density, and it is easy to store, so you can produce it at times when you have excess electricity from renewables, and store it until it is required. It is a relatively easy medium to store.
+
+[[[Jo ]]]
+
+[[[Vizor]]]
+
+[[[:]]] Our gas storage business in Germany is actually taking forward some of the more general energy storage projects, because we see an overlap of expertise between gas storage knowledge and how to store other energy types.
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] This is not a question, but a brief comment. What Dr White says about carbon capture and storage is interesting. The Committee is doing an inquiry on carbon capture and storage, and I would have loved to ask you lots of questions on it, but I am sure that the Chairman would not have allowed it.
+
+[[[Chair:]]] I will allow that when we come to the evidence session on carbon capture and storage.               Thank you very much for your evidence, which has been most informative. I think you are going to send us some stuff, so we will be in touch about exactly what we need. If anything occurs to you that you did not get across, please get in touch.              Oral evidence: Gas Storage, HC 871                            2

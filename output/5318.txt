@@ -1,0 +1,391 @@
+&#xa0;Justice CommitteeOral evidence: The work of the Criminal Cases Review Commission, HC 971Tuesday 14 January 2014Ordered by the House of Commons to be published on 14 January 2014Written evidence from:Criminal Cases Review Commission&#xa0;Watch the meetingMembers present:Sir Alan Beith (Chair), Steve Brine, Mr Christopher Chope, Jeremy Corbyn, Gareth Johnson, Mr Elfyn Llwyd, Andy McDonald, John McDonnell&#xa0;Questions 1–39&#xa0;
+
+[[[Examination of Witnesses]]]Witnesses: 
+
+[[[Richard Foster CBE]]], Chair, Criminal Cases Review Commission, and 
+
+[[[Karen Kneller]]], Chief Executive, Criminal Cases Review Commission, gave evidence.
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Mr Foster and Ms Kneller, welcome. The fact that you were slightly delayed was of assistance to us because we were just completing some earlier business, so you need not worry about that. We are grateful to you for coming in this morning. We have thought for some time that we would like to have an introductory session with you. This might lead to our exploring further any issues that come up. We have not launched an inquiry into the commission, but it is a body we feel that we would like to get a better understanding of. I ask Mr Corbyn to begin.
+
+[[[Q1 ]]]&#xa0; 
+
+[[[Jeremy Corbyn:]]] Welcome. Thank you for coming to give evidence to us this morning. As someone who was deeply involved in both the Birmingham and the Guildford cases, which eventually led to the establishment of the commission, I am really pleased you are here. Do you feel that over the years it has had sufficient independence and sufficient clout to carry out the work envisaged at that time to address miscarriages of justice?
+
+[[[Richard Foster]]]: Independence and clout, yes. Money is in short supply. Pressure of resources is really the biggest inhibitor on our work. We have had some 15,000 applications since we were set up. We have reviewed in depth roughly 5,000 of them. To date, we have referred back to the courts 540 cases in which the conviction was quashed. This year—to December—we have referred 24 cases to be quashed. Yes, I think we have the independence. Yes, I think we have the clout, subject to the issue of our section 17 powers, which I hope the Committee may want to come on to later.Money really has been tight. We had a period, from 2008-09 until this year, in which we had no increase in funding at all, so in real terms our budget is 25% less than it was in 2008-09; austerity came to us rather early. This year we have had a slight increase in funding of £450,000, in recognition of the fact that our volume of applications has gone up by 75% in the last couple of years. Obviously that increase—which is an increase of about 8% in our budget—is nothing like enough to cope with those additional volumes.
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Jeremy Corbyn:]]] Do you feel that over the years since it was established there has been an increase or a decrease in public confidence in the criminal justice system?
+
+[[[Richard Foster]]]: It is very hard to say. What we have seen is a remarkably steady level of applications to us and miscarriages of justice identified by us. In those terms, the poor are always with us, as it were. We have seen very little variation until, as I said, the last year or so, when we have seen a surge in applications, on the back of work we have done to increase accessibility to the commission. As to whether there is greater or less public confidence in the criminal justice system, I honestly do not think I am the best person to answer that question.
+
+[[[Karen Kneller]]]: One of the things we can say is that part of our role is to provide a quality assurance system within the criminal justice system. We try to keep the system clean, if you like. It is a difficult question for us to answer, but I think we do play a role in trying to enhance confidence in the system. As the chairman said, we have many cases coming to us, in the majority of which we do not think there is a particular issue. As you know, only a small proportion of cases are referred back to the appellate courts.
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Jeremy Corbyn:]]] What would you say have been the main achievements in contributing to reform and improvements in criminal law in this country? In your view, what case law or other improvements have there been as a result of your work?
+
+[[[Richard Foster]]]: Let me take the most current example—asylum and immigration cases, of which we are now seeing a very considerable number. If you will forgive me, I will take a moment to paint the picture. Parliament has legislated, quite rightly, to say that if you attempt to enter this country with a false passport—or a genuine passport that is somebody else’s—you commit a criminal offence. That was to stop what had become quite a developed set of criminal activity, with criminal gangs transiting people here in that way. But at the time it legislated, Parliament also offered a statutory defence, which is that if you are genuinely fleeing from persecution, perhaps in fear of your life, and you come here and present yourself—
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Jeremy Corbyn:]]] Was that in the 1987 Act?
+
+[[[Richard Foster]]]: Yes. In that case, you have a statutory defence. So you would expect that when people presenting precisely those features came here they would not be prosecuted. What we have actually found—there are some really shocking cases—is that when people have come here the case has been looked at first by UKBA, then in the police station, then by the defence lawyers and then by the Crown Prosecution Service, but nobody has spotted that these individuals have a very clear statutory defence. Instead they have been advised to plead guilty and, naturally, have been convicted. To put it at its highest, people who have been coming from countries where the British Government do not recognise a legitimate Government, and who logically, therefore, could not have had a legitimate document from the country they came from, have even so been convicted.To date, we have referred 14 such cases in the last couple of years; 12 of the convictions have already been quashed. We have about 80 that are current. I will be very surprised indeed if there are not many hundreds more yet to come forward. I have spoken to the DPP about it. We are in discussion with the defence Bar and with some of the solicitors’ regulatory authorities, because there may be issues about people simply not doing their job. If you look at all of that, it is not simply that the individuals concerned have been convicted when they should never have been prosecuted in the first place; the cost will have been enormous. There will have been publicly funded defence, publicly funded prosecution, the cost of the trial and, if people have been incarcerated, the cost of all of that, so you are talking about the waste of very considerable sums of money. That is an example of a class of miscarriage that we spotted that is really relatively new. On the back of quite a bit of activity to publicise what has been going on, I hope we are in the process of putting a stop to it—although not entirely. The most recent conviction we are dealing with is from January last year, so this is quite a current problem.
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Jeremy Corbyn:]]] In any case, isn’t that the fault of lawyers for not advising people that that is a mitigation defence?
+
+[[[Richard Foster]]]: Yes. That is the primary cause.
+
+[[[Q6 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] In your earlier answer, you were modest about public confidence, which may well be appropriate, but it is actually in your mission statement that you want to enhance public confidence in the criminal justice system. Presumably you have to have some way of dipping the dip-stick into the tank from time to time and establishing whether you are succeeding in that objective.
+
+[[[Richard Foster]]]: We do not run any sort of survey or go through any process of that kind to give us an independent assurance. One way of looking at it would be this. About 90% of the applications that we get are from Crown court convictions—serious convictions, not just convictions in the magistrates. Although that is 90% of the applications that we receive, it is only 1.2% of Crown court convictions, so only a very small percentage of people convicted in the Crown court come to us. Of those, we decide that about 97% or 98% of the cases we look at are perfectly safe convictions, with no grounds for referral, so the percentage of cases that we refer as potential miscarriages is a very small percentage of a very small percentage.&#xa0;
+
+[[[Q7 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] I am not really sure that answers the question. A layman’s view of public confidence would be that it is about whether people generally believe that the justice system is fair. That belief is made up from a whole variety of things, but one of them is the confidence that if injustices have occurred there is a good working procedure that deals with them. That is what you try to do, but perhaps one should know whether this is having any impact or whether other forces or factors are still undermining public confidence by more than you can improve it.
+
+[[[Richard Foster]]]: Karen may want to say something in a moment. When I worked as chief executive of the CPS and was a member of the National Criminal Justice Board, the Home Office and the DCA, as it then was, ran very extensive public confidence surveys. I would love to be in a position to do the same sort of thing in the CCRC. We are a very small organisation. We have 80 staff in total—that is it. I have no sort of policy or research capacity whatsoever. I do not want to present a tale of woe, but, if you are a casework organisation and you have queues, the pressure to deliver on the casework and to deal with the next potential victim of miscarriage tends to drive out more or less everything else. That is why many of the things that we would like to do to feed back more into the criminal justice system have been rather squeezed.
+
+[[[Q8 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Maybe what you actually need is some analysis done of material that is available elsewhere, through research conducted by others more generally into the criminal justice system and the public perception of it.
+
+[[[Karen Kneller]]]: I suppose it depends on who the public are; as you were saying, there are various groups. In the last few years, we have done an awful lot of work on improving access to services, so very many more people and various groups of people can access us. That is a public confidence point. We do much more stakeholder engagement. A lot of that is with academic institutions and research. We are chipping away, if you like, but as the chairman said, we were very much a firefighting organisation, focusing on the front-line casework. It is right to do so, but increasingly we are turning to address those issues.
+
+[[[Q9 ]]]&#xa0; 
+
+[[[Steve Brine:]]] Thanks for coming in. Can we turn to the triennial review? I noticed from our notes that you underwent your first triennial review in 2012-13. It came up with a series of recommendations. Have you entered into what you would call a constructive dialogue with the Ministry of Justice since those recommendations came out? Was an update provided in October, as required?
+
+[[[Richard Foster]]]: Yes. There has been a very constructive dialogue. Our review was positive, on the whole; we came out green in most areas. There was very strong support from stakeholders for the continuation of our work and for its being done in the form in which it is done now—that is to say, by a public organisation. There are really three outstanding points from the report. The first was around the role of the chairman and the chairman’s powers in assessing commissioners and—
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Steve Brine:]]] They described it as wanting a more defined leadership role for the chair.
+
+[[[Richard Foster]]]: Yes. That has been discussed and agreed already, so it is done. The second issue was around governance. The recommendation was for a smaller and more balanced board, in line with best practice elsewhere. That is something we have not yet discussed as a commission; we are due to discuss it the week after next.
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Steve Brine:]]] On the 28th.
+
+[[[Richard Foster]]]: Yes. Why not sooner? As you may be aware, the chair was in the process of being reappointed.
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Steve Brine:]]] You were reappointed just before Christmas.
+
+[[[Richard Foster]]]: I was reappointed at the beginning of November. The commissioners felt that it was right to pause on that discussion. We are due to discuss it. The point at issue is that, on the one hand, pretty well anybody would agree that the best way of running an organisation is to have a small board—mainly non-execs—holding the executive to account, but we are a commission. The commission is our statutory body, so to speak. There is a tension between those two things that we hope to resolve.The third issue, since you have given me the opportunity, is section 17, where the triennial recommends—&#xa0;
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] We will come to that.
+
+[[[Richard Foster]]]: Then I will stop.
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Steve Brine:]]] Ms Kneller, does a smaller board work for you? I am sure the more defined leadership role for the chair works for the chair, but does the smaller board work for you? Does that make sense? Did you agree with the triennial recommendations?
+
+[[[Karen Kneller]]]: The recommendation is a reflection of what is understood to be good corporate governance. We know that that changes over time. For us, the challenge is how we overlay that on a commission model. We need to have those discussions. One of the other reasons why there has been a little bit of delay is that not only was the issue of the chair’s appointment in the air but we have also recently had the appointment of five new commissioners. Somehow it did not seem appropriate to deal with something so fundamental when virtually a third, if not half, of the board was just about to walk through the door.
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Steve Brine:]]] Why did it take a triennial review? If it was good governance and good practice, why did it take a new Government implementing triennial reviews of non-departmental public bodies for you to do that? Why did you not proactively do it yourselves?
+
+[[[Karen Kneller]]]: We have done a great deal of work over the last three or four years on refining our governance arrangements. For example, we have moved to a more structured committee system, so we started the process some time ago. We have to remember that it is a commission model, and with that there are certain challenges. We started the process—it is just that the path we travelled along has coincided with the recommendations from the triennial review. It has all come together at about the same time.
+
+[[[Steve Brine:]]] Good luck on the 28th.
+
+[[[Q15 ]]]&#xa0; 
+
+[[[John McDonnell:]]] Like Jeremy, I was one of those who campaigned for the establishment of the CCRC. I chaired the Guildford Four committee, so I recognise the need to be able to have a separate review of the way cases are handled. To be frank, I am anxious about your overall performance and whether you are living up to the expectations of the royal commission in the first place. One key factor is obviously the budget, to which you referred earlier. With regard to the 2013-14 settlement, do you think you have sufficient to fulfil your remit? With regard to a future-years settlement, what discussions are taking place now? Are you confident that you will secure sufficient resources to fulfil your remit?
+
+[[[Richard Foster]]]: We are very grateful to the Ministry of Justice for increasing our money in 2013-14. As I said, it is the first time it has happened for a long time, so we are grateful for that. In order to get rid of queues, which is what I would like to do, I need about another £1 million. Our budget at the moment is £5.1 million; we need about £6 million. With £6 million, I could say to you, “Come back in a year or 18 months’ time and you will not have to wait six and a half months, if you are in custody, or nine months, if you are not in custody, before we start reviewing your case.”The other thing that would be extraordinarily helpful would be some certainty about funding over more than a 12-month period. When we recruit people, we are required first to look across the civil service at anybody at risk. That takes about a month. We then have to offer our posts to the civil service more generally. That takes another month. Only then can we go to the market. If we go to the market, fair and open competition takes two or three months, so altogether it is four or five months. We cannot actually start somebody with us until they have cleared security vetting, because of the very sensitive nature of some of the material that we hold. Currently that is taking the MOD three months. So from being given the money, however fast we run, it will take me at least six months to get that person in post. I then have to train them—seven, eight or nine months. If I have only 12 months’ funding, I could lose them again. Given the period of time I have them for, the cost of going through that process year after year after year is quite high, so more money would be good.Can I come back to the point about the royal commission and whether we have lived up to the expectation? I will say two things. First, the number of cases we have referred has remained remarkably constant throughout the period that we have been in existence—&#xa0;
+
+[[[Q16 ]]]&#xa0; 
+
+[[[John McDonnell:]]] What is it in percentage terms?
+
+[[[Richard Foster]]]: About 3.5% of the cases that we handle.
+
+[[[Q17 ]]]&#xa0; 
+
+[[[John McDonnell:]]] How does that compare with the previous days before your existence, with regard to the Home Office referrals?
+
+[[[Richard Foster]]]: In the first couple of years of our existence, we will have referred as many cases as the Home Office dealt with in the entirety of its existence.
+
+[[[John McDonnell:]]] As a percentage as well as in—
+
+[[[Richard Foster]]]: Absolute numbers.
+
+[[[John McDonnell:]]] Yes.
+
+[[[Richard Foster]]]: In fairness to the Home Office, we have investigative powers that they did not have. We have more money than they had. The essential point—it is a point that Runciman made—is that what we do is challenge the courts and the legal system. If on occasion we refer a case, the court has to hear it, so we are one of the very few bodies in the country that can actually tell the courts what to do. Runciman took the view that there was quite a fundamental constitutional point—that it was wrong for that sort of power and authority to sit within the Home Office. It had to be separate from the Executive.The other point that I would like to make is that recently we had Professor Michael Zander, who was on the original Runciman commission, at a stakeholder event. Until recently he was the president of Innocence UK. We asked him to give an assessment of whether or not he thought we were living up to the original remit of the royal commission. He said very clearly that he did. He thought we were, and that we were operating in precisely the way that was envisaged.&#xa0;
+
+[[[Q18 ]]]&#xa0; 
+
+[[[John McDonnell:]]] Just to get clarity on the numbers, is the percentage of referrals in relation to applications higher under the CCRC than under the Home Office?
+
+[[[Richard Foster]]]: Yes—much higher. I do not want to get too technical, but the way we measure our performance is this. Our referral rate is a percentage of the entirety of the applications that we get. At the moment we get 1,600 a year; it is 3.5% of 1,600. The applications that we get will include people from foreign jurisdictions and civil cases, and about 40% of the applications that we get will be from people who have not already appealed to the Court of Appeal. If I were to look at our referral rate as a percentage of the cases that Parliament intended us to look at—that is to say, people who have been all the way through the process—it would be about 7%, about the same as in Scotland.
+
+[[[Q19 ]]]&#xa0; 
+
+[[[John McDonnell:]]] On the figures, in 2012-13 the commission completed 351 fewer cases than it received. That was the same the previous year. Are you content with that level of performance? As well as the additional £1 million, which I am taking as read, what aspects are you looking at to improve performance?
+
+[[[Richard Foster]]]: Of course I am not content with it. Please bear in mind what was going on then: when we improved our arrangements for accessibility, our level of applications jumped from a long-term historic trend of 900 a year to 1,600, so it increased by 75%. Not surprisingly, because we were getting so many more applications in, even though we were getting better at concluding cases, we were not getting better fast enough to cope with that level of new applications.
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Gareth Johnson:]]] Can I ask you about some of the immigration, asylum and human trafficking issues you touched on earlier? I think you said—if I understood you correctly—that it was 1.5% of the cases, and that in 90% of those cases you found that there was no miscarriage of justice, so you were looking at only a small number. Do you expect that number to increase in future years, or do you think it will stay pretty static?
+
+[[[Richard Foster]]]: I think there is a large stock of cases that have not yet come forward. First, we are talking about people who are foreigners coming to this country and who will therefore be more vulnerable. Secondly, they were advised by their own defence lawyers to plead guilty. They tend not to read the Law Society Gazette or other publications of that kind, so reaching out to that group of people and identifying them is our biggest problem. That is why we are talking to the CPS about how they can help, why we are running articles in the Law Society Gazette, and why we have been talking to all the charities in the field and so on. I would guess that on asylum and immigration, as opposed to human trafficking, there is a large stock of cases yet to come forward.&#xa0;
+
+[[[Q21 ]]]&#xa0; 
+
+[[[Gareth Johnson:]]] You mentioned again that they were advised to plead guilty—perhaps I should say that I am a criminal defence lawyer by trade. What evidence do you have that they were so advised? Have they said to you, “My solicitor or my barrister advised me to do that?” Or is it simply that they pleaded guilty and you then found a defence that they should perhaps have run when it came to the trial? You may be right. I am not challenging what you are saying; I am just trying to identify where you have come to that conclusion from.
+
+[[[Richard Foster]]]: When we start a review, the first thing we do is pull together the various papers, if they are available. Typically, we would have the transcript from the court case, the transcript from the appeal case and any advice that was given on appeal. We would have the defence files, subject to any issues about confidentiality, the prosecution files and the police files. We look at the documentation, and “advised no section 31 defence” will be there in the solicitor’s notes.In fairness to lawyers operating in this area, there are a number of technicalities. Was the individual in fact continuously fleeing during that period? If they transited from Somalia to Kenya, for example, how long were they in Kenya? Might they reasonably have made an application in Kenya? If so, the section 31 defence might not apply. It is not a simple black and white issue, so you can understand why sometimes mistakes were made, but when I say that they were advised to plead guilty, I am absolutely certain that their defence lawyers advised them to plead guilty.&#xa0;
+
+[[[Q22 ]]]&#xa0; 
+
+[[[Gareth Johnson:]]] Obviously this whole area is quite worrying. There are issues here. People who have been exploited and are in a very vulnerable situation have ended up being criminalised, when clearly that should not have been the case. Are you getting any kind of help with this from the legal profession? Is the Law Society helping at all? Is the Bar Council giving you any assistance to try to flush out the extent of the problem?
+
+[[[Richard Foster]]]: We have had a lot of assistance. The Court of Appeal has made its views clear. We have written to the resident judges and have been in discussion with the Law Society and with CALA, the defence lawyers’ association. We have run articles in the Law Society Gazette. Yes, we have had a lot of support. Everybody is keen to fix this.
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Can I turn to one of the most fundamental things about your work, which is the test you have to run in order to establish whether to refer a case to the Court of Appeal? I suppose people might assume that the test is, is it likely that this person is innocent of the charge of which they were convicted? It is not, of course. It is section 13(1) of the 1995 Act, interpreted in Pearson and other cases, and might be argued to be a rather subjective test—what will the view of the Court of Appeal be on the basis of what we put in front of them? That may include evidence, or it may include process issues, such as an unfair summing-up by the judge or some unfair element in the trial. Some people see that as making you, in a way, not independent of the Court of Appeal but rather predictors of the Court of Appeal’s view. What is your feeling?
+
+[[[Richard Foster]]]: As you point out, it is a statutory test, so it is the test we have to apply. Once the decision is taken that it must be for the court to decide whether or not to uphold or quash the conviction or change the sentence, it follows that in thinking about a referral, in effect, you have to put yourself in the minds of the court and say, “Are there any grounds here that I think would count with the court?” Otherwise, if you do not do that—if that is not the test that you are operating—you are at risk of sending to the court a lot of cases that they will simply bin.You are right to say that it is not always the easiest, but I think it is the best test. Although people have criticised it from time to time, I have never heard anybody suggest an alternative test that would work better. I would certainly argue very strongly against some sort of innocence test, because demonstrating that a conviction is unsafe is a much lower hurdle than demonstrating evidence, once somebody has been convicted, that they are actually innocent or that it is probable that they are innocent, so I would want to stick with that.              The prediction is difficult. Of course, we have two Courts of Appeal, for Northern Ireland as well as for England and Wales. The Court of Appeal is three judges, and it is a different combination on each occasion, so there can be a sort of penumbra, if you like. The view I have always taken, and pressed very strongly within the commission and publicly, is that if we are in the grey area, we should always refer. I would not want ever to be in a position of saying, “We will pause on doing that because we are not quite sure.” I think it is right for the court always to have the option of saying that this referral should never have been made—&#xa0;
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Have they done that very often?
+
+[[[Richard Foster]]]: Not in those terms.
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Not in so many words.
+
+[[[Richard Foster]]]: Not in so many words. We are sometimes reminded that a case we have referred is an extremely old case, slightly with the words hanging, “Why have you done this?”, but it has not been more direct than that.&#xa0;
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] In a way, it is doubly subjective, because the Court of Appeal is trying to establish whether, if presented with the information you present them with, which may include new evidence, a jury would have come to a different conclusion.
+
+[[[Karen Kneller]]]: I think things are moving on. These days the court is less likely to consider the jury impact test, and is now more minded to look at the evidence and form the court’s own view, rather than try to second-guess what the jury might have done.If I could touch on the independence point, it is an easy accusation to level that you are not independent of the court, but I think that sometimes perhaps it is levelled by people who do not read all the judgments the court issues. If you read them closely, sometimes you can see the raising of a judicial eyebrow every now and then. I think we have a constructive but critical friend-type relationship with the Court.
+
+[[[Richard Foster]]]: To date, we have referred only one case more than once—the case of Stock, which we have referred twice. I think the Home Office sent it back as well. We will refer at least one more case for a second time within the next few months. I would not be at all surprised if it is more than that.Of course, it is a two-way street. When we were set up, the remit of the commission was entirely to look at cases and, if necessary, to refer them to the Court of Appeal. For several years now, the Court of Appeal have had the power to ask us to look into cases. That is quite a lively area of business for us as well.&#xa0;
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Have you had many cases referred to you by the Court of Appeal?
+
+[[[Richard Foster]]]: Yes. This is nearly always around jury issues—jury tampering, allegations of juries being subverted or inappropriate internet access by the jury. We had a case recently—Joof—which started as a referral by the Court of Appeal because of issues around the jury. When we looked into it, and on the back of a whistleblower coming forward, we had concerns about very significant issues indeed around non-disclosure by the police force acting in the case. To cut a long story short, five convictions were quashed and there is now a separate investigation into the police force and the senior officers concerned on the back of that. That is quite a big area of activity. Michael Creedon, working for the IPCC, is now carrying forward the second investigation, involving, I think, five or six officers of ACPO, including chief constables.&#xa0;
+
+[[[Q27 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] One of the areas of difficulty you have had to deal with is historic sex offences, where there are quite a number of people who are adamant that they have been wrongfully convicted. This includes particularly those who have been picked up by a trawling process. Has section 13(1) prevented you from investigating some of these cases because you did not think that they engaged the section 13(1) test?
+
+[[[Richard Foster]]]: No, that is not the problem. The problem is the lapse of time. Quite a number of these cases can be from 20 or 30 years ago, so you are talking about someone who was an adult—perhaps in their 40s—30 or 40 years ago, and an accusation by somebody who was then a child. When we are looking at the case 30 or 40 years on, that adult is now perhaps into their 80s. The people who were their contemporaries at the time, if we can trace them at all, may be deceased or unwell. If you are talking about, say, a care home, that care home may long since have gone out of business; the records may no longer exist. In a sense, it is linked to 13(1) because you have to find something new in order to put your case to the Court of Appeal, but the real problem, as with any old case, is finding any of the evidence at all, including things such as the original court transcripts.&#xa0;
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Of course, in many of these cases, those who are pursuing them will take the view that a lack of evidence on the prosecution side demonstrates that the case is not made out against them and might not at a later date have been treated in the same way, and that in some cases they were convicted before it became clear that there might have been excessive use of similar fact evidence or that police information about times and dates when people were in particular institutions did not tally. That would, of course, constitute new evidence, if there was documentary proof of it.
+
+[[[Richard Foster]]]: From memory, we have had 47 applications of that kind. We have referred four, in three of which the convictions were upheld; the other one is still pending.&#xa0;
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Do you anticipate dealing with more cases, either because you have them now or simply because a lot more historic sex offences are being brought to light?
+
+[[[Richard Foster]]]: Not only that, but you can see a pattern that repeats. Society almost stumbles upon a new class of offence or realises that it is more extant than had previously been thought. One looks at what has happened on the back of Jimmy Savile, for example; suddenly there is a very large exercise. Of course, what can happen in a situation like that, when there is very considerable public interest or press scrutiny and a lot of intense pressure on the prosecution team to get results, is that innocent people can be swept up in it. We see that pattern repeated on a number of occasions. So yes, we will see more of that.&#xa0;
+
+[[[Q30 ]]]&#xa0; 
+
+[[[Andy McDonald:]]] Good morning. I know you have been chomping at the bit to talk about section 17, so perhaps this is your chance. As I understand it, section 17 allegedly gives you the power to require a public body to produce documents. I wonder whether you are having any difficulties with that. I am thinking in particular of the Shrewsbury case at the moment. Does that present any problems, despite the power being there? Of course, a lot of these public functions are now in the hands of private bodies, and we are transferring ever more. There seems to be a glaring need to extend that legislation to private bodies. Have you had any indication from the MOJ as to whether that is to be progressed? If so, is it going to be soon?
+
+[[[Richard Foster]]]: They are supportive and have said that it will be progressed once a suitable legislative vehicle is available. That is something that well-meaning officials have been telling us since 2006, I think. You are precisely right. A large number of bodies that were public bodies have either moved to the private sector or are in the process of doing so. They are bodies whose information is vital to our inquiries—the forensic science service, probation, parts of the police and parts of the health service. If we are looking at issues like the reliability of a witness, it is absolutely essential that we have these records.The section 17 power—that is to say, the power to obtain private as well as public documents—is a power that the Scottish CCRC has had since its inception. They do it in the way we would feel comfortable doing it as well—by way of application to the court. It would not just be us saying, “We want to see a document that is held by a private organisation”; it would be the court saying that. That change would be the biggest single thing that would help us.              Coming back for a moment to public organisations, it is true that sometimes public organisations are a bit sticky as well. Perhaps surprisingly, the bodies that you might think would be stickiest, such as the security services and military intelligence, tend to be the most co-operative, once they have been assured about our ability to maintain appropriate security around the documents. We do have a difficulty with some of the public bodies, but we get there. What this costs us is time.&#xa0;
+
+[[[Q31 ]]]&#xa0; 
+
+[[[Andy McDonald:]]] In the context of private organisations, if you are making those requests and do not have the ability to compel, has that caused frustrations to the process in real terms?
+
+[[[Richard Foster]]]: Yes. For example, it took us a year to obtain some documents, which were vital to an inquiry, from a charitable organisation working in the criminal justice field that is funded almost entirely out of public funds.
+
+[[[Karen Kneller]]]: Without doubt, the lack of this power means that we can spend many, many months—even a year or longer—negotiating access to material that is held in the private sector, by a private individual or by a charity. Sometimes the negotiations are successful and we get the material, but sometimes they are not successful, so we are left with an issue of “We don’t know what we don’t know.” We do not know whether that material might have tipped the balance one way or the other. As the chairman said, without doubt that power would mean that we would be able to progress cases more quickly, because of the time and the expense involved in carrying out these negotiations. We would feel more assured that we had an overall picture by having receipt of that information. As I said, sometimes we simply do not get it; some bodies simply refuse.&#xa0;
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Have you ever been at the point where the refusal or failure to provide, even after persistent attempts, has impaired your ability to decide whether to refer a case.
+
+[[[Richard Foster]]]: Yes.
+
+[[[Karen Kneller]]]: Yes.&#xa0;
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] That has happened.
+
+[[[Karen Kneller]]]: Yes.&#xa0;
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Clearly that is not acceptable, is it? It is an issue that we will pursue with Ministers.
+
+[[[Karen Kneller]]]: Thank you.&#xa0;
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Andy McDonald:]]] Can I move on to two specific issues? The briefing refers to the commission’s concern about the accessibility of its services to particular groups that are underrepresented in the case intake. The easy read format is a measure that is aimed at overcoming this. How effective has it been in increasing the uptake of services by other groups? Have you any other initiatives addressing the needs of other groups—for example, women and young people—and how successful have they been?
+
+[[[Richard Foster]]]: We came at this by looking at the profile of our applications and reflecting on the fact that if you looked at the profile of people in prison—the demographic—there was a big difference. For example, there are a lot of young men in prison but we got relatively few applications from young men. That is what sparked us off on this. When we looked into it further, we realised that there were a number of groups—young men, women, people with learning disabilities—who were clearly badly underrepresented.We took our then application form, which I have brought with me, to a prison. We talked to the prison staff and said, “What do you think of it?” I have been a civil servant all my life; I ran the benefit system for a while, and I promise you that by civil service standards this form was a model of clarity, compression and simplicity. Prison staff we showed it to just laughed. They said that prisoners with an average reading age of 11 or below, and a similar writing age, simply would not be able to fill in that form because of literacy and numeracy issues.In addition to that, when you look at people who have other sorts of disadvantages, a different sort of form that we call easy read, which mixes pictures and words—it is not just that the words are simpler; there are also pictures—is a much better way of doing these things. That is what we were told. There was a bit of snootiness about all of this, because when you look at the pictures, you think, “Those are a bit naff.” When we started sending out the forms, not only did we get an explosion of applications—a near doubling—but we rapidly discovered that, if we sent people both forms, even people who were highly literate and numerate preferred using the easy read form. We then discovered, having talked to some psychologists about all of this, that one of the reasons for that is that people find this format, with the pictures and the flow diagrams, less judgmental, so they are more prepared to talk about exactly what their crime was—what they did and all the rest of it—so you actually get more information out of it.&#xa0;At one level, we are very pleased about it. At another level, I am rather irritated about it, because I think, why did it take us so many years to work out that if most prisoners struggle with reading and writing, saying, “If you want to apply to us, write us a lengthy and detailed letter,” is probably not the best way of running the business? It has been a considerable success in those terms. It has also been quite cheap, I am sure you will be pleased to know. Basically, the costs were scissors and paste. We got nearly all the advice about how to do it either from voluntary organisations like Mencap, or from the Department of Health. It was done entirely by a single member of staff in the organisation, Cathy Dilks, who has done really well on this.              We are now planning to do more; we are in the process of doing a whole stream of things. If you want to make a complaint about us, there is an easy read complaint form. There are easy read posters. In order to manage the huge increase in volumes of business, we are now seeking to do a lot more work at what we call in the jargon the front end of the business—in prisons. As well as working with other organisations, we have our own staff going out there to run workshops with prison staff and things like that, in order to try to manage the process and ensure that we get all the applications that we need, but not a huge volume of applications that are clearly never going to go anywhere.&#xa0;
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Andy McDonald:]]] That is a fascinating answer. The whole purpose of documentation is actually to put people off, not to be successful like that—disability living allowance being a case in point.Finally, can I look at some issues about the website and branding? I know you have to migrate to the gov.uk site, and I think you have concerns that that undermines your independence and you are seen as part of the machine. Are you continuing to press for a reconsideration of that decision?
+
+[[[Richard Foster]]]: We are continuing to press. Every arm’s length body will say, “We’re different,” “We need a distinct brand,” and all the rest of it. The point for us is that the people who apply to us feel that they are the victims of the state. That is what they feel. They feel they have been prosecuted by the CPS—
+
+[[[Jeremy Corbyn:]]] They are not wrong about that.
+
+[[[Richard Foster]]]: If they are going to apply to a body like ourselves, they need confidence that they are applying to a genuinely independent body. When I say that we need an independent website, it is not because I want to take my 80 people and sit in a little corner on a sandcastle with a flag saying “Independent”; it is because if I am going to get people to apply to us, they need to have the confidence when they do so that we are independent, not just of the Executive but also of the court system. That is why we want it.If working in this integrated system had been a resounding success, I might be a bit quieter, but, because other people are now doing it, we have had out-of-date policy advice and guidance—our policy advice and guidance, but the wrong stuff—put on the website. We have had press releases that we have put out go on to the website and just disappear. We are getting an increasing number of phone calls from all sorts of people interested in other aspects of the work of the Ministry of Justice: because we are one of the few parts of the system that actually put their phone number on there, they ring us. It is not just that we want to be independent—it is just not working very well. It would cost of the order of £10,000, if not less, to change it. I am not talking about a huge IT system here—I am talking about a very small sum of money.&#xa0;
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] Some of us run our own websites at much less cost even than that.
+
+[[[Richard Foster]]]: Indeed.
+
+[[[Q38 ]]]&#xa0; 
+
+[[[John McDonnell:]]] I am worried about the organisation and its performance. I have dealt with Susan Hill, for example, who was once referred—
+
+[[[Richard Foster]]]: Susan May.
+
+[[[John McDonnell:]]] I am sorry—Susan May, who died before she could be cleared.
+
+[[[Richard Foster]]]: Yes, tragically.
+
+[[[John McDonnell:]]] Some of the people in the Shrewsbury cases are now getting elderly. Just to sum up your organisation at the moment, there is a shortage of resources and a lack of powers. My concern is that that will draw the organisation into debate about the credibility of the organisation overall. What is your comment on that?
+
+[[[Richard Foster]]]: The Susan May case, of course, is a case that we reviewed and referred to the Court of Appeal, but they upheld the conviction. We then had a further application for Susan May and re-reviewed the case, but we could not find anything new over and above the new things that we had already found. The rules of the game are that, once you have referred a case, if you want to re-refer it you need something new over and above. We are now re-reviewing the case again. I know it has taken a long time and I regret that. We went to the leading expert on fingerprinting for some advice. Unfortunately, perhaps because he was the leading expert and everyone was therefore going to him, it took a very long time for him to come back to us. I regret that. We are close to a conclusion on the Susan May case. Since we are close to a conclusion and it is live, I cannot say anything more than that.One of the things I want to do in my next five years as chair—apart from secure additional resources, get section 17 and address the website—is to strengthen the public voice of the organisation, because I do not think it has occupied the public space; that was your very first question, Sir Alan. That is one of the things I am determined to do over the next five years.&#xa0;
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Jeremy Corbyn:]]] Is there an opportunity for the Ministry of Justice or anyone else to review your work during the five years, or are you now secure for five years in terms of how the organisation operates?
+
+[[[Richard Foster]]]: I am expecting another triennial review in about two years’ time. We are spending public money. It is absolutely legitimate for the Ministry of Justice to test us really hard on how we run the business. Should more work be done by staff as opposed to commissioners? How efficient are your IT systems? That is absolutely legitimate and I welcome it, because it keeps us on our toes. Where it crosses a line is if it touches on our independence. I do not think that quizzing me about performance and effectiveness touches on that, but I know when my independence is threatened and I know what to do about it if I ever get a challenge of that kind.
+
+[[[Sir Alan Beith (]]]
+
+[[[Chair]]]
+
+[[[)]]]
+
+[[[:]]] I think we would like to know as well if your independence is threatened. Thank you very much, Mr Foster and Ms Kneller, for your help this morning.&#xa0;Oral evidence: The work of the Criminal Cases Review Commission, HC 971              15&#xa0;

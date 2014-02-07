@@ -1,0 +1,437 @@
+&#xa0;Energy and Climate Change CommitteeOral evidence: Levy Control Framework, HC 872Thursday 28 November 2013Ordered by the House of Commons to be published on 28 November 2013.Watch the meetingMembers present: Sir Robert Smith (Chair); Graham Stringer; Dr Alan Whitehead&#xa0;Questions 1-61Witnesses: 
+
+[[[John Fiennes]]], Director, Energy Strategy, Networks and Markets, 
+
+[[[James McEw]]]
+
+[[[e]]]
+
+[[[n]]], Head of Financial Strategy, and 
+
+[[[Neil Bush]]]
+
+[[[,]]] Head of Energy Economics and Analysis, Department of Energy and Climate Change,
+
+[[[ ]]]gave evidence.&#xa0;&#xa0;
+
+[[[Q1]]] 
+
+[[[Chair:]]] Thanks for coming to give evidence on the levy control framework. I am sorry that we are running a little late. It is obviously an extremely interesting topic, especially with the National Audit Office report out, and we have a series of questions. Perhaps you could give your names and roles within the Department.              
+
+[[[John Fiennes:]]] I am John Fiennes, the director of energy strategy, networks and markets.              
+
+[[[Neil Bush:]]] My name is Neil Bush, and I am the head of energy economics and analysis at DECC.
+
+[[[James McEwen:]]] I am James McEwen, the head of financial strategy and planning at DECC.&#xa0;
+
+[[[Q2]]] 
+
+[[[Chair:]]] How would you see a member of the public easily establish what the funds in the levy control framework are actually spent on? How open and transparent is it? 
+
+[[[John Fiennes:]]] We think there is a lot of information out there at the moment, particularly in the prices and bills report, which brings together not only the elements covered by the LCF, but all elements of Government policy, and describes what is happening in 2013 and in 2020. The Department publishes, from time to time, such things as the draft delivery plan before the summer, which describes what we expect to be spent from the LCF fund, but the NAO rightly says that there is further to go in supplementing that information and bringing it together in a single place. It is something we have been trying to do in the past, and it has been frustrating to not manage to do it for technical accounting reasons. The Chief Secretary to the Treasury has now written to the Liaison Committee suggesting a way forward to bring all that together. I understand that they met last night, but I do not know the outcome of that. However, we are committed to making this more transparent, and I hope that we will be able to do so soon. &#xa0;
+
+[[[Q3]]] 
+
+[[[Chair:]]] How do you get across whether the spending it supports would have taken place anyway, without the levies? 
+
+[[[John Fiennes:]]] For the levies themselves, when we are talking about small-scale feed-in tariffs, contracts for difference, or the renewables obligation, we are talking about the support of technologies that we believe, with carbon not being fully priced, are not economically viable without that level of support. We examine very closely the levels of support that we provide through those policies to ensure that we keep that up to date. You will be aware that when we believe we can reduce rates, we do that. For example, a banding review for the renewables obligation was undertaken recently, and it led to a reduction in support for biomass conversion and for onshore wind, but the evidence said that support was still necessary to allow those technologies to proceed. We certainly hope that over time these technologies will become more competitive; at that stage, the level of support can reduce. I know that Minister Greg Barker has been writing to explain that he hopes that solar PV in particular will be able to continue to reduce its costs; at that stage, no more support would be necessary, which would obviously be a much better outcome for everybody. &#xa0;
+
+[[[Q4]]] 
+
+[[[Chair:]]] What sort of rationale is used to decide what should be included in, or excluded from, the levy control framework? 
+
+[[[John Fiennes:]]] We have to remember that the levy control framework is a technical instrument designed to complete the picture of control by covering levy-funded spending. We already have—&#xa0;
+
+[[[Q5]]] 
+
+[[[Graham Stringer:]]] That sounds like a very circular argument. 
+
+[[[John Fiennes:]]] Perhaps I can explain. We have public spending controls on our conventional budgets. There are controls on tax spending and on regulatory measures, through the agreement of those measures, but absent the levy control framework and there will be an element where that technical control is not exercised. The levy control framework was initially intended to provide the technical coverage necessary to ensure that we comply with the requirements of “Managing public money”. That includes things like making sure that we set policy in an affordable way and produce and verify estimates, and making sure that if we are coming in above forecast, we have a robust, agreed plan to bring the amount back down. On the elements covered by the LCF cap—that is to say, the feed-in tariff, the renewables obligation and the contract for difference—that is an area where we can expect increases in spend over the coming years, as we move towards meeting our 2020 renewable energy target, so this has assumed a greater importance, and it gets used as a way of ensuring that we have thought about the affordability of that increased spend and making the correct trade-offs. However, it is worth distinguishing in our minds between the technical nature of the framework necessary to meet the requirements of “Managing public money”, and the policy impact of the framework, which is designed to make sure that we make sensible, affordable and sustainable decisions about what is spent in meeting the 2020 targets. I think those two elements get a bit tangled up from time to time, and the NAO report, in which we find a lot to agree with, does, we think, tend to blur those in some respects. For example, we have joint board involving the Department and the Treasury; it is talked about in the report. The NAO said that it would like that board to spend more time talking about the trade-offs between different objectives within the LCF. Our view is that the board is properly directed at the forecasts to ensure their robustness. The broader policy debate on the right mix of policy measures and renewable technologies is properly done through the normal policy process, but those things can come together. It is fair to say that the LCF has been used to drive the proper policy-making decisions that you would expect from us.&#xa0;
+
+[[[Q6]]] 
+
+[[[Chair:]]] Where is the decision taken on whether something should be done within the levy control or more generally?
+
+[[[John Fiennes:]]] We have an agreement with the Treasury on the scope of the LCF, which includes the warm home discount, the renewables obligation, the small-scale feed-in tariff and, in future, the contract for difference. That is what the LCF is currently set for.We have another levy-funded scheme, the capacity mechanism, which is in development at the moment. We would expect that to be included in future, and the numbers for the framework will be adjusted accordingly. That flows from our best understanding of what is, and what is not, a levy-funded scheme. That is ultimately a matter for the Office for National Statistics, and we have made our best judgment of where we think they will end up. If they end up somewhere different, doubtless the Government would want to decide at the time what that means for the framework and how it should be adjusted accordingly.&#xa0;
+
+[[[Q7]]] 
+
+[[[Chair:]]] How do you act when you have two policies? You have the warm home discount, which aims to help households cut their energy bills, and, at the same time, within the levy control, you have a whole load of spending that is trying to reduce energy use. How do you weigh up those conflicting goals?
+
+[[[John Fiennes:]]] The budget for the warm home discount is set through the spending review process and is not within the LCF cap, which gets to £7.6 billion in 2020. There is no trade-off between those. The trade-off is within the £7.6 billion, which is the support for low-carbon generation. How much do you put on small-scale FIT? How much is done through the renewables obligation? How much, in future, will be done through the contract for difference?&#xa0;
+
+[[[Q8]]] 
+
+[[[Graham Stringer:]]] I am not sure I understand your answer on how you decide what is covered within the levy framework. Let me ask you a simple question to see whether that helps. We were told by Ofgem on Tuesday that between £26 billion and £30 billion will be spent on the distribution networks, partly to deal with the problems caused by intermittent supply from renewables. Why is that not part of the levy framework?
+
+[[[John Fiennes:]]] That is not part of the levy framework because it is not levy funding. It is not public expenditure in that way.&#xa0;
+
+[[[Q9]]] 
+
+[[[Graham Stringer:]]] We are back to circular definitional arguments. Why is it not part of the levy framework?              
+
+[[[John Fiennes:]]] Perhaps I can ask James to come in.
+
+[[[James McEwen:]]] The Treasury is quite clear on the purpose of the LCF, which is to provide a control on public expenditure. Regulation is not public expenditure. The Office for National Statistics looked at the renewables obligation in 2006, and made a decision that it was imputed tax and spend. At that point, the Treasury took a view on how the control framework needed to adapt to control those costs. It was for that particular purpose. Since then, we have looked at policies and, where we think they will be imputed tax and spend in the ONS classification—as is the case for the three policies that are currently in the framework—they have been put in the framework.We then looked at the electricity market reforms, CFDs and the capacity mechanism, which will be tax and spend. The Treasury has again said that, as tax and spend, they should fall within the control framework. The control framework is not a tool to try to capture all costs to consumers from regulation and environmental and social policy. That is the distinction, and that is what the purpose of the LCF was. It is also why, in addition to the LCF, we have the bills and prices report, which more clearly breaks down the impact of Government intervention on domestic prices.
+
+[[[John Fiennes:]]] This is why I tried to draw a distinction between the technical thing that the LCF is designed to achieve and the policy elements. Given the name of the LCF, there is a sense that anything inside the LCF is controlled, and anything outside is not controlled, but that is not the case. Another area where we have a difference of view with the NAO is on the treatment of the energy company obligation, or ECO, which we regard as a regulation, and therefore not within the scope of the LCF as described. That does not mean that it is not monitored. It is closely monitored, and the Department recently published the latest information about the costs of ECO. It does not mean that it is not controlled. There is absolutely a debate about the right level and the right framing for that. It does not mean it will not be considered in the future. There is a lively debate going on about what can be done on the elements that contribute to bills. It is wrong to say that if you are inside the LCF, somehow you are under scrutiny, and if you are outside the LCF, you are not. That is absolutely not the case. That is why I draw a distinction between the policy element and the policy debate, and the technical framework that the LCF is driving.
+
+[[[Chair:]]] What goes inside and what comes out seems to be random. &#xa0;
+
+[[[Q10]]] 
+
+[[[Graham Stringer:]]] Can I try to help us both? On the renewables obligation and the feed-in tariff, say you build a turbine. You pay for that with higher costs for electricity, through the feed-in tariff, and through the renewables obligation. You also need to change the distribution network and make it more intelligent to deal with the intermittent supply, but you only pay for the turbine; you do not pay for what actually distributes the electricity to the consumer. How is that a rational separation of costs, if the definition is that you will pay for these builds? It is effectively a tax on expenditure, because it is just as much tax and expenditure on the distribution system.
+
+[[[John Fiennes:]]] I do not think I would agree that it was random. I have tried to set out as clearly as I can the rationale for why things fall one side of the line rather than the other, based on the classification of the nature of the spend that is designed to provide the control framework. It so happens that defining the LCF in this way provides a couple of positive, welcome elements in the policy debate. First, setting out a level of spend on these elements for the generation side provides some confidence to investors that there has been a conversation between the Treasury and the Department, and that there has been an agreement on what is an affordable level overall. That helps to give people confidence that they can make their preparations, invest in the supply chain, buy sites and so on. That puts us in a better position than other countries that may embark on that without a good sense of the overall affordability of the policy that they are entering into. We think it is a positive point for investors that we have done it in that way. Secondly, we expect spending on low-carbon generation to increase as we move towards 2020, and that provides a discipline on the Department to think hard about the right mix of generation. On your point about network costs, I think the question was: what do we take into account when we consider the appropriate mix of generation at the policy level, rather than the technical LCF level? That is a fair point, and Ministers will take that into account when they are looking at the overall cost and the right mix of generation to meet our 2020 targets. We published in the summer a draft delivery plan for the EMR that set out where Ministers were at that stage, and that has been out for consultation. We are examining that now. We hope to conclude that and publish final plans shortly, and that will be the opportunity to have a debate about why we picked this mix rather than that mix, and what the decision was based on. That is a separate point from the technical control exerted by the LCF, which is done almost for accounting and management of public money reasons.&#xa0;
+
+[[[Q11]]] 
+
+[[[Graham Stringer:]]] I will ask one last question on this subject, if I may; I do not want to exhaust this point totally. It is hunky-dory for the investors that they know what is happening—I understand that—but isn’t part of this policy designed to show the consumer what they are paying for? It obscures rather than clarifies that point.
+
+[[[John Fiennes:]]] I agree that we can do a better job of bringing together the spend on this, and the NAO is saying that it should be associated with outcomes as well. That is a good point, and we are working on how we do that, but I would say that there is already public domain information that sets out what the whole range of Government policies does for bills, now and in the future. It shows what we expect bills to be in 2020, and that we expect a net saving of £166 as a result of Government policy. It breaks down how that is arrived at. I would be the first to say that this is a complicated area, because you have a number of policies that will add to the price of electricity per megawatt-hour, and at the same time, a number of policies reduce energy use. You have to bring those together to arrive at the overall effect on bills. We are working very hard to try to set that out clearly. This report says that we could do better, and I think we would agree with that. It has been frustrating that we have not been able to bring the thing together as originally planned, but that is a genuine problem of the quality of information that we put into our accounts, and the conditions that the information has to meet, rather than being a reflection of our desire to get this information out, because we are certainly trying to do that.&#xa0;
+
+[[[Q12]]] 
+
+[[[Dr Whitehead:]]] Was not the basis of the LCF, when it was first decided on, that what would be in the LCF would be determined as putative tax and spend by the ONS, and that if something was not defined as putative tax and spend, it would be outside the LCF? The ONS has not yet decided whether a number of projects are putative tax and spend. The Treasury and DECC decided to forecast what the ONS might decide, and placed a number of schemes inside the LCF, on the assumption that the ONS would so designate them. A number of schemes that the ONS has not yet designated may well be in the LCF, such as capacity payments. You appear to dispute that ECO should be in the LCF, but since the original definition of the LCF was that the ONS, not DECC, should decide, it is distinctly possible that ECO would be in the LCF. What meaning does it give to the overall levy control framework if the decision on what is in it is outside the control of DECC or, indeed, the Treasury?
+
+[[[John Fiennes:]]] I would like to reiterate a point that I made: the fact that you are outside the LCF does not mean that you are not controlled—&#xa0;
+
+[[[Q13]]] 
+
+[[[Dr Whitehead:]]] I was not asking that question. What is the meaning of the £7.6 billion, in 2012 prices, for 2020 levy control, in the context of the ONS deciding what is in and what is not in?
+
+[[[John Fiennes:]]] If the ONS takes a different view in the future, and the scope changes, my personal expectation would be that the number—£7.6 billion—would also change. The £7.6 billion is where we have got to, between the Department and the Treasury, on the cost of the schemes that are included in what we currently describe as the LCF. A thought experiment: if the ONS came back in two years’ time and said that ECO was a levy-funded scheme, and the Government were still using the LCF as defined at the moment, my expectation would be that we would say: “Okay, so now you have more schemes in the LCF”, and the total available for that would change. You may or may not have that as a separate pot in the LCF, as you do with the warm home discount. You could end up with a pot that is warm home discount, which is agreed for a spending review period. You could imagine a pot that is £7.6 billion for low-carbon generation support, in the way that I have described. You could have another pot, which is the energy company obligation for however long that lasts at the time and at whatever level it is at the time. It is not that £7.6 billion is fixed and immutable for all time; it would depend on the decisions that are made.Now, why did we do this at the time? It was because we felt we had to have a level of control over these things as they otherwise would not be controlled, particularly because there is going to be the growth in spending between now and 2020. We have taken what we understand to be a sensible answer based on how ONS classifies things. There is a difference between ECO and things like the CFDs, because with the CFDs the Government is naming a price and we are involved in the cost of that more directly, whereas in ECO you have an obligation on a company to behave in a particular way and they are incentivised to look for the cheapest way of doing that. We are not determining the best way of doing that and we hope that they are competing with each other, in effect, to do keener deals on ECO and therefore get competitive advantage. There is a difference in nature between the two schemes that to us justifies the difference in treatment. If it changed in the future—if ECO was included in the LCF and you had a larger total, maybe with a ring-fenced pot for ECO—how much difference would that make? I think ECO would still be a matter of intense debate. You would still have the argument about what size it should be. I don’t think that would change very much from what we are seeing at the moment. So to me, it would be a technical accounting change—an amending public money change—but not something that would necessarily change the underlying reality of the policy.&#xa0;
+
+[[[Q14]]] 
+
+[[[Dr Whitehead:]]] That is, one might say, so you hope, rather than automaticity, isn’t it? If ONS decides that ECO is within the levy control framework, in as much as it is classified as putative tax and spend, the expectation might be that the levy control framework would alter in terms of its 2020 figures to exactly accommodate the estimated cost of ECO over the period at present. But that is not guaranteed, is it? That is a different method of calculating the total—that is, it is a Treasury issue, not a DECC issue. 
+
+[[[John Fiennes:]]] We have agreed between DECC and the Treasury what the scope for spending is on the low-carbon generation—the number I have given. We have agreed on the level of the ECO obligation at the time it was introduced. So there is no reason to think that because the ONS changes the accounting treatment of it, that would open up that discussion. That does not mean that in future, Government could not take a different view of what the right answers on those elements are, but there is no logic to the supposition that because the ONS changes its view, the rest of it should change. The substance of these policies is as it is.&#xa0;
+
+[[[Q15]]] 
+
+[[[Dr Whitehead:]]] If the warm home discount is taken into general taxation, would that automatically deflate the size of the levy control framework total?              
+
+[[[John Fiennes:]]] I would need to think about that. &#xa0;
+
+[[[Q16]]] 
+
+[[[Chair:]]] The logic of what you have been saying is that it would.
+
+[[[John Fiennes:]]] Yes, that would be my expectation, but it depends on how that were done. If you were to do it by removing the obligation from the energy companies on the warm home discount and spending it through taxation, it would be removed from the LCF element to a direct public spending element, but if you were to keep it in place and then make good the money in some other way then the treatment would be different. &#xa0;
+
+[[[Q17]]] 
+
+[[[Dr Whitehead:]]] If you have meanwhile used the rules within the LCF, which enable you, between years and also longitudinally, to transfer elements of expenditure for each part of the LCF between each other—that is, within the 20% headroom agreement that has been reached with the Treasury—and then new schemes come in or go out, but meanwhile you have made that arrangement as far as the 20% headroom is concerned, how much of a car crash is that likely to produce?               
+
+[[[John Fiennes:]]] It would be a car crash if we’d done that, but we haven’t.
+
+[[[Dr Whitehead:]]] I know you haven’t yet.
+
+[[[John Fiennes:]]] The warm home discount is ring-fenced, and although we need to agree the treatment of the capacity mechanism, we have agreed that that will be an additional element to the total. The capacity mechanism is a particularly complicated one here, and it does bear on what the consumer sees; because the levy control framework has to monitor gross expenditure, but the effect of the capacity mechanism is to spend money on capacity payments to people who win in the auction, which has the result of lowering wholesale bills at the same time.
+
+[[[Dr Whitehead:]]] Allegedly.
+
+[[[John Fiennes:]]] Well, you can take different views of the modelling, and I am sure people will, but if you are a consumer, what you care about is the net effect. The way it is fixed at the moment, the LCF will not tell you the net effect; it will tell you the gross effect. That, to me, says that you need to have your technical answer for how you are controlling those levies, but you need to bring it together in a way that is visible to people so that they can see the gross effect and the net effect of all these things coming together on bills and how they are going to change. That is what you need to have a debate about whether it is sensible and whether we have got the right mix here. I am not sure that the LCF reporting will always be the thing that answers that question for you, because it is aimed at a slightly different purpose.&#xa0;
+
+[[[Q18]]] 
+
+[[[Graham Stringer:]]] Just forgetting where the boundaries should be for a moment and assuming they are all going to stay the same, how can you provide genuine certainty for the providers over an extended period of time?
+
+[[[John Fiennes:]]] I suppose there are various components to that. The first is the fact of the envelope having been agreed, which we think is a significant element. The second thing is, when we designed the policy instruments, we designed them in a way that provides confidence that they will be honoured in future. The contract for difference, in particular, is being structured as a contract on which people can rely and in which they have confidence. We think that means that they will be positive about it. The third thing is the way in which the Government behaves in this area and its preparedness to honour the commitments that it has made, so that even if we hit a sticky patch, as we did on the small-scale feed-in tariff, we have not sought to retrospectively undermine the deals that people have done. I think all those things come together to be a good offer for investors, and we think people are responding to that; we certainly hope they are. We have had a lot of interest in the work that we are doing to explore early CFDs for renewables, and we think that reflects people being attracted to the instruments that we are developing.&#xa0;
+
+[[[Q19]]] 
+
+[[[Graham Stringer:]]] How do you monitor the spending of the energy companies to ensure that the framework is not exceeded? I know the board is supposed to understand actual and forecast spending through the levies, but it must be a pretty difficult job.
+
+[[[John Fiennes:]]] Ofgem implements these schemes for us, and the answer is that it depends on the particular scheme that we are talking about. They report on this in-year, and they publish after the end of the year where that is going to. For the renewables obligation, it is to do with the number of renewable obligation certificates that get redeemed. James, do you want to say any more about this? 
+
+[[[James McEwen:]]] That is exactly right. We look to Ofgem, which enforces these licence conditions with the suppliers. On FITs, they publish quarterly reporting. Each scheme has an annual report, and between times we use our forecasting models and our market intelligence to sense-check where we think we are in terms of progress. For example, for the warm home discount, when we set the obligation that it set, the issue is how accurate the Department for Work and Pensions forecast of eligible pensioner population is. Quite quickly within an obligation year, we will understand that. In some schemes, you do not need to be monitoring day by day what is occurring. On FITs, we can have much more regular monitoring. RO, again, is in a slightly different time frame, so until we understand how many certificates are being put forward, we will not be clear between the use of the buy-out fund and certificates. That is a role that Ofgem performs for us.               
+
+[[[John Fiennes:]]] In future, this is going to get more complicated—
+
+[[[Graham Stringer:]]] Even more complicated. 
+
+[[[John Fiennes:]]] I am afraid so. The payments made under the contract for difference will depend on the level of the wholesale price, because it tops up to the strike price. There will be new sources of information, particularly the counterparty body, which is allocating the contracts and monitoring the spend, and National Grid, which is helping to understand what the pipeline may look like. One of the things that the NAO have rightly said in their report is that as we design our systems for this regime, which should start from the end of next year, we need to make sure that we are anticipating the information demands that we are going to be facing and making sure that we have the best possible information to monitor that as it goes through. There are things that the Department can do to be prudent here. The draft delivery plan issued before the summer set out an approach to renewables by 2020 that did not aim to spend absolutely to the top level of the LCF, because we know that there is some risk of additional prices and so forth. What we have is a prudent approach to allocating contracts that we think provides the right level of risk management for a Department. &#xa0;
+
+[[[Q20]]] 
+
+[[[Graham Stringer:]]] How many people work in your section? 
+
+[[[John Fiennes:]]] We have about 100 people, all in, who cover energy economics, the energy legislation, devolution, a flexible consulting pool for the rest of the Department, a team who deal with networks and a team who deal with markets and energy bills. That is 100, all in. The people working on EMR are spread across the Department, and I am not directly responsible for that. I am asked to take a particular oversight of the development of the controls around the LCF, and that is why I am here today. &#xa0;
+
+[[[Q21]]] 
+
+[[[Graham Stringer:]]] And that number of people is likely to increase over the next 12 months as the process gets more complicated? 
+
+[[[John Fiennes:]]] Actually, my assumption is that we will remain roughly flat or come down, because there will be significant resource freed up after policy development is concluded and we move into a delivery phase. &#xa0;
+
+[[[Q22]]] 
+
+[[[Graham Stringer:]]] How do you use the levy framework board to balance the need for cost control against delivery of policy outcomes? You have touched on that, but can you expand on it a little? 
+
+[[[John Fiennes:]]] We think it is set at a reasonable level. Before the summer, we consulted on a set of strike prices that we thought would arrive at 32% of renewable content of electricity by 2020, which is on track for meeting our legal obligation. We have run sensitivities around what happens, particularly if fossil fuel prices are lower. We believe that the 7.6 provides the scope for that, just about, but we will have to be careful in managing the ongoing risk for that. We think it provides a good basis on which to plan.               I had this debate with the NAO, which was saying, “Should you have a higher cap in order to be more certain that you are meeting it?” My response to that was that if you set the cap too high, that removes the incentive to think carefully about the trade-offs, and therefore you remove one of the policy benefits, namely that it focuses people to think about what is really important and what decisions are being made. I think it is a settlement with which we are comfortable. There is a lot of investment to do before 2020 to meet the targets, but we think the signs are encouraging so far. &#xa0;
+
+[[[Q23]]] 
+
+[[[Dr Whitehead:]]] You mentioned the transition between RO and CFDs, and the increased complexity that that will introduce. Indeed, it will produce an enormous amount of increased complexity, will it not, because ROs are more or less predictable, whereas CFDs are more or less unpredictable, in terms of the relationship between the strike price and the reference price in any particular period? That will make a difference to how much of your cumulative reward for projects already in the system will have to be allocated to an inherently variable amount of money that you will put out for those projects under the levy control framework. You have mentioned that you might have a contingency for that purpose within the LCF. Is that right? 
+
+[[[John Fiennes:]]] There are two things I would say in response to that. First, in the period of the parallel running of the RO and the CFD, how will people see them? We have been working very hard to try to ensure that we set strike prices for the CFD in a way that we think provides equivalent support, and we will shortly set out where we have got to on that, after the consultation. My sense is that there are signs that generators do not see it quite in the way that you have been describing. If I am a low-carbon generator with a high capital cost, this certainty in my future cash flows is incredibly important. As to how those are comprised, they do not much mind. The thing about the RO is that you are taking a wholesale price risk.&#xa0;
+
+[[[Q24]]] 
+
+[[[Dr Whitehead:]]] I am not particularly concerned about the generators, because in a sense, with the combination of the strike price and the reference price, they will get a known amount; that is supposedly what the CFD does. However, with regard to the LCF, there is an inherently uncertain element of expenditure relating to whatever the difference between the strike price and the reference price may turn out to be, as far as your financial planning is concerned.
+
+[[[John Fiennes:]]] The response to that is that there is some uncertainty, but the project has to choose one or the other. Whether we are talking about a top-up payment, under the RO, to what we think the right level is, or a top-up payment under the CFD, we would expect the payments to be quite similar. It is one of those balloons: if you push it down on one side, it goes up on the other. I do not think that there is an unmanageable risk there. The risk would be that if we were very significantly off in our wholesale price projections, the CFD would look higher than the RO payments would be for the same plant. The period of double running is quite soon, and we have a reasonable sense of what wholesale prices will be. We believe that that is manageable.From the point of view of the energy bill payer, if it were decided that CFD suits them better and they go that way, that would probably be a good thing, because we think that that will reduce the net present value of the support necessary to get the projects away, as we have a lower cost-to-capital ratio through the CFD than through the RO. It is not something that we worry about a lot, but it is a real issue that we have to keep an eye on.&#xa0;
+
+[[[Q25]]] 
+
+[[[Dr Whitehead:]]] Yes, but you mentioned that you have in mind a contingency for dealing with how the wholesale market varies according to the strike price. Presumably you would have that contingency in mind now.
+
+[[[John Fiennes:]]] In the draft delivery plan, which we published before the summer, we projected spend of about £7 billion, I think.              
+
+[[[Neil Bush:]]] £6.9 billion.
+
+[[[John Fiennes:]]] If we did that, that gives us a gap of about £600 million before you hit the cap. In effect, that is the margin for error, if wholesale prices towards the end of the decade are a lot different.&#xa0;
+
+[[[Q26]]] 
+
+[[[Dr Whitehead:]]] So £700 million by 2020 at 2011-12 prices is your contingency over the whole period.
+
+[[[John Fiennes:]]] We have that, and we have 20% headroom as part of the LCF cap on top, but once you are in headroom, of course, the conditions of the LCF framework apply, and we need to agree a plan and so on.&#xa0;
+
+[[[Q27]]] 
+
+[[[Dr Whitehead:]]] So that is £1.5 billion headroom.              
+
+[[[John Fiennes:]]] Yes.&#xa0;
+
+[[[Q28]]] 
+
+[[[Dr Whitehead:]]] However, what actually happens over the period? New entrants will come into the system each year over the period up to 2020, under either the RO or the CFD. Presumably, they will have to decide in which year to come in. Depending on the extent to which the headroom has been exceeded—remember, that is within a year—and depending also on the extent to which your projections about the relationship between strike price and reference price turn out to be correct, the amount available for new entrants will vary enormously, won’t it?
+
+[[[John Fiennes:]]] I certainly agree that transparency about where we are is important, and we will be trying to achieve that. There will be further work in the new year about how the budget is allocated through time, to try to address some of the points that you are making, but our projections at the moment say that even with a low fossil fuel price, there will be enough scope under the £7.6 billion total to meet our renewable energy target in 2020. We do not think that people should be worried, from that point of view. If our forecasts turn out to be completely wrong, the Government will need to think at the time what they wish to do about that. In a sense, if wholesale prices were a lot lower than we currently project, that would be a nice problem to have, because everybody would be paying much less for their energy.&#xa0;
+
+[[[Q29]]] 
+
+[[[Dr Whitehead:]]] Yes, but in the 2015-to-2020 period, according to your cumulative projections, there will be about £600 million a year for new entrants, after you take into account the accumulation of pay-outs to people who have already entered the system. Is that about right?
+
+[[[James McEwen:]]] Well, I have in front of me a response to one of your PQs, which would suggest around £1 billion total LCF remaining for new entrants in 2015-16, rising to £4.327 billion in 2021.&#xa0;
+
+[[[Q30]]] 
+
+[[[Dr Whitehead:]]] No, that is not so, because you have to take into account the accumulation of what is coming to those people.  We have already entered into the period.              
+
+[[[John Fiennes:]]] So it is about £700 million; you are correct.&#xa0;
+
+[[[Q31]]] 
+
+[[[Dr Whitehead:]]] Yes, so over that period, you have to take the accumulation each year up to 2021, and then deduct that from what you have available for new entrants in each year.               
+
+[[[John Fiennes:]]] Exactly; the difference between the figures is the new entrants base.&#xa0;
+
+[[[Q32]]] 
+
+[[[Dr Whitehead:]]] Yes, but doing that for each year means that, even on your present calculations, in that particular table, you have about £600 million for new entrants per year.
+
+[[[John Fiennes:]]] Yes, that is right. Of course, that is not the capital value of investment. That is—
+
+[[[Dr Whitehead:]]] That is the potential reward for somebody coming in.               
+
+[[[John Fiennes:]]] Yes.&#xa0;
+
+[[[Q33]]] 
+
+[[[Dr Whitehead:]]] That is the basis on which people will invest in new renewables, presumably.
+
+[[[John Fiennes:]]] Yes. Subject to the use of the headroom and all the other things that I have talked about.&#xa0;
+
+[[[Q34]]] 
+
+[[[Dr Whitehead:]]] That is below the present level for new entrants under the levy control framework, is it not?              
+
+[[[John Fiennes:]]] You need to explain to me where those numbers came from.&#xa0;
+
+[[[Q35]]] 
+
+[[[Dr Whitehead:]]] If you look at the figures up to 2014-15, which are already available, you can see from the record what the new entrants figure has actually been on the basis of present reward, admittedly under the RO. It comes to about £670 million, or £680 million.              
+
+[[[John Fiennes:]]] I have numbers in front of me for total spend; let me tot them up.&#xa0;
+
+[[[Q36]]] 
+
+[[[Dr Whitehead:]]] The 2014-15 amount for new entrants is £676 million.               
+
+[[[John Fiennes:]]] May I ask what document you are looking at?
+
+[[[Dr Whitehead:]]] I am looking at my document. It takes the published figures for the cap on the levy control framework each year up to 2015, and the cumulative payments that result from that, and deducts from that what is available for new entrants. That comes to about £500 million in 2012-13, £530 million in 2013-14, and £670 million in 2014-15.               
+
+[[[John Fiennes:]]] That sounds like an increase year on year, unless I have misheard you.&#xa0;
+
+[[[Q37]]] 
+
+[[[Dr Whitehead:]]] Yes, it is an increase.              
+
+[[[John Fiennes:]]] So—
+
+[[[Dr Whitehead:]]] The point is that on the basis of the figures available up to 2020, the figure of £600 million is a decrease, isn’t it?              
+
+[[[John Fiennes:]]] I thought you had got to about £600 million in your final year.&#xa0;
+
+[[[Q38]]] 
+
+[[[Dr Whitehead:]]] I did, yes, £676 million, but then you go down to about £600 million afterwards.
+
+[[[John Fiennes:]]] I wonder if this is because we are currently above the LCF cap. We are within headroom at the moment. We have done that by agreement with the Treasury, and that is a result of the small-scale FIT surge. We expect to come back under the cap in future, but that doesn’t mean that you suddenly have that drop in that year. It is a smoother—&#xa0;
+
+[[[Q39]]] 
+
+[[[Dr Whitehead:]]] A rather different question is that if you have £600 million available per year for new entrants—bearing in mind a reasonably fair wind on what will happen with strike price against reference price and so on—the projection that the levy control framework will enable a doubling of renewable deployment to take place is clearly wrong, isn’t it?
+
+[[[John Fiennes:]]] I do not think we would accept it was clearly wrong. We put out a lot of explanation of why we think it is achievable before the summer and we are re-working all those assumptions now. My understanding is that it says that it is  still achievable, even under a low fossil fuel scenario.&#xa0;
+
+[[[Q40]]] 
+
+[[[Dr Whitehead:]]] But you cannot possibly have a doubling of large-scale renewable deployment on the basis of a reduced amount for new entrants per year, can you?
+
+[[[John Fiennes:]]] What I am saying is that I suspect that what is going on in the numbers there is a reflection of where we are in headroom and how fast we get back to it. It may be that we need to pick this up again once the delivery plan is published and we can have a detailed debate about the assumptions that we are making. But that is not my understanding of the figures.&#xa0;
+
+[[[Q41]]] 
+
+[[[Dr Whitehead:]]] Does this perhaps illustrate that there might be a little bit of opacity in these figures at present? Are you confident that the Department has set out the relationship between policy determination overall and what is in the LCF as far as the figures are concerned, in a way that can be understood in terms of anybody being clear about how the policy and the finances match up together?
+
+[[[John Fiennes:]]] I have said that we can do a better job of that. That is partly on the prices and bills element, where it is at the moment, but it is a complicated area. The second part is the overall LCF spend and the outcomes you are achieving with it. That is a fair point and we will do our best to do that. I hope the delivery plan will provide an opportunity and I will certainly take away that particular point and look at it, so when we do the delivery plan we try to make sure that it is as clear as possible. It is an important point, as you say, for investors and for confidence, but we believe that the policy we have and the financial provision we have is a good offer and is the right one. We will need to make sure that is clear.&#xa0;
+
+[[[Q42]]] 
+
+[[[Graham Stringer:]]] I have a few questions on the impact on consumers. The Department says that 15% of the increase in average household bills is because of the level of the levies. Do you think it is now time to review these levels?
+
+[[[John Fiennes:]]] There is work going on now about which policies are on bills. I would expect more information about that to come out around the autumn statement. So I am not sure there is much I can add. I might add that, as I think I said before, we predict that the overall effect of policy on bills will be negative. We think that a saving is generated by the policies that we have, which amounts to about 11% in 2020.&#xa0;
+
+[[[Q43]]] 
+
+[[[Graham Stringer:]]] That depends on all sorts of assumptions. I prefer to stick with what the actual costs of the scheme are. The assumptions that that reduction is based on tell us what they are. They are all projections, aren’t they? These are real costs.
+
+[[[John Fiennes:]]] Sorry, I haven’t come prepared to talk about the detailed assumptions for all these things, but I would say that if you are thinking about a policy which is designed to promote energy efficiency, it is reasonable to think about the costs and the savings that you expect that policy to generate, because otherwise, you would never pursue energy efficiency, because it all looks like a cost, and actually some of these things can be extremely beneficial. One can have a debate about what are the right assumptions to make about savings, but we certainly need to be including those in the policy debate. That is not to say that you should not look carefully at all these policies, to make sure that you have the right level and the right element on bills as opposed to in other respects. That work is going on at the moment and there has been plenty of debate about it in the public domain.&#xa0;
+
+[[[Q44]]] 
+
+[[[Graham Stringer:]]] The National Audit Office thinks that there will be a continuing impact on consumers’ bills. What is your estimate of the extra costs by 2020?
+
+[[[John Fiennes:]]] We think that the total cost of the schemes covered by the LCF will, by 2020, be £85 on a bill. Some £41 of that will be the then legacy RO, £30 will be from the CFD and £14 will be from the small-scale feed-in tariff. That is part of the overall picture in 2020, when we think that policies will save £166, or 11%, overall.&#xa0;
+
+[[[Q45]]] 
+
+[[[Graham Stringer:]]] Do you think you could send the Committee the assumptions behind those decreases, please?
+
+[[[John Fiennes:]]] Yes, sure. I think they are mainly published in the prices and bills report, but we are absolutely happy to send you that.
+
+[[[Neil Bush:]]] To add to that, the key energy efficiencies are on product savings, boiler regulations, the ECO, CERT and CESP and, towards 2020, the impact of smart metering. We can provide more details and link them to the prices and bills report, which was published last March.&#xa0;
+
+[[[Q46]]] 
+
+[[[Graham Stringer:]]] Do you think that there are better ways to fund these initiatives? Would they be better funded out of general taxation?
+
+[[[John Fiennes:]]] I think that I will not get drawn on that question, if I may. That is essentially a political question, and questions of tax are for the Treasury. The Secretary of State will shortly talk about all these things.
+
+[[[Graham Stringer:]]] Yes, next Tuesday.              
+
+[[[John Fiennes:]]] I think you might want to put that to him.&#xa0;
+
+[[[Q47]]] 
+
+[[[Graham Stringer:]]] One final question. Bills are going up, and part of the reason for that is climate change initiatives. Do you monitor not only bills, but the impacts that they have on low-income consumers? We are told that 30,000 people died last winter of hypothermia. Do you monitor that and take that impact into account?
+
+[[[John Fiennes:]]] Yes, and as I said, we think that policy overall is saving people money. We think that in 2020, the poorest 30% of households will spend on average 1% to 2.5% less of their expenditure on energy than they would in the absence of policy. A lot of work is going on to provide people with help and support where we can. The energy company obligation has elements for that, including the warm home discount and the winter fuel payment. A lot of money is being spent by Public Health England to address public health priorities, including excess winter deaths. We have an initiative run from the Department in which volunteers are trained to help vulnerable people use the energy saving network to get the best deal for them, and to provide them with support. Absolutely, this is an important issue that we take into account. The key is to provide people with the right support to get into the right tariff, to help them with energy efficiency, and to do the best that we can in that way.
+
+[[[Neil Bush:]]] Again, we can provide that to the Committee, because the prices and bills report breaks down the impact on consumer bills by income decile.&#xa0;
+
+[[[Q48]]] 
+
+[[[Dr Whitehead:]]] The Treasury proposes that levy-funded schemes be excluded from the next parliamentary estimates and end-year accounts. Are you happy with that?
+
+[[[John Fiennes:]]] I might pass that over to James in a moment, but my understanding is that the Treasury is saying that it wants to find a solution that gets schemes published for the 2013-14 financial year onwards, and that gets the schemes included in budgets from 2014-15 onwards. That is all to do with the international financial reporting standards, and I confess that I do not fully understand them. Are we happy with a position where we cannot publish it? No, because I would rather get the information out in a way that is clear and has the outcomes and the spend set out, so that we can have this debate. We have to find the right technical way of doing that. It has been a frustrating process for most of those involved.
+
+[[[James McEwen:]]] We have a strong commitment to clear line of sight, and our commitment to Parliament is that we will try to align, as far as possible, budgets, estimates and accounts. Where we have come unstuck with these imputed tax and spend schemes is that the income, or the revenue, does not meet international accounting standard 18, which deals with revenue recognition. The Comptroller and Auditor General has said that if we had included the notional income from these schemes in our accounts, we would have prepared our accounts outside the international financial reporting standards and he would have—rightly, given his duties—qualified the Department.We have spent two years trying to find a way around this issue in a way that is consistent with the principles of clear line of sight and the IFRS. It is deeply unfortunate that we cannot find a way through. As the CST has set out, it is a difficult decision, but the decision we have reached is that we will need a permanent misalignment between the Department’s budgets and its estimates and accounts. There is no way that we could include, either in the estimates or the accounts, the income expenditure from these imputed schemes.It will be different for CFD and the capacity mechanism, which will flow through public funds and so are direct taxation. That will be more transparent. In the interim, we must work with this Committee, with the Liaison Committee and with the NAO to say, “We cannot report on this expenditure in our accounts—what is the best way of doing that?” The NAO made some helpful recommendations in that direction.&#xa0;
+
+[[[Q49]]] 
+
+[[[Dr Whitehead:]]] How is it accountable to Parliament at that point?              
+
+[[[James McEwen:]]] This will be a report to Parliament with appropriate assurance.&#xa0;
+
+[[[Q50]]] 
+
+[[[Dr Whitehead:]]] From the Treasury?
+
+[[[James McEwen:]]] Appropriate independent assurance. We need to talk to the NAO about whether that is an NAO audit, or whether we rely on the audit process that Ofgem has in place. We need to work through that, which is why we have to think long and hard about what this new report looks like. The Treasury has reached the view, shared by the Department, that it makes no sense to include these schemes in the accounts if it would lead to an enduring qualification.&#xa0;
+
+[[[Q51]]] 
+
+[[[Dr Whitehead:]]] If that was the case, would you expect the Treasury, rather than you, to report back to this Committee?              
+
+[[[James McEwen:]]] Absolutely not.&#xa0;
+
+[[[Q52]]] 
+
+[[[Dr Whitehead:]]] You would report?              
+
+[[[James McEwen:]]] We would be accountable.&#xa0;
+
+[[[Q53]]] 
+
+[[[Dr Whitehead:]]] Even though it is not in your accounts?
+
+[[[James McEwen:]]] Absolutely; we would be accountable, because it is our budget. The budget would be delegated to us; we would still have a budget. Of the three elements in the clear line of sight—the budget, which is controlled by the Treasury, estimates voted on in Parliament, and the accounts, which are audited by the NAO—we are able to keep this budget within the control framework as a DECC budget, and the Treasury delegates to us responsibility for managing within that. The LCF—the governance framework that we have been discussing—sets the rules for that. That is why it is important, and that is why it is a technical piece of public expenditure control.&#xa0;
+
+[[[Q54]]] 
+
+[[[Dr Whitehead:]]] When the Secretary of State comes before us each year to talk about the accounts from DECC, they would not appear in it, would they?              
+
+[[[James McEwen:]]] They cannot appear in it. They do not.&#xa0;
+
+[[[Q55]]] 
+
+[[[Dr Whitehead:]]] Therefore we could not ask the Secretary of State questions about them, because they are not there.
+
+[[[James McEwen:]]] There is a whole range of considerations. We need to work through the practical implications of this being—let me get this right—the first misalignment between budgets and estimates since clear line of sight started, so we are in uncharted territory. We are therefore absolutely open to working with the Committee and saying, “What does this look like for you?” because we are in the same boat.&#xa0;
+
+[[[Q56]]] 
+
+[[[Dr Whitehead:]]] So we would have to ask the Treasury really, wouldn’t we?
+
+[[[James McEwen:]]] No, you would have a session with DECC looking at its annual reports.&#xa0;
+
+[[[Q57]]] 
+
+[[[Dr Whitehead:]]] What, and then they would pass on the information to the Treasury, which would pass back the information to DECC, and then you would tell us the information that had been passed back?
+
+[[[James McEwen:]]] Sorry, I am not sure of the role of the Treasury here. The Treasury is delegating to us the LCF budget. We work with Ofgem to monitor and capture what is happening in the schemes and their costs. We will have a distinct report that looks at those actual costs. The NAO also wants us to use those reports to look at forecast costs and align them with outcomes. That will be wrapped up in a report that will be presented to Parliament by DECC.&#xa0;
+
+[[[Q58]]] 
+
+[[[Dr Whitehead:]]] Presented to Parliament by DECC.              
+
+[[[James McEwen:]]] Yes.&#xa0;
+
+[[[Q59]]] 
+
+[[[Dr Whitehead:]]] So not to a Select Committee by DECC.
+
+[[[John Fiennes:]]] This is uncharted territory, and we are looking for something that will fit the needs. Personally, I would expect you to want to have that conversation with the Secretary of State, and I would expect him to be in favour of that, but we need to work that through and understand what we can do that is most sensible.&#xa0;
+
+[[[Q60]]] 
+
+[[[Dr Whitehead:]]] I am sorry to paraphrase, but you are saying, “We don’t know how to do it at the moment.” Would that be fair?
+
+[[[John Fiennes:]]] There are lots of ways in which it could be done; we just need to find a way that does not break the appropriate financial reporting standards.
+
+[[[James McEwen:]]] We are absolutely open, which is entirely right. We need to work with parliamentary scrutiny colleagues, with the Liaison Committee, with this Committee and with the NAO to ensure we have a bespoke reporting process—including proper scrutiny by this Committee—that allows us to have the right transparency and oversight of the levy control framework. We want that to be collaborative. It would not be right for us to say, “This is what we think. Here is the process.” I am sure that you would rightly criticise us if we did that. We are saying that we are pondering options and we welcome your views.&#xa0;
+
+[[[Q61]]] 
+
+[[[Chair:]]] How developed is the process?
+
+[[[John Fiennes:]]] I think the Liaison Committee got together last night to think about a response to the Chief Secretary’s letter, but I do not know that for certain, and I do not know the outcome of that discussion. We need to understand where that has got to and move as quickly as we can to bring it to fruition.
+
+[[[Chair:]]] Thanks very much for that background. It will be useful evidence when the Secretary of State appears before us next Tuesday. We obviously need to firm up how the levies are reported on to Parliament, so that we can have effective scrutiny. Thanks again for your time. There are a few things that you are going to follow up on, so we will be in touch.&#xa0;&#xa0;&#xa0;&#xa0;              Oral evidence: Levy Control Framework, HC 872                            2

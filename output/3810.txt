@@ -1,0 +1,121 @@
+&#xa0;
+
+[[[&#xa0;]]]
+
+[[[Written evidence from the Institute of Engineers (CYS 054)]]]&#xa0;The Institution of Civil Engineers (ICE) understands the concerns after the recent deaths of a number of cycle users on the streets of London. Many, including the Mayor of London, have identified, amongst other aspects, the role of engineering as means to improving safety for cyclists.&#xa0; ICE is a UK-based international organisation representing over 80,000 members around the world, who range from professional civil engineers to students. It is an educational and qualifying body and has charitable status under UK law. Founded in 1818, the ICE has become recognised worldwide for its excellence as a centre of learning, as a qualifying body and as a public voice for the profession. Under our Royal Charter, ICE takes seriously its role as a learned society and we actively contribute to the development of public policy at all levels of Government.&#xa0;ICE has drawn upon the knowledge of its members to respond to previous Government consultations on transport policy issues and welcomes the opportunity to contribute to this inquiry by outlining how to improve safety for cyclists in our towns and cities from a civil engineering perspective.  &#xa0;
+
+[[[1. ]]]
+
+[[[Whether cycling is safe, particularly in towns and cities]]]&#xa0;1.1              Table 1 shows the number of pedal cyclists who have been killed or seriously injured (KSI) in Great Britain in the years 2002 to 2012. The table also shows an estimate of the number of billion kilometres cycled derived from the National Travel Survey (and using mid-year population estimates) and, separately, the same estimate from the National Road Transport Estimates.
+
+[[[Table 1 Pedal cycle ]]]
+
+[[[numbers killed and seriously injured, and rates per cycle kilometre travelled]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[Distance cycled estimates]]]
+
+[[[&#xa0;]]]
+
+[[[KSI per distance cycled estimates]]]
+
+[[[Year]]]
+
+[[[Average distance cycled]]]
+
+[[[Average trip length]]]
+
+[[[GB Population]]]
+
+[[[NTS Estimate]]]
+
+[[[NRTE Estimate]]]
+
+[[[Pedal cyclist KSI]]]
+
+[[[NTS ]]]
+
+[[[estimate]]]
+
+[[[NRTE estimate]]]&#xa0;Miles / person / yearMiles1000sbill.cycle.kmsbill.cycle.kmsNumberKSI / mill.cycle.kmsKSI / mill.cycle.kms200236.162.1657622.13.334.4024500.7350.557200337.152.3457849.63.444.4024110.7010.548200438.692.3958131.63.604.1023080.6410.563200536.142.4458511.13.384.3023600.6970.549200639.212.3858842.73.694.5024420.6620.543200740.292.8559226.53.824.1025640.6720.625200842.022.5559623.24.014.6025650.6400.558200945.552.9160003.14.374.8027100.6200.565201042.452.8260462.64.114.8027710.6750.577201148.853.0261470.84.804.9031920.6640.651201252.693.1961881.45.225.0033400.6400.668&#xa0;1.2              The number of people killed or seriously injured needs to be considered relative to a measure of exposure. The measure of exposure used in the table above is the distance cycled. There are two problems with this measure:&#xa0;&#xa0;This evidence does not make inter-modal comparisons, and distance is a good measure for trend over time. The problem, more clearly shown in Figures 1 and 2 below, is that our idea of whether the rate of being killed or injured is increasing or decreasing over time is dependent on whether we place more reliance on the estimates based on the National Travel Survey or the estimates based on the National Road Traffic Estimates.&#xa0;&#xa0;1.3              It is an open question therefore, as to whether the trend in cyclists being killed and seriously injured has been increasing or decreasing over time. ICE is aware that the issue of the accuracy of the estimates for the number of cycle kilometres travelled is one which the Department for Transport is currently considering. 
+
+[[[Recommendation 1: The Department for Transport should be urged to move quickly towards being able to make more accurate estimates of the dis]]]
+
+[[[tance cycled so that meani]]]
+
+[[[ngful cycle casualty exposure measures can be derived.]]]&#xa0;1.4              The Transport Select Committee asks whether cycling is safe: On the one hand, the answer to the question lies in the minds of those who might choose to cycle, or who might choose not to cycle. On the other hand, the answer might lie in deciding whether the rate at which cyclists are killed and seriously injured lies above or below some arbitrary threshold. Taking either the standpoint of the potential traveller, or the standpoint of policy makers, it is clear that it would be highly desirable to create conditions which make our towns and cities more attractive and comfortable to cycle around, and through doing so, will make them also safer. We cannot be complacent about the current rate of injury and death and we need to consider ways of reducing risk to cycle users, as well as all users.  
+
+[[[Recommendation 2: ]]]
+
+[[[C]]]
+
+[[[lear ]]]
+
+[[[national objectives and targets need to be established and backed with appropriate resources, leadership and will, so that local interpreta]]]
+
+[[[tion and implementation is effective.]]]&#xa0;
+
+[[[2. ]]]
+
+[[[              ]]]
+
+[[[What central and local Government could do to improve cycling safety? ]]]&#xa0;2.1              Cycling has advantages over other modes mainly over shorter journey distances up to perhaps 5 miles (or perhaps 10 miles for a proportion of the population who are fit and able). &#xa0;2.2              The Highways Agency does also need to consider the needs of cycle users, particularly where the motorway and trunk road system causes severance.&#xa0;2.3              The actions that local highway authorities (and the Highways Agency) take stem directly from the direction and leadership that they see emanating from central government. The ICE thinks that national direction and leadership needs to be provided on design guidance which is still currently developing for provision for cycle traffic. The ICE is aware that the Department for Transport is considering its approach on this issue at the present time. 
+
+[[[Recommendation 3: The Department for Transport provides leadership in design guidance which is still currently developing.]]]&#xa0;2.4              There is some excellent experience now available across a wide range of local authorities on designing highway infrastructure and managing that infrastructure through appropriate traffic regulation orders in such a way as to promote cycling and also to make cycling safer. There are also some very poor examples of changes which have been made to the highway network which neither support the needs of cyclists, nor make cycling safer. The ICE recommends that the limited extent, continuity and quality of current cycling infrastructure should be addressed as follows:&#xa0;
+
+[[[3]]]
+
+[[[.  ]]]
+
+[[[              ]]]
+
+[[[Whether it would be desirable and feasible to segregate cyclists from other r]]]
+
+[[[oad users, ]]]
+
+[[[i]]]
+
+[[[ncluding, for example, by prohibiting HGVs from entering city centres at peak hours.]]]&#xa0;3.1              We answer this question by first briefly reviewing the nature of provision in Northern Europe.&#xa0;3.2              In the Netherlands, there is more of an emphasis than has been apparent to date in the UK on routes and lanes which are separate from motor traffic. This is particularly the case where motor traffic speeds and volumes are higher. This ‘segregation’ has become a main focus of discussion about cycling provision, particularly in London, and is commonly discussed in the context of roundabout design (for example, the ‘Dutch style roundabouts’ currently being trialled by the Transport Research Laboratory for Transport for London).  Arguably the more important feature of cycling provision in The Netherlands is the nature of the comprehensive networks for cycle users.  These routes tend to be more direct, remove difficult barriers to movement, and above all are networks where it is quicker and easier to use the bike bicycle than the car.&#xa0;3.3              Denmark, on the other hand, are more prepared to mix cycle traffic with motor traffic. This is characterised at traffic signal controlled junctions where cycle users typically return from a cycle lane kerb-separated from the carriageway to join other traffic to progress through junctions.&#xa0;3.4              Clearly there are difficulties in simply applying Dutch or Danish approaches to the UK situation.  An important area of difference is the law surrounding traffic management. The UK does not have ‘strict’ or presumed liability in road traffic law, which is where the default assumption is that the driver of a motor vehicle is liable to give compensation in civil law in cases where they collide with vulnerable road users.  Northern Europeans also have different rules for the use of the road, for example, helpful time saving protocols at signal controlled junctions where pedestrians and turning traffic can move at the same time, with the traffic giving way where there is conflict.  These differences in law, and regulation, are likely to have been the mechanisms by which different cultures of responsibility, and hence consequent behaviours, have been established over a period of time. 
+
+[[[Recommendation 7]]]
+
+[[[:]]]
+
+[[[ ]]]
+
+[[[ICE would ]]]
+
+[[[encourage]]]
+
+[[[ ]]]
+
+[[[investigati]]]
+
+[[[on of]]]
+
+[[[ ]]]
+
+[[[potential ]]]
+
+[[[traffic law and regulation ]]]
+
+[[[changes which may ]]]
+
+[[[permit]]]
+
+[[[ beneficial change in road user behaviour.]]]
+
+[[[ ]]]&#xa0;3.5              While some cities such as Bristol, Cambridge and London have seen significant rises in levels of cycle use in the last decade there are other places, ostensibly with the ready-made infrastructure in place, such as Milton Keynes and Stevenage, where success in raising cycling levels has been harder to come by. These significant rises in levels of cycling are to be welcomed, but seemingly the inter-relationships between motor traffic and cycle users have not reached the level of maturity shown in countries with currently high levels of cycle use.&#xa0;3.6              The problem with ‘segregated’ cycle routes that have been provided in the UK in the past have been that their purpose has been to remove cycle traffic from the carriageway, with the point being to provide less hindered movement motor traffic on the highway. Unless cycle routes are designed for the needs of cycle users they will remain underused and, as the evidence suggests, no safer than the highway.&#xa0;3.7              The problem with provision for cycling historically in the UK is that it has always been seen as, a ‘problem’ mode.  This has been based on the misplaced notion that the activity itself is risky, rather than the surrounding motor vehicles which pose most of the risk. Traffic management has generally been concerned mainly with maximizing capacity and minimising delay, but we are now seeing recognition that, in fact, appropriate traffic management in many urban areas is well achieved through speed management, such as the introduction of 20mph limits and zones.&#xa0;3.8              The challenge now is to take the mode seriously enough to make the necessary quality of provision through comprehensive networks which are attractive and comfortable. To be well designed for cyclists’ needs, we know from Dutch design guidance what they need to be like: direct, comfortable and attractive. Off-road routes need to be well engineered in geometric terms and have sufficient width. Where routes coincide with routes also available for motor traffic, care needs to be taken in the design to continue to provide sufficient safe space for movement. Provision within the highway will include areas which are segregated from motor traffic and areas which are integrated with motor traffic. Where segregation exists, particular care needs to be taken to ensure that the advantages of speed and flexibility of the bicycle are not lost, and that the points where cycle traffic diverges and merges with motor traffic are safe.&#xa0;3.9              So far as HGVs are concerned, the ICE has not argued for the prohibition of HGVs from city centres at peak hours. This is for reasons linked with the necessity for the goods as well as people to be moved around urban areas to maintain the economic life of urban areas. We do think that we will see changes, however, in how ‘last mile’ delivery is undertaken in the future, with the potential for consolidation centres at urban peripheries where the disadvantages of trans-shipment are outweighed by the advantages of less vehicle mileage wasted in congested urban conditions. We also think there is likely to be further growth in cycling being part of the mix of modes providing last mile delivery.&#xa0;3.10              Continued pressure should be brought to bear, however, on hauliers training their drivers in schemes such as FORS, which help raise awareness and skill amongst HGV drivers when they are driving in situations where there are many vulnerable road users present.&#xa0;3.11              The ICE has been pleased to work with on a draft of Work Related Road Risk Standards for Construction Logistics with Transport for London and others. This document is currently being finalised and will address some of the issues particularly relevant to construction vehicles. &#xa0;3.12              With this in mind, ICE would like to raise issue with the recent Government announcement for HGV driver training exemption designed to cut costs and bureaucracy, where short distance repair and testing drivers are to be made exempt from additional professional driving tests and training.  &#xa0;3.13              Under current European rules, anyone who drives heavy goods vehicles or buses must complete a Certificate of Professional Competence but around 76,000 who drive them for short distances, for the purposes of delivering or repairing them, will soon be exempt.  Two exemptions, made following a consultation, are to be made this autumn: &#xa0;&#xa0;3.14              ICE has written to Government on this issue, and would again like to express our concern at this exemption.  Regardless of whether mechanics or valets are carrying passengers or goods, it remains that they are still driving heavy vehicles in potentially congested urban areas, and should be fully trained to do so.&#xa0;3.15              ICE urges the Transport Select Committee to address this issue, as we are concerned at the potential for what we consider to be an unnecessary change in legislation, which we fear could lead to further collisions, or at worst, further fatalities.  &#xa0;
+
+[[[4. ]]]
+
+[[[              ]]]
+
+[[[Additional points]]]&#xa0;4.1              In closing, we would welcome the opportunity to participate in the oral evidence session on 2 December 2013, where a member of our Cycling Working Group would be happy to expand upon our evidence further. &#xa0;November 2013&#xa0; For a review of the evidence see John Franklin’s web page http://www.cyclecraft.co.uk/digest/research.html  https://www.gov.uk/government/news/driver-training-exemption-set-to-cut-costs-and-bureaucracy 

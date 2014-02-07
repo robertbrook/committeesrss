@@ -1,0 +1,1091 @@
+&#xa0;Health Committee nameOral evidence: Public expenditure on health and social care, HC 793Tuesday 5 November 2013Ordered by the House of Commons to be published on 5 November 2013.Written evidence from witnesses:–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Sir David Nicholson and Paul Baumann, NHS EnglandWatch the meetingMembers present: Mr Stephen Dorrell (Chair); Rosie Cooper; Barbara Keeley; Charlotte Leslie; Grahame M. Morris; Mr Virendra Sharma; Valerie Vaz; Dr Sarah Wollaston.Questions 1-158Witnesses: 
+
+[[[Sir David Nicholson]]], Chief Executive, and 
+
+[[[Paul Baumann]]], Chief Financial Officer, NHS England gave evidence.  
+
+[[[Q1 ]]]&#xa0; 
+
+[[[Chair:]]] Good afternoon. We will make a prompt start because I know you have an appointment elsewhere later in the afternoon. We will try to ensure that we draw our proceedings to a close in a way that fits in with that. Sir David, you are very welcome and are a repeat visitor to this Committee. Mr Baumann, I think it is the first time you have been here; you are very welcome.
+
+[[[              ]]]Having dealt with the pleasantries, I will go straight into the questions. We would like to start by looking at the performance of the NHS against what we term the Nicholson challenge—the need to deliver a 4% efficiency gain or £15 billion to £20 billion in the period to 2015—in the year to March 2013 and in the current year. Last year, you provided an analysis for us that showed how you achieved the savings targets for the year ended 2012, partly through pay restraint, partly through service reconfiguration and partly through a number of other, shorter-term effects. I would like to begin by asking you how you would report on the achievement of efficiency targets during the year ended 2013, and how those were achieved.
+
+[[[Sir David Nicholson]]]: It is worth pointing out that this is the fourth year of little or no growth for the NHS, which is unprecedented in its history. In the first year, we delivered £4.3 billion-worth of savings. That was audited by the Audit Commission, as it was then; the National Audit Office has done the work since then. We have done just over £5 billion for the next two years. For this year, I think we are on target to deliver £4.2 billion—or £4.4 billion—which is what we expected to do. It is true to say that the way in which we are delivering it is broadly similar to what we have described in the past. I think we are doing more than we expected through basic efficiency and less through transformational change. We have had that conversation before, but that is still the case this year.
+
+[[[Paul Baumann]]]: Could I clarify the number? I think you misheard my mumble. We will deliver £4 billion this year, against a target of £4.2 billion. As David has just said, the bit of it that we are struggling to deliver in full is the transformational part of the commissioner savings. We are about 20% off the target of those, which reflects the difficulty of making the transformational change happen at the pace at which we need it. 
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Chair:]]] One of the concerns the Committee has expressed in the past is that, when these efficiency gains are analysed, a significant portion of them either rely on wage restraint, which cannot be sustained indefinitely, or rely on property disposals or other short-term issues that release cash in-year but do not deliver sustainable efficiency gain. How much, last year of the £5 billion, and this year of the £4 billion, is sustainable in the long run?
+
+[[[Paul Baumann]]]: For this year, which I think I am better placed to comment on than last year, there is very little that is not sustainable. The issue is how we can increase the proportion of transformational savings for the future and reduce the amount of transactional ones, because clearly those will run out. However, as I look at it, I do not think there is anything this year that I would say is temporary in nature, non-recurrent or whatever. As you have seen in the past, the NAO has confirmed that 90% of the savings have been recurrent. I see this year as being a continuation of that pattern. 
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Chair:]]] Could you send the Committee an analysis for the whole of this four-year period to which Sir David referred, from the beginning of the period, showing how these numbers are arrived at and what they represent, in terms of the different headings?
+
+[[[Paul Baumann]]]: Yes. 
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] By transformational change, do you mean the reorganisation under the Health and Social Care Act or are you talking about something different? Could you define what you mean?
+
+[[[Sir David Nicholson]]]: I am very happy to do that. In terms of the management cost savings that were required as part of the approach to the overall efficiency gain, we are well on target to deliver £1.5 billion of recurring savings from that activity. That comes out of all of the changes that you have described as the reforms and such matters. There are two aspects of transformational change that have been less successful. One of them is stemming the flow, if you like, or reorganising the services to ensure that we have better control and a better handle over emergency care; the Committee has been through all of that before. Secondly, there was an implication behind the changes that we would do more centralisation and concentration of services in a smaller number of organisations. We have made progress in both of those areas, but we have not made it fast enough or significantly enough across the whole country. 
+
+[[[              ]]]
+
+[[[Chair:]]] I turn to Barbara. Pay is the first issue we want to focus on in detail. 
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] NHS pay is very much in the news today, particularly around the view that increases should be deployed to improve the quality of patient care and achieve a better balance between pay, performance and productivity. Could we start with that? What are your views on continued pay restraint, in the light of what the Government are trying to achieve with pay?
+
+[[[Sir David Nicholson]]]: The issue for us is that if you look at the NHS going forward—over the next year and, indeed, the next two or three years—there is little indication in all of that that we are going to get any extra real-terms growth; we may get a little bit, but there is relatively little. In those circumstances, one of the key things that we need to do—because of the scale of it—is to control the total pay bill. There are a whole lot of different ways of doing that. The one that we have used so far is to control the headline increase in pay, which we have done by either a pay freeze or the 1%. Of course, as you know, in the NHS there are all sorts of incremental schemes that go on simultaneously. Although, for example, we had a pay freeze, the actual increase in pay across the NHS was 0.7%, because of the incremental changes. The issue for us is what we do with the headline pay and what we do about increments. That is the conversation that is going on with the pay review body at the moment.
+
+[[[Paul Baumann]]]: It is perhaps worth saying that the pay drift that you have just described—in terms of increments—is gradually coming down in the service as we go through it. As you quite rightly said, in 2011-12 it was 0.7%; in 2012-13 it was 0.5%. I cannot guarantee that it will continue to come down in quite that linear fashion, but it is naturally and necessarily a reducing part of the problem. 
+
+[[[Q6 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Clearly 1% of a not very high amount is not very much. Nurse salaries now start at £21,388. Perhaps you could comment on the view expressed by Professor Keogh this morning, who said that NHS senior managers “deserve” their “very significant salaries”, bearing in mind the context that the top 10 salaries paid to senior managers in the NHS amount to £1.7 million, ranging from £155,000 to £210,000. Here we have someone very senior in the team who, when asked about it, says that senior managers “deserve very significant salaries”. What does that say to the rest of the NHS about whether they deserve very significant salaries?
+
+[[[Sir David Nicholson]]]: Not just this Government’s but the previous Government’s policy on pay was straightforward, in the sense that there was fairly tight control over pay in the arm’s length bodies. In NHS England, for example, the organisation I am responsible for, pay is constrained; it works in line with the overall Government pay strategy and all the rest of it. In foundation trusts and CCGs, it is up to each individual organisation to decide how much it will spend on pay, how much it will pay the people who lead it and all the rest of it. There is a distinct— 
+
+[[[Q7 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Do you regard those senior salaries as constrained? Are you describing between £155,000 and £210,000 as constrained?
+
+[[[Sir David Nicholson]]]: Are you talking about the basic pay or about the way pay increases, which is not a given? If you are talking about the pay for the jobs themselves, of course we do not set our own pay; I do not set my own pay. The Government set out a very— 
+
+[[[Q8 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Let’s not meander on, because you are very short of time this afternoon. I asked you to comment on a comment made by a very senior NHS manager this morning that senior managers “deserve very significant salaries”. That is what he said. In the context that I have described, the debate that is going on, he said that those very senior managers “deserve” significant salary increases. That is what I wish you to comment on.
+
+[[[Sir David Nicholson]]]: I will make a couple of observations on that. The first one is that in the rest of this conversation, I guess, we will talk about some of the biggest and most significant transformational change the NHS has ever seen. We need really good, top-drawer people to lead that. If we constantly denigrate and criticise them, it is hardly surprising that they respond to that. We all have a responsibility to support those people, in incredibly difficult jobs.
+
+[[[Barbara Keeley:]]] And incredibly highly paid jobs.
+
+[[[Sir David Nicholson]]]: Absolutely. I am saying absolutely that they are highly paid jobs. The second thing is that I have been in the NHS for 35 years and have only ever once applied for a job that was not associated with a reorganisation. If people would stop constantly reorganising the NHS, we would have less of the turbulence that we have. In terms of the individual pay of people who are part of very senior managers’ pay, a system was set up, not by me but by the Government—signed off by Ministers—that put every job through a rigorous external evaluation that set out what the job was and put a salary against it. That was not done by the people themselves, and that is what people have got. We should not be surprised by the salaries that they have got. 
+
+[[[Q9 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] There is no question of denigration. I am asking you about a very senior manager who, when asked about salary policy—these issues—this morning said that those very senior managers on the very high salaries I have talked about “deserve…significant salaries”. It is very lucky if you have worked for 35 years and have only ever had to apply for one job; 6,000 nurses have been made redundant and have lost their jobs.
+
+[[[Sir David Nicholson]]]: I have applied for lots of jobs. The point I was trying to make was that I applied for those jobs not because I thought I might want them—normally it was because the organisation I worked for had been abolished because of some reorganisation that had been dreamed up somewhere in the NHS. 
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] You are talking to the wrong side of the room about reorganisations, because we are not over-happy with this either. I want to know whether you think that it is appropriate for somebody on a very senior salary himself to say that those senior managers on salaries between £155,000 and £210,000, which is your level, deserve that significant salary rise at a time when we are talking about pay restraint down to people on very small amounts—people on £21,000. Do those people, who also have to worry about being made redundant, not deserve the salaries they are on?
+
+[[[Sir David Nicholson]]]: I think people deserve the pay that the system we set up identifies they should get. All that Bruce Keogh was talking about was that there is a very rigorous process—the very senior managers’ pay job evaluation—that is done externally and sets the pay. 
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] He did not say that. His comment was that they deserve it. I think that what he said and the tone of that are just wrong. Around pay restraint, it is a mistake for a person paid at the topmost rates in an organisation to say that he and his colleagues deserve what they earn, as if everybody else did not. Frankly, you will have a lot of issues on this pay restraint issue and on dealing with drift, as it has been called, at the lower levels if people at the very top, on these very significant salaries, think that they deserve it—as if other people did not.
+
+[[[Sir David Nicholson]]]: All I have said— 
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Do you agree? All you have done so far is lead us to the justification.
+
+[[[Sir David Nicholson]]]: Personally, I would not have used that word. What I would say about the pay of the individuals you are talking about is that it was designed in an objective and very transparent way that anyone could look at. 
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] So you regret the wording that was used.
+
+[[[Sir David Nicholson]]]: No. I would not have chosen the word myself. It is a matter for Bruce to say what— 
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Perhaps you could give us your comment on it, then. If you would not have chosen those words, what would you have said, apart from giving the justification?
+
+[[[Sir David Nicholson]]]: That is what I would have said. If you were talking particularly about the chief executives of large organisations—large NHS trusts and foundation trusts—I would say they are among the most complicated and difficult jobs in the world. 
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] You do not think the jobs lower down the organisation are complicated and difficult.
+
+[[[Sir David Nicholson]]]: Of course they are, but the complexity of those chief executive jobs is of a scale managerially that very few of us would understand.              
+
+[[[Barbara Keeley:]]] I just think it is tricky if you and your colleagues think that the way to approach these difficult issues in pay is to start off by saying that people at the very top “deserve…significant salaries”. Like banks and other people who are paid very significant amounts, there is just a lack of understanding of where other people are and how hard it is. Let us leave it there. 
+
+[[[Q16 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] We are all amazed at your response. I appreciate that you will be seeing Sir Bruce Keogh the next day and will not be able to see the nurse who has a hand in someone’s heart or a wound the next day, and I know you have to defend him, but unless you have not learned any lessons from the Francis report you will understand that you have to have an increase in productivity and morale for the people down below, who are actually doing the job. You cannot pay them and say, “People at the top deserve more.”
+
+[[[Sir David Nicholson]]]: I did not say that.
+
+[[[Valerie Vaz:]]] Anyway, let us move on.
+
+[[[Sir David Nicholson]]]: The implication is that I never see people from the front line. I was with a group yesterday.
+
+[[[Valerie Vaz:]]] That is not what I am saying.
+
+[[[Sir David Nicholson]]]: Almost every day I am with someone— 
+
+[[[Q17 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] I know, but it is slightly different. I appreciate that you have to defend the person you are going to see the next day, but you are not going to see the nurse in A and E the next day, are you? Let us move on. You mentioned management changes. I want to delve deeper into the kind of figures you are talking about. You say, “We are getting rid of managers.” You are getting rid of them out of one section, but are you not rehiring management consultants to do the same jobs? Could you give us the figures for the management consultants who now work in the NHS?
+
+[[[Sir David Nicholson]]]: Okay—
+
+[[[Valerie Vaz:]]] You may not have them to hand.
+
+[[[Sir David Nicholson]]]: Certainly, the Department of Health can give them to you, even if we cannot. We can probably give you them on the commissioning side, but we cannot for the trusts. I am sure that between us we can find a way of doing that.Over the last three years, we took a very different approach to controlling management cost savings from the one we have perhaps taken in the past. You will remember the management cost ceilings that people had in the past and all the rest of it. The last Government relaxed all of that, largely because there was a real complexity about how you would define what a senior manager was and what a senior manager was not. People got involved in all sorts of arrangements around that.This time, we took the view that the real control we need to hold on to relates to the running costs of the commissioning side of the NHS. On the provider side, it is a matter for foundation trusts what management costs they have and how many people they have. Most of them are locally accountable now. It is their job to account to their local population for what they do; that is the control over them.In terms of NHS England and the CCGs, we took a view on how much we would spend on running costs. We concluded that we could reduce that by about a third. That is what we have been doing—over the last two or three years we have been implementing those arrangements. Even if you reduce the numbers but then try to employ management consultants to fill the gap, that still counts against running costs. In those circumstances, they would not show in the savings. Over the last three years we have saved £1.5 billion of running costs across NHS England and the CCGs. 
+
+[[[Q18 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] I appreciate that that is a very important saving, but you have not answered my question. How many management consultants are there under your remit?
+
+[[[Sir David Nicholson]]]: I do not have that figure to hand, but I can tell you that the total cost of them will be within the running costs of our organisation, because that is what they are counted against. They are not separate from that, so you cannot hide them or pretend you are making the savings when you are doing that. You cannot do any of that. 
+
+[[[Q19 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Another major area that is causing concern to those who pay for the NHS—[Interruption.] You are still here, even if you do not have a name. We still know who you are.
+
+[[[Sir David Nicholson]]]: It has fallen off the edge.
+
+[[[Valerie Vaz:]]] You said it. You must be aware that recently there has been some concern about people who have been made redundant from PCTs and then rehired. What is the cost of that to the NHS?
+
+[[[Sir David Nicholson]]]: Again, we do not collect that information for non-commissioning. In terms of NHS England, I think I am right in saying that as far as I know—we employ over 5,000 people, so there might be one occasion or something—no one has been rehired by NHS England after taking a redundancy package. 
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] What about the CCGs?
+
+[[[Sir David Nicholson]]]: We do not collect the information for the CCGs in the same kind of way. I do not have that information, in fact. 
+
+[[[Q21 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] So what do you do? How do you control spending on that? I think it is quite important for us to know—
+
+[[[Sir David Nicholson]]]: They have—              
+
+[[[Valerie Vaz:]]] Just let me finish. The reason we are asking you these questions is that if there is a gap there is a lack of accountability. The Secretary of State comes and pays lots of taxpayers’ money out to people, and no one is collating this information. So you have no idea.
+
+[[[Sir David Nicholson]]]: No. We know how much CCGs are spending on running costs. We have given them an allowance of £25 per head of population. I think they are currently running at just less than that. 
+
+[[[Q22 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] How many people have been made redundant from the CCGs and rehired? How can you find out? Would you ever be able to find out?
+
+[[[Sir David Nicholson]]]: It must be theoretically possible. 
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Do you care?
+
+[[[Sir David Nicholson]]]: I certainly care about those bits we are responsible for. 
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] This is public money we are talking about.
+
+[[[Sir David Nicholson]]]: Absolutely. To be honest, when the reforms were originally identified, we said that the consequence of this would be £800 million being spent on redundancy. As it happens, we have spent less than that—£600 million. All I would say is that that £1.5 billion—NHS England has reduced its running costs by £500 million—has been transferred and used by front-line services. That seems to me to be a good thing. I would rather that people took— 
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Can you, who have applied for lots of jobs under lots of reorganisations, tell us in your infinite wisdom whether there is anybody who would know the figure for how many people have been made redundant following the reorganisation or any other transformational change and have then been rehired?
+
+[[[Sir David Nicholson]]]: No. 
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Nobody knows it—not even the Secretary of State.
+
+[[[Sir David Nicholson]]]: No. 
+
+[[[Q27 ]]]&#xa0; 
+
+[[[Chair:]]] Can I ask a question related to that around accountability? You as the accounting officer for NHS England are presumably also ultimately the accounting officer for the commissioning side of the health service—all the CCGs. Is that right?
+
+[[[Sir David Nicholson]]]: Yes, that is right. 
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Chair:]]] So in terms of accountability for how CCGs spend their money, they are independent organisations, but ultimately they have to account to you for purposes of PAC accountability.
+
+[[[Sir David Nicholson]]]: Absolutely, but they are independent organisations. They have freedom over the pay rates that they pay their people and over how many people they have. What they do not have freedom about is how much total money they can spend on running costs, which is set by me—by NHS England. 
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Chair:]]] But before a budget is sent to a CCG by NHS England, you, as accounting officer, have to be satisfied that the structures are appropriate.
+
+[[[Sir David Nicholson]]]: The only place we have that responsibility is around their original authorisation. Once they are authorised, it is entirely a matter for them. It would be for us to intervene if we felt they were not able to deliver on their responsibilities and accountabilities. 
+
+[[[Q30 ]]]&#xa0; 
+
+[[[Chair:]]] But if you as accounting officer for the NHS commissioning function became concerned about the operations of a particular CCG, surely you would have both the power and the duty to intervene.
+
+[[[Sir David Nicholson]]]: Yes, if it could not deliver. 
+
+[[[Q31 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] You are sitting there as though you have washed your hands of the whole NHS, although you are leading everything. You just do not seem to care about the accountability of public money. Let me turn to something else—the agency staff. Do you have any idea how many agency staff there are?
+
+[[[Sir David Nicholson]]]: In the NHS?
+
+[[[Valerie Vaz:]]] Yes.
+
+[[[Sir David Nicholson]]]: That is a provider issue. Do you mean agency nurses, agency doctors and that sort of thing?
+
+[[[Valerie Vaz:]]] Anything.
+
+[[[Sir David Nicholson]]]: We do not collect that information from a commissioning perspective. 
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Do you know, Mr Baumann?
+
+[[[Paul Baumann]]]: I do not. We do not collect it and I do not know the answer to that question. 
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Can I raise a quick point of clarification? Could CCGs take money from other sources and add it to the £25 a head?
+
+[[[Sir David Nicholson]]]: No. 
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] If you are not collecting data, how do you know that that is not happening?
+
+[[[Paul Baumann]]]: We do collect data on their spend on management costs—separately from their spend on programme costs. They have a finite limit of management costs that they are able to spend. As David mentioned, at the moment they are under-spending on management costs to a small degree—about £25 million. 
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Do you have plans to ask CCGs directly how much of that is going to be the cost of rehiring and making people redundant? I think it is a matter of great public concern. Is that something on which you will ask them to supply further data?
+
+[[[Sir David Nicholson]]]: Certainly they have to declare any redundancy costs that they make. 
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] So those data are collected. It is not really clear.
+
+[[[Sir David Nicholson]]]: For them, yes. They would have to put in their accounts any money that they spent on redundancy, so we would have that information. However, if a secretary in Worcester were made redundant and then rehired by a CCG in the Wyre Forest for another job six months later, we would not have that information. They would not— 
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] We are talking about the same job. That is the concern people have. You just told me you do not have it—
+
+[[[Sir David Nicholson]]]: No— 
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] I am sorry, Sir David, you told me that you do not have the information. Actually, you do have the information.
+
+[[[Sir David Nicholson]]]: I am sorry—I misunderstood what you said. People are not entitled to redundancy costs if they are transferred from one organisation to another for the same job. They are simply not entitled to their redundancy. That would be suitable alternative employment, so they would not be— 
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] So they would not get it if they were doing the same job.
+
+[[[Sir David Nicholson]]]: That is right. 
+
+[[[Q40 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Thank you for that. Just to clarify, is the overall saving of £1.5 billion in running costs and management per year or since the reforms?
+
+[[[Sir David Nicholson]]]: That is per year. For this Parliament, it will add up cumulatively to £5.5 billion. All of that money will be available to invest in front-line patient services. 
+
+[[[Q41 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] You are obviously having problems, as the accounting officer, giving detail on quite a lot of what is being asked about. I will ask you about something specific that you will know about because you know the individual personally. Since Ruth Carnall left her job with NHS London, has she been re-employed with NHS England?
+
+[[[Sir David Nicholson]]]: One of the things— 
+
+[[[Q42 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Is that a yes or a no?
+
+[[[Sir David Nicholson]]]: No. I will just explain the situation with the SHAs, in particular. As you know, we cannot legally stop people being re-employed by organisations; it would be a restraint of trade. All the legal advice we have indicates that that is the case. I wrote to all of the individuals from SHAs, Ruth included, and asked them whether they would voluntarily not work in the NHS, certainly for the next six months. That is what has happened. I made it clear in NHS England’s terms that none of those individuals should be employed and paid in any way over the next period. 
+
+[[[Q43 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] So you can confirm that she is not employed within the NHS either as an individual or through her new consultancy firm.
+
+[[[Sir David Nicholson]]]: You said by NHS England. 
+
+[[[Q44 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Or within the NHS.
+
+[[[Sir David Nicholson]]]: She is certainly doing work in the NHS, but my understanding— 
+
+[[[Q45 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Through her new consultancy firm.
+
+[[[Sir David Nicholson]]]: My understanding is that it is being done for nothing. She is doing it free, as are a number of other individuals. 
+
+[[[Q46 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] So she is doing pro bono, gratis work for the NHS, having set up a new consultancy firm and having just left NHS London.
+
+[[[Sir David Nicholson]]]: My understanding is that she has been asked by the Manchester health community to chair reconfiguration work that it is doing and that she is doing that for nothing. 
+
+[[[Q47 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Could you possibly look into that? Obviously it is a matter of public concern. Could you get back to the Committee on whether that is—
+
+[[[Sir David Nicholson]]]: What, do you think she should be paid? 
+
+[[[Q48 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] No, the fact that she has left NHS London and may be getting paid—you say you do not know—for work within the health—
+
+[[[Sir David Nicholson]]]: No, I said she has not— 
+
+[[[Q49 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] As far as I know, it is against civil service guidelines to leave a public body, set up a private body and then use the knowledge from your public body to go back in and work for that public body.
+
+[[[Sir David Nicholson]]]: She is not being paid for that work. 
+
+[[[Q50 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] She is not. Can you confirm that she is not being paid for any work within the NHS?
+
+[[[Sir David Nicholson]]]: She is not being paid for that work. 
+
+[[[Q51 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] If you find it to be otherwise, could you get back to us and provide details?
+
+[[[Sir David Nicholson]]]: If I find it to be otherwise, I am sure I will write to you and tell you.
+
+[[[              ]]]
+
+[[[Charlotte Leslie:]]] That is very kind. Thank you, Sir David.
+
+[[[              ]]]
+
+[[[Chair:]]] I think that answers that question. 
+
+[[[Q52 ]]]&#xa0; 
+
+[[[Mr Sharma:]]] I hope you do not misunderstand me, as you misunderstood Valerie’s question. Did you advise any other staff members not to work for six months for NHS England? Was it only one person you advised?
+
+[[[Sir David Nicholson]]]: No, I wrote to all of the directors of all the strategic health authorities. 
+
+[[[Q53 ]]]&#xa0; 
+
+[[[Mr Sharma:]]] There were huge redundancy packages going around. Do you yourself know of anybody—one, two, three, four, five or none—who got a job without redundancy, where the jobs were matching, with a CCG?
+
+[[[Sir David Nicholson]]]: I do not know of any. 
+
+[[[Q54 ]]]&#xa0; 
+
+[[[Mr Sharma:]]] None?
+
+[[[Sir David Nicholson]]]: They would not have been entitled to redundancy pay if they had been matching. 
+
+[[[Q55 ]]]&#xa0; 
+
+[[[Mr Sharma:]]] I am asking whether you know of any.
+
+[[[Sir David Nicholson]]]: No. They would not have been entitled to redundancy. 
+
+[[[Q56 ]]]&#xa0; 
+
+[[[Mr Sharma:]]] I am aware of that.
+
+[[[Sir David Nicholson]]]: I do not know of anyone who was made redundant and then took the same— 
+
+[[[Q57 ]]]&#xa0; 
+
+[[[Mr Sharma:]]] Or was not made redundant because the job in the other agency was matching. Do you know anybody who you think got the job, not the redundancy?
+
+[[[Sir David Nicholson]]]: No. 
+
+[[[              ]]]
+
+[[[Chair:]]] We will move on to progress on integration. 
+
+[[[Q58 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Can I take you on to the subject of integration and transformational change? A number of times we have discussed in this Committee and with you the importance of moving towards integration of health and social care. It strikes us that one of the problems is that, since the Health and Social Care Act, reconfigurations have actually become more difficult. Could you comment on how you feel we can change this? Is there something within the legislation that needs to change so that these processes can become more streamlined and we are not just bogged down in this morass?
+
+[[[Sir David Nicholson]]]: I think there are two aspects to it. One of them is those things that are under our control and could help. I mean particularly the payment system, the contractual system and all the rest of it. We are committed to changing those to enable people to make it happen. In our planning guidance for next year, we will give people much more flexibility around the payment systems that they use. We have already started that. We want to do that because we think it is the right thing. We do not want a position where a good integration plan set out by a local health and social community is stopped because of things that we have created—the payment system or whatever. We are committed to doing that. That is the first thing. 
+
+[[[Q59 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] But within the legislation, there is the whole process of setting about achieving a reconfiguration. We have seen a number of these held up, rejected and going through the courts. Have you made an estimate of the extra costs of reconfigurations?
+
+[[[Sir David Nicholson]]]: There are two aspects to that as well; I was going to come on to those. The first is the whole issue of competition policy, procurement and all of that. We have put out guidance to CCGs around procurement. I think we have a problem, which may need legislative change to make it happen. If I think back to the conversations we had with the most senior politicians in the Government around the reforms and changes that we are having, they were very clear that the intent behind all of this was that competition was there to serve, not to control. One of the things that we constantly said was that competition was a tool to improve quality, to be used when commissioners felt it was the right thing to do, not something that would be brought in externally; indeed, much of the conversation around the powers of Monitor was about making that the case.              For whatever reason, legislatively and in practice, that is not what is happening. What is happening at the moment—you all know cases as well as I do—as people move to using lawyers in all of this, we are in my view getting bogged down in a morass of competition law, which is causing significant cost in the system. We do not have a total for that, but undoubtedly we will find it in time. More than that, it is causing great frustration for people in the service about making change happen. That may be because of the way in which we are interpreting the law—we are talking to Monitor—but it may be because that is the law, in which case to make integration happen we will need to change it. 
+
+[[[Q60 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Can you set out to us which of those you think it is? We have had David Bennett from Monitor sitting in front of this Committee and saying that they are putting too much out to tender that does not need to go out to tender. That is coming directly from him, yet it is still happening.
+
+[[[Sir David Nicholson]]]: Part of the problem is that when people are uncertain about what to do they tend to ask for legal advice. Once you start asking for legal advice, you get yourself into a whole set of legal arguments and controversy. Irrespective of where I, David Bennett or anyone else is, that is where people have got to. You have competition lawyers all over the place telling us what to do, which is causing enormous difficulty.
+
+[[[Q61 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] That is what we warned of.
+
+[[[Sir David Nicholson]]]: To solve that— 
+
+[[[Q62 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] Was that a surprise to you?
+
+[[[Sir David Nicholson]]]: It certainly was not the intent. I am surprised about the scale and nature of it, but it certainly was not the intent. The intent was never to get us into this place. 
+
+[[[Q63 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Could you set out what you estimate the cost to be? Has any estimate been made of the cost of all this extra legal challenge? This is money that should be going into patient care, and it is going into competition lawyers.
+
+[[[Sir David Nicholson]]]: We have not made an assessment of that, largely because it has only really emerged over the last few months in any significance, but we can and will do that. We think that will be part of the evidence either to make sure that the regulations that we set at the centre are much less open to misinterpretation or legal wrangle—that would be the best option, because it would be the quickest way of doing it—or, otherwise, to get a change in the law to enable us to get out of this particular problem. Interestingly, the EU has just published its approach to all of this, which is much more liberal—with a small l—about it and much more helpful to the intent that we have behind it. 
+
+[[[Q64 ]]]&#xa0; 
+
+[[[Chair:]]] You said you had not made an assessment of the cost, but you have made an assessment that you referred to at the HSJ commissioning summit last week. You said, “I’ve been somewhere” where “a trust has used competition law to protect themselves from having to stop doing cancer surgery, even though” they know “they don’t meet any of the guidelines” for the service. That ought to be a scandal.
+
+[[[Sir David Nicholson]]]: That is the way it was described to me by the commissioners involved. We raised it directly with Monitor, which is dealing with it at the moment. 
+
+[[[Q65 ]]]&#xa0; 
+
+[[[Chair:]]] Is it not also a matter for the CQC, if this is a cancer service that is being carried on but does not meet guidelines?
+
+[[[Sir David Nicholson]]]: It is not the only cancer service that is not meeting guidelines. It is part of implementing the clinical outcomes guidance. What we had was a plan to make it work. The CQC is well aware of it, as is Monitor. 
+
+[[[Q66 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Before you leave your role, will you set out very clearly whether this is something that needs legislative change or whether it is just a question of better guidance, or will you actually prevent people using the legal route, so that we can control the costs and streamline and put in place the intention?
+
+[[[Sir David Nicholson]]]: Yes, we have to do that as part of our planning guidance for the future. Otherwise, if we are going to use the integration fund—no doubt we will get on to that—and all the rest of it, we will get bogged down before we can make the real changes that patients need.              
+
+[[[Dr Wollaston:]]] That was the next question.
+
+[[[              ]]]
+
+[[[Chair:]]] Rosie is next, on exactly that theme. 
+
+[[[Q67 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] Before we get to the integration fund, on people being made redundant, let me say to you that in my own area, the north-west, the chief executive of Mersey region, Chris Hannah, and her now husband, the chief executive of Manchester, were made redundant. Both have been employed by the Department of Health as consultants and one is an acting chief exec—certainly to my knowledge. This is something that has been going on all the time, and everybody knows it is going on. These people are taking a lot of money out of the system, having been made redundant, and are then being re-employed in another guise. I am always completely amazed that everybody seems surprised at these things surfacing.
+
+[[[Sir David Nicholson]]]: I am not surprised. All I would say is stop reorganising the NHS.              
+
+[[[Q68 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] Stop helping them. Anyway—
+
+[[[Sir David Nicholson]]]: I am a public servant. My job is to— 
+
+[[[Q69 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] Absolutely. Let us get to the integration and transformation fund. You have described the competition bit, but on the ground a lot of people feel that there is nobody really in charge any more, which is why they go to lawyers—they do not know what is going on. The people on the front line just feel surrounded by chaos and people losing their jobs—we are talking about nurses and doctors. I lay that at the door of politicians, not of the officers who do it.
+
+[[[              ]]]When will the integration and transformation fund be introduced? Do you believe that health and wellbeing boards are experienced and mature enough to manage what you are asking them to do? Will all the providers be at the table, or will we end up with a few guys sitting round a table and doing deals with NHS money and providers not being there, so it is not really a dynamic and proper argument where everybody knows the end we want to reach?              I suppose the joined-up bit from before is, where is the governance that applies to this amount of money? It rather reminds me of the conversation we had with Barbara Hakin and everybody else—it is an ephemeral thing, but nobody has actually nailed it down. The question is, when will it start, what will the governance be like, who will be around the table, and do you think that health and wellbeing boards are really equipped to do it right now—not that they will not be, but right now?
+
+[[[Sir David Nicholson]]]: The integration fund is a big step. First, it is not new money—it is existing money that is being changed. It is a big step change. It is a highly ambitious thing to do—some might regard it as risky—to shift money in this way. It will provoke a whole lot of change in health and social care. We need to harness that for positive. I know I have spoken to this Committee on a number of occasions about all of our frustration about the fact that everyone thinks that integration is a good thing and everyone says that they are doing bits of it, but it has not actually made the big difference that it could make for patients and families. I think this is a big moment for the service.You are right—the world is not like it was. There is no strategic health authority—no organisation that is there to oversee all of this to make sure it happens. It is now up to local partners—local organisations—to work together to make it happen. It is our job at national level to create an environment where they can do that. I, like you, am worried about governance. Recently I wrote to the service, taking note of what you said earlier, to say that—[Interruption.] Which letter is that? 
+
+[[[Q70 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] “Planning for a sustainable NHS: responding to the ‘call to action’”.
+
+[[[Sir David Nicholson]]]: Is that the one from me? There is another one from the—
+
+[[[Rosie Cooper:]]] No; this is from you.
+
+[[[Sir David Nicholson]]]: Excellent. It is a very good letter—that one. 
+
+[[[Q71 ]]]&#xa0; 
+
+[[[Valerie Vaz: ]]]Would you like a copy?
+
+[[[Sir David Nicholson]]]: No, that’s fine. Another one went out that had a whole load of people signing it, but this is the one I wrote.This is a pooled budget—not a transfer of money to social care, as some people seem to think. We need to get the governance absolutely right. While the press releases around it said that the health and wellbeing boards would be the organisation, I have said that we need to be satisfied that the governance is right. I think some health and wellbeing boards are fantastic and do great things, but some of them are not. I remain—or rather, my successor will remain—the accounting officer for that money. It is not a question of just giving it to local government and saying, “Do your best.” I and my successor need to be satisfied that the governance is right. I understand the thing about health and wellbeing boards, but unless they are properly organised, we have got the governance right and we have proper engagement of providers and others in all of this, I certainly will not sign any— 
+
+[[[Q72 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] When will they come in, and how will you ensure it happens? I hear all this waffly stuff. We have panels of people here who talk in lots and lots of words, and me and my very basic English think, “What on earth are they going on about? It is all ephemeral. What are they going to do? How is it going to happen?” My question to you is very simply, when will it start and how you will you be sure that you have everybody around the table? If you do not, it is pointless—there will just be more rows. Also, how will that governance actually happen?
+
+[[[Sir David Nicholson]]]: The fund itself is set up from 1 April 2015, so we have some time to get it right. We are currently thinking about our planning guidance and how we will take all of this forward. By the end of this year, we will set out the arrangements that we would expect at a local level and a mechanism for assuring ourselves that that governance is right.
+
+[[[Q73 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] I agree with you—this is an absolute game changer. It is a substantial, ring-fenced budget for out-of-hospital care. If you get it wrong and this goes, the whole system will rock. Your providers—not necessarily the right ones; it depends on who is mates with whom—will go to the wall. I really worry—with due respect to GPs—that some may find it a way of paying themselves more, indirectly, and will create neighbourhood models that invest in primary care, with social services, without really showing that what they are doing will reduce the demand for hospital care. Believe me, I have recent experience of it, and it is scary.
+
+[[[Sir David Nicholson]]]: Okay.
+
+[[[ ]]]
+
+[[[Q74 ]]]&#xa0; 
+
+[[[Chair:]]] Could we be clear about the £3.8 billion? Am I right in thinking that it is a minimum and that, where there is an opportunity for transformational change, the figure could be larger than that?
+
+[[[Paul Baumann]]]: Yes. I think that in a large number of health economies that is exactly what would happen. The £3.8 billion is a minimum—it is a kind of bridgehead into this thing. Certainly the sorts of CCGs I have been talking to recently are all already moving well beyond that into thinking about bigger pooling of money. That is the first important thing.The second thing—to address your point about the providers being around the table—is that this is very much part of a five-year planning process that the letter you referred to is setting up. We have done some groundbreaking work in setting up a five-year planning process that absolutely does have commissioners—whether NHS England or CCGs—all of the providers and the local authority people around a single table trying to shape the future of each of those health economies, in which this particular fund either in its minimum form or in a bigger form, if they choose to take it that way, will be a key liberating factor. I do not think we will have the dislocation you talk about. 
+
+[[[Q75 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] Okay. Let us look at it from another angle. The Nicholson challenge was regarded as huge. I do not know of any other health economy in the world that has managed to do it. As you said, Sir David, this is not new money: ergo, it is coming out of health. That almost implies, especially for providers, that they will have to have an extra productivity gain of 2% or 3%. That is now £6 billion-plus a year. How will that feed its way through without damaging quality, basically?
+
+[[[Sir David Nicholson]]]: You are absolutely right to say all of that. The vast majority of that—certainly of the £2 billion of the £3.8 billion—will come out of the acute sector; there is no other source for it. In other conversations we have had, we have said that a large proportion of people who are in acute hospitals either do not need to be there, because if they had had better services upstream they would have avoided the admission, or who could be got out more quickly. We have said it for a long time, worked on it incrementally, done bits and pieces of it and all the rest of it. This means you have to do it in a big, significant step.I know Paul and I have had conversations about this. If you just put a 7% or 8% efficiency gain to every acute hospital, that would end in failure. We need to identify the capacity in acute hospitals that can be provided outside, and then we need a managed and controlled way of taking it from one to the other. It has to be done, and we have 18 months to do it. That, in a sense, is why it is a game changer. It moves from a general discussion about the theory of all of this to having a practical plan to make it happen. 
+
+[[[Q76 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] I have three very quick but really important points. If £2 billion is to be taken out of the NHS, in essence, and given to local authorities to shore up social services, because that is a real problem, I do not understand why Government have cut so much from local authority budgets. In the letters and notes of yours that I have read, you say this represents a cliff edge for the NHS and that by bringing the savings forward you will avoid the NHS dropping off the edge. For me, that is like saying that, instead of your getting shot at dawn, the executioner will bring the time forward to midnight. It is an efficiency hit on the NHS on top of that which it already has. I just cannot see how you can maintain quality while you do that. Finally, is the £2 billion a down payment? Are you confident that that £2 billion will really lever out £20 billion-worth of savings?
+
+[[[Sir David Nicholson]]]: If what happens is that we just take £2 billion out of the acute sector and give it to local government to shore up its services, all the things that you have said will happen. Quality will go down and in the NHS we will be involved in managed decline. Nobody wants that to happen. That £2 billion absolutely has to go into providing out-of-hospital care in innovative ways that lots of people out there are absolutely dying to get on and do. That is the first thing in all of that. I think it is perfectly possible to do it, although it will take an effort beyond what we have done.              The other side of that, of course, is that there will be consequences to it in terms of the configuration of acute services. You cannot take £2 billion out of acute services and expect them just to continue with £2 billion less. They will have to reconfigure the way in which they deliver services. For that to happen, you will have to get the buy-in of local government, because you cannot make those changes without local government. In a sense, this forces together health and local government in a way we have never seen before, but we have to do it. It is a— 
+
+[[[Q77 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] But you have to get the buy-in of the people who are actually paying for the NHS. The health and wellbeing boards must be properly equipped, experienced and mature enough to do it, the CCGs must be at the table, the providers must be there and it must be done reflecting the health needs of the area. You also really have to guarantee that governance. Without that, this is off the cliff edge.
+
+[[[Sir David Nicholson]]]: I agree with all of that. 
+
+[[[Q78 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] So how are you going to make it? That is what I am not hearing. I know that we have 18 months, but I just do not feel—
+
+[[[Sir David Nicholson]]]: We are organising people to do it at the moment. We have said to everyone that they need to think about what their service will look like in five years’ time. They are all working on that at the moment across the NHS. We are asking them what their strategy is for the next five years, given the background of what I have said, and to set that out. We are also asking each of them to come up with a two-year operational plan by the end of March, which will set out what service shape will look like in 2014-15 and 2015-16. It is the first time we are asking for that.We have got Monitor, the NHS Trust Development Authority and all of the arm’s length bodies to sign up to help and support people to do that. They are already working on that. We also want to put aside a significant amount of resource to support and help them to do it, because there is no doubt that this is a big ask for these organisations, some of which are relatively new. We are putting money aside to support and help them to do it.
+
+[[[Paul Baumann]]]: One of the key areas we will focus that support on is precisely the area you have just talked about—understanding the needs of the population—to enable them to engage with the public and patients in the communities. That is something where there are variable degrees of maturity, shall we say, in different health economies, so it is one of the key areas where we will put in a significant amount of resource to make sure that that happens.There is the broad planning process, which we will carry out over the coming few months. The conditionalities and structures around the integration and transformation fund itself are really very tight. There is very specific conditionality around the £3.8 billion, or whatever number bigger than that it becomes, in terms of things like those David referred to earlier—the buy-in of the local authority and, indeed, all the partners to the consequences for capacity adaptation. There are also very specific metrics that are a key part of that, in terms of, if we do all of these things, what will be the reduction in emergency admissions? That is the kind of rigour that we are putting into the plans behind the fund, within the broader strategic plans. That should enable us to track it with really strong governance, which is obviously important. 
+
+[[[Q79 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] So you are absolutely sure that you will get your £20 billion saving.
+
+[[[Paul Baumann]]]: Of course, the £20 billion takes us through only to the end of this particular cycle. Without wishing to make the problem bigger, it is £30 billion over the seven years through to 2021. This is an important part of getting that particular process kick-started. It would be foolish of me to suggest that we already have the £30 billion in the bag and it is just a question of churning out a set of things. This is very much a process that the strategic plans that we are doing and the ITF will lead us to. 
+
+[[[              ]]]
+
+[[[Chair:]]] Barbara, Valerie and Sarah want to come in, so we need to speed it up a little bit. 
+
+[[[Q80 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] It has been useful to touch on this, but perhaps I will take it to a different outlook. We will have the Care Bill here soon—in the next few weeks, hopefully. Meetings and seminars I have attended are starting to build a lot of concern about the pressures on local authorities from the new functions that they will have under that Bill. We are already in a funding crisis of social care that is worse than the funding crisis we have had for a long time. It is interesting that you draw out that this is existing and not new money. Something called an integration and transformation fund sounds wonderful, particularly with that amount of money. In reality, as you say, it is about £1.9 billion from the NHS. The rest is planned transfers—things such as funding for adaptations and carers’ breaks, which already exist.
+
+[[[Sir David Nicholson]]]: Yes, we already transfer that money to local government. 
+
+[[[Q81 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Indeed. The funding for those carers’ breaks and for adaptations is being spent at the moment, so it really is not new money, which is very important. In fact, having looked at this, I end up with the view that actually there is not enough money for a whole lot of change. I think this Committee would want to see a change and would probably want to see more funding. I note sentences such as the one that is buried in the letter about it—“requirements of the fund are likely to significantly exceed existing pooled budget arrangements”. There is a danger that, with the new functions under the Care Bill, the existing pressures and the expectations that will build up around this, people will think there is a lot of money being transferred into this. Actually, it seems to me that there is not.
+
+[[[              ]]]I do not think we will see anything like the amount of change that we as a Committee would want to see, unless there is more funding. If anything, I think that here, particularly around the Care Bill, we need a proper debate about the fact that the pressures are enormous. By the time you get to spending the £1.9 billion you talked about in 2015, that and more than that will already have gone from local authority social care budgets, which is probably what is precipitating part of the A and E crisis. That became clear to us when we looked at the A and E crisis. In some ways, we need to focus on the fact that it is not new money, that it is not enough money and that it will not do a whole lot of change unless there is more.
+
+[[[Sir David Nicholson]]]: One of the reasons I wrote the letter was because I thought there was almost a developing understanding in the service, first, that somehow this was new money, when it is not—everyone was getting very excited about what to spend it on, as opposed to how to generate it in the first place, which is at least as important, if not more so—and secondly, that somehow it was just a transfer to shore up local government, which it absolutely is not; it cannot work if it is. The reason for the letter was to make that absolutely clear to the service, so people were under no illusions about it.              The point I would make is that we had a period when we had lots of growth and talked about integration but never actually did it—even though we had a lot of money. What this does is make it absolutely essential. The NHS cannot survive unless it massively integrates services across health and social care in the next period. That, in a sense, is the new thing that it gives—an impetus to this that we have never had before. It is not a nice thing to do—it is vital. 
+
+[[[Q82 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] But is it enough impetus? When you look across it, you kind of think, “Fine, but really you might need twice as much to do a good job of integration.” It is just that sense of the fact that this is a system in crisis. Nobody would want to start on integrating health and social care when one side had just suffered a period of four or five years of swingeing cuts. Yesterday, the LGA said that the further cuts scheduled for 2015-16 are not tenable. My local authority is changing its eligibility. By the end of this year, we will be in a situation of maybe thousands of people not getting the care packages they were getting before.
+
+[[[              ]]]One of the things that we have raised here before but must be studied over the next year is exactly what is happening in the NHS because of those cuts to social care. In some ways, that is a justification for this transfer, and more transfers, if it is understood, but the LGA is now turning around and saying, “You can’t keep cutting this funding. You can’t keep doing that.” We as a Committee really do advocate integration, but what an impossible situation in which to try to do it.
+
+[[[Sir David Nicholson]]]: As the Chair said, one of the issues is that we think that in lots of parts of the country they would put more money into this than the £3.8 billion that has been described nationally. People will do that locally to make it happen. 
+
+[[[Q83 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Where will that come from?
+
+[[[Sir David Nicholson]]]: It will come from existing resources. There is no new money tree out there for this. 
+
+[[[Q84 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] But local authorities cannot do it—they have not got it. It is either—
+
+[[[              ]]]
+
+[[[Chair:]]] It will have to come from the NHS side.
+
+[[[Sir David Nicholson]]]: It will come from the existing resources of the NHS. If we believe—we have had this conversation before—that if there were more early intervention, early diagnosis, community services, support for carers and all of that you would not need the capacity in acute care for lots of people who should be supported in that way, this is the time to prove that right. 
+
+[[[Q85 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] On that point, could you clarify how much of the existing £1 billion of transfer has been spent on maintaining eligibility criteria—in other words, has been used just to cross-subsidise what is missing from the social care budget?
+
+[[[Sir David Nicholson]]]: I do not have that information to hand, but we can get it for you. 
+
+[[[Q86 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] I believe that it was about a third the last time we looked at it. I just wondered whether it was still around that figure.
+
+[[[Sir David Nicholson]]]: I have not seen the latest figures on that, but we can send you them. 
+
+[[[Q87 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] But is it your concern that a lot of this will be squandered on just maintaining and cross-subsidising cuts from social care?
+
+[[[Sir David Nicholson]]]: It is a risk, in those places where they do not have the strategy, have not thought about what their service will look like in five years’ time and have not got a vision of how integration might work in practice—where they have not done all of that work. They are the people where this will happen. 
+
+[[[Q88 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] You have said that really we need a huge step change of transformation of care, but just look at the way we are bogged down with any, even minor, reconfiguration at the moment. Surely something major has to change as well to make this simpler.
+
+[[[Sir David Nicholson]]]: I have described the issue of competition. Don’t forget that things get referred nationally only when local government openly rejects them. Better integration—more working together and creating all of that vision of what the future might look like in the NHS—would indicate to me that that would be less likely to happen in those circumstances. If local government is going to sign up to the fund, presumably it will sign up to the consequences of the fund. 
+
+[[[Q89 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] But it is still the case that people will not be heralding the new community service—they will just be bemoaning the loss of the acute service.
+
+[[[Sir David Nicholson]]]: Yes—and that argument has to be made. 
+
+[[[Q90 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] You have a two-year framework to sort this out. Obviously, legislative change takes a long time. Will you push for some legislative change to be tacked on to the Care Bill to help to speed it up?
+
+[[[Sir David Nicholson]]]: If it is needed for competition, yes. 
+
+[[[Q91 ]]]&#xa0; 
+
+[[[Chair:]]] These two things are not discrete subjects, are they? Achieving transformational change in a local health economy almost certainly needs change in the acute sector. If that is going to be obstructed by competition policy, the policy cannot be delivered.
+
+[[[Sir David Nicholson]]]: Exactly. 
+
+[[[Q92 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] I want to pick up some of these points. Integration is happening. We visited Torbay and know that it happens there, so you have a model where it is working well. I am just wondering why it is not being rolled out everywhere else.
+
+[[[Sir David Nicholson]]]: Torbay is very interesting. I know that you have had lots of conversations about it; I have visited Torbay on a number of occasions over the last few years. The things that strike you about Torbay are that they have a vision of what they want to do and they have a relatively settled group of people who have been working on it for a long time—they have not been changed every 10 or 15 minutes, or whatever the equivalent of that is, and have been at it for a long time. We have been advocating it for a while. Whatever the arrangements— 
+
+[[[Q93 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] But they get ill more, don’t they? They have many more long-term conditions, I suppose, being elderly, if that is what you mean.
+
+[[[Sir David Nicholson]]]: If you look around the country, you can see pockets of integration that have worked really well. What you do not see is the scale. That is why the Department started off down the road of looking at how we can get these ideas better understood and implemented across the country. There are two ways in which we plan to do that. One is through the pioneers. The Department has identified, I think, 14 pioneers that will work through these integration models in much more detail, because the Torbay model will not necessarily be able to be picked up and used elsewhere. Part of being a pioneer is to spread good practice and help other organisations to learn those lessons. So you have that, on the one hand. On the other hand, you have the integration fund. I think that makes a big difference. 
+
+[[[Q94 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Do we know who these pioneers are?
+
+[[[Sir David Nicholson]]]: They were announced on Friday, I think. I do not have a list to hand. 
+
+[[[Q95 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Part of that integration is also reconfiguration of the acute sector. I am wondering about your view on how that happens. I am still unclear about where you are in the NHS. Do you see the Secretary of State every week? Do you have any discussions with him? Do you talk to him about things such as reconfigurations and how to improve the service?
+
+[[[Sir David Nicholson]]]: Yes, of course. 
+
+[[[Q96 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] This is a genuine question. I am just trying to work out—
+
+[[[Sir David Nicholson]]]: I am sorry. Yes, I see the Secretary of State every week. I talk to him about all sorts of stuff. 
+
+[[[Q97 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] What I am leading to is that clearly some sort of reconfiguration of the service will have to happen. Is that part of what you talk to him about?
+
+[[[Sir David Nicholson]]]: Yes, absolutely. You could look more recently at the changes that have been announced in North West London, which are a fantastic model in lots of ways for the rest of the country to follow. I think the model they have there and the massive investment in community and primary care services they plan to do, with the development of seven-day services, will be a model for the country as a whole. When we have put proposals to the Government, they have been supported, but there is no shortcut for this. Local health and wellbeing boards and local health communities need to talk to their populations and to persuade people that this is the right thing to do. 
+
+[[[Q98 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] What conversation did you have about Lewisham hospital? You know, the recent—
+
+[[[Sir David Nicholson]]]: I understand. The Secretary of State appealed the decision and it was turned down. 
+
+[[[Q99 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Yes, I know that. My question was, what conversation did you have with him? I am just trying to work this out. Part of your job is also to tell the Secretary of State, “This is wrong. This is not right.” I am hoping that as the wonderful professional that you are, having worked for a long time in the health service, you will say to the Secretary of State or someone else, “This is not working. This is not right. You are going to break the law.”
+
+[[[Sir David Nicholson]]]: I thought the appeal was the right thing to do. 
+
+[[[Q100 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] So you advised to go ahead with that reconfiguration.
+
+[[[Sir David Nicholson]]]: Yes, of course I did. 
+
+[[[Q101 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Could you tell me how much the whole thing cost? I have asked the Leader of the House and he is not able to give me an answer.
+
+[[[Sir David Nicholson]]]: The legal costs?
+
+[[[Valerie Vaz:]]] Yes.
+
+[[[Sir David Nicholson]]]: I do not have that information. 
+
+[[[Q102 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] It is a huge issue, isn’t it?
+
+[[[Sir David Nicholson]]]: Absolutely. I do not have that information to hand, but we can give it to you. 
+
+[[[Q103 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] And generally, the whole costs right from the start—the costs of the reconfiguration.
+
+[[[Sir David Nicholson]]]: Yes, and also the costs of not reconfiguring, which are still being borne today. 
+
+[[[Q104 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] That is the difficulty, isn’t it—the conversation that you have to have with local people? I suppose that what we are trying to get at is how you will do that to make it easy for everyone, knowing that they have to have this kind of thing.
+
+[[[Sir David Nicholson]]]: Nationally, we all have a responsibility to make the case for change. If you compare what we are doing with the rest of the developed world in health care, no one is doing it quite in the way we are doing it. Most other countries are either going for a dramatic reduction in the pay of their staff—in places such as Ireland, there are 15% to 20% reductions in pay—or going for a reduction in the offer, so people are having to pay out of their own pocket for more, as in Spain, Portugal and Greece. What we are saying is that, within a universally available, free-at-the-point-of-use service, we are going to live within the resources that we have, without draconian reductions in pay—although we will have to constrain it—on the one hand, but keeping the offer the same. That is unique. We all have the responsibility to make the argument for what the consequences of doing that are—that services will have to change. 
+
+[[[Q105 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] To go back to the Lewisham case, was there legal advice on whether or not the Secretary of State could win?
+
+[[[Sir David Nicholson]]]: Oh yes—he took lots of legal advice. 
+
+[[[Q106 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Was the advice that he would win?
+
+[[[Sir David Nicholson]]]: Yes. 
+
+[[[Q107 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Are you likely to take it for other reconfigurations?
+
+[[[Sir David Nicholson]]]: Legal advice?
+
+[[[              ]]]
+
+[[[Q108 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Yes. He made a legally flawed decision. He did not take into account relevant considerations, did he?
+
+[[[Sir David Nicholson]]]: Of course, Secretaries of State take legal advice across all of these issues all the time. 
+
+[[[              ]]]
+
+[[[Chair:]]] Sarah has a brief question. We will then go to Grahame Morris on resource allocation. 
+
+[[[Q109 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Could I briefly lure you back to Torbay, which is one of the integration pilots, happily? At the same time as they have been awarded that integration pilot, rather paradoxically, one of the integration models they wish to take forward—integrating vertically—is going to be held up by the OFT. Can I ask you to comment on that and on whether the legislation needs to change? Is there anything that can be done within the legislation to stop these kinds of unnecessary delays, which must be costing a fortune?
+
+[[[Sir David Nicholson]]]: Yes, we will do everything that we can to make that happen, because it is an absolutely sensible thing to do. We are talking to Monitor about how we might make that better; we have had one meeting with it already. If we can do it within the existing legislation, we will. 
+
+[[[Q110 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Yes, but do you think that the legislation will have to change?
+
+[[[Sir David Nicholson]]]: I will have to test it to see. It may have to. 
+
+[[[Q111 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Are you filled with despair by the hurdles that are being put up to reconfigurations at every stage?
+
+[[[Sir David Nicholson]]]: “Despair” is not the word I would use, but it does frustrate me enormously that, when you can see benefits to patients and improvements in productivity and efficiency, we are going around an argument around some theoretical competition model. “Despair” is not the right word but— 
+
+[[[Q112 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Do you lay the blame for that with the Health and Social Care Act or with the way it is being interpreted?
+
+[[[Sir David Nicholson]]]: That is the point. It was never the intent for any of this to happen. In all the conversations we had around it— 
+
+[[[Q113 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] You can say it was never the intent, but where do you lay the blame?
+
+[[[Sir David Nicholson]]]: I am not legally qualified, so I do not know whether or not the terms of the Act are the things that are making the difference. Whatever it is, it needs to change. 
+
+[[[Q114 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] But with respect, Sir David, if you do not know, how—
+
+[[[Sir David Nicholson]]]: I am not legally qualified. If I look at the Act, I do not know whether that is driving it or whether it is the regulations that Monitor and ourselves are putting in place that are making it a reality. 
+
+[[[Q115 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] Don’t you know on a policy basis? Parliament discussed this so many times when it went through and people said, “This is the wrong thing, Secretary of State.”
+
+[[[Sir David Nicholson]]]: No. The policy is really clear—that competition is used to improve services for patients. It is a tool that commissioners can use when they want to. That is the policy. Because of the way it has been done legally or whatever, the practice is that that is not happening.              
+
+[[[Valerie Vaz:]]] But you have expressed concerns, haven’t you? 
+
+[[[              ]]]
+
+[[[Chair:]]] I promised Grahame that he could come in now on resource allocation. 
+
+[[[Q116 ]]]&#xa0; 
+
+[[[Grahame M. Morris:]]] I have a number of questions relating specifically to the terms of reference for the Committee, notably that we are looking at “The effectiveness of the mechanisms by which resources are distributed geographically in the NHS”. I want to touch on the unpopular issue of planning and the impact of policy changes on resource allocation and then on service delivery. Sir David, last month, you wrote to clinical commissioning groups giving details of the allocations for 2014-15 and 2015-16. I am very concerned about what the implications of any changes to the resource allocation funding formula are likely to be.
+
+[[[              ]]]In particular, I know that the BMJ is saying that we have the worst north-south health divide for 40 years. One of the changes that are proposed in relation to the allocation per head has a considerable adverse effect on areas such as mine and on some of the more deprived, poorer areas. For example, my constituency loses £62 per head. In Sunderland, it is even more—£146 per head. Cumbria loses £118 a head. The winners are the more affluent areas such as South East Hampshire, which is £164 better off, Windsor, which is £106 better off, and Eastbourne, where, according to the allocation, individuals are £130 better off. Do you think that the existing mechanisms are providing sufficient resources on the basis of need?
+
+[[[Paul Baumann]]]: Shall I tackle this, as it happens to be my particular responsibility? First, I will provide a bit of clarification. I think you are referring to what we published in the summer, which is what the allocations would have been had we adopted the proposals that went to the board back in December of last year. They are not the proposals for 2014-15 and 2015-16, just to make that crystal clear. The decision on that will be taken this coming December at the board. The thoughts leading up to that decision have been engaged upon over the last two or three months with about 300 or 400 people around the country, just to try to work out the best way through the set of dilemmas that we have around allocation. That is the first point to make.              The second point is that we are trying to balance in the allocations three or four things that have countervailing effects, all of which need to have their proper prominence in the allocation process. One of them is that currently we have allocations that are based on populations that are at least three or four years out of date, because we have not had any pace of change in recent years. Quite simply, we have a dislocation in what is currently in the system between the populations that people are now serving and the money that they are getting to do that. The second thing is that we have to put proper weight on deprivation and inequality. It is central to the mission of NHS England and to the mission of the commissioning system. The allocation formulas that we will talk about in December fully weight all of that deprivation. I will come back to the evidence of that in a second. The third thing is that we need to deal with the fact that we have ageing populations. Age is a significant factor in the needs of local populations for health care.              The formulas that we have developed factor all of that in fully. We have a particular issue around unmet need, which I am sure you will be familiar with from previous discussions around allocation. In the proposals we took to the board last year, we took the view that it was not appropriate to make an adjustment for that. In the proposals we take to the board this December, we will explain what the consequence would be of reinserting, if you like, an adjustment for unmet need, which we think, on balance, is probably an appropriate thing to do. We will be putting proposals to that effect.              Just to give some reassurance that this is not a system that equalises the needs across the north and the south, if you like, and makes deprived boroughs work with the same resources that less-deprived boroughs work with, if you take the most deprived decile in the country and the highest-paid CCG in that decile, which happens to be Knowsley, and if you take the lowest in the first decile, which happens to be Richmond upon Thames—I am guessing that there cannot be a much wider spectrum of places—the difference between those two allocations per head as proposed, including a deprivation adjustment, is about 44%. When you adjust for purchasing power between Richmond upon Thames and Knowsley, that goes up to 67%. So for people who need reassurance that deprivation is properly and fully factored into any formulas that we are happy discussing, that is the evidence for it. That is what we are doing. In parallel— 
+
+[[[Q117 ]]]&#xa0; 
+
+[[[Grahame M. Morris:]]] If you will excuse my interrupting, the risk is that if we follow the same policy in principle as has been applied in local government, for example, we will see a transfer of resources from the poorest, most deprived areas to the wealthiest areas or to the least deprived areas. What is NHS England’s view on that? It looks as if the areas that have the best health outcomes—you have identified Richmond upon Thames—are going to have the highest allocations of resources. Is that fair?
+
+[[[Paul Baumann]]]: I can guarantee that that will not be the case in our allocations. The example I have just given is the proof that that is not what we are proposing. The most deprived boroughs in the country will get the most money. The least deprived boroughs in the country, subject to those other two factors of population and age, will get the least money. You will see that spectrum when we set out the allocations. It was already there to a large extent in the ones you are commenting on, but it will become clearer, I think, with the possible deprivation adjustment that we are going to make.It is not the case that we give less money to the deprived areas and more money to the south—quite the opposite. The issue is that, when you compare it with a formula that is now several years out of date and that has not kept pace with the population and with the ageing in that population, there will be changes. Unless we preserve everything on the basis of what we happened to have in 2006, which was probably the last time we had any significant move in the formula, there will at some point need to be changes. I think the formula sets that out in a sensible way.              The other decision the board has in December is how fast to move from what we currently have to whatever this formula, with a deprivation adjustment, would suggest. I think it is obvious that, at a time when there is not an awful lot of growth around to put into the equation, the speed at which we can make those sorts of changes will be quite measured, because to do anything other would be problematic. 
+
+[[[Q118 ]]]&#xa0; 
+
+[[[Grahame M. Morris:]]] I understand that and am grateful for those answers. In an earlier answer to one of my colleagues in relation to NHS redundancies, Sir David said, “Well, stop doing the reorganisations.” The point was that, if we had a period of stability and did not have constant turbulence, it would be easier to plan; I tend to agree with that analysis. Isn’t there benefit in applying that logic to the CCG allocations? I have a situation now where various groups are lobbying for resources to be applied to tackle particular health problems. The CCGs need some stability and clarity in terms of their allocations so that they can plan and participate in the efficiency savings and address local health needs.
+
+[[[Paul Baumann]]]: That is very much the consideration that the board will take in December. It was very mindful of that when it took its decision last year, because in the first year, in particular, we did not want too much disruption. The only thing I do need to point out is that there is a price attached to any kind of trade-off that we make in all of this. The stability comes at the price of the fact that at the moment there are a whole lot of CCGs that cannot make ends meet because they are so vastly away from what the formula would suggest. If I look at it just in terms of the half-year stock take of finances that we look at, there are 37 CCGs around the country that are at high risk of having a deficit this year. They have not all got to the point of having a deficit, but there are 37 at high risk of having a deficit. Thirty-one of those are significantly under target compared with the formulas that we are going to produce for the board in December. I give that just as an example.              If you look at the provider sector, which is clearly a little bit outwith our direct responsibility, there are about 42 distressed providers out there at the moment that you will have read about and be concerned about. 
+
+[[[Q119 ]]]&#xa0; 
+
+[[[Grahame M. Morris:]]] Are you talking about foundation trusts and so on?
+
+[[[Paul Baumann]]]: Both foundation trusts and NHS trusts. There is a larger preponderance of NHS trusts than of foundation trusts, but there is a selection of both. Thirty of those 42 are in health economies that are currently under-funded by the formulas. None of this is absolute, I am afraid. There are dilemmas in all of this as to where you do the trade-offs between stability and getting the money to where it is needed and so on, and how you do the trade-offs between the things we have to factor in around deprivation, age and population. I am just trying to spell out for you the dilemma that there is a price attached, as it were, to any decision you take on this. There is not one decision that makes ultimate sense, in other words. 
+
+[[[Q120 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] Are you suggesting that the pendulum that has seen money move away from areas such as Liverpool and Lancashire towards the south of England will swing back a little, if not all? Is that how I can translate what you have just said?
+
+[[[Paul Baumann]]]: It depends on what you are comparing it with; I just need to be very careful that I do not mislead you in the answer. Compared with any proposals that we had last December, at least one of the proposals on the table in December will have an additional deprivation adjustment for unmet need that those did not have. That will tend, just by the natural geography of deprivation, to cause a swing back in the way you describe. That is not the same as saying that that set of allocations will be identical to the ones that we had before this process started. 
+
+[[[Q121 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] You obviously know those figures. How would you balance the swing away against the potential swing back?
+
+[[[Paul Baumann]]]: This is not an evasive answer; it is a complex question, because it does not naturally fit into a geographical pattern. What it does is make sure that at the extremes of deprivation, from the first to the 10th decile, there is a similar set and span of adjustments to what there was in the old system, as it happens. What happened in between, because the way we are doing the deprivation adjustment is now significantly more sensitive than what was put into the old system, is that it has a different distribution between those two extremes.It is not possible for me to highlight a pattern to that that is simple, but we will set all of that out very clearly as part of our decision making. For me, the primary thing is what happens to deprivation characteristics across the country, as opposed to what happens in a simplistic way to particular parts of geography that are, to my mind, a little bit blunt as an instrument of differentiation. 
+
+[[[Q122 ]]]&#xa0; 
+
+[[[Chair:]]] Whatever the formula produces, the actual cash allocations will be a judgment call by the board to reflect what is a reasonable rate of change.
+
+[[[Paul Baumann]]]: Exactly that. 
+
+[[[Q123 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] A reasonable rate of change from now or from the big swing that has just taken place?
+
+[[[Paul Baumann]]]: When we talk about pace of change, it is the difference between what people have in 2013-14, as we speak, and what they are spending on a day-by-day basis, and what they— 
+
+[[[Q124 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] So we have done the big swing, and now we are saying, “Oh dear, we will make it”—
+
+[[[Paul Baumann]]]: I am sorry—there is a misunderstanding. The point is that we did not do the big swing. People this year—in 2013-14—have got the same amount, plus a uniform increase for inflation, as they had under the old system. At the December board last year, we said that we did not have enough confidence in the changes we were making, for all the reasons we have just been debating, to make the big swing that you are describing. We therefore took the 2013-14 allocations and indexed them all by a standard amount to reflect the increase—2.3%—for CCGs. That is the starting point. When we come to December, we are saying that we are going to describe the potential target formulas, including the deprivation adjustment as an option within that. We will compare that with what people currently have. That is where the judgments come in, which are, what is the pace of change? As I have tried to intimate, we are going to be quite careful about that, because the less growth you have, the less flexibility there is to make that painless. 
+
+[[[Q125 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] So you are saying that there has been no big change from 2010-11, 2011-12 and 2012-13.
+
+[[[Paul Baumann]]]: That is true. 
+
+[[[Q126 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] There certainly has not been a change in my area, I happen to know, which is affected by rural poverty. I wonder whether in your allocations you will include sparsity as an issue. In a place such as Devon, where we have the third-oldest population in the country, we also have a sparsity factor, which is very significant. It is more expensive to deliver services in rural areas—if you just add in the travel costs, apart from anything else. Are you going to include sparsity and rurality, as well as need based on age, in the formula?
+
+[[[              ]]]
+
+[[[Chair:]]] I think this is the last question on the formula, otherwise we will get very bogged down.
+
+[[[Paul Baumann]]]: There is a very clear answer. In the proposals that will go forward in December, there will be no rurality adjustment, because we have not been able to work out the mechanism for doing that. We are starting a research programme, for which we asked our team, that will do that for the future because we recognise that it is something that we need to address. We will pay attention to it, but it will not be in the proposals that are taken in December. 
+
+[[[Q127 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] When is it likely to start to be factored in? It is a very critical issue in some parts of rural Britain.
+
+[[[Paul Baumann]]]: That will be a matter for the board to decide, but the work on it is to start right now. I expect it will be available in the course of next year. 
+
+[[[              ]]]
+
+[[[Chair:]]] We will move on to trust finances. 
+
+[[[Q128 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] I have a point that refers back to the earlier question, because I am a Manchester MP. You were asked about Ruth Carnall and talked about the work that she was doing. You seemed to indicate to us that that work was unpaid. Via social media, she says that she is being paid for the work in Manchester.
+
+[[[Sir David Nicholson]]]: I have just been given the same information. 
+
+[[[Q129 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Perhaps you would like to correct that.
+
+[[[Sir David Nicholson]]]: I was going to correct it at the end. I will do that. 
+
+[[[Q130 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] She is working in our locality, so we would want to know that.
+
+[[[Sir David Nicholson]]]: I understand. 
+
+[[[Q131 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Do you think that is appropriate? It is against public guidelines on most measures that someone goes out of a public body, sets up a consultancy and then goes and works back in a public body. Probably now is the time to answer, because I suspect that a lot of misinformation has been given, deliberately or not deliberately, to this Committee. This is someone I know you know quite well. Would you like to explain your lack of knowledge on this subject yet again?
+
+[[[Sir David Nicholson]]]: I have the tweet written down in front of me—I know the world is moving on beyond me. It says, “I did not receive any redundancy pay”—so she was not made redundant—“I received my pension and I worked my notice period,” and “I do some work for nothing, some I am paid for including Manchester.” 
+
+[[[Q132 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] I think most people on most planets would say that that is a completely unacceptable state of affairs. It is extraordinary that you do not know it is occurring, and it is very unfortunate for you that you do not seem to know things that are of critical importance. I know there was an issue where you got the wrong information to a Committee before. Do you think this gives the public confidence that you are actually a man with a grip on your job?
+
+[[[Sir David Nicholson]]]: The critical thing for Manchester is to get really good health services for their people. 
+
+[[[Q133 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Don’t you think the transparency and accountability of the NHS might be important?
+
+[[[Sir David Nicholson]]]: One of the downsides of constant reorganisation of the NHS is that some of our most talented people are lost to the service. Ruth is one of those extraordinarily talented people. 
+
+[[[Q134 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] She was also involved in NHS London and Lewisham, with Hannah Farrar.
+
+[[[Sir David Nicholson]]]: She is an extraordinarily talented leader. 
+
+[[[Q135 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] I am sure she is, but she has also overseen some difficult times.
+
+[[[Sir David Nicholson]]]: The most important thing for me is that Manchester are getting the benefit of her expertise and advice to help them with the great challenge of services that they have. I do not believe she has broken any rules in relation to the work that she is doing. Her job disappeared; she did not want to go.  
+
+[[[Q136 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Why were you so reluctant to say that she had been paid if you did not think she was breaking any rules or it was not in any way difficult? You were very reluctant to admit that—
+
+[[[Sir David Nicholson]]]: When I went to Manchester recently, I was told that at that time she was not being paid. That is what I was reflecting to you. 
+
+[[[Q137 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] You seemed very reluctant to tell me that she was not getting paid and to accept that, if she was, it would not be acceptable. Now the facts change and your attitude changes.
+
+[[[Sir David Nicholson]]]: I am afraid—
+
+[[[Charlotte Leslie:]]] I think we can move on from this. Thank you very much.
+
+[[[Sir David Nicholson]]]: Well— 
+
+[[[Q138 ]]]&#xa0; 
+
+[[[Chair:]]] Your response, Sir David?
+
+[[[Sir David Nicholson]]]: It is beyond response, really. I will not say any more. 
+
+[[[Q139 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Tying in with the earlier question on pay, it is very important that at the senior levels of the NHS you do not give the impression that you think these sorts of things, such as people earning a pension and then coming back as a consultant and being paid, are okay. To be perfectly honest, my constituents in Salford who are having a really hard time at the moment would not think that that was acceptable. If she is being paid to do this work on how our hospitals are reconfigured, I think it needs some thinking about. I agree with my colleague on that.
+
+[[[              ]]]The question I was going to ask is on financial pressures. I was slightly amused by the expression “distressed providers” that was just used to talk about the trusts that are in deficit. Thirty out of 62 acute trusts are expected to be in deficit by the end of this year. You obviously understand fully the position about those difficulties, with increasing numbers of trusts really being in breach of their terms of authorisation and, presumably, needing increased amounts of financial support. How concerned are you about that? Does it really mean—as an MP I certainly see examples of this—that those foundation trusts will be focusing on maintaining services, rather than on those other important challenges we talked about earlier, such as integration? How can a financially crippled organisation really start to move forward on important work of integration or, in fact, reconfiguration? Both of those challenges are there in our locality.
+
+[[[Paul Baumann]]]: The first thing to say is that they have, if anything, more incentive than others to engage with things such as reconfiguration and integration, because in many ways that will be the solution to some of the problems they face. It would be wrong to say that there is a single model of what the problem is in each of those 42 trusts, but in a fair number of them, effectively, I do not think the solution lies purely in becoming more productive, becoming more efficient or whatever—I think it lies in the structure of their services and the way that needs to change. So I think they have more incentive rather than less. 
+
+[[[Q140 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] But those are difficult. We have already heard about a trust trying to avoid a change and using competition regulations to do that. If people are not accepting what they need to do to get back to financial health and are fighting it, there is a struggle going on, isn’t there?
+
+[[[Paul Baumann]]]: That is where we all have different roles in this process, haven’t we? For us, we need to make sure that there are the conditions of success for a trust sector. As you know, the trust sector in total is in surplus at the moment, so at one level that’s it. As NHS England—I think we need to be specific about our role in this, as opposed to the role of, for example, the Trust Development Authority, which is the steward of many of these organisations—our role is to support transformation, where there are transformation plans to support. We as NHS England and the CCGs around the country are deploying substantial amounts of money to support trusts where, for example, transformation costs are required to reduce costs in some way, to merge with other trusts or to support changes in service. We are putting financial investment in to do that.However, it is not our role to eliminate deficits, as it were, by just putting money where a deficit arises. In many ways, if we were to do that, we would dampen the incentive to do something about these significant changes. We have a very transparent system in place, where the deficit funding comes through cash that the Department of Health provides to keep the trust able to pay its payroll and so on, so that it can focus on the recovery task that we talked about, whether operational or strategic. Our role is very much to fund the transition and transformation in health economies to make sure that they get to the right place. 
+
+[[[Q141 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Let us move on to the situation where £250 million has been put into winter pressures, particularly as a result of the A and E crisis—which persisted across the summer, with trolley waits and missed waiting targets. To what extent are the difficulties experienced last winter or the ones expected for this winter, including in places where extra funding has been given, related to the funding situation? I know that this whole situation has been looked at over the summer. Does it seem that part of the crisis was related to the funding situation of any of those trusts that had the worst results and to which you have given extra funding? 
+
+[[[Paul Baumann]]]: So, the—
+
+[[[Barbara Keeley:]]] I would like to hear David Nicholson’s answer to this. We are talking about the quality of hospitals here, not the finances.
+
+[[[Sir David Nicholson]]]: One of the reasons that the A and E target was designed in the way that it was originally is that it is a good indicator, first, of the pressure on a system, but also of the way in which the totality of the service is managed. You can often find that there is a connection between not being able to hit your A and E target and not managing your organisation very well overall; you can see that connection. If you look at the money that has been given out—the £250 million this year—there is a correlation, although not a complete correlation, with where there are financial difficulties in the NHS. That is true. 
+
+[[[Q142 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Is there a correlation with where there are difficulties in the local authority’s social care service?
+
+[[[Sir David Nicholson]]]: My colleagues will tell you that, in lots of ways, that is a bigger correlation than the one relating to A and E. 
+
+[[[Q143 ]]]&#xa0; 
+
+[[[Barbara Keeley:]]] Could we be given figures on that? I would be interested.
+
+[[[              ]]]
+
+[[[Chair:]]] Could we have some figures on that?
+
+[[[Sir David Nicholson]]]: Yes. 
+
+[[[Q144 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] You mentioned that they are the ones that are in financial difficulty, but I have to make a plea for the Manor hospital. We have taken A and E from 10 o’clock to 8 o’clock from Stafford hospital. There is clearly pressure on us, but we were not allocated anything from the £250 million. It is just a plea—will you look at the Manor hospital, please?
+
+[[[Sir David Nicholson]]]: I know the Manor hospital very well and have been to it on a number of occasions. I will look at it. 
+
+[[[Q145 ]]]&#xa0; 
+
+[[[Valerie Vaz:]]] We did not get anything, but we really need it.
+
+[[[Sir David Nicholson]]]: Okay. I will go back and think about what we might do. 
+
+[[[Q146 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] We talk about value for money. Obviously, quite a lot of that is invested in NHS property and estate. Could you help us by talking through the process that took place through the reforms that you oversaw in managing NHS property and estate? When looking at the 2010 reforms, when did you first realise that there was an issue with what happened to PCT property and estate? Around what sort of time period did you realise that?
+
+[[[Sir David Nicholson]]]: It was clear to us that, if you close down 150—or 168—organisations and create 211, it will have a major consequence for the estate that is operated in the service. If you add to that— 
+
+[[[Q147 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] We have limited time and I know you have to get away. About when did you did decide to set up NHS Property Services?
+
+[[[Sir David Nicholson]]]: I did not personally decide to set up Property Services— 
+
+[[[Q148 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] But you must have authorised it as chief executive.
+
+[[[Sir David Nicholson]]]: The Department of Health took on responsibility for Property Services. That was Richard Douglas in those circumstances and— 
+
+[[[Q149 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] As chief executive, you must have overseen that. It is a significant amount—recently it was estimated to be £3 billion, but at that point it was over £5 billion.
+
+[[[Sir David Nicholson]]]: Obviously, I am responsible for everything. I am just saying that I did not personally set up Property Services. I cannot recall the exact date when we decided that we would have a property services organisation, to create a mechanism to transfer safely the property portfolio from then to the future. 
+
+[[[Q150 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Property Services was registered with Companies House, as you will probably know, on 20 December 2011. As you will know, it was registered by Peter Coates. What discussions took place? This is a lot of money, and I know you are very concerned about value for money and you have a challenge named after you. This is about £5 billion of public assets. What discussions did you have with the BIS Shareholder Executive when deciding that those assets would lie not with them, who would not have an issue with conflict of interest, but with a company owned by the Department of Health, set up with Companies House? What agreement was there? Did the Secretary of State authorise this?
+
+[[[Sir David Nicholson]]]: I could trawl back into my memory and try to remember this. I do not feel that I can do that at the moment because you are asking the question almost in a legalistic sense. I would be prepared to give you a note— 
+
+[[[Q151 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] I am afraid I am not a lawyer—I am just a Back-Bench MP. Forgive me for sounding on top of my game.
+
+[[[Sir David Nicholson]]]: I will give you a note that sets out the timing and arrangements for that. 
+
+[[[Q152 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] I would be grateful if you could. What I am really interested in is who authorised Peter Coates to do this. As you will know, he set himself up as a director of this company. It did not go to the BIS Shareholder Executive, as you would expect. This is the man who on the NHS website says he is responsible for the PFI procurement that has saddled the NHS with significant debt of over £1 billion each year. Who decided that this was a suitable individual to become a director of a company managing more than £3 billion of assets?
+
+[[[Sir David Nicholson]]]: As I said, I will give you a note on all of this. I am not prepared to answer on it at the moment. 
+
+[[[Q153 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] You will give us a note on that. Why aren’t you prepared to answer?
+
+[[[Sir David Nicholson]]]: Because I have not come prepared to talk about this. I know by the nature of your questions that you want precision. I am not in a position to give you precision at the moment. 
+
+[[[Q154 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] Surely you must be able to remember who authorised the setting up of the biggest property company in Europe, which happened not that long ago, under your watch. You have had such a competent—
+
+[[[Sir David Nicholson]]]: The Secretary of State will have done it. All I am saying is that I think you want precise answers to this, which no doubt you will use in all sorts of ways in the future. 
+
+[[[Q155 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] That would be kind, thank you. Were any significant issues raised with you or, indeed, with Richard Douglas about the conduct or misconduct of this individual, Peter Coates, during any of your time, particularly around 2010 and 2011? The reason I ask is that I have had communications from people within DH who are concerned about the way it has been working. I will read an e-mail that they have sent to me about key people at the top of the NHS. Obviously this is an accusation that is not substantiated; it is simply an opinion. They say that “those at the top of the NHS are only concerned about keeping power and ensuring they have jobs for life and positions to step into after retirement.” They talk about “a revolving door, which they use in the NHS to generate jobs for life.”
+
+[[[              ]]]Obviously you will want to make sure that that is demonstrated not to be true. That is the reason I ask about the suitability of the individual Peter Coates and any incidences of misconduct relating to him, and his competence in overseeing the procurement of PFIs is obviously very relevant to that. Was any misconduct between him and any outside organisation or within the organisation flagged up to you at any point or to Richard Douglas?
+
+[[[Sir David Nicholson]]]: I will give you a note on that. 
+
+[[[Q156 ]]]&#xa0; 
+
+[[[Chair:]]] Given that, as you have said, Charlotte, we are short of time, would it be a good idea for you to list the questions, so that we can send them and Sir David can reply to them?
+
+[[[Sir David Nicholson]]]: Or the Department, because I am not responsible for any of this. 
+
+[[[Q157 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] You must know whether Peter Coates is currently a non-executive director and whether he is paid for that position. As you will have seen, Property Services has not been able to confirm to me in parliamentary questions whether it has raided its capital budget for revenue funding, or its sale of properties.
+
+[[[Sir David Nicholson]]]: These are questions you should ask the Department of Health. 
+
+[[[Q158 ]]]&#xa0; 
+
+[[[Charlotte Leslie:]]] This is an organisation that you oversaw. The reason it is so important—[Interruption.] I am surprised that you shake your head, because I know you are concerned about value for money. This is £5 billion of property assets.
+
+[[[Sir David Nicholson]]]: I have not shaken my head. All I am determined to do is to make sure that you get the right answers to these questions. I am determined to do that. 
+
+[[[Chair:]]] Charlotte, can I ask you to submit the questions you want asked? I will write as Chairman—
+
+[[[              ]]]
+
+[[[Charlotte Leslie:]]] I think it is a shame that something that concerns so much money has been left right to the end of the session and that the man who oversees NHS England and oversaw the reforms is not able to answer any of my questions. I think this leaves huge questions of public confidence and that it is a shame that the Committee has not delved into this. I wonder whether we could refer this to the PAC, because there are serious issues to answer about the way the Property Services company was set up, at a time when Sir David was overseeing the reforms, whether it was disposing of those assets at, or significantly below, market value and why the Department of Health thought it was acceptable not to disclose the names of those it was selling the properties to in the first instance.
+
+[[[Chair:]]] These are obviously questions. As I have done before, I will write to whichever is the appropriate public official to pose questions on behalf of the Committee. Perhaps we can have that as an internal debate within the Committee the next time we meet.              
+
+[[[Charlotte Leslie: ]]]Thank you.              
+
+[[[Chair: ]]]It is 3.45 pm. Sir David, as I mentioned at the beginning of the session, I know you have an appointment elsewhere. Thank you for coming and giving evidence to us this afternoon. We shall pursue the points you have been making about the future restructuring of the service with other witnesses and, ultimately, with the Secretary of State. &#xa0;              Oral evidence: Public expenditure on health and social care, HC 793                            3

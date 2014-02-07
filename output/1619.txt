@@ -1,0 +1,101 @@
+&#xa0;
+
+[[[Written evidence ]]]
+
+[[[from Dr Ruth Dixon]]]
+
+[[[ ]]]
+
+[[[and Professor Christopher Hood]]]
+
+[[[ ]]]
+
+[[[[]]]
+
+[[[OD]]]
+
+[[[0]]]
+
+[[[0]]]
+
+[[[4]]]
+
+[[[]]]]
+
+[[[&#xa0;]]]Ruth Dixon is a research fellow in the Department of Politics and International Relations, University of Oxford, and Christopher Hood is the Gladstone Professor of Government and fellow of All Souls College, Oxford. We are undertaking a three-year research project funded by the Leverhulme Trust to study changes to the way in which UK central government has worked over the past 35 years. As part of our research we have attempted to track how costs and quality of public services changed over this period. The following evidence is based in part on our findings from this research. The opinions given in this evidence are our own and do not represent those of the University of Oxford or the Leverhulme Trust.&#xa0;
+
+[[[Overview]]]While there is a balance to be struck between consistency and current relevance in the design of any set of performance statistics, we have found the balance is so heavily weighted towards the second desideratum as to make it almost impossible for Parliament or anyone else to assess performance change over time.&#xa0;
+
+[[[Summary]]]
+
+[[[&#xa0;]]]
+
+[[[Answers to the]]]
+
+[[[ questions in the PASC]]]
+
+[[[ Issues and Questions]]]
+
+[[[ Paper]]]
+
+[[[:]]]&#xa0;
+
+[[[1. Why is open data important? ]]]
+
+[[[&#xa0;]]]1.1 As stated in the inquiry’s call for evidence document, public services are assessed on the basis of official performance data. This the basis on which the public can evaluate claims of the efficiency and effectiveness of public services and determine whether services are improving or deteriorating over time.  &#xa0;1.2 In order for such data to be used to hold government to account, three criteria must be met. The data must be (i) available, (ii) usable, and (iii) consistent.  Available means not only that it is (somewhere) in the public domain, but also that it is easy and intuitive to find. By usable we mean presented not only in a readable format, but with enough detail of definitions and methodology to allow the interested citizen to understand the meaning of the data. By consistent we mean that definitions and methodology remain stable over time and, where appropriate, are comparable between departments or sectors. It should be easy to find earlier releases of the data, and to understand what changes, if any, have been made to the methodology and how this affects the results. &#xa0;1.3 Although we have found instances of very good practice regarding the publication of data, we have also found instances of failure of all three of these criteria, as we shown in the examples below.
+
+[[[&#xa0;]]]
+
+[[[2. Why does the Government need an open data strategy? ]]]2.1 To ensure comparability between the data produced over time and by different departments and government organizations.&#xa0;
+
+[[[3. What should the Government’s aims be for the release of open data? ]]]
+
+[[[a. Are the Government’s stated key outcomes in its Open Data Strategy the]]]
+
+[[[ ]]]
+
+[[[right ones? ]]]
+
+[[[ ]]]3.1 We are unclear as to which outcomes are being referred to here.
+
+[[[&#xa0;]]]
+
+[[[4. How can those engaged in open data, and those engaged in producing government statistics work together effectively to produce new data? ]]]
+
+[[[&#xa0;]]]4.1 We are concerned that there has been a variety of incompatible approaches to the publication of official data. To take the example of government spending, the websites ons.gov.uk and data.gov.uk each contain different public spending data in a range of formats. Recently a new online ‘spending tool’ has been added (http://www.gist.cabinetoffice.gov.uk), with no clear relationship to the other datasets, and which itself contains two incompatible datasets (from the FAQ: “Why are total spend amounts different in OSCAR and QDS? A: The scope of OSCAR and QDS are different: the aim of QDS is to capture 75% of departmental spend for informational purposes. Additionally, many items are covered in OSCAR that are not subject to QDS.”). &#xa0;4.2 We suggest that before introducing new interfaces and tools, consideration is given to making the existing datasets more usable and consistent, and making very clear the relationships between them, for instance how the online datasets in GIST (above) relate to the annually published summaries ‘Public Expenditure Statistical Analyses’. &#xa0;
+
+[[[5. How can more statistics and administrative data of all kinds become more freely available?]]]&#xa0;5.1 While making “more statistics and administrative data” available in the future is a worthwhile aim, we would like to point out that much valuable information is available (or has been until recently) and should be maintained.  The White Paper states: “In the past the public sector has not been clever or effective at sharing key data.” While this may indeed be true, our experience is that several long-term data series from the 1980s and 1990s, while by no means perfect, were superior to much of what is available now in terms of consistency and transparent methodology. We give examples below.&#xa0;5.2 Examples of altered or discontinued data sets:&#xa0;5.2.a Example 1: The total staff costs of the Civil Service were reported since (at least) the early 1960s until the early 2000s (in the Chief Secretary to the Treasury's Annual Memorandum on the Estimates until the mid-1980s, and more recently in Public Expenditure Statistical Analyses (PESA)). That information is no longer publicly available, having been replaced in PESA by a figure called ‘Administration costs paybill’, which covers an unspecified number of staff (not all of whom belong to the Civil Service).&#xa0;5.2.b  Example 2: Each year the tax departments publish their ‘cost to yield ratio’, that is, operating costs per amount of tax collected. Until the merger of the Inland Revenue and Customs &amp; Excise to form Her Majesty’s Revenue and Customs (HMRC), the methodological basis of this calculation was transparent, with the exact costs and yields tabulated in each annual report. Now only the headline ratio is given, and the basis of the calculation is obscure (the published costs and revenues do not give the same ratio). &#xa0;5.2.c Example 3: The number of complaints received by ombudsmen is a measure of public dissatisfaction with government and public services. Until 2004, the number of complaints received by the Parliamentary Commissioner for Administration (the Parliamentary Ombudsman) was reported on a consistent basis. Since that date, the workload of the Ombudsman’s office has been recorded in different ways, and it is no longer possible to compare the number of complaints over time. The same is true for the number of health complaints received by the Health Service Commissioner since 2002.&#xa0;
+
+[[[6. Is open data presented well and of adequate quality? ]]]
+
+[[[a. Are the formats of the data being published accessible, useable and understandable to the public? ]]]
+
+[[[b. What metadata is needed to make releases useful? ]]]
+
+[[[c. Who will use the data released? ]]]
+
+[[[&#xa0;]]]6.1 Some data, while accessible to the general public is not presented clearly or consistently enough to be useful, as we show in the examples below.&#xa0;6.1.a Example 1. The departmental transparency data covers spending over £25,000 by each department each month.  This transparency data is potentially very useful but the highly disaggregated way in which it is presented (monthly spreadsheets for each department) means that patterns of spending over time or by spending category cannot readily be ascertained. To compare departments’ annual spend by spending category the user has to download dozens of monthly spreadsheets each containing hundreds (sometimes thousands) of individual transactions and attempt to combine the data manually by spending category.  We hoped to use the transparency data to explore the spending on Information Technology by department for a single financial year but we found that the categories were not standard enough to allow us to do so. The spreadsheets describe spending in three ways: Expense Type, Expense Area and Description, and there seems to be little or no consistency between departments as to how these descriptors are used.  To take an apparently simple example of utility bills in different departments, we found that it is not possible to extract this information in the same way from each spreadsheet as each department has a different convention for recording the information, for instance:
+
+[[[Department]]]
+
+[[[Expense type]]]
+
+[[[Expense area]]]
+
+[[[Description]]]HMRCGasEstates &amp; Support ServicesUtility payment&#xa0;&#xa0;&#xa0;&#xa0;DEFRAGasChief Operating Officer DGGas bill for period 1-31 July 2012 for […]&#xa0;&#xa0;&#xa0;&#xa0;DEPARTMENT FOR EDUCATIONEnergy and UtilitiesChief Information Officer GroupGas supply&#xa0;6.1.b Example 2. The online ‘government interrogating spending tool’ (GIST) is meant to make departmental comparisons easier, and we commend this ambition. The introductory webpage (https://www.gov.uk/government/news/new-online-tool-invites-taxpayers-to-join-the-hunt-for-government-savings ) says “Previously this data was only published in clunky spreadsheet form, and the data was complicated to interpret and difficult to compare.” However, we find that GIST is inflexible in the comparisons that it allows, and gives no link to any underlying database (however ‘clunky’) or an indication of where it might be found – data downloads reveal only the numbers currently visible on the screen.  For instance, GIST allows the user to compare total spending across all departments for a particular quarter, but spending subsets (e.g. Departmental Expenditure Limits (DEL)) are only available if the user clicks on each department in turn and copies each number separately.  GIST is advertised with the exhortation: “Try out the tool to find out how much is spent per person in the UK in each area” but as far as we can see no per capita or regional information is yet included. &#xa0;6.1.c Example 3. Detailed performance information is given in departmental annual reports, which are therefore an important accountability resource. The move from individual departmental websites to the combined website www.gov.uk means departmental annual reports are often extremely difficult to locate, and editions from past years (more than 3 years ago) are often unavailable. Some can be found on www.official-documents.gov.uk but this site is also difficult to search (e.g. the advanced search does not allow one to narrow the search by publication date, so a large number of answers can be returned).&#xa0;6.1.d Example 4. Administrative expenditure was the subject of stringent targets in the Spending Review 2010, which promised a 34% cut by 2014-15.  Administrative expenditure is recorded in Public Expenditure Statistical Analyses (PESA). Table 1.7 in PESA 2013 shows an apparent fall of over £8 billion (37%) in a single year (2010-11 to 2011-12). This was not due, however, to a fall in expenditure but to the reclassification of an unspecified number of civil servants in HMRC and the Department for Work and Pensions from administration to programme expenditure, as a footnote explains. This reclassification has been done in a way that makes it impossible to track the actual change in administrative expenditure over this period or to compare outcomes with the Spending Review targets. &#xa0;
+
+[[[7. How successful has the Government’s Open Data initiative been in changing behaviour in the Civil Service and wider public sector? ]]]7.1  We have no view on this question.
+
+[[[&#xa0;]]]
+
+[[[8. Which datasets are the most important? ]]]
+
+[[[a. What are the best examples of data being made open and resultant benefits to business or society? ]]]&#xa0;8.1 We consider that the annual Public Expenditure Statistical Analyses (PESA) remain the most comprehensive overview of government spending and we make use of these reports both in pdf and spreadsheet formats. However, there have been a number of reclassifications which make over-time comparisons difficult and in some cases impossible. An example is described in 6.1.d above. Such reclassifications should be made as transparently as possible, explaining where possible what the quantitative effect of the reclassification has been.&#xa0;8.2 An example of a consistent and informative dataset is the emissions data released annually by DECC. https://www.gov.uk/government/organisations/department-of-energy-climate-change/series/uk-greenhouse-gas-emissions Each annual release shows data in a consistent format dating back to 1990 and in some cases earlier. It is a complex spreadsheet, but contains the information required to interpret it, and also includes a description of the uncertainties in some of the quantities reported. This type of information allows meaningful over-time comparisons to be made.&#xa0;8.3 Another example of an extremely useful dataset, though not of quantitative data, is Hansard 1803-2005, (a project led by the Commons and Lords libraries) at  http://hansard.millbanksystems.com/. This can be searched by topic, bill, speaker or date range. It is not a ‘modern-looking’ website but is a functional and usable resource, and we very much regret that it does not continue past 2005.  Since that time Hansard is on the parliament website, and we find it far harder to locate a particular debate unless we know the exact date of the debate from other sources. &#xa0;8.4 The British Social Attitudes Survey (BSAS) information site http://www.britsocat.com is an example from academia of a website that makes a large amount of data available in a logical and accessible way. It is hosted by the Centre for Comparative European Survey Data (CCESD) based at London Metropolitan University. This site allows the user to access data from all of the surveys since 1983 by means of a tree-like structure, in which the area of interest can be progressively explored to find all of the survey questions relating to that topic, and the years in which they were included in the survey. This means that the user can efficiently locate the information of interest and view it in graphical and spreadsheet format. If government spending data could be arranged in such a logical ‘tree-like’ structure (e.g. by spending category, department, and year) it would be far less time-consuming and frustrating for the user to assess.  GIST is apparently an attempt to do this, but unlike the BSAS site, GIST does not lead to an underlying detailed and complete dataset. &#xa0;
+
+[[[9. How effective is the work being undertaken by the Cabinet Office to monitor the ]]]
+
+[[[progress of Departments in publishing their agreed datasets?]]]9.1 We have no view on this question.&#xa0;
+
+[[[10. ]]]
+
+[[[Conclusion]]]10.1 It is difficult to see how public trust in official data can be improved without keeping the methodology and reporting conventions of the data stable over time. If a dataset is released that is incompatible with the previous edition, the government is essentially burying the past, and asking the public to take the current figures on trust.  In our research project we have made a thorough study of a range of official data sets and have found how frequently discontinuities occur. We have found how difficult and time-consuming it is reconstruct a consistent data series, in the cases where this is possible at all. &#xa0;10.2 We recognise, of course, that data sets and indicators become obsolete and are replaced by new or altered indicators for a variety of reasons.  We suggest, however, that any new indicators or data sets should be introduced with caution and that a commitment should be made to keeping the methodology standard for a minimum period, such as 5 years, and that any subsequent changes of methodology should be made as transparently as possible.  &#xa0;August 2013&#xa0;&#xa0;

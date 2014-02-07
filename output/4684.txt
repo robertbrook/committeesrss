@@ -1,0 +1,601 @@
+&#xa0;
+
+[[[Written evidence from]]]
+
+[[[ ]]]
+
+[[[Captain R Williams and Captain S Airey, Air Safety Group and PACTS ]]]
+
+[[[(HCS0006)]]]
+
+[[[&#xa0;]]]Captain Williams is a former Chairman of the Air Safety Group (2006 – 2012), a wholly independent group of aviation professionals whose aim is to improve all aspects of aviation safety.  Captain Williams served as a professional Helicopter Pilot and spent 17 years operating offshore in British Airways Helicopters between 1965 and 1983.  During that time he served at various times as the company’s Air Safety Officer, Flight Technical Officer, Training Captain, Flight Simulator Manager (for the world’s first civil helicopter simulator, the S61N helicopter) and Base Manager (for the company’s first oversees offshore operation in Germany).   He then became a Senior Manager for ten years (1987 – 1997) in the Safety Regulation Group of the UK CAA as Head, Flight Operations (Policy and Regulations).&#xa0;Captain Steve Airey read Aeronautical Engineering at Manchester University from 1981-1984. Joined the Royal Air Force and served as a helicopter pilot, including service in the Falkland Islands, the Gulf War, the Kurdish Relief Operation and Bosnia. Deputy Flight Commander, Detachment Flight Commander, Authoriser, Squadron Air-Test Pilot, Day and NVG (Night) Formation Leader. Airline Captain since 1997, firstly on the BAC 1-11 and then on the Airbus A319/320/321 at Heathrow. Became a Fellow of the Royal Aeronautical Society in 2011.
+
+[[[&#xa0;]]]&#xa0;As mentioned this submission is aimed solely at the first question posed.  This is simply because it has been some 30 years since being intimately involved in North Sea helicopter operations and it is not therefore possible to address those additional questions relating to how the UK’s current safety compares to other countries, what steps need to be taken to improve current safety standards, how legislation could be improved and how effective the Regulators are in ensuring improvements are implemented.  In summary, based upon the available statistics in terms of known fatal accidents/fatalities over the 48 years of operations and the estimated total number of flying hours an assessment can be made as follows: -&#xa0;
+
+[[[&#xa0;]]]
+
+[[[NORTH]]]
+
+[[[ ]]]
+
+[[[SEA]]]
+
+[[[ HELICOPTER SAFETY]]]
+
+[[[&#xa0;]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;1st April 2009 - Bond Offshore - Eurocopter AS332L2 – Scotland – 16 fatalities23rd August 2013 - CHC Scotia – Eurocopter AS332L2 – Sumburgh – 4 fatalities&#xa0;The 2009 accident was caused by a catastrophic failure of the main gearbox which, in turn, caused the main rotor to separate from the helicopter.  The 2013 accident appears not to have been attributable to any mechanical malfunction and the helicopter was flown into the sea whilst on approach to Sumburgh airport.  The AAIB Bulletin on this accident appears to point to the possibility that the helicopter was allowed to enter a state of Vortex Ring, a low airspeed and almost vertical high rate of descent where the flow of air through the rotors re-circulates and the rate of descent increases and control is then lost.  Taking these two fatal accidents it would appear that the first was possibly due to a manufacturing and/or maintenance problem whilst the second may have been attributable to the pilots.  This is of course pure conjecture at this early stage in the investigation and the final AAIB report on the accident is now awaited.&#xa0;&#xa0;
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]It has been difficult to estimate with any precision the total numbers of UK Operator’s hours flown in support, specifically, of the offshore industry over the whole period, as most UK operators have also been involved in other public transport operations. &#xa0;Approximate total hours flown               1976 – 2013 (38 years)               = 3,546,300 hoursAt an average annual total of                                                                       =      93,300 hours&#xa0;It may be of interest to note that a brief safety comparison was undertaken over a 3 year period (1979 – 1981 – see below) between World Jet Transport operations and Offshore Helicopter operations.  This brief comparison showed that the offshore flying was relatively safer than the fixed wing worldwide public transport flying during that three year period.  It would perhaps be of further interest to do a similar comparison for the last five years 
+
+[[[(2009 – 2013]]]) where the average offshore annual flying hours were approximately 74,265 hours. During this period there were 2 x fatal accidents and 20 x fatalities (
+
+[[[1 x]]]
+
+[[[ fatality per 18,566 hours]]]
+
+[[[ and 1 x fatal accident every 2.5 years)]]] and this shows a lowering of the offshore safety standards when compared to earlier comparisons. In the following comparison the annual offshore helicopter hours flown are more than double the average totals over the last five years.&#xa0;
+
+[[[FIXED WING WORLD JET]]]
+
+[[[ TRANSPORT]]]
+
+[[[YEAR   ]]]
+
+[[[HOURS (,000)  FATALITIES   ACCIDENTS    FATAL ACCIDENTS]]]&#xa0;1979                     13,906                            716                                    17                                              141980                     13,992                            812                                     22                                               111981                     13,904                            385                                     11                                                   6
+
+[[[1 Fatality every 21,850 hours for fixed]]]
+
+[[[ wing]]]
+
+[[[&#xa0;]]]
+
+[[[NORTH]]]
+
+[[[ ]]]
+
+[[[SEA]]]
+
+[[[ HELICOPTER OPERATIONS]]]
+
+[[[YEAR]]]
+
+[[[              ]]]
+
+[[[      HOURS (,000)  FATALITIES]]]
+
+[[[              ]]]
+
+[[[ACCIDENTS]]]
+
+[[[              ]]]
+
+[[[    FATAL ACCIDENTS]]]&#xa0;1979                            168                             1                                          3                                             11980                            172                             0                                          3                                             01981                            178                            18                                          4                                             3
+
+[[[1 Fatality every 27,260 hours for ]]]
+
+[[[North Sea]]]
+
+[[[ Helicopters]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[UK]]]
+
+[[[ OFFSHORE FATAL HELICOPTER ACCIDENTS]]]
+
+[[[&#xa0;]]]
+
+[[[    ]]]
+
+[[[DATE]]]
+
+[[[              ]]]
+
+[[[ ]]]
+
+[[[ ]]]
+
+[[[TYPE]]]
+
+[[[              ]]]
+
+[[[  ]]]
+
+[[[REG’]]]
+
+[[[N]]]
+
+[[[              ]]]
+
+[[[           CAUSE        ]]]
+
+[[[FATALITIES]]]
+
+[[[&#xa0;]]]
+
+[[[1.  ]]]
+
+[[[21 04 76]]]
+
+[[[              ]]]
+
+[[[   ]]]
+
+[[[S58T]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[G-BCRU]]]
+
+[[[              ]]]
+
+[[[        ]]]
+
+[[[L]]]
+
+[[[ost control]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[ ]]]
+
+[[[1]]]
+
+[[[&#xa0;]]]
+
+[[[2.  12 03 81]]]
+
+[[[              ]]]
+
+[[[   ]]]
+
+[[[S76]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[XXXXX]]]
+
+[[[              ]]]
+
+[[[        ]]]
+
+[[[Rotor failure]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[ ]]]
+
+[[[4]]]
+
+[[[&#xa0;]]]
+
+[[[3   ]]]
+
+[[[12 08 81]]]
+
+[[[              ]]]
+
+[[[   ]]]
+
+[[[B212]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[G-BIJF]]]
+
+[[[              ]]]
+
+[[[        ]]]
+
+[[[Lost control]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[ ]]]
+
+[[[1]]]
+
+[[[&#xa0;]]]
+
+[[[4.  ]]]
+
+[[[13 08 81]]]
+
+[[[              ]]]
+
+[[[ ]]]
+
+[[[WESSEX]]]
+
+[[[              ]]]
+
+[[[G-ASWI]]]
+
+[[[              ]]]
+
+[[[        ]]]
+
+[[[Lost control]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[13]]]
+
+[[[&#xa0;]]]
+
+[[[5.  ]]]
+
+[[[14 09 82]]]
+
+[[[              ]]]
+
+[[[   B212]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[G-BDIL]]]
+
+[[[              ]]]
+
+[[[        ]]]
+
+[[[ ]]]
+
+[[[Night flew into sea]]]
+
+[[[              ]]]
+
+[[[  ]]]
+
+[[[6]]]
+
+[[[&#xa0;]]]
+
+[[[6.  ]]]
+
+[[[10 10 82]]]
+
+[[[              ]]]
+
+[[[   PUMA]]]
+
+[[[              ]]]
+
+[[[XXXXX]]]
+
+[[[              ]]]
+
+[[[         ]]]
+
+[[[Heavy landing]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[  ]]]
+
+[[[2]]]
+
+[[[&#xa0;]]]
+
+[[[7.  ]]]
+
+[[[20 11 84]]]
+
+[[[              ]]]
+
+[[[   B212]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[G-BJJR]]]
+
+[[[              ]]]
+
+[[[         ]]]
+
+[[[Rotor failure]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[  ]]]
+
+[[[6]]]
+
+[[[&#xa0;]]]
+
+[[[8.  06 11 86]]]
+
+[[[              ]]]
+
+[[[   BV 234]]]
+
+[[[              ]]]
+
+[[[G-BWFC]]]
+
+[[[              ]]]
+
+[[[         ]]]
+
+[[[ ]]]
+
+[[[Gearbox failure]]]
+
+[[[              ]]]
+
+[[[45]]]
+
+[[[&#xa0;]]]
+
+[[[9.  ]]]
+
+[[[22.05 89]]]
+
+[[[              ]]]
+
+[[[   AS]]]
+
+[[[332]]]
+
+[[[              ]]]
+
+[[[XXXXX]]]
+
+[[[              ]]]
+
+[[[         ]]]
+
+[[[ ]]]
+
+[[[Crashed due weather]]]
+
+[[[ ]]]
+
+[[[              ]]]
+
+[[[  ]]]
+
+[[[3]]]
+
+[[[&#xa0;]]]
+
+[[[10. 25 07 90]]]
+
+[[[              ]]]
+
+[[[    S61N]]]
+
+[[[              ]]]
+
+[[[G-BEWL]]]
+
+[[[              ]]]
+
+[[[          Tail rotor v rig]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[  ]]]
+
+[[[6]]]
+
+[[[&#xa0;]]]
+
+[[[11. 10 08 91]]]
+
+[[[              ]]]
+
+[[[    B212]]]
+
+[[[              ]]]
+
+[[[XXXXX]]]
+
+[[[              ]]]
+
+[[[          Hit rig in hover]]]
+
+[[[              ]]]
+
+[[[  3]]]
+
+[[[&#xa0;]]]
+
+[[[12]]]
+
+[[[. 14 03 92]]]
+
+[[[              ]]]
+
+[[[    AS332]]]
+
+[[[              ]]]
+
+[[[G-TIGH]]]
+
+[[[              ]]]
+
+[[[           Night – lost control]]]
+
+[[[              ]]]
+
+[[[ ]]]
+
+[[[11]]]
+
+[[[&#xa0;]]]
+
+[[[13]]]
+
+[[[. ]]]
+
+[[[16 07 02]]]
+
+[[[              ]]]
+
+[[[     S76]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[XXXXX]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[Rotor blade failure]]]
+
+[[[              ]]]
+
+[[[ ]]]
+
+[[[11]]]
+
+[[[&#xa0;]]]
+
+[[[14]]]
+
+[[[. 27 12 06]]]
+
+[[[              ]]]
+
+[[[     AS365]]]
+
+[[[              ]]]
+
+[[[XXXXX]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[Undercarriage]]]
+
+[[[              ]]]
+
+[[[ ]]]
+
+[[[  ]]]
+
+[[[7]]]
+
+[[[&#xa0;]]]
+
+[[[15]]]
+
+[[[. 01 04 09]]]
+
+[[[              ]]]
+
+[[[     AS332L2]]]
+
+[[[              ]]]
+
+[[[G-REDU]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[Gearbox failure]]]
+
+[[[              ]]]
+
+[[[ 16]]]
+
+[[[&#xa0;]]]
+
+[[[16]]]
+
+[[[. 23 08 13]]]
+
+[[[              ]]]
+
+[[[     AS332L2]]]
+
+[[[              ]]]
+
+[[[G-WNSB]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[Hit sea on ]]]
+
+[[[approach]]]
+
+[[[              ]]]
+
+[[[  ]]]
+
+[[[ ]]]
+
+[[[4]]]
+
+[[[              ]]]
+
+[[[&#xa0;]]]
+
+[[[Period assessed – 1965 to 2013 ]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[= 48 years]]]
+
+[[[Total number of ]]]
+
+[[[UK]]]
+
+[[[ Offshore Fatal Accidents ]]]
+
+[[[              ]]]
+
+[[[= 16]]]
+
+[[[Total number of Fatalities]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[              ]]]
+
+[[[= 139]]]&#xa0;&#xa0;&#xa0;December 20135&#xa0;

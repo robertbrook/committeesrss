@@ -1,70 +1,70 @@
 &#xa0;
-[normal]Written evidence submitted by [bold]OEx[bold] Ltd (HOT0069)[bold]&#xa0;[bold]Standard Assessment Procedure[bold]&#xa0;
-[normal]Using SAP is rather like driving a Model T Ford to work every day. Some improvements have been made along the way to parts of it, but the underlying structure is old, outmoded technology.
-[normal]&#xa0;
-[normal]The original endeavour with SAP, in
-[normal] 1993, was to produce a simple compliance calculation, that could be completed by ‘the average builder’ ; filling in boxes and performing simple arithmetical calculations on paper.
-[normal]&#xa0;
-[normal]Although SAP has evolved further, and shifted onto the computer, it still 
-[normal]uses the same very basic physical model to produce an approximate, standardised annual building energy cost.
-[normal]&#xa0;
-[normal]20 years on, the world has changed. Widespread internet access means that ‘the average builder’ is able to easily access sophisticated computer sy
-[normal]stems and software. The current SAP could easily be replaced with a far more sophisticated and accurate building energy calculation methodology.
-[normal]&#xa0;
-[normal]SAP was not meant to be used as a design tool, only as a simple compliance tool, so one might argue that SAP’s
-[normal] inaccuracy is less important. But in practice the need to ultimately comply using SAP means that building design decisions are commonly made on the basis of a SAP calculation i.e. on the basis of inaccurate and possibly misleading information. It is this 
-[normal]issue which led us, as designers and researchers of low carbon buildings, to abandon the use of SAP entirely, nearly 10 years ago.
-[normal]&#xa0;
-[normal]The obvious implication of using an inaccurate calculation methodology to design new buildings or improve existing buildings
-[normal], is that buildings don’t perform as expected. The negative perception that results from false expectations undermines positive steps to improve the energy performance of buildings.
-[normal]&#xa0;
-[normal]Our own comparison of the world’s calculation methodologies identified th
-[normal]e German standard DIN18599 as the best balance of accuracy of output for simplicity of input. We adopted and developed this methodology. The kernel or calculation engine behind the Standard is very precisely engineered and robust (in the German fashion), a
-[normal]nd this is why it works so well for a wide range of building types, and for improvements to old inefficient buildings as well as for new zero carbon buildings. We recognised that the underlying sophistication of the methodology was an essential building bl
-[normal]ock to allow a flexible (more British!) approach to cost effective emissions reductions. The effect of any proposed measure can be modelled in advance to a high degree of accuracy. We added the ability to use weather data from any UK weather station, or an
-[normal]y global weather station for that matter. The kernel can be linked to local databases of construction components and templates for local building types. The Standard, and the algorithm behind it, were developed by the Fraunhofer Institute in Germany. The F
-[normal]raunhofer used their work on the DIN18599 Standard to develop the EU’s own calculation tool under EN 15603 for the EPBD Recast, to compare Member State’s calculation methodologies, and thus DIN18599 became the first methodology to comply with EN15603 for b
-[normal]oth new and existing buildings, and for all building types.
-[normal]&#xa0;
-[normal]Our OEx methodology is a full simulation, and it allows assessment of all types of energy flows for the intended heating, cooling, domestic hot water, ventilation, lighting and appliances of buil
-[normal]dings. The calculation is crucially taking into account the effects of the 
-[normal]interaction
-[normal] of energy flows between the elements of building structure and building systems.
-[normal]&#xa0;
-[normal]We
-[normal] have attached the specification separately, but to broadly outline the main differenc
-[normal]es between SAP and OEx(18599):
-[normal]&#xa0;
-[normal]Solar input to renewable energy technologies are notional averages for generic technologies.
-[normal]Lighting use is a simplified calculation with an allowance for avera
-[normal]ge daylight.
-[normal]SAP is a series of unconnected, simplified calculations for each aspect of energy use, which are then totalled.
-[normal][The OEx methodology was used to model improvements to All Souls College, Oxford. One result of the study was that changing the anc
-[normal]ient lighting system to a new energy efficient system would 
-[normal]increase
-[normal] the energy demand of the building. This result came about because the resistance heating effect of the incandescent lighting was more efficient than the antiquated heating system. Of cour
-[normal]se it points to the replacement of both the heating and lighting systems, but it illustrates the importance of an holistic calculation methodology, such as DIN18599. SAP would give the opposite result – a reduction in energy demand with low energy lighting
-[normal]].
-[normal]&#xa0;
-[normal]This last point about greenhouse gasses illustrates the essential need for accuracy in calculation metho
-[normal]dology. Increasing greenhouse gas emissions when you think you are reducing them cannot 
-[normal]be a desirable course. And this is one of the significant reasons why we abandoned SAP as a methodology.
-[normal]&#xa0;
-[normal]We
-[normal] have talked a little about our experiences, and our endeavou
-[normal]rs to produce cost effective emissions reductions from buildings, but we are
-[normal] making the general point that a much more reliable methodology than SAP is readily available in our current state of technological evolution, particularly with respect to advances i
-[normal]n computing.
-[normal]&#xa0;
-[normal]There is no need to rely on a ‘series of simple equations’ when a computer system will, behind the scenes, calculate the holistic performance of a complex building system and its users, on an hourly basis, through a typical year.
-[normal]&#xa0;
-[normal]The inputs 
-[normal]required through the user interface of a new methodology could be made be less complex and less time consuming than those currently required by SAP. And the technology readily exists to predetermine how input parameters could be limited to meet regulatory 
-[normal]requirements. Sound guidance for reducing emissions could be provided to users
-[normal]&#xa0;
-[normal]It is easily feasible to have a regulatory compliance tool which is also a reliable design tool. And this is what we all need to meet 2050 targets.
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]January 2014
-[normal]&#xa0;
-[normal]
+defaultWritten evidence submitted by defaultOExdefault Ltd (HOT0069)default&#xa0;defaultStandard Assessment Proceduredefault&#xa0;
+defaultUsing SAP is rather like driving a Model T Ford to work every day. Some improvements have been made along the way to parts of it, but the underlying structure is old, outmoded technology.
+default&#xa0;
+defaultThe original endeavour with SAP, in
+default 1993, was to produce a simple compliance calculation, that could be completed by ‘the average builder’ ; filling in boxes and performing simple arithmetical calculations on paper.
+default&#xa0;
+defaultAlthough SAP has evolved further, and shifted onto the computer, it still 
+defaultuses the same very basic physical model to produce an approximate, standardised annual building energy cost.
+default&#xa0;
+default20 years on, the world has changed. Widespread internet access means that ‘the average builder’ is able to easily access sophisticated computer sy
+defaultstems and software. The current SAP could easily be replaced with a far more sophisticated and accurate building energy calculation methodology.
+default&#xa0;
+defaultSAP was not meant to be used as a design tool, only as a simple compliance tool, so one might argue that SAP’s
+default inaccuracy is less important. But in practice the need to ultimately comply using SAP means that building design decisions are commonly made on the basis of a SAP calculation i.e. on the basis of inaccurate and possibly misleading information. It is this 
+defaultissue which led us, as designers and researchers of low carbon buildings, to abandon the use of SAP entirely, nearly 10 years ago.
+default&#xa0;
+defaultThe obvious implication of using an inaccurate calculation methodology to design new buildings or improve existing buildings
+default, is that buildings don’t perform as expected. The negative perception that results from false expectations undermines positive steps to improve the energy performance of buildings.
+default&#xa0;
+defaultOur own comparison of the world’s calculation methodologies identified th
+defaulte German standard DIN18599 as the best balance of accuracy of output for simplicity of input. We adopted and developed this methodology. The kernel or calculation engine behind the Standard is very precisely engineered and robust (in the German fashion), a
+defaultnd this is why it works so well for a wide range of building types, and for improvements to old inefficient buildings as well as for new zero carbon buildings. We recognised that the underlying sophistication of the methodology was an essential building bl
+defaultock to allow a flexible (more British!) approach to cost effective emissions reductions. The effect of any proposed measure can be modelled in advance to a high degree of accuracy. We added the ability to use weather data from any UK weather station, or an
+defaulty global weather station for that matter. The kernel can be linked to local databases of construction components and templates for local building types. The Standard, and the algorithm behind it, were developed by the Fraunhofer Institute in Germany. The F
+defaultraunhofer used their work on the DIN18599 Standard to develop the EU’s own calculation tool under EN 15603 for the EPBD Recast, to compare Member State’s calculation methodologies, and thus DIN18599 became the first methodology to comply with EN15603 for b
+defaultoth new and existing buildings, and for all building types.
+default&#xa0;
+defaultOur OEx methodology is a full simulation, and it allows assessment of all types of energy flows for the intended heating, cooling, domestic hot water, ventilation, lighting and appliances of buil
+defaultdings. The calculation is crucially taking into account the effects of the 
+defaultinteraction
+default of energy flows between the elements of building structure and building systems.
+default&#xa0;
+defaultWe
+default have attached the specification separately, but to broadly outline the main differenc
+defaultes between SAP and OEx(18599):
+default&#xa0;
+defaultSolar input to renewable energy technologies are notional averages for generic technologies.
+defaultLighting use is a simplified calculation with an allowance for avera
+defaultge daylight.
+defaultSAP is a series of unconnected, simplified calculations for each aspect of energy use, which are then totalled.
+default[The OEx methodology was used to model improvements to All Souls College, Oxford. One result of the study was that changing the anc
+defaultient lighting system to a new energy efficient system would 
+defaultincrease
+default the energy demand of the building. This result came about because the resistance heating effect of the incandescent lighting was more efficient than the antiquated heating system. Of cour
+defaultse it points to the replacement of both the heating and lighting systems, but it illustrates the importance of an holistic calculation methodology, such as DIN18599. SAP would give the opposite result – a reduction in energy demand with low energy lighting
+default].
+default&#xa0;
+defaultThis last point about greenhouse gasses illustrates the essential need for accuracy in calculation metho
+defaultdology. Increasing greenhouse gas emissions when you think you are reducing them cannot 
+defaultbe a desirable course. And this is one of the significant reasons why we abandoned SAP as a methodology.
+default&#xa0;
+defaultWe
+default have talked a little about our experiences, and our endeavou
+defaultrs to produce cost effective emissions reductions from buildings, but we are
+default making the general point that a much more reliable methodology than SAP is readily available in our current state of technological evolution, particularly with respect to advances i
+defaultn computing.
+default&#xa0;
+defaultThere is no need to rely on a ‘series of simple equations’ when a computer system will, behind the scenes, calculate the holistic performance of a complex building system and its users, on an hourly basis, through a typical year.
+default&#xa0;
+defaultThe inputs 
+defaultrequired through the user interface of a new methodology could be made be less complex and less time consuming than those currently required by SAP. And the technology readily exists to predetermine how input parameters could be limited to meet regulatory 
+defaultrequirements. Sound guidance for reducing emissions could be provided to users
+default&#xa0;
+defaultIt is easily feasible to have a regulatory compliance tool which is also a reliable design tool. And this is what we all need to meet 2050 targets.
+default&#xa0;
+default&#xa0;
+defaultJanuary 2014
+default&#xa0;
+default

@@ -1,0 +1,27 @@
+&#xa0;
+
+[[[Written evidence submitted by Ethos Capital Ltd [OLS0092]]]]&#xa0;&#xa0;
+
+[[[Subject:]]]
+
+[[[              ]]]The Post Office could be at the Forefront of Internet Safety&#xa0;
+
+[[[Summary]]]
+
+[[[&#xa0;]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[Details]]]&#xa0;&#xa0;(1) How best to protect minors from accessing adult content;&#xa0;(2) Filtering out extremist material, including images of child abuse and material intended to promote terrorism or other acts of violence;&#xa0;(3) Preventing abusive or threatening comments on social media.&#xa0;&#xa0;In addition, this Service would make it more difficult for sex offenders to pose as teenagers on social networks to deceive their targets.Furthermore, this Service would facilitate the realisation of the Parliament 2.0 vision that was announced recently by the Speaker, Mr John Bercow, and which involved E-Voting.   This is because E-Voting requires establishing proper links between ‘online identities’ and ‘real-world identities’.&#xa0;&#xa0;&#xa0;(1) Minors can easily access adult content&#xa0;(2)&#xa0;&#xa0;&#xa0; Sex offenders pose as teenagers on social networks to deceive their targets&#xa0;(3)&#xa0;&#xa0;&#xa0; Abusive and threatening comments by anonymous users on social media
+
+[[[&#xa0;]]]
+
+[[[5. ]]]
+
+[[[              ]]]
+
+[[[Solution]]]&#xa0;The simplest and most robust solution to the above problems is to find a way to reliably and systematically verify the age of Users when visiting certain websites and, at the same time, to protect their privacy.&#xa0;This can be easily done using a unique code that is issued based on a face-to-face and ID verification and then used regularly by Users when visiting certain websites.&#xa0;We are suggesting utilising the Post Office’s vast network of branches across the UK to verify the age of Users so Users can generate these unique codes automatically.&#xa0;
+
+[[[6. ]]]
+
+[[[              ]]]
+
+[[[Implementation]]]&#xa0;We have developed a website that enables each authorised Post Office employee to verify the age of any User who presents a valid ID in person.  This verification enables the User to generate a unique Code online.&#xa0;If the User would like to visit a third-party website that requires age verification, they can enter this generated Code on that website. This Code will then be authenticated by our servers without revealing the name or details of the User as we don’t hold this information.&#xa0;Therefore, third-party websites will be able to grant access to real Users with the appropriate age, at the same time that the privacy of these Users will be protected.  Furthermore, for additional safety, Users (or their parents) will receive an email or an SMS notification each time the Code is used.&#xa0;The Post Office can charge a fee for verifying the accounts of Users in a similar manner to how it processes passport applications.&#xa0;&#xa0;&#xa0;December 20132&#xa0;

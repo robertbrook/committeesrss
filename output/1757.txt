@@ -1,0 +1,91 @@
+&#xa0;
+
+[[[Written evidence submitted by ]]]
+
+[[[Jon ]]]
+
+[[[Gibbins]]]
+
+[[[ and Hannah Chalmers]]]
+
+[[[ (CCS38)]]]&#xa0;
+
+[[[Summary]]]The authors have worked on CCS issues for approximately 10 years, with particular attention to possible routes and drivers for CCS deployment.  This evidence mainly addresses questions related to the potential benefits to the UK economy of successfully developing CCS, how the successful development of CCS might improve international efforts to mitigate climate change, the role that UK CCS in particular could play in this and some of the possible consequences for failure.  The strong two-way linkage between CCS deployment and effective global action on climate change mitigation are emphasised, also the likelihood of lower fossil fuel prices in a carbon-constrained future world.  Current UK CCS developments are placed, as far as possible, in the wider context of international efforts to initiate the first tranche of large-scale integrated CCS projects.&#xa0;&#xa0;1.  The only satisfactory result for the UK's climate policy can be that the currently rising concentrations of greenhouse gases in the atmosphere are stabilised at levels that do not cause dangerous climate change.  Hence, what we do in the UK is intimately linked with getting the ‘right’ outcome internationally since getting this result is not something we can do by ourselves.2.  Expenditure to support a timely carbon capture and storage (CCS) deployment programme is more likely to contribute to this result than the equivalent amount of expenditure applied to the deployment of existing low-carbon power generation technologies such as wind or nuclear, given the level of activity already underway in these other sectors.  In particular, China and other key players for achieving the necessary global action are unlikely to be impressed if the UK builds a few extra wind farms or nuclear power plants.  They are likely to be impressed if the UK takes a lead in deploying this novel approach to mitigating the risk of dangerous climate change.3.  The converse would also be likely.  The UK has promoted CCS at the 2005 G8 Gleneagles Summit and subsequently as a critically important technology for developing countries that rely on fossil fuels.  But the UK itself, despite having (typically several) specific projects under development ever since then, has not yet committed to any significant investment.4.  CCS is a very effective way to stop fossil CO2 entering the atmosphere.  It can, therefore, be expected to achieve rapid global emission reductions (see Figure 1) but its deployment requires that money is spent solely for this purpose.  Demonstrating that the UK is prepared to make this expenditure is itself probably at least as valuable in the global climate change mitigation process as the technical aspects of demonstrating some CCS technologies at full scale. &#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[Figure 1  Being able to deploy large amounts of CCS makes the difference between rising global emissions in the IEA 'New Policies Scenario' and falling emissions in the '450' scenario ]]]
+
+[[[(IEA, World Energy Outlook 2012]]]
+
+[[[)]]]&#xa0;5. At a global level it is expected that decarbonisation of the power sector will be more costly if CCS is not readily available for deployment (e.g. an estimated 40% extra capital investment - IEA, CCS Technology Roadmap, 2013).  Decarbonisation of energy intensive industries such as steel and cement manufacture appears infeasible without CCS.6.  Costs for low carbon energy vectors (e.g. electricity, heat, hydrogen) generated from fossil fuels with CCS are strongly dependent on fuel costs.  It is often assumed that fuel scarcity will lead to increasing fossil fuel prices, making renewable and nuclear energy relatively more competitive.  It is apparent, however, that 'space' in the atmosphere for unabated emissions is in even shorter supply - otherwise there would not be a climate problem.  The IEA has estimated that global fossil fuel reserves are approximately three times larger than the amount that can be used unabated by 2050 if stringent emission targets are being met.  There is therefore strong evidence to suggest that if CCS is being deployed globally, because strong emission caps are in place, then fossil fuel prices will be low enough to make CCS at least competitive with alternative low-carbon energy sources.  For example, IEA estimates for relative future fossil fuel price trends under current policies and in a ‘450 scenario’ with substantial measures to mitigate the risk of dangerous climate change implemented are shown in Figure 2.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[Figure 2 T]]]
+
+[[[hree]]]
+
+[[[ times the amount ]]]
+
+[[[of fossil fuel reserves compared to allowable emissions see]]]
+
+[[[s]]]
+
+[[[ downward pressure on prices in ]]]
+
+[[[the ]]]
+
+[[[IEA '450' Scenario]]]
+
+[[[ compared to increasing prices if current policies were continued]]]
+
+[[[ (IEA, World Energy Outlook 2012)]]]7.  In the longer term, if CO2 concentrations in the atmosphere are not to rise, then net fossil fuel-generated emissions must fall close to zero.  Given the high value of unabated fossil fuel use for some transport applications and residual emissions from key activities such as food production then technologies to give net negative emissions to offset these could be very beneficial.  One such application is the use of biomass for power generation with CCS.  Another is direct capture of CO2 from the air for secure storage.  While the latter might seem expensive at a possible cost of the order of several hundred pounds per tonne of CO2 captured it is worth considering that carbon price of $200/tonne CO2 would only add approximately $90 to the cost of a barrel of oil.  Also that a low-carbon technology that receives a subsidy of around £65/MWh (i.e. approx. $100/MWh) to displace natural gas generation with specific emissions of 0.5tCO2/MWh is already incurring an abatement cost of around $200/tCO2.8.  The ability to achieve net negative global emissions would also theoretically be desirable if it became apparent that acceptable greenhouse gas levels in the atmosphere had been exceeded.  But atmospheric (and ocean) CO2 accumulations are unlikely to be reduced fast enough by these means to reverse a rapid warming trend.  Costly negative emissions technology to reverse many years of unabated emissions would also impose a severe financial burden on future generations.&#xa0;9.  Assuming that a credible global approach to greenhouse gas emission reduction can be established, the UK is expected to need to achieve rapid reductions in its own emissions to very low long term values (e.g. 80% reduction by 2050 and even lower after that based on analysis by the Committee on Climate Change).  This is likely to involve relatively rapid rollout of CCS in power generation and industry, based around clusters of CO2 sources linked to a common CO2 transport and storage infrastructure.  In this context, accelerating the development of CCS promises massive benefits – both in terms of savings on UK energy spend (up to £30bn a year by 2050 has been estimated in Energy Technologies Institute studies) and in terms of environmental benefits because it is critical to achieving high levels of emissions reduction in the power and heat generation sectors and in energy-intensive manufacturing and process industries.  CCS offers a unique economic benefit by both creating new low-carbon jobs (based in part on existing UK offshore engineering strengths) and protecting tens of thousands of jobs and in (currently) high carbon industries.  10.  In our previous work we have discussed the importance of completing two stages of full scale CCS deployment prior to wide scale rollout.  It can be expected that 'first of a kind' CCS projects in the UK and elsewhere will require some degree of defensive engineering in various elements of the CCS chain in order to accommodate regulatory uncertainty as well as technical novelty.  A second tranche of projects, designed against more normal commercial conditions and with the benefit of experience from previous design exercises and possibly operation, will therefore correspond more closely to 'reference plants', designs on which to base subsequent building in multiple numbers.11.  The key to ensuring that 2nd generation reference CCS projects can be undertaken in the UK prior to a possible need for rollout in the 2020s is an early start on the first-of-a-kind projects.  This also has to be backed up by early transparency on how EMR will support further CCS projects and other measures to ensure continuity of effort in a nascent CCS industry.  Early action will also give more confidence for cluster development. Additionally, it is important to provide sources of CO2 to allow verification of offshore storage capacity and may possibly also encourage enhanced oil recovery developments.  However urgent the subsequent need for CCS deployment to curb UK emissions, it will still take a number of years to develop an understanding of CCS deployment under UK-specific conditions.  Failure to develop CCS in a timely manner now could lead to the need for the UK (and other countries) to use sub-optimal approaches later through lack of the necessary experience, capacity and infrastructure.12.  Timely development for CCS technologies of particular importance for the UK is likely to be heavily reliant on UK efforts.  The Global CCS Institute's listing of Large-scale Integrated CCS Projects shows no large scale integrated CCS projects involving power generation are operating and only two are active (under construction, in North America) out of a total of 17 active projects. This compares to 8 active projects storing CO2 that has to be separated anyway from natural gas production at CO2-rich fields (plus other projects using a range of other easily-accessed high-purity CO2 sources) - see Figure 3.  More power CCS projects are planned, but many of these projects are not expected to progress to construction.  Recent experience and public domain information currently available on funding (and/or lack of funding) in Europe, where just a single power project (White Rose) applied for the second round of NER300 funding, suggests that only 3 projects (outlined in red in Figure 4) are close to becoming active until further funds become available under UK EMR arrangements.  It therefore appears likely that the proposed UK power CCS projects would make a significant contribution to the global development of CCS in this key sector. Clearly this also suggests that the UK probably cannot rely on others to develop power sector technologies (particularly for capture from natural gas-fired power plants).  Offshore CO2 storage (although not a category used in GCCSI lists) is another area that is central to future UK CCS needs but that is also not expected to be developed widely elsewhere in the near future.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[&#xa0;]]]
+
+[[[Figure 3 Global CCS Institute's ]]]
+
+[[[maps]]]
+
+[[[ of Active Large-scale Integrated CCS Projects, showing the limited number of committed power sector projects and the preponderance of projects using CO]]]
+
+[[[2]]]
+
+[[[ from natural gas processing]]]
+
+[[[ ]]](from http://www.globalccsinstitute.com/projects/browse)
+
+[[[.]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[Figure ]]]
+
+[[[4]]]
+
+[[[ Global CCS Institute's ]]]
+
+[[[maps]]]
+
+[[[ of Planned Large-scale Integrated CCS Projects involving capture from power plants, with ]]]
+
+[[[labels ]]]
+
+[[[a]]]
+
+[[[dded]]]
+
+[[[ ]]]
+
+[[[by the authors for a ]]]
+
+[[[subset ]]]
+
+[[[in t]]]
+
+[[[he North Sea Basin identifying three projects that, based on public domain funding announcements, appear to be most close to achieving Active status]]]
+
+[[[ ]]](from http://www.globalccsinstitute.com/projects/browse)
+
+[[[.]]]
+
+[[[.]]]September 2013&#xa0; http://www.worldenergyoutlook.org/publications/weo-2012/ http://www.iea.org/publications/freepublications/publication/name,39359,en.html http://eti.co.uk/downloads/literature/ETI_CCS_Insights_Report.pdf http://www.geos.ed.ac.uk/ccs/Publications/UKCCS/Gibbins08.pdf http://www.globalccsinstitute.com/projects/browse

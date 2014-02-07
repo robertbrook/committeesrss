@@ -1,0 +1,647 @@
+&#xa0;Treasury CommitteeOral evidence: Office for Budget Responsibility July 2013 Fiscal Sustainability Report, HC 958Tuesday 14 January 2014Ordered by the House of Commons to be published on January 2014Watch the meetingMembers present: Mr Andrew Tyrie (Chair), Mark Garnier, Stewart Hosie, Andrea Leadsom, Mr Pat McFadden, Jesse Norman, Teresa Pearce, Mr David Ruffley, John Thurso&#xa0;Questions [1-92]Witness[es]: 
+
+[[[Robert Chote]]], Chairman, Professor Stephen Nickell CBE, and Graham Parker CBE, Members, Budget Responsibility Committee, Office for Budget Responsibility gave evidence.  
+
+[[[Q1 ]]]&#xa0; Good morning. I am going to give you a chance to sit down, Mr Nickell, and in your case, Robert, pour a glass of water. May I begin by asking you, Mr Chote, do you think you need to produce this annually?
+
+[[[Robert Chote]]]: We do need to produce it as we are required by—
+
+[[[Chair:]]] As there is a statutory responsibility.
+
+[[[Robert Chote]]]: There is a statutory responsibility, so in that sense we do. I think it covers a lot of very important and interesting issues in terms of fiscal sustainability and the impact that different policies have on that. As you say, there is a question about what the optimal frequency is. It is not necessarily clear, given the way in which these 50-year trends change.&#xa0;
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Chair:]]] All right. What is your answer?
+
+[[[Robert Chote]]]: For example, we only get new population projections every two years, so there would be a logic, for example, in a two-year time—&#xa0;
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Chair:]]] What about once a Parliament?
+
+[[[Robert Chote]]]: That would be the New Zealand approach, and you can certainly do that. &#xa0;
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Chair:]]] I am asking you what you think. You have just done this thing; you have to do it every year. I am asking you for a view.
+
+[[[Robert Chote]]]: I would have thought that the two-year frequency of the population projections would be probably the one I would jump on. To do it less frequently than that, you would have policy changes during the course of the Parliament that I think you and other people would probably have questions about what impact that has for sustainability that you probably want answered more frequently than once every five years.&#xa0;
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Chair:]]] What is the OBR’s budget?
+
+[[[Robert Chote]]]: About £1.7 million.&#xa0;
+
+[[[Q6 ]]]&#xa0; 
+
+[[[Chair:]]] What proportion of that is spent on this? A tough question, I agree.
+
+[[[Robert Chote]]]: We have four main publications that we produce during the course of the year, of which this is one, and then other activity outside that, so—&#xa0;
+
+[[[Q7 ]]]&#xa0; 
+
+[[[Chair:]]] 20%, 25%? Something like that?
+
+[[[Robert Chote]]]: Less than that.&#xa0;
+
+[[[Q8 ]]]&#xa0; 
+
+[[[Chair:]]] Less than that. 10%? 15%?
+
+[[[Graham Parker]]]: The problem is it is a different time of year. We still, the people—&#xa0;
+
+[[[Q9 ]]]&#xa0; 
+
+[[[Chair:]]] It is something for the troops to do, you mean?
+
+[[[Graham Parker]]]: Yes, as in—
+
+[[[Chair: ]]]It is a stocking-filler.
+
+[[[Robert Chote]]]: Well, it is more the other way. We have timed it so that it does not coincide with when the troops are doing lots of other things. &#xa0;
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Chair:]]] I did not realise it was a stocking-filler. So the marginal cost might be quite low, but perhaps you could come back with an average cost and a marginal cost for us in writing. Do you think that 50-year projections really tell us very much, and is not 25 years more useful?
+
+[[[Robert Chote]]]: No, I think 50 years is a good—it is a fairly typical horizon for reports of this sort produced by other bodies in other countries. If you are looking at things like, for example, the rolling out of the student loans policy, pension age changes and so on, then to do that over a couple of generations will pick up quite a lot of those sorts of changes. Bringing the horizon down much more short—we should not be pretending that these are extended forecasts. They are projections.&#xa0;
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Chair:]]] Twenty-five years is not a short horizon.
+
+[[[Robert Chote]]]: It is not short, but if you are making decisions on pension ages then that is often taking place over a horizon longer than that, and it is probably worth looking at it over that horizon.&#xa0;
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Chair:]]] Can we take a look at another issue? A key part of all this is the sensitivity of any of this work to various assumptions. For example, if I turn to page 81 of your report, you have a very interesting little section on health. You pointed out that if health productivity growth was 1% a year, rather than 2.2%, then we would find a dramatic shift in the central projection of GDP.
+
+[[[Robert Chote]]]: If future Governments wished to spend what was necessary to see the output of the healthcare sector rise in line with the rest of the economy, yes, that is right.&#xa0;
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Chair:]]] Yes, and I think I am right in saying paragraph 3.47 says that this is all explored in greater detail in an earlier report, last year’s report, and I have an extract of that here somewhere. When I started to look at that, I concluded a number of things. First of all, in order to get to your 1% figure, you have amalgamated two sets of data, have you not, which is a somewhat ropey statistical operation, I think you would agree, is it not?
+
+[[[Robert Chote]]]: Yes. The issue there was to try to find—&#xa0;
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Chair:]]] Statisticians, to put it mildly, raise eyebrows when this is done.
+
+[[[Robert Chote]]]: Yes. You have obviously to deal with the data that you have available to make those adjustments for, so I think we were raising the general point that if you have a lower productivity in this sector and you want output to rise at the rate that it does elsewhere, then that would require more. In order to do an illustration of that, we tried as best we could to look at the back data to see what a realistic assumption would be, but, as we explain there, there are different ways of doing that.&#xa0;
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Chair:]]] If you look at that graph, is not the more interesting conclusion to draw that Government policy has dramatic effects on the productivity number, that there is not some gentle, general trend around a per cent or whatever number you may choose, but that if you look, for example, in the 1990s with the introduction of the internal market, there was a dramatic improvement in productivity, and the graph line steepens sharply, and that after the Wanless report, with the sharp increases in pay, among other things, going into the NHS, there was a collapse in productivity? That is what this graph is showing, is it not?
+
+[[[Robert Chote]]]: Yes. There is certainly a cyclical pattern, so in terms of the resources going in—&#xa0;
+
+[[[Q16 ]]]&#xa0; 
+
+[[[Chair:]]] This is not a cyclical pattern. This is about—
+
+[[[Robert Chote]]]: What I mean is, it is related to the—
+
+[[[Chair:]]] There is no cyclical pattern in this line at all.
+
+[[[Robert Chote]]]: It is related to the spending changes. There would be changes in productivity that arise from broader reforms, and there would be changes in productivity that arise from the fact that sometimes you have a lot of money going into the sector and sometimes you have very little, and it is not surprising that productivity responds in a relatively straightforward—&#xa0;
+
+[[[Q17 ]]]&#xa0; 
+
+[[[Chair:]]] But that has nothing to do with cycles. I do not know why you came out with it. Would you like to withdraw this idea that there is a cyclical pattern?
+
+[[[Robert Chote]]]: Well, I am making the point that this relates to whether you have—you have cycles in terms of the amount of money that is going into these sectors and coming out of it, and it is related to that. 
+
+[[[Chair:]]] Political cycles.
+
+[[[Robert Chote]]]: It is not related to the economic cycle.
+
+[[[Chair:]]] All right. We will go with that. &#xa0;
+
+[[[Q18 ]]]&#xa0; 
+
+[[[Stewart Hosie:]]] Robert, you said in the report that the results contained should be interpreted as, “Broad-brush illustrations and not detailed forecasts”. How useful is this report, then, for the long-term development of fiscal policy, when the results published are merely broad illustrations?
+
+[[[Robert Chote]]]: I think they are still useful. In part, I think it is helpful to see how particular individual policy change—you may be uncertain about what the central projection is, but does a particular policy change move you in a more or less favourable direction from that central expectation in terms of a policy decision? If you are making a change in terms of pension policy or student financial support, is that likely to push you in a more or less favourable direction? I think it can also be useful in terms of setting medium-term fiscal plans into a broader context. You might take a different view of a medium-term fiscal consolidation programme if you thought that, in the longer term, you were likely to have to continue to go in the same direction for other reasons not related to filling a particular hole in the public finances or that things were going back in another direction. The Government, presumably, looks at the current fiscal consolidation in the context of there being broader, longer-term pressures in this sort of area.&#xa0;
+
+[[[Q19 ]]]&#xa0; 
+
+[[[Stewart Hosie:]]] In that sense, then, this might be a useful tool for fine-tuning?
+
+[[[Robert Chote]]]: I would say less for fine-tuning than taking a broad-brush look at the major influences. Do you see the major upward pressures on public expenditure coming in health versus pensions, for example? Those sorts of issues. It also, I think, can help in thinking about how you want to design your fiscal rules. We have had a shock in which public sector debt has moved a long way away from the previous path. It might be quite helpful to look at different ways in which you might expect public sector net debt to evolve over relatively long periods to decide how you want to frame your rules for the medium term, as there might be some longer-term path that you wish to get closer to.&#xa0;
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Stewart Hosie:]]] With the caveat, as the Chairman has said, that if health spending, as an example, changes by a percentage point or so, it can have a significant change on the outcome in terms of debt.
+
+[[[Robert Chote]]]: Absolutely right. The sensitivity on health is an interesting example in comparison to most of the other sensitivities in here, where we are talking about economic phenomena that could turn out differently, productivity growth and so on. The sensitivity on health is, in a sense, a sensitivity around the fact that there are different ways of interpreting what you mean by the continuation of current policy. The approach we take in our central projections is essentially to assume that expenditure on public services is held constant as a share of GDP for people of a particular age. We do not go into greater granularity than that, with the exception of looking at this issue of health, which a number of other reports such as this in other countries have done, but the point is that if you were to go into a situation where you accommodated greater spending on that area because you wanted to adjust for productivity, that in a sense is a policy choice, rather than the fact that productivity growth has turned out differently, which may or may not be arising from policy. The health one is a slightly unusual sensitivity test relative to the others in many ways.&#xa0;
+
+[[[Q21 ]]]&#xa0; 
+
+[[[Stewart Hosie:]]] To what extent do you think Government, and other policy makers, pay attention to this report and others in terms of the development of what they intend to do when they are making public policy decisions?
+
+[[[Robert Chote]]]: I think they do. As always, policy makers know that we will be producing this report and that we will be looking at the potential impact that these things have, so I am sure that when they are considering policy as regards pension age, for example, they would take that into account. If you look at the policy towards student financial support, again, this is a way of demonstrating that if you have an income-contingent loan system, then you are going to see this pushing up public sector net debt, all other things being equal, and then it will start to come down again as the repayments flow in. In those sorts of design issues, this is something that Governments do, and sensibly do, take account of.&#xa0;
+
+[[[Q22 ]]]&#xa0; 
+
+[[[Stewart Hosie:]]] You gave the Chancellor a draft copy of this report to allow him to decide whether he wanted to incorporate other policy changes into your numbers, and he declined to do so. What do you think we should read into that?
+
+[[[Robert Chote]]]: Nothing in particular. As I say, we do that in the same way that we do for the medium-term forecasts. There, obviously, they are focusing on a particular set of targets that they have in the medium term, and it rather crystallises the question of, do you want to adjust policy to hit those particular targets?
+
+[[[Stewart Hosie:]]] Let me just put that question—
+
+[[[Robert Chote]]]: For the one here, you can think obviously there have been subsequent changes which would be reflected in this, so the Prime Minister’s announcement on length of time people should expect to be in retirement—that could have been announced between us giving the draft of this. It has been announced subsequently, so we take it into account in the end.&#xa0;
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Stewart Hosie:]]] Let me ask that question in a slightly different way. If he makes an announcement, say, in the Budget this year, which has a significant long-term impact in terms of the fiscal position, it really renders this a slightly pointless exercise if the Government are not going to tell you when they know, changes that they believe are likely to have a significant long-term impact on the fiscal position, does it not?
+
+[[[Robert Chote]]]: If they tell us of a policy in the Budget, it would be picked up three months later in the next edition of this report, so you would be picking it up—exactly that point.&#xa0;
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Robert, I would like to ask you about the part of this that caught the headlines when it came out, which is migration. You say in the report, “Overall, migration has a positive impact on the sustainability of the public finances over the horizon”. Could you tell us why you reached that conclusion, given the debate over migration?
+
+[[[Robert Chote]]]: Sure. Essentially speaking, this is a familiar finding across most of these reports, and it is related to the relative age distribution of net inward migrants versus the population as a whole. Essentially speaking, inward migrants are more likely to be of working age than the population in general, so, as it were, they leave after some other country has picked up more of the expense of educating them, and in some cases—not all cases—they will then leave the country again before you get to the point at which they are most expensive in terms of pension and healthcare and long-term care provision.&#xa0;
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] So, we get them at their most productive years?
+
+[[[Robert Chote]]]: In terms of the fiscal position, that is what drives the fact that higher net inward migration over this time horizon does tend to produce a more beneficial picture, yes.&#xa0;
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Are they more likely to work or to claim benefits?
+
+[[[Robert Chote]]]: We are making overall assumptions that, effectively, employment rates are not changed here, so the assumption is that the net inward migration population is pretty similar to the native population. Stephen, is there anything you want to say about that?
+
+[[[Professor Nickell]]]: Well, apart from the age. Given age, the assumption is that migrants and natives have the same employment rate.
+
+[[[Robert Chote]]]: But they will have a higher employment rate on average because of the age—&#xa0;
+
+[[[Q27 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Because of the age. You said, “Under our central assumption of 140,000 annual net inward migration”. Where do you get that figure from? Why 140,000?
+
+[[[Robert Chote]]]: We are effectively constrained to use the population projections that, as I mentioned, are produced once every couple of years by the Office for National Statistics. In terms of what they call their principal projection, it is a fairly mechanical extrapolation of the sorts of levels of net inward migration that you have seen in relatively recent years. In the case of this report, we have had a subsequent set of population projections out since then. The principal variant is about 200,000 a year net inward migrants, based on what you have seen in relatively recent years. The ONS then produces two alternative migration scenarios, high and low migration, which is simply mechanistically taking x tens of thousands off and adding x tens of thousands on, so, as you say, the low migrant option is 140,000. There are a couple of others that we cite in here that one could also have used, and that would be zero net migration. They produce one of those, and they produce one that is effectively zero gross migration, so not merely that the inflows match the outflows, but you do not have any inflows or outflows. We basically had a choice to take about whether to go in practice for the 200,000, the 140,000 or the zero.&#xa0;
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] The Government’s policy is not 140,000. The Government’s policy is to get it below 100,000. What would be the impact on our debt position if the Government succeed in that policy?
+
+[[[Robert Chote]]]: The direction will be clear enough because obviously you would have fewer net inward migrants, the fiscal position would be somewhat worse on those grounds for the age-related reasons down here, but there is not, at that stage, when we did this report, an ONS population projection that has a number in the high tens of thousands.&#xa0;
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] But that is the Government’s policy.
+
+[[[Robert Chote]]]: That is the Government’s policy objective, yes. It does not necessarily—&#xa0;
+
+[[[Q30 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] What I am asking is, if the Government achieve their policy objective, what is the impact on the debt projections?
+
+[[[Robert Chote]]]: We do not have a population projection to run that scenario off. What we will look at—&#xa0;
+
+[[[Q31 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] You don’t understand. The Government have been clear that they want to get to below 100,000. You have used a central assumption of 140,000. I am asking—
+
+[[[Robert Chote]]]: Because it is effective—
+
+[[[Mr McFadden:]]] It is a stated thing. I have not made it up. It is the Government’s stated policy. What is the impact if they succeed in their stated policy on the debt projections?
+
+[[[Robert Chote]]]: As I say, we cannot do the calculation of that because we do not have a population projection from the ONS that corresponds to that number. You can see what the number is for 140,000 and you can see what the number is for zero—
+
+[[[Professor Nickell]]]: My guess is that if you took the line halfway between 140,000 and zero, it would not be too far off what you would get, for certainty.
+
+[[[Robert Chote]]]: It is not directly linked, but it is pretty close, yes.&#xa0;
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Yes, but that is not my question. My question is, what is the impact of that on the debt projections which you have—
+
+[[[Professor Nickell]]]: No, no. I am saying if you look at the debt projection graphs and you put a line in halfway between 140,000 and zero, both of which are on that picture, it will not be too far off. 
+
+[[[Robert Chote]]]: We have spoken to the ONS subsequently since this report, and they are now in a position to be able to provide us with bespoke population projections that would allow us to pick a number that is not one of their existing ones, so we might be in a position to—that is one of the things to look at for this year’s report: whether you can tailor something that is at that level. It is important to bear in mind that this is indeed a policy objective, not a policy parameter that is in their direct control, so one needs to make that slight distinction there.
+
+[[[Chair:]]] Very few things are in the direct control of Government in the end. I take the point, and I am making a slightly flip remark. Pat has got into an area that other colleagues also want to raise and has already opened up some of the areas that we want to explore further.&#xa0;
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Andrea Leadsom:]]] Good morning. Yes, Pat McFadden has asked a couple of questions that I was going to ask you, so I am just going to ad lib. The Huffington Post suggested in July 2013 that Britain needs 7 million migrants over the next 50 years in order to keep down national debt levels because of, as you have rightly pointed out, the ageing population and the increased costs that that implies. In your forecasting, you have taken the lower values for migration. Have you done or could you do more sensitivity analysis to reflect the potential impact of different Government policies on those central figures? Obviously, forecasting out to 2062 is, “How long is a piece of string?” You must feel slightly in outer space when you are forecasting out that far, and anything can happen, and a lot depends on issues like migration policy and whether we suddenly create some new virus that means that the ageing population do not age quite so well. Anything can happen. I am not forecasting that, but it is impossible to project that far out. In terms of migration, which does have a material impact potentially on the revenue side if we get young workers in, have you done or can you do more sensitivity analysis on the extent to which the inaccuracy—not to be rude, but inevitable—of your forecasts could mean that you are totally wrong by an order of an enormous amount if the migration numbers are larger than expected?
+
+[[[Robert Chote]]]: Yes. What we have done in addition to the ones that we have mentioned in discussion with Mr McFadden—and we do the projections for the principal variant, the high migration variant, the low migration variant, the zero variant and the effectively zero gross, so you have quite a range there. Unfortunately, none of those is the high tens of thousands, so there is a question, when we do the next one, as now we know from the ONS that they are in a position to produce that if we want to do that, that that is the one we could add. In terms of the options that are here now, you can see quite a degree of the scale of the variation that is implied by those sensitivities, and it does make quite a lot of difference, not surprisingly.
+
+[[[Andrea Leadsom:]]] Yes.
+
+[[[Robert Chote]]]: Could I just come back? You mentioned the quote from the Huffington Post, I think it was, that you need to have x number of inward migrants to deliver sustainability. I do not know whether that was their view or they were attributing that to us. The fact that we have chosen 140,000 does not imply that that is our preferred level of net inward migration. That is not something on which we would have a view at all. Clearly, if you made a choice on migration or you made an assumption on migration that made the fiscal position look better or worse, then you could adjust other policies to compensate for that, so there is no level of net inward migration you have to have for there to be fiscal sustainability. It is one influence on a whole variety of other choices Government has to make.
+
+[[[Professor Nickell]]]: If you look at page 147, you will see the picture that shows how debt moves at different levels of migration. As I said before, in some sense, if you want to get another number—central is 140,000, high is 260,000, zero is zero—you can just imagine how a curve in between might go, and I doubt you would be very far wrong.&#xa0;
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Andrea Leadsom:]]] The point that I think you are confirming is that you would change dramatically the central forecast that you have put out here, depending on what sort of migration policy you have, and of course I am sure—it is not something that we talk about a whole lot—if suddenly our ageing population decided a life in the south of Spain looked very nice to them, equally, if you removed a lot of the state dependency of the ageing population, you would have the same impact. Would that be a fair assumption?
+
+[[[Robert Chote]]]: Yes, and it is worth reinforcing the point that these are different scenarios for net inward migration. Government policy is effectively confined to restrictions on particular categories of inward migration. One of the reasons why this is not a policy parameter but a policy objective and it is not under the direct control is that there is not a policy parameter that controls this number in aggregate. You are controlling some inward migration and, as you can say, there could be different trends, for example, in outward migration that would change those numbers whatever Government policy was doing, because Government policy does not currently extend to saying whether people can or cannot leave the country.&#xa0;
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Andrea Leadsom:]]] Again for clarity, presumably you are also expecting that the net result of whatever your immigration policy would be is that, unless you then sustain it for ever and ever and ever, there comes a time when your immigrants become old and therefore add to the ageing population, unless you have an assumption about birth rates and a permanent new source of fresh young people to pay for their ageing. Can you explore that momentarily?
+
+[[[Robert Chote]]]: Yes. This is one of the reasons why in the report we are careful to say that we draw these conclusions over this particular time horizon, and clearly, over a longer time horizon, some of those issues start to arise. That said, those things are not ignored entirely because of the way in which the ONS is doing the population projections. They are taking into account the fact that some proportion stay and some proportion don’t in terms of the way in which the population projection moves, but, as we say, we are careful in saying that this is a story that holds over this particular time horizon, and if you were to go over a longer time horizon the picture could be different.&#xa0;
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Andrea Leadsom:]]] I guess you make no assumptions about the proposition that particularly EU migrants come to this country to earn a few bob and then go home and settle at home, thereby conveniently removing the need for us to support them in old age, so you do not build that in at all to your projections, I guess.
+
+[[[Robert Chote]]]: No, except that those sorts of factors will be taken into account in the way in which the ONS is doing the overall projections.&#xa0;
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Andrea Leadsom:]]] So that would be featured in here? 
+
+[[[Professor Nickell]]]: Yes. That is one of the reasons why net migration at older ages is so low, or indeed negative, because of older people, either UK citizens moving to Spain or immigrants, as they get older, going back to their home countries, because that is part of net migration, you see, because going back of course is part of the net migration.&#xa0;
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Andrea Leadsom:]]] Yes, but that cannot be right, can it? If net migration is the difference between immigration and emigration, then net migration of older people would simply reflect the fact that not many people migrate to another country in old age, or possibly that more people retire in the south of Spain than retire in the south of windy wherever in England. Are the ONS figures looking at age groups or the performance of migrants over time? In other words, if I am 26 and I am an Eastern European who comes to the UK to work, how do I feature in the ONS figures when I am 46 and I go home—back to wherever I came from originally—to settle there? How is that reflected?
+
+[[[Professor Nickell]]]: They just look at the static picture. They obviously have to make assumptions when they are projecting forward. The sort of assumptions they make are that in some sense the behaviour that we observe now from immigrants who have come in the past is that they are more likely to leave when they get older than natives are, and they say, “This is how the behaviour has been over the past, and we will assume that similar sorts of behaviour will happen in the future.” We have had EU migration into this country for many, many years, so we do have some history of what happens to them as they get older and what proportion of them leave. Then they will make assumptions, saying that this will continue into the future. It is not very sophisticated in the sense that they say, “Oh, look, some people come from Poland and they are different from people who come from some other country”. It is relatively mechanistic, just as their assumptions about migration are basically based on the last few years, which is why every time they do new projections the migration assumptions change, because what has happened in the last few years has changed.&#xa0;
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Andrea Leadsom:]]] But even though there is, as we know, a marked tendency for migrants to come here to work, then go home to retire, that is taken into account in showing the ageing population. That phenomenon is reflected, and the impact of the ageing population on the cost of running our economy is taken into account, the fact that a lot of them will go back to where they came from. It is not assumed that they will retire here. Can you just confirm that?
+
+[[[Professor Nickell]]]: No, it is not assumed—I mean, it is assumed that their returning habits continue to be what they are like now.&#xa0;
+
+[[[Q40 ]]]&#xa0; 
+
+[[[Mr Ruffley:]]] Mr Chote, the reporting of these immigration statements, your sensitivity analysis shows that overall migration has a positive impact on the sustainability of the public finances. Can you just take us through how 140,000 a year net migration contributes to the public finances? There is an argument, is there not, that we are not taking into account the use of public services, of nursery school places, GP surgeries, hospital places and so on and so on? Can you just explain this general proposition that net immigration into this country is a good thing and where the evidence for this comes from?
+
+[[[Robert Chote]]]: It boils back down to this issue about the fact they are more likely to be of working age than other people. We are assuming that the net inward migrants have roughly the same productivity as the native population. One consequence of having net inward migration is that GDP is higher as a consequence of the economic activity that these people are doing, helped by the fact that many of them will be of working age. As we mentioned earlier, we assumed that public expenditure in most areas of public services is constant as a share of GDP per person, adjusted for their age. We are assuming that there will be a higher real spending on things like schools and hospitals and houses and state support for housing as a result of net inward migration because GDP goes up, and we assume that the public expenditure in those sorts of areas goes up in line with GDP, so there is more real public spending going on as a consequence of net inward migrants who contribute to GDP, so it is not as though you are not taking into account the impact that that has on public services. There is obviously a whole different question about whether that spending is taking place in the right places in the country and whether there are strains there; it is not within our remit to look at that. As I say, because they are more likely to be of working age, they are more likely to be paying taxes and less likely to be having relatively large sums of money spent on them for education, for long-term care, for healthcare and for pension expenditure, which is taken into account by looking at this at a representative age level. Those are the main effects that are generating the contribution. You are getting more tax revenue and relatively little spending. There is more real spending going on in contributing to public services because GDP is higher.&#xa0;
+
+[[[Q41 ]]]&#xa0; 
+
+[[[Mr Ruffley:]]] There have been two recent University College London analyses on the amount of tax paid compared with the benefits received by immigrants. Do you broadly agree with those pieces of work? They have been very prominent in the newspapers. They are prayed in aid regularly as demonstrating that net migration, immigration, is a good thing. Do you basically agree? Perhaps I could ask Professor Nickell that question because I know he has expertise in this area.
+
+[[[Professor Nickell]]]: I think the way they work that sort of thing out is very similar to the way we work things out, in the sense that we always think of things as age-specific, so if migrants have a different age structure to the population, which is more in the working age and less at the outer reaches, then that will automatically mean that they are more likely to pay more in tax than they get in benefits. So the answer to your question, fundamentally, is yes, I think that we would agree with what these other studies say.&#xa0;
+
+[[[Q42 ]]]&#xa0; 
+
+[[[Mr Ruffley:]]] Just two final, very quick questions. Professor Nickell, what assumptions are made about the birth rates of the migrants who enter, in your projections?
+
+[[[Professor Nickell]]]: In ours, as I understand it, the ONS has age-specific birth rates to be the same for everybody.&#xa0;
+
+[[[Q43 ]]]&#xa0; 
+
+[[[Mr Ruffley:]]] The same for everybody?
+
+[[[Professor Nickell]]]: Yes.
+
+[[[Mr Ruffley:]]] Though that may not be the case.
+
+[[[Professor Nickell]]]: No, that may not be the case.
+
+[[[Robert Chote]]]: It has been highlighted in the annex as one of the issues we raised about whether you do have slightly higher—and these facility rates are moving around quite a bit, but it does not look like the difference is large enough to make a very material difference to the answer, but it certainly nudges it in the direction of higher facilities.&#xa0;
+
+[[[Q44 ]]]&#xa0; 
+
+[[[Mr Ruffley:]]] Fine. Finally, would you clarify the answer you gave to Mrs Leadsom? When these working-age migrants who are making this contribution to greater total output get older—could I just be clear—is the fact that they become old-age pensioners in time, and on the basis that not all of them go back to their home countries, that they become resident here, they become naturalised here, they stay here as British old-age pensioners, taken into account in the 50-year time horizon? If so, could you just clarify it for me?
+
+[[[Professor Nickell]]]: Yes, it is taken into account.
+
+[[[Robert Chote]]]: Yes, it is in the ONS projections, so they will be assuming, if you have more people coming in at a younger age, that those people age, and that is reflected in the structure of—&#xa0;
+
+[[[Q45 ]]]&#xa0; 
+
+[[[Mr Ruffley:]]] Is there an assumption as to how many of those people stay to be old-age pensioners in this country?
+
+[[[Professor Nickell]]]: This is implicit in the—these are the ONS numbers again, so the ONS project the population and the age structure of the population and they take account of these things. As I say, as far as I understand it, the ONS implicitly has a view on what the probability of an immigrant is of returning or emigrating again relative to a native, and they generate those numbers from history, from what has been observed in the past 20 to 30 years, and then they assume that those numbers remain the same, projecting forward. They will have implicit in their projections the probability of a migrant, a foreign-born individual, leaving at any particular age.&#xa0;
+
+[[[Q46 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Mr Chote, could I make a general request about publications from the OBR, which is that you include an index? I think it would be enormously helpful for members of the public, and indeed parliamentarians, to have an index in order to come to terms with the reports you put out, and it would also place you under a slightly higher degree of accountability because people would then quickly get the information they need and compare it between different reports.
+
+[[[Robert Chote]]]: As a published author yourself, I am sure you know how quick it is to get indexes completed, and I merely pose the question of how practical that would be in the horizon of—&#xa0;
+
+[[[Q47 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] I did reflect on that, and actually it does not take very long. You need not have the degree of specificity that one would expect in a general trade book. I just put the request in there. I want to turn, if I may, initially to what you say about the private finance initiative, which is very helpful and interesting, so far as I understand it. What you say there is that, as far as I understand it, the liability in future capital payments is £36.1 billion. I am talking about page 51 of your report.
+
+[[[Robert Chote]]]: Yes.&#xa0;
+
+[[[Q48 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Future capital payments, £36 billion. Net book value of PFI assets, £38 billion, so if you just looked at the assets to liability on those terms, you would end up with a slight positive net. Is that net book value minus the liability of the future capital payments? How do those two relate to each other? You may need an index to find the—
+
+[[[Robert Chote]]]: I am not sure the index will be the answer to the—
+
+[[[Chair:]]] It is a reasonable question.
+
+[[[Jesse Norman:]]] Thank you, Chairman.
+
+[[[Robert Chote]]]: But not one to which, I suspect, we can give you an instant answer.&#xa0;
+
+[[[Q49 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] I understand. Would you come back to me? The reason is that it is extremely opaque, because if you look at it, you then include present values of obligations for future periods, which includes capital payments, interest payments and service charges. What one wants to do based on those numbers is aggregate at least those three bottom numbers, which gives you £192 billion. You do not include an aggregation. If there is a liability of future capital payments, I would like some explanation of how the £36.1 billion relates to the £38 billion. I would be grateful if you could invite your team to put cold towels around their heads and see if they could present it in English in a clear way that makes sense and that it is properly communicated to the boss.
+
+[[[Professor Nickell]]]: Footnote 2 tells you why £38 billion is different from £36.1 billion.&#xa0;
+
+[[[Q50 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] I suppose I am wondering why it has been laid out like that, because it does invite one to sum the totals, and what one wants to know is what is to be summed and what is not. That is what I am interested to know.
+
+[[[Robert Chote]]]: We are taking this from the presentation of the Whole of Government Accounts, and the issue, I think, in terms of the question that most people come out with is, what difference would it make if this sort of activity had been undertaken using conventional debt finance versus this sort of activity—&#xa0;
+
+[[[Q51 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Yes. Do you offer that? 
+
+[[[Robert Chote]]]: —for which obviously the interest paid—there is an issue then. You cannot sum those things up and say, “This is the extra cost of having done it through PFI”.&#xa0;
+
+[[[Q52 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] But is that an analysis that you have done?
+
+[[[Robert Chote]]]: Yes.&#xa0;
+
+[[[Q53 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Where is it?
+
+[[[Robert Chote]]]: Where are we? 2.1% of GDP, paragraph 269. “If all capital spending under PFI was to have been carried out through conventional debt financing, PS and ND would have been 2.1% higher at the end of March 2012.” What you are having to do there is take out the—&#xa0;
+
+[[[Q54 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] No, no, no. That is saying debt would be higher. That is not saying that you would expect debt to be lower because it is cheaper to run off the public balance sheet.
+
+[[[Professor Nickell]]]: The debt would be on the public balance sheet.&#xa0;
+
+[[[Q55 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] It would be on the public balance sheet, but what I want to know is how much money we would have saved.
+
+[[[Robert Chote]]]: There are two things. There is what is on in the National Accounts, which is a relatively small number. There is what is on in the WGA, which is a significantly larger number, but even that is not the sum total. There is about 5% of PFI that is not even on the WGA balance sheet, so that question is the answer to what happens if all of this was on the National Accounts balance sheet, so it is basically the difference between what would happen if it was all done through conventional debt finance versus what currently appears in the National Accounts.&#xa0;
+
+[[[Q56 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] No, I absolutely understand, but you are focusing on the debt implications of running it through conventional finance and I am interested in the revenue implications of running it through the national finance. I am asking the question, have you done any analysis of how much money would have been saved if these things had been financed at prevailing Treasury rates, rather than through the private market?
+
+[[[Robert Chote]]]: No, on the grounds that we cannot look at alternative policies in that sense, so we are trying to show what the impact of that accounting treatment would have been between the National Accounts and a more comprehensive one, rather than how things could have been different if you had done a different policy.&#xa0;
+
+[[[Q57 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] The correct number, whatever it is, as you have it, is around £192 billion. That is the number we ought to be focusing on. That is the summing of those three numbers, £38 billion, £42 billion and £111 billion.
+
+[[[Robert Chote]]]: It depends what question you are trying to answer, but if that is the one you want to focus on, that is—&#xa0;
+
+[[[Q58 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] If you want to know what the financial impact of the PFI is, the answer is it is £192 billion of obligations for future periods.
+
+[[[Robert Chote]]]: Yes, whether that is different from how you—your baseline is if you had done the same activity through conventional debt finance or you had not done it at all. That is the difference. &#xa0;
+
+[[[Q59 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Right, but it is still helpful to have that number up.
+
+[[[Professor Nickell]]]: The service charge is a bit different here. If you are paying for cleaning, for example, and however it is financed you would have to pay for cleaning, if you see what I mean, because payments for cleaning, i.e. the service charges, would just come out of current expenditure.&#xa0;
+
+[[[Q60 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] I do not disagree, but the point is that what the public are interested in knowing is what the total value is of future obligations into which this country has entered by undertaking PFI. The answer to that question is £192 billion, and it is implicit—
+
+[[[Professor Nickell]]]: It depends. You could always not clean it. In some sense, if you have a public building, do you want to say, “Oh, you have an obligation to keep it clean, so therefore”—&#xa0;
+
+[[[Q61 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Hold on a second. You are making a host of assumptions about future policy. Let us make the assumption that future policy is to keep our public buildings clean. Then those assumptions are as indicated.
+
+[[[Professor Nickell]]]: Yes, but—&#xa0;
+
+[[[Q62 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Good. The next question I want to ask you is, why is only £5 billion of this in National Accounts? Isn’t what you are actually doing, very subtly presenting a firm case for moving away from a National Accounts treatment that is so scandalously low in capturing only £5 billion of £192 billion future liability? Why are you not presenting more of a case for getting away from the National Accounts treatment, since it is clearly an off balance sheet item being used to fudge the numbers?
+
+[[[Robert Chote]]]: That is why we are being transparent about what we think the differences would be. We are having to forecast adherence to fiscal targets that are defined in terms of the National Accounts, so we do it on that basis. My colleagues will correct me if I am wrong; I think the National Accounts are classified on or off balance sheet depending on who bears the risk. In the WGA, it is who has effective control. 
+
+[[[Graham Parker]]]: It is more complicated than that, but I think that is basically right.
+
+[[[Robert Chote]]]: That is roughly it. That is why we felt it was important to say, “What would the difference to net debt be under the most comprehensive definition?”&#xa0;
+
+[[[Q63 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] It massages down net debt by 2.1%, is what you are saying. 
+
+[[[Graham Parker]]]: It changes net debt.
+
+[[[Robert Chote]]]: It is not for us to say what the National Accounts should look like, but that seems the transparent way of presenting it.&#xa0;
+
+[[[Q64 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] That is great. When you say that you are under an obligation to publish a forecast when these decisions’ fiscal impact “can be quantified with reasonable accuracy”, what definition of “reasonable accuracy” are you using?
+
+[[[Robert Chote]]]: We have to do it on a case-by-case basis. The issues are typically whether something is certain to take place and whether you know at exactly what time it is going to take place, and, therefore, where it will show up in terms of the forecast, and then whether it is something for which one can realistically estimate the value, and whether there is any basis for that.&#xa0;
+
+[[[Q65 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Since the whole forecast is incredibly hostage to very small changes in assumption on, for example, productivity, labour force participation and things like that, how valuable is it to make assumptions based on these essentially ad hoc definitions of reasonable accuracy?
+
+[[[Robert Chote]]]: This is an issue that arises in the medium-term forecast as well as over any long-term projection. I think we have always been wary of situations where Governments like to claim amounts of money before the eggs have got close to hatching, so I think that is one of the reasons why we take a relatively high bar in saying whether we think that these sums ought to be included in the numbers or not. For example, the Tote, which for many, many years was the next thing that was bound to be included as a source of receipts, did take rather a long time, so best to wait until it is clear that you can be confident of that.&#xa0;
+
+[[[Q66 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] I just have one very final question. You say it is unrealistic to assume that a stated medium-term policy continues for 50 years, but if the policy is not clearly defined over the longer term, how on earth can you attach any numbers to it?
+
+[[[Robert Chote]]]: I think one thing you can do is to look at what has happened over the past. The other one is to basically take, as I say, the area where this is most quantitatively significant as your assumption about the uprating of tax receipts and allowances on the revenue side and of benefits—social security payments—on the other side, where the conventional—something counts as a policy change if you are doing this by a different number from inflation. It is not necessarily saying that that is the policy, but that is the accounting treatment of when something will appear in the Red Book as being a policy measure or not. It is not a very sensible way of defining unchanged policy over a very long term because it simply implies, because of real income growth, that you have the average tax rate rising and rising and rising and the relative generosity of benefits moving in the opposite direction. It is a more neutral assumption and one that, indeed, the Treasury was making in its version of this report long before we were, accepting that that was not realistic long term.&#xa0;
+
+[[[Q67 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] Following on from what has just been discussed about the public sector net debt deficit, from the National Accounts and the Whole of Government Accounts, you look at what has happened in the past to try to work out what is going to happen in the future. Is that right?
+
+[[[Robert Chote]]]: Yes.&#xa0;
+
+[[[Q68 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] How do you use both of those measures? Do you use one more than another?
+
+[[[Robert Chote]]]: In terms of the National Accounts, this and previous Governments have tended to set their fiscal targets by use of the National Accounts measures. They have the advantage of being relatively timely and widely understood. I think, though, a lot of people have been nervous looking at public sector net debt on the grounds that, leaving aside the issue of trying to predict what Governments are going to do in the future, it does not take into account some of the fiscal consequences of the decisions that they have taken in the past, net public service pension liabilities being the classic example why some people would look at public sector net debt and say, “Well, hold on, that is not giving you a complete picture of the obligations that the Government has taken on as a consequence of past activity”. The advantage of the Whole of Government Accounts is that they are produced on basically an adapted version of commercial accounting standards, rather than the National Accounts standards, so they are more comprehensive. You would include public service pension liabilities on the liabilities side. You would also include a wider range of the Government’s assets on the asset side as well—&#xa0;
+
+[[[Q69 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] Are you saying you pay more attention to the Whole of Government Accounts?
+
+[[[Robert Chote]]]: No. The Whole of Government Accounts are a useful cross-check on some of the things that are missing from the National Accounts, but they are not as timely. &#xa0;
+
+[[[Q70 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] They have been qualified in the year.
+
+[[[Robert Chote]]]: They are a work in progress, exactly. They have been qualified. It is, as you can appreciate, a fairly heroic task for the Treasury and the people to aggregate the accounts of 1,000-plus public sector bodies to do this. I do not think realistically the WGA is ever going to be timely enough to be the sort of thing that Governments are going to want to set fiscal targets on, but it is quite useful in giving you a broader picture of increasing transparency, and also it highlights some of the risks to projections. For example, if you have the discussion of contingent liabilities, which appear in the notes to the Whole of Government Accounts as distinct from the WGA core accounts themselves, then that can be telling you useful things about potential risks to your revenue projections.&#xa0;
+
+[[[Q71 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] Yes. The Whole of Government Accounts that were qualified every year on the basis of lack of evidence, and they could not support accuracy and completeness of assets—if there is no certainty about the past, how on earth do they help you to predict the future?
+
+[[[Robert Chote]]]: They are clearly a lot better than nothing.
+
+[[[Teresa Pearce:]]] Possibly.
+
+[[[Robert Chote]]]: The NAO took a rather “glass half-empty” view of the WGA in that, which is that they have cited a whole lot of this in reaching the decisions that they have on qualification, but for many, many years the Whole of Government Accounts were supposed to be a year or two away. We do finally have them, and I think that it is a value-for-money question about whether people think you are getting enough out of it to make the exercise worthwhile, but I do think it has increased the overall transparency of the public finances and it does allow you to take a richer view and to ensure that you are slightly kicking the tyres of the National Accounts measures that you are generally focusing on for forecasting and targeting purposes.&#xa0;
+
+[[[Q72 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] You have produced this report because you have a statutory obligation to do so. If you did not, would you bother?
+
+[[[Robert Chote]]]: Yes, I think you would.&#xa0;
+
+[[[Q73 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] For 50 years?
+
+[[[Robert Chote]]]: Whether you would do it with the frequency with which we are required to do it is a slightly different question, and we come back to—&#xa0;
+
+[[[Q74 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] Put it a different way. If a week is a long time in policy, what is a long time in economics? A month? A year?
+
+[[[Robert Chote]]]: It depends on the questions you are trying to answer. It is difficult whatever time horizon you are doing it in.&#xa0;
+
+[[[Q75 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] One last thing, which is much more simple. Jesse mentioned an index, and you said that would be quite difficult but not impossible. What about a glossary at the back, just a glossary of abbreviations? That would be really helpful to the public.
+
+[[[Robert Chote]]]: We can certainly do that.
+
+[[[Teresa Pearce:]]] Thank you.&#xa0;
+
+[[[Q76 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] In a lot of exchanges earlier on, you have been talking about the population data coming once every two years from the ONS, which it seems your entire report is based on. Do you agree with their methodology? Are you entirely happy that what they are producing is good?
+
+[[[Robert Chote]]]: I am not a demographer. Steve will have more views on that. Given these are the ONS’s official population projections, I think that they are the best we have to go on, and it is not worth us trying to second-guess that and come up with different ones. It is a relatively complicated process to come up with the projections in the degree of disaggregation which they do and which you require for the sorts of modelling analysis that underpins reports like these. &#xa0;
+
+[[[Q77 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] It is incredibly important. What I want to concentrate on is the population growth. We have heard a lot about the immigration numbers, but if we are looking forward 50 years, you have to be pretty convinced that the methodology, on which you are using the basic numbers, is something that you agree with. I am just curious if you guys have spent any time looking at it to make sure that—
+
+[[[Professor Nickell]]]: Their kind of methodology is they look at recent history. They look at the recent history of fertility rates and migration, and then their projections assume that that recent history will carry on. What that means, of course, is that 50-year population projections will move enormously from one year to the next or from one decade to the next as fertility rates change. For example, if you look back at population projections during the time of the post-war baby boom, the population projection was for an enormous rise in the population because fertility rates at that time were very high, and then they came down. In other words, in their methodology they made no serious attempt to forecast how fertility rates might change over the future, and you can understand why they did that, because in some sense they would argue, I suspect, “Well, we just look at the facts and we say, ‘Here is what has happened recently. What would happen if that carried on? Those are our projections’”.&#xa0;
+
+[[[Q78 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] That is basically it. “If what is happening today carries on another 50 years, this is the end result.”
+
+[[[Professor Nickell]]]: Yes.&#xa0;
+
+[[[Q79 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] Whatever the trajectory is now is continued, rather than a change of trajectory. 
+
+[[[Professor Nickell]]]: Exactly.
+
+[[[Robert Chote]]]: But as you have seen from the report, they are producing lots of variants around that central view to capture the alternatives of what happens if the fertility rate is higher or lower or the mortality rates and so on—&#xa0;
+
+[[[Q80 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] Yes. The interesting point is, of course, your central projections on the public finances come under a lot of pressure because of this ageing population. What do you think are the drivers behind this ageing population, and how are those affecting your numbers? For example, if more money is invested in the NHS, that hopefully will result in people living longer, which of course means you then have to invest more money in the NHS because older people are more expensive to look after because they are frailer. Could you talk a little bit about how those dynamics work?
+
+[[[Robert Chote]]]: Yes. We don’t look at those sorts of feedbacks. Again, Steve is more the expert on this than I am. There are some bits of future population projections that you can be more confident about than others. You can be fairly confident about the consequences of the baby boom generation moving through the age structure. Movements in fertility rates and mortality rates are slightly more uncertain, I would presume, partly because they will be affected by things like migration, so there will be some bits of it that you can be more confident of than others, but we have not tried to do what you have described as well. In a sense, that will be a comparison of different policy alternatives, but basically saying, “A higher level of health spending per head would have the following consequences for the age at which people die.” I think that would be going somewhat beyond our expertise.&#xa0;
+
+[[[Q81 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] May I talk about pensions? In the autumn statement, the Government announced plans to link the state pension to life expectancy, with a review in every Parliament. How does that affect your projections going forward? That is a feedback loop that is quite important.
+
+[[[Robert Chote]]]: Yes. That is something that was not known at the time of this report, and it is something that we will include in the report this year.
+
+[[[Graham Parker]]]: Off the top of my head, does it make about half a per cent of GDP difference to spending? 
+
+[[[Professor Nickell]]]: Something of that order.
+
+[[[Robert Chote]]]: If you were to do a rule of thumb, but we will have a proper number for that at the end of the—&#xa0;
+
+[[[Q82 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] You are getting a statement of account?
+
+[[[Robert Chote]]]: Yes.&#xa0;
+
+[[[Q83 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] My last question is on public service pensions. Your projections fall from 2.2% of GDP in 2021 to 1.3% by the end of the projected period. Why did you come to that conclusion?
+
+[[[Robert Chote]]]: It is basically reflecting the fact that you have public sector employment being reduced and also the reduction in the generosity of the pension payments. Policy changes have moved that, so it is indeed one of those areas in which the amount spent as a percentage of GDP is falling over time, in contrast to the state pension, where you would expect the bill to rise over time.
+
+[[[Mark Garnier:]]] Thank you.&#xa0;
+
+[[[Q84 ]]]&#xa0; 
+
+[[[John Thurso:]]] The central thrust of the report is that expenditure will grow faster than income, to the point at which, at the end of the 50 years, the public finances are fairly unsustainable and therefore something needs to be done. I want to ask you about productivity. How central are the productivity numbers you have used to that end outcome? What is the impact of productivity in the equations that get you there?
+
+[[[Robert Chote]]]: The numbers are not terribly sensitive. If you move the expected productivity growth up or down, it does not make an enormous difference to the projections on spending and receipts. The primary reason for that is because you have wages linked to productivity. We are assuming that tax allowances and thresholds are linked to earnings over the longer term and the generosity of benefit payments is linked to earnings over time. Those things are reflecting what is going in on productivity growth. Clearly, if productivity growth is half a percentage point higher or lower, it matters an awful lot because we are going to be a lot richer or poorer; it does not matter because of the nature of the assumptions that we make about how the parameters of the tax system and the benefits system respond to the public finance projections. 
+
+[[[Graham Parker]]]: We also relate other public service expenditure to GDP as well.&#xa0;
+
+[[[Q85 ]]]&#xa0; 
+
+[[[John Thurso:]]] May I tease out what I think you just said? When I was asking questions of Charlie Bean, I asked him about productivity and the basic assumption that there is spare capacity in the economy in the labour market, and that that will be taken up and that will return us to trend growth, and he broadly agreed that that was the central most important decision that was being made by everybody—
+
+[[[Robert Chote]]]: That spare capacity point is here as well. Over the medium-term forecast and in the first three years of the long-term projections of this, you have exactly that process of using up the spare capacity, and then there is an assumption over the longer term of what productivity does thereafter.&#xa0;
+
+[[[Q86 ]]]&#xa0; 
+
+[[[John Thurso:]]] If, for example, instead of being 2% or 2.2%, it was 2.5% or 2.7%, whatever, over, so in other words the trend productivity was half a point higher than that which it has been in the past, are you saying that, over a 50-year timeframe, the end result would not be very different from that which you have assumed?
+
+[[[Robert Chote]]]: If you make the assumption that your whole public services spending is constant as a share of GDP, which is now rising more quickly, and that, as a consequence of higher productivity growth, earnings growth is higher, and therefore you are increasing tax allowances and benefit rates more quickly, then that all washes out, yes.&#xa0;
+
+[[[Q87 ]]]&#xa0; 
+
+[[[John Thurso:]]] Is it not the case that most Governments where the economy becomes more productive do not increase their expenditure in line with the increasing productivity of the economy, or is the case that that is what happens?
+
+[[[Professor Nickell]]]: That is the case. Broadly speaking, spending as a proportion of GDP has been relatively stable over the last 25 years, and productivity has been going up all the time, and it seems to be the case that constant share of GDP is a pretty adequate description of what happens.
+
+[[[Robert Chote]]]: Even more so on the tax receipts side, which do vary within a relatively small band as the share of GDP spending moves up and down by more.&#xa0;
+
+[[[Q88 ]]]&#xa0; 
+
+[[[John Thurso:]]] What I am trying to get at is the Government has set itself a target of going to budget surplus, or at least balancing the budget and hopefully going into surplus. The naive assumption that I am making as a completely untrained economist is that if you were to run without a deficit or with a surplus for a period of time, you would accumulate wealth in the country. I am having difficulty understanding why, in 50 years’ time, if that policy was to be followed, we are going to end up with such a massive debt and deficit. 
+
+[[[Robert Chote]]]: It comes back to this point of whether the assumption you make about constant policy is to increase spending over time. If you look at what has happened to health spending over time, clearly that has risen not just in line with the size of the economy but as a share of GDP as well, for reasons that are well trodden in the literature.&#xa0;
+
+[[[Q89 ]]]&#xa0; 
+
+[[[John Thurso:]]] What we are saying is that what this shows us is if you do not change anything and you have no policy changes and you leave everything as it is, in 50 years’ time you will arrive at that point.
+
+[[[Robert Chote]]]: That is a very good description.&#xa0;
+
+[[[Q90 ]]]&#xa0; 
+
+[[[John Thurso:]]] In 1964, had we done that exercise, would we be where we are today? I would venture to save you the bother and suggest we would be somewhere very different in that report because we would not have invented—
+
+[[[Robert Chote]]]: Policy has been changing year by year since—
+
+[[[John Thurso:]]] —the internet or robotics or mobile phones or 101 other things, or had all sorts of—
+
+[[[Robert Chote]]]: Productivity growth generates productivity. That just generates productivity growth. 
+
+[[[Professor Nickell]]]: That is fine, but we are where we are today because people’s demands for public services, particularly health services, plus the ageing of the population, mean that people demand more of a share of GDP for those sorts of things over the years, and Governments tend to give it to them.&#xa0;
+
+[[[Q91 ]]]&#xa0; 
+
+[[[John Thurso:]]] Let me just leave it at the last question. The question is this. If we had sat down and done this in 1964, would it have aided us in any way, shape or form to take decisions between 1964 and 2014, other than those that we took anyway, to change what we were doing in the future? In other words, what is the point of this exercise?
+
+[[[Robert Chote]]]: There are a variety of policies that have long-term effects, and I think if you are going to take policies on the basis of that—although the process of projecting where things are going to go in the future on the basis of unchanged policy is a difficult one and there are huge uncertainties around it—I think that taking those policy decisions on the basis of some sort of assessment of what difference it is going to make and whether you would be on a more or less sustainable position is probably a sensible thing to do. The sorts of decisions that Governments have made over time as to by how much you should, for example, uprate the basic state pension—by prices or earnings or by the triple lock—have implications that can mount up over some quite considerable period of time. Even though it is a difficult exercise, policy makers should probably engage in it.&#xa0;
+
+[[[Q92 ]]]&#xa0; 
+
+[[[John Thurso:]]] I must wonder whether you have any better record going forward when somebody else—I shall be long gone—looks back on this exercise than we do looking back on the projections of Isaac Asimov 50 years ago as to what has happened today. 
+
+[[[Robert Chote]]]: Ironically, over a very long period, the assumption that productivity growth would be relatively stable turned out to be a pretty good projection until the point, of course, at which it ceased to be, which is what we have been wrestling with over the last five years. 
+
+[[[John Thurso:]]] I will leave you with the last word on that.
+
+[[[Chair:]]] Thank you very much for coming to give evidence on this report. We are extremely grateful for it, and there is a wealth of interesting information in here. As you can hear from Committee members, we are not quite sure about how valuable it will be in years and decades ahead, and we note the comments you made about the frequency of the report as well.&#xa0;&#xa0;              Oral evidence: OBR’s July 2013 Fiscal Sustainability Report, HC 958                            2

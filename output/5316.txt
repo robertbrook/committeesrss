@@ -1,0 +1,543 @@
+&#xa0;Business, Innovation and Skills CommitteeOral evidence: Student Loans, HC 930Tuesday 14 January 2014Ordered by the House of Commons to be published on 14 January 2014.Watch the meetingMembers present: Mr Adrian Bailey (Chair); Mr William Bain; Mr Brian Binley; Paul Blomfield; Katy Clark; Mike Crockart; Caroline Dinenage; Rebecca Harris; Anne McKechin; Mr Robin Walker; Nadhim ZahawiQuestions 94-167Witnesses: 
+
+[[[Rt Hon David Willetts MP]]], Minister for Universities and Science, 
+
+[[[Matthew]]]
+
+[[[&#xa0;]]]
+
+[[[Hilton]]], Director, Higher Education, and 
+
+[[[Michael Harrison]]], Executive Director, Shareholder Executive, Department for Business, Innovation and Skills gave evidence.  
+
+[[[Q94 ]]]&#xa0; 
+
+[[[Chair:]]]
+
+[[[ ]]]Good morning, Minister and colleagues.  Thank you for agreeing to speak to the Committee today on the issue of student loans and the student loan book.  Before we start, can I ask you to introduce yourselves for voice transcription purposes?
+
+[[[  ]]]
+
+[[[Matthew Hilton]]]: My name is Matthew Hilton, Director of Higher Education in the Department for Business.
+
+[[[Mr Willetts]]]: My name is David Willetts, Minister for Universities and Science.
+
+[[[Michael Harrison]]]: I am Michael Harrison, Executive Director of the Shareholder Executive, which is part of the Department for Business.&#xa0;
+
+[[[Q95 ]]]&#xa0; 
+
+[[[Chair:]]] I want to start with the historic mortgage sale.  As you know, it was estimated that, of the student loan book, £890 million-worth of mortgage-style loans were sold.  Effectively, the Government got £160 million for those loans, even though they valued them at between £81 million and £128 million.  On the face of it, it would seem that the Government got a very good deal, if you look at it from one perspective.  If you look at it from the perspective that there was £890 million-worth, they did not get a very good deal.  Did you undervalue them, or did the buyer overvalue them?
+
+[[[Mr Willetts]]]: I think everybody came away with a good deal, and we certainly got value for money for the taxpayer.  That figure of over £800 million is a nominal value.  In reality, most of these mortgage loans were not in repayment, or people who had the debt were below the earnings threshold.  We were always very realistic that this last tranche of residuals were the least-well-performing mortgage loans and their actual commercial value would be significantly below their face value.As for the price that we eventually got, I think it was very reasonable.  There are areas of commercial negotiation that by convention always remain confidential, but I think we got a very good price given that these were underperforming loans.&#xa0;
+
+[[[Q96 ]]]&#xa0; 
+
+[[[Chair:]]] I think everybody accepts that at least a proportion of the £890 million would have had to be written off anyway.  The question is: what potential was there to recoup it from any buyer of the student loan book?  How do you think they will realise the extra £32&#xa0;million to £79 million-worth of additional value and still make a profit?
+
+[[[Mr Willetts]]]: Another figure that we have not gone into in public is our internal estimate, and we haven’t ever accepted a particular figure.  The reason why this could be a benefit for everyone is that, with my ministerial responsibilities for the Student Loans Company, I am thinking, for example, of the problems we had in getting payments out to students in 2009, less than five years ago.  We want the Student Loans Company to focus on its core task, which is delivering a high-quality service to students when they apply for loans, and administering the big asset: ensuring repayment of the income-contingent loans.  It was never going to be a priority use of staff or resource for the Student Loans Company to chase the last remaining underperforming mortgage loans. However, for the companies that specialise in underperforming loans, already have an infrastructure in place and know how to handle them, they may be able to put in time, effort and expertise that the Student Loans Company does not possess and do a better job than the Student Loans Company could have done.  That was clearly the assessment of the range of people we had who tendered for the loan book.&#xa0;
+
+[[[Q97 ]]]&#xa0; 
+
+[[[Chair:]]] You have partly answered my next question, which is along the lines of: why could the Department not have realised those efficiencies?  What you are saying in effect is that these companies are better equipped to recoup the money than the Student Loans Company.  My concern is that you threw in the comment that their priority would be the income-contingent loan book, which is that much greater.  The problem I have with that is that, if they are not very good at recouping these historic loans, what evidence is there to believe that they will be any better with the income-contingent loans?
+
+[[[Mr Willetts]]]: That is a completely different structure.  In reality, the vast bulk of those loans will be repaid via HMRC and linked to income tax.  The old mortgage loans had a different structure and different repayment arrangements.  Most of them were no longer in repayment. Any person considering the focus of activities of the Student Loans Company would not have said it was a good use of public money or resource for this small and busy organisation to follow up the residual, potentially obtainable sums out of the £800&#xa0;million, in theory, of mortgage loans.You are right, Chair, that the big tasks for the Student Loans Company are very simple.  The first is a higher quality student experience as they apply for loans, and that we are working on. We are about to launch a new and much more user-friendly online application process.  There are shocking figures for the number of applications for student loans that begin online and end up with a phone call because people get stuck.The other priority is absolutely to ensure that the repayments from the income-contingent loans, which are far bigger in scale, are properly managed. Those are our priorities.  I do not think that any Minister in recent years has suggested that it is a priority of the Student Loans Company to chase up the ancient mortgage-based loans on a different model, but we think that someone else who specialises in that can do it better.&#xa0;
+
+[[[Q98 ]]]&#xa0; 
+
+[[[Chair:]]] The reply that you have not made, which I think is quite interesting, is the one that I might have expected.  Given that the Chancellor has predicated his Budget assumptions on the sale of at least a tranche, or several tranches, of the income-continent loans, would not the responsibility for the collection of those then move on to another body?  You made no reference to that whatsoever.
+
+[[[Mr Willetts]]]: There will be a different structure.  Here, we are obviously being advised by Rothschild and Barclays Capital.  In advance, there are lots of operational decisions still being taken, but the repayment of the income-contingent loans is done via HMRC in most cases, and that arrangement will not be changed as and when the income-contingent loan book, or tranches from it, is sold.  There will be a kind of server facility, as it is called technically, which will be an interface between commercial owners of the loans, as and when they are sold, and the continuing system whereby graduates will be paying back, via HMRC in most cases, in an unchanged way.  The mortgage loans were completely different.  There was not any use of HMRC.  It is much more like conventional debt collection, and it therefore made sense to sell the remaining loans to people whose specialisation is conventional debt collection.
+
+[[[Chair:]]] I do not want to stray too much.  We are going to deal with some of these issues in a moment.  &#xa0;
+
+[[[Q99 ]]]&#xa0; 
+
+[[[Rebecca Harris:]]] Are you saying that private companies are better at collecting student loans than the Student Loans Company?
+
+[[[Mr Willetts]]]: I am saying that the priority for the Student Loans Company was not this residual of the £800 million nominal value of mortgage loans, which had a very different structure from current student loans.  I do think there are advantages, and Mr Harrison of the Shareholder Executive may wish to add to this list.  For example, professional debt collectors are also dealing with debts from individuals arising in other circumstances, and this is not a core responsibility of the Student Loans Company.  I do not think it would have been a prudent use of public money for me to say to the Student Loans Company that collecting this residual amount in the old mortgage loans was a priority.  
+
+[[[Michael Harrison]]]: In addition to what David has mentioned, the specialist debt collectors have technology designed specifically for this collection area.  In order to up its systems to match that, the SLC would have had to invest a lot of money so, in conjunction with the sale decision, there was an investment decision as to whether the SLC should put more money into this area.  It is clear that the private sector, because of technology and its broad knowledge of borrowers across the whole of the UK in certain circumstances, has access to information about other loans that they can apply in collecting these mortgage-style loans.&#xa0;
+
+[[[Q100 ]]]&#xa0; 
+
+[[[Rebecca Harris:]]] You may have answered, or partly answered, my next question, which is: should we not be doing more either to learn from these companies or improve our own performance in collection in this area?
+
+[[[Mr Willetts]]]: As I said, with the sale of the mortgage-style loans there will not be any more debts in this form on the Student Loans Company’s book.  The focus now is absolutely to ensure that as the income-contingent loans mature, graduates repay that efficiently, and that includes a major investment in a new IT system, which is going ahead and will be in place in time for the repayment of the high-level loans that came in from 2012.
+
+[[[Michael Harrison]]]: It is also quite common market practice for debt organisations to sell books of this nature to specialist providers. We are not doing anything particularly unusual in these circumstances.&#xa0;
+
+[[[Q101 ]]]&#xa0; 
+
+[[[Rebecca Harris:]]] I accept that. Are the payments made by graduates to pay off loans ring-fenced to pay for higher education, or do they simply contribute to the Treasury’s pot?
+
+[[[Mr Willetts]]]: The sale of student loans contributes to a reduction of public sector net debt, and the fact that they help reduce public sector net debt in turn makes it possible for us to proceed with the increase in student numbers.  It is money that accrues to the Treasury and the Government; it does not accrue directly to BIS.&#xa0;
+
+[[[Q102 ]]]&#xa0; 
+
+[[[Rebecca Harris:]]] The NUS directly links student loan payments to current education policy.  In your view, to clarify, would finance for higher education decrease if payments went down, or vice versa?
+
+[[[Mr Willetts]]]: The repayments of student loans go to the Treasury and they do not directly impact the BIS budget.  When it came to a big decision like the decision to increase student numbers, the fact that this sale reduced public sector net debt certainly helped a lot, but it goes to the Treasury and is not part of the Department’s annual process of expenditure setting.&#xa0;
+
+[[[Q103 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I have a related question on the HE pot.  I am sure we will be talking to the Secretary of State about it next week, but it will be helpful to get the view of the Minister for Universities on the student opportunity allocation.  I am sure the Minister will agree that it has been massively important in securing social mobility and is widely supported.  Can you assure the Committee that it will not be cut in the Department’s imminent grant letter to HEFCE?
+
+[[[Mr Willetts]]]: We have yet to finalise the grant letter.  I cannot share with the Committee the grant letter that has not yet been sent.  I agree with you on the importance of access to university.  I think all parties take great heart from the good news that the fears that the increase in fees, although students do not pay it up-front, might put people from poorer backgrounds off university have not happened.  We had record applications last year.  The latest news I have from OFFA is record levels of university spend on access.  It is very important that we spend on access.  The specific financial decisions about where that money should go have not yet been finalised.&#xa0;
+
+[[[Q104 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]]
+
+[[[ ]]]Would you agree with me that if it were to be cut it would have a very damaging impact on some of our most disadvantaged communities?
+
+[[[Mr Willetts]]]: We would not wish to do anything that damaged access to university.  We are very proud of what we have already achieved on access to university, and we certainly do not want to jeopardise that.&#xa0;
+
+[[[Q105 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I want to probe the philosophy of student loans in terms of repayment.  Was it always the attitude of Government that, even if we get back some of the student loan, that is a better position than we were in before, and therefore, we are happy with the situation, even though many students might understand that and feel they do not have to repay?
+
+[[[Mr Willetts]]]: All three political parties, when faced with the challenge of how to finance higher education, have ended up with a model in which you do not expect students to pay up-front; you expect graduates to repay, but in turn you need some mechanism so that graduates repay only when they can afford it.  That is why the income-contingent loans are such a big improvement on the mortgage loans we were talking about before.You are right that there is a double objective here.  On the one hand, we wish to collect all the money that is owed and to do so efficiently, but equally if people end up with low incomes and, for whatever reason, they are out of the jobs market and are not earning any money, they do not have to pay it back.  It is very important that students going to university realise that this is not like credit card debt, which will hit them regardless of their circumstances.  Now, under our new system, it is only if their income is over £21,000 that they will start to repay.  You are absolutely right.  I will always try to make a virtue of this and say to people at sixth-form college, or whatever, “Don’t worry.  If for whatever reason your income is low, it is not like a mortgage or credit card; you will not have to repay.” That is a deliberate and progressive part of the system.&#xa0;
+
+[[[Q106 ]]]&#xa0; 
+
+[[[Mr Binley:]]] So the 60% of people who don’t go to university have a tougher deal than university students in terms of loan repayment.  Is that the philosophy?
+
+[[[Mr Willetts]]]: It is absolutely the philosophy.  This is not a commercial loan; it is a graduate repayment scheme under which graduates repay if they are earning a reasonable income.&#xa0;
+
+[[[Q107 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I have got the philosophy.  I now understand that it was never expected that the loans would be repaid by a lot of people, and that we would get a smaller amount back than we loaned.  Your sale figures reflect that, don’t they?                                           Let me go on to overseas students and their conditions, in terms of philosophy.  How much work do you do beyond self-certification to prove that overseas students actually do fulfil the requirements to claim loans that you say they should?
+
+[[[Mr Willetts]]]: First of all, if I may say this, a very important point on the philosophy is that in almost any other candidate system for financing higher education, such as a graduate tax, we would have no mechanism for collecting back payments from students from the rest of the EU. We would simply be giving them a free education, so I regard the fact that we have a loan and “debt” that has to be repaid as one of the advantages of the current system.It is very important that if graduates are living outside the UK, they know this is not some kind of device to enable them to escape repayment. We have significantly toughened the system already in terms of getting bank details before graduates leave the country and getting national insurance numbers.  We are willing to pursue people through the courts.  We are always interested in ways in which we can do even more.  So far, the performance of EU borrowers has been that they are less likely to take out a loan than UK citizens; they are more likely to repay as a lump sum when they leave the country, but we will pursue them energetically.&#xa0;
+
+[[[Q108 ]]]&#xa0; 
+
+[[[Mr Binley:]]] We had the opportunity to question Mr Bahram Bekhradnia, Director of the Higher Education Policy Institute, whom I think you will know.  I was rather concerned that his view was that the British people should take a hit on this; there is very little we can do, and his final quote was, “I think it’s inherent in the system.” You are telling me that you do not accept that.
+
+[[[Mr Willetts]]]: I don’t, and I have read his evidence.  By the way, I should make it clear to the Committee that I do not have another engagement which would require my leaving this Committee during the hearing, so I will be able to answer your questions. [Laughter.] That is not my philosophy. My philosophy is that around the EU people participate in our system; they are entitled to a fee loan, not to maintenance support, unless they have been three years resident.  We should energetically collect that money.  Actually, the larger sum, which does not come across in the media, is accounted for by British students who then go and live abroad.  In some ways, tracking them as they move around is another challenge, but we are absolutely up for it.  If any external organisation—this Committee or the NAO—has further suggestions about what more we should do, we would like to look at them.
+
+[[[Mr Binley:]]] I am glad to hear you believe that if you take out a loan you should have every intention of repaying it.  The 60% of British people who do not go to university will applaud that, and I am grateful to you for telling me that that is the philosophy.&#xa0;
+
+[[[Q109 ]]]&#xa0; 
+
+[[[Chair:]]] Can I add that your willingness to act upon the advice of the Committee is also much welcomed?                                                                                                                 Can I move on income-contingent loans?  The autumn statement claimed that the additional outlay of loans caused by the relaxation and removal of the student numbers gap will be “more than financed by proceeds from the sale of the…income-contingent student loan book”.  Looking at the Treasury figures, I see it is estimated that the cost of the abolition will go from £180 million in the financial year 2014-15 progressively to nearly £2&#xa0;billion in 2018-19, and effectively that will be financed from the sale of the student loan book.  It has been averaged out at £2.3 billion a year from 2015-16.  That is a projection done by the Treasury, but it would appear that the decision has not been made.  Therefore, a Treasury decision of crucial significance is being predicated on something that has not been made; indeed, there have been issues around value for money, which would reasonably make us question whether it would be made.
+
+[[[Mr Willetts]]]: There is a policy decision that we propose to sell tranches of the student loan book, subject to—here, you are absolutely right—a further value-for-money assessment before the button is finally pushed. We put these figures into Government financing documents from last summer and autumn because there is now a clear policy intent to do it.  This Committee would expect us to do this.  Before the button is finally pushed, we will have had professional advice from our financial advisers, and we will need to be comfortable that the individual sales will be value for money.&#xa0;
+
+[[[Q110 ]]]&#xa0; 
+
+[[[Chair:]]] If the valuers decide that it is not value for money, the Government’s policy on relaxing and removing caps on student numbers is totally screwed.
+
+[[[Mr Willetts]]]: I don’t think that is an expression you will find in our Government policy document.  We always try to make them more user-friendly, but we haven’t gone quite that far yet.  There is a clear intention to sell the tranches.  We believe we can do it, and we have commissioned our professional advisers, Rothschild and Barclays, to work on it.  That is the intention, but there is a final assessment before we actually push the button.  Yes, we have to be confident. I would be very surprised if it did not pass the value-for-money test, but it does need to, so there is that further hurdle.  
+
+[[[Michael Harrison]]]: As part of the feasibility work for the income-contingent loan sale, we clearly looked at value for money.  We think there is potentially a value-for-money case that needs to be proved up during the preparatory phase we are now in.&#xa0;
+
+[[[Q111 ]]]&#xa0; 
+
+[[[Chair:]]] I believe that the Permanent Secretary is the accounting officer who is ultimately responsible for this. Do you not feel that it puts a totally exceptional, perhaps unfair, pressure on the Permanent Secretary to say that something is value for money when instinctively he feels that basically, it is not?
+
+[[[Mr Willetts]]]: This is how it is done.  When we are planning to sell assets, we identify them in Government documents as assets we intend to sell, and that enters the fiscal arithmetic when there is a reasonable certainty that they will be sold.&#xa0;
+
+[[[Q112 ]]]&#xa0; 
+
+[[[Chair:]]] If I may stop you there, it is more than just fiscal arithmetic, because universities have to plan in advance.  If they have been given a green light, if you like, to pursue a certain policy, they have to start immediately in order to have everything in place to realise the potential of that policy.
+
+[[[Mr Willetts]]]: It is the Government’s settled policy that we should move in this direction and over time raise and then remove the cap on student numbers.  That is the plan, and that is what we expect universities to work around.
+
+[[[Matthew Hilton]]]: To add two brief points to this discussion, the first is that the decision to proceed to sale would be taken only on the basis of a genuine value-for-money judgment. Your question about the accounting officer is quite right.  Secondly, as an important matter of general principle, from my perspective, as the person who is responsible for much of the management of the HE teams in the Department, there is no logical linkage between discussions we might have about the future sale or otherwise of loan books and the future of HE budgets.  It is convenient to talk about them together.  Very often the two of them are talked about in the same overall policy contexts, but we have assurances from the Treasury, which we can talk about, about the funding of expansion up to a certain point in the future.  That assurance is, logically speaking, separate from discussions about the sale of the loan book.  Therefore, as a matter of logic, although I acknowledge that in practice the two are talked about together, those two things are separate.&#xa0;
+
+[[[Q113 ]]]&#xa0; 
+
+[[[Chair:]]] Can I get it clear?  You are saying that the Treasury has agreed to underwrite this policy irrespective of the sale of the student loan book.
+
+[[[Matthew Hilton]]]: It would be fair to say that the Treasury do intend to underwrite this policy. If there is a shock to their expected budgets that changes some of the planning that they have in hand, we would have to sit down and talk to them, as would any Department; but there is no logical flow through from a decision on the loan book to a decision on the expansion of HE budgets.
+
+[[[Chair:]]] So that could considerably alter Treasury expenditure projections.&#xa0;
+
+[[[Q114 ]]]&#xa0; 
+
+[[[Mr Bain:]]] Your last point is one that I would like to take up.  When Dr&#xa0;McGettigan appeared before the Committee to give evidence in December, he pointed to a very interesting development in the publications accompanying the autumn statement.  In table&#xa0;2.5 of the autumn statement, the second row refers to gross proceeds from the sale of the student loan book.  He explained in his evidence what the Government would be getting up-front from the proceeds of sale of this part of the loan book, but revenue is being forgone that transfers to the private sector.  His assessment is that £1.7 billion ought to be netted out of those figures from 2016 through to 2019, which would have a very important effect on the costing of the policy of expansion.  Can you explain what discussions you have had with the Treasury about why gross proceeds appeared in the autumn statement policy costings and not net proceeds of the sale?
+
+[[[Mr Willetts]]]: We did not commit the kind of schoolboy howler that Mr McGettigan claims.  I accept that different elements of the calculation are to be found in different autumn statement documents, and I would be very happy to send to the Committee in a single table the different lines of the calculation.  There is the extra loan expenditure as more students take out more loans; there are the gross proceeds from the sale of the loan book; and there is another line showing revisions to student loan repayments—those falling as a result of some accruing to others, and for other reasons as well.  Incidentally, that is in table&#xa0;4.32 of the OBR economic and fiscal output report.  There are also grants for teaching and maintenance for the extra students, but they are all properly accounted for in the places they need to be accounted for.  I fully recognise this: it might help all of us in our deliberations if I put it together in a single table, which I will very happily send urgently to the Committee, referencing for each one the published source for the data.&#xa0;
+
+[[[Q115 ]]]&#xa0; 
+
+[[[Chair:]]] That is very welcome, and your description of it as a schoolboy howler is probably quite an accurate one.  I just make the comment that it seems odd to present the figures initially in such a way that it would leave them open to that sort of question.
+
+[[[Mr Willetts]]]: In the line for gross proceeds, they put in gross proceeds.  In the OBR fiscal arithmetic, which includes the revenues accruing to the Government from graduates repaying, there is a line that identifies reductions in graduate repayments for a range of factors: for example, changes in earnings forecasts, but also factoring in assumptions about some of the loan book having been sold.  All of that appeared as part of the autumn statement.  They are all in the right place but in different places, and I am absolutely willing to send them all in a single table.
+
+[[[Chair:]]] Collate them and send them to us those so we can make a judgment on them.&#xa0;
+
+[[[Q116 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Minister, as you well know I am a business man, and it concerns me that on the recent sale you got 18% of the book value of the loan.  Would you put on a business man’s hat and think you might squeeze a little more from people who may be getting 40% of the loan back into their coffers, making a very good profit on the deal?  I just wonder whether you have ever thought about phased payments, with a certain percentage for each loan above the amount of money you have sold it for, and whether your people could be sharper in terms of returning money to the taxpayer that was loaned by the taxpayer.
+
+[[[Mr Willetts]]]: The mortgage loan book will be a completely different type of sale, and we have expert advisers working on it.
+
+[[[Michael Harrison]]]: In relation to the mortgage-style sale, that was exactly one of the issues we looked at.  The view was that the proportion of the loan book being repaid was very small; it was only 14%.  Therefore, the value we would get back, even on a profit share-type arrangement, would have been quite low.  The additional value we would get from having an up-front payment where all the systems and knowledge were transferred to the new buyer would be greater.  That was part of our work.&#xa0;
+
+[[[Q117 ]]]&#xa0; 
+
+[[[Mr Binley:]]] The return might be quite low, but would you not be reassuring the taxpayer that you are on the ball and looking to get more of their money back than they perhaps otherwise would get?
+
+[[[Michael Harrison]]]: We have sought to get the money back via a competitive sale process.  Clearly, there was more than one bidder bidding for this asset, so we optimised value in that way rather than having an ongoing interest.
+
+[[[Mr Binley:]]] I would like you to think about it more, quite frankly.&#xa0;
+
+[[[Q118 ]]]&#xa0; 
+
+[[[Nadhim Zahawi:]]] Minister, you mentioned earlier that the proceeds from ongoing book sales go back to HMRC.
+
+[[[Mr Willetts]]]: The Treasury.&#xa0;
+
+[[[Q119 ]]]&#xa0; 
+
+[[[Nadhim Zahawi:]]] Through HMRC to the Treasury—quite right.  You mentioned that there is a need for IT investment.  How much is that IT investment, and who is paying for it?
+
+[[[Mr Willetts]]]: I might turn to Mr Hilton on this.  We are about to sign contracts for a very significant improvement in the IT system.
+
+[[[Matthew Hilton]]]: The overall budget we have approved so far, talking about the Student Loans Company, is approaching £100 million.  As the Minister has said, that relates to a new core system that is fundamental to their transformation—that is the word the SLC uses—into a much more effective customer-facing and digitally-based organisation that fits in increasingly with the skill sets of its customer base.  That is a system that we hope to be in place early in 2015 so it will be up and running once we get into the repayment phase of the new post&#x2011;Browne income-contingent loans.&#xa0;
+
+[[[Q120 ]]]&#xa0; 
+
+[[[Nadhim Zahawi:]]] Does it come out of the Treasury because it makes life easier to collect the loans, or does it come out of your budget?
+
+[[[Matthew Hilton]]]: It is part of the SLC budget, but this is a separately negotiated programme of money with relevant budgets approved through the normal process.&#xa0;
+
+[[[Q121 ]]]&#xa0; 
+
+[[[Nadhim Zahawi:]]] Minister, you have assured students and graduates that their terms and conditions will not change, yet the student loan website states that the student must agree to repay the loan in line with the regulations that apply at the time, and the regulations may be replaced by later regulations.  Why have you put this clause in the contract?
+
+[[[Mr Willetts]]]: Successive Governments have made it clear when students take out loans that the terms could be changed by Government, but the fact of selling the loan book, or parts of it, does not prompt any change in the terms.  If anything, it makes it very unlikely they would ever be changed, because at that point you have written a contract with the private purchaser on the basis of setting out the terms of the loan.  In terms of the conventional student loan package, though, successive Governments have always had the power to change the loans, if it is necessary.&#xa0;
+
+[[[Q122 ]]]&#xa0; 
+
+[[[Nadhim Zahawi:]]] You specifically mentioned that only the Government can change the terms.  The buyers of the loan book cannot change the terms.
+
+[[[Mr Willetts]]]: Absolutely not.  They will be fixed at the point of sale.  I sometimes say to my friends in the NUS, who worry that there is a plot here to change the terms of the loans, that the best thing they should look for is the sale of any loans, because it is pretty likely that the contracts written at the time of the sale of the loans will specify the terms, but we will see how that shapes up.&#xa0;
+
+[[[Q123 ]]]&#xa0; 
+
+[[[Nadhim Zahawi:]]] That is good to know.  Last month, the Higher Education Policy Institute drew our attention to a BIS spokesperson who said that new student loans get taken out all the time so there are always, in theory, newer loans that the Government could sell on.  Do you stand by that statement?
+
+[[[Mr Willetts]]]: Yes.  There are so many different issues around the sale of the loan book, but some of the comment implies that it is rather like shares in a privatised industry and we have only one block to sell. If—if—subsequent decisions are taken—we are one Parliament ahead of the pre&#x2011;Browne book, and the student loan book is growing all the time, so a future Government could decide to continue to sell tranches of the student loan book.  It would have a decision to take about how much it wanted on its balance sheet, how much it wanted to sell and what was value for money.  We have not taken such a decision ourselves, but it is not a one-off asset that disappears after the sale.&#xa0;
+
+[[[Q124 ]]]&#xa0; 
+
+[[[Nadhim Zahawi:]]] From your answer, presumably you do not estimate that student debt will ever run out.
+
+[[[Mr Willetts]]]: There are various figures around, but, as long as one sticks with this model—all three political parties have ended up with it—new student loans will be created and there will be a new kind of asset on the Government’s balance sheet: loans due to be repaid.&#xa0;
+
+[[[Q125 ]]]&#xa0; 
+
+[[[Chair:]]] This approach was likened by one of the participants at our last hearing to a Ponzi scheme.  Could you outline the difference between this and a Ponzi scheme?
+
+[[[Mr Willetts]]]: All I know about Ponzi schemes is that they are completely disreputable and fraudulent, and the Government would not do that kind of thing where students and graduates are involved.
+
+[[[Chair:]]] You could say that, but I couldn’t possibly comment.
+
+[[[Mr Willetts]]]: It is perfectly reasonable for a Government to say that this “asset”—sorry, I am talking financial language now—this stock of student loans, is growing, and that you can reduce public sector net debt by selling some of those loans.  This Government have a path for public sector net debt, getting a grip on it and bringing it down.  Selling student loans is a perfectly legitimate way of doing that.  In a way, it brings a kind of cash-flow assistance.  It means that, instead of a stream of future payments, you capitalise it and get help with cash flow early on.  Although, as Mr&#xa0;Hilton said, there is not a direct connection, obviously if you can hold down public sector net debt it makes it easier to have policies such as more students, and having more people with higher education qualifications is not just good for them; it is good for the economy in the long run.  The value-for-money test is having a big enough economy to sustain it.&#xa0;
+
+[[[Q126 ]]]&#xa0; 
+
+[[[Chair:]]] I do not think anybody here would dispute that.  The basis of this assumption is that for various reasons, which we will explore, the would-be purchasers of the student loan book may not be prepared to pay as much as they have in the past. Therefore, you would have an increasing financial commitment through the numbers of students taking out student loans, and a reducing amount that companies would be prepared to pay for that loan book.  In effect, you would therefore have diminishing returns and increasing obligations, and the whole thing would collapse.  I think that is the basis of it.
+
+[[[Mr Willetts]]]: It would not collapse.  It is a new form of financial instrument, and we will see what the market demand is, but for every tranche of sales there has to be a value-for-money test.  If there came a point when people said either that the market is saturated with these, or people do not want to buy them any more and so it is bad value for money, at that point the Government would not go ahead.
+
+[[[Michael Harrison]]]: That is exactly right.  The newer issued loans have higher expected repayments, so if anything they have more value than the older loans.&#xa0;
+
+[[[Q127 ]]]&#xa0; 
+
+[[[Chair:]]] I understand that is a perfectly possible situation.  If that is the case, it comes back to the need for the Treasury to adjust the assumptions on which it is making its future financial modelling.
+
+[[[Mr Willetts]]]: The Treasury is working on the basis that there is an agreed Government policy to sell the first tranches, subject to a value-for-money case.  The policy decision has been taken.  We can press an abort button and, if it is bad value for money, we will do so, but the settled policy, which we believe we can deliver, is to sell the tranches.&#xa0;
+
+[[[Q128 ]]]&#xa0; 
+
+[[[Katy Clark:]]] Currently, graduates pay the lower bank base rate plus 1% or current RPI.  Your financial advisers, Rothschild, estimated that only £1 billion to £2&#xa0;billion could be sold with this condition in place, but over £10 billion with it removed.  It has been suggested that you could sell the income-contingent loans and create an artificial hedge to remove that condition for investors.  Is that the way you are thinking?
+
+[[[Mr Willetts]]]: These are exactly the types of issues that our expert advisers are looking at.  We have made it clear that we are not going to change those repayment rules.  As to exactly how you handle that in terms of the structure of the sale, Mr Harrison may want to comment.
+
+[[[Michael Harrison]]]: This is exactly the sort of thing we are working on at the moment as part of the preparatory phase, but no decision has yet been taken.  That was the advice Rothschild gave us a couple of years ago.&#xa0;
+
+[[[Q129 ]]]&#xa0; 
+
+[[[Katy Clark:]]] Could you expand a little on your thinking and where you are in that process?  I appreciate that no decisions have been taken.  If you were to sell £12 billion of debt under those terms, how would you do that, given the advisers estimate that you could offload only £2 billion?  Can you give us a bit more information?
+
+[[[Michael Harrison]]]: The Rothschild report was in November 2011 and that formed the basis of the feasibility work, which took us into this new phase.  We are revisiting all those assumptions with our new advisers, Barclays, in conjunction with Rothschild, to make sure we do get the right structure for the current market conditions, which have moved on quite a lot from two years ago.  If anything, the market conditions are a bit more buoyant now in the debt and equity markets, so we really need to think about the structure of the current market.  Some of these decisions can be taken only quite close to the point of action or in relation to the sale, so it is fine-tuned to the particular market conditions at the time.
+
+[[[Mr Willetts]]]: Financiers come up with these names.  The device of a synthetic hedge, which sounds to most of us like plastic grass, is one option that Rothschild looked at as an attempt to construct for a future purchaser a flow of revenues, as if the base rate plus 1% rule did not exist.  That is a candidate.  It has not been decided, but that is the kind of thing you could do.  I re-emphasise that we have made it clear that we are not going to change the actual rules on the repayment formula for real graduates.  &#xa0;
+
+[[[Q130 ]]]&#xa0; 
+
+[[[Katy Clark:]]] You are considering this artificial hedge.  Is there anything else you are considering that you could share with the Committee?
+
+[[[Mr Willetts]]]: It is quite early, and these are exactly what our advisers are looking at.
+
+[[[Michael Harrison]]]: Very broadly, we cannot possibly sell all of the pre-Browne loans, which have a face value of £45&#xa0;billion, in one go, so we need to think about how the sales will be segmented—that is, in terms of a multi-stage sale process, which loans are sold and when, and what markets we target. Those are the things we are principally going through at the moment, together with the commercial preparatory work that we need to do for a very large sale.&#xa0;
+
+[[[Q131 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] Mr Harrison, are there any other examples, nationally or internationally, of such synthetic hedges on the scale we are talking about here?
+
+[[[Michael Harrison]]]: No. We are dealing with a very specific issue in relation to the loan terms that we have now.&#xa0;
+
+[[[Q132 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] So it is unique in international global markets to have a sale of debt of this nature with this type of arrangement.  I would have thought the risk to the taxpayer if you do not make the right calculations could be really adverse.
+
+[[[Michael Harrison]]]: This particular structure is unique.  The concept of having an instrument sold in conjunction with something else is quite common in the market, though, so that will not be a surprise.  As David said, this is a new asset class and there are a number of issues we need to address in the market which will necessarily be different from what we have seen before.
+
+[[[Mr Willetts]]]: If I might add, the taxpayer has a risk at the moment, which in a way we are going through at the present.  When base rates are very low, graduate repayments end up being very low, so it is a real-world risk for the taxpayer anyway.  Part of the logic of the sales, where you can do it, is to shift some of these risks, but the one way we are not going to do it is by changing the repayment terms for graduates.&#xa0;
+
+[[[Q133 ]]]&#xa0; 
+
+[[[Chair:]]] Can I summarise the position?  In his autumn statement, the Chancellor said that the expansion of student numbers would be financed by the sale of the student loan book.  We now have the Government’s advisers saying in effect that, depending on whether the Government provide some sort of artificial subsidy to the purchaser, the sale price could be as little as £2 billion, when the autumn statement predicated its figures on £12&#xa0;billion.  That is quite a serious black hole.  How are you going to address it?
+
+[[[Mr Willetts]]]: The document to which you are referring was a 2011 assessment looking at a specific set of issues, including this repayment issue, and in very different market conditions.  One of the reasons we are intending to proceed is that we think circumstances are now a lot better, and our advisers are optimistic about what they can secure.  The document then was very different from the circumstances we face now.&#xa0;
+
+[[[Q134 ]]]&#xa0; 
+
+[[[Chair:]]] What are Rothschild advising you at the moment it will get?
+
+[[[Mr Willetts]]]: We are at the stage where they are doing a lot of work on the valuation framework and the mechanics for sale.  That is continuing work and no final decisions have been taken on the mechanics.&#xa0;
+
+[[[Q135 ]]]&#xa0; 
+
+[[[Chair:]]] As yet, you have not been given any advice that gives substantial reassurance that that black hole has disappeared.
+
+[[[Michael Harrison]]]: We have been given very specific advice that market conditions have improved since that report was given, so we know that the general environment is stronger than it was before.  That is why we are revisiting that sort of issue; so that sort of instrument may or may not be required in any future sale.
+
+[[[Chair:]]] Wings and prayers come to mind.
+
+[[[Mr Willetts]]]: No; it is a clear intention.&#xa0;
+
+[[[Q136 ]]]&#xa0; 
+
+[[[Caroline Dinenage:]]] The National Audit Office was concerned that the Government doesn’t target the amount of money it collects each year.  Do you agree that such a target would be useful for transparency?
+
+[[[Mr Willetts]]]: The National Audit Office report was very useful, and we have accepted its recommendations.  One comment I would make about the question is that here we are talking about repayments over the next 30 years that will be dependent on a host of factors: the performance of the economy and the jobs market, earnings, and women’s earnings relative to men’s.  The HMRC are still in the early days of forecasting income tax receipts, 20 years out.  With all those macro-economic issues, nobody can expect you to reach those kinds of rigorous forecasts as far ahead as we have to look with graduate loans.  What you can do is try to ensure that the Student Loans Company gets on with ensuring that graduates meet their financial obligations—this was Mr Binley’s earlier point, quite rightly—that it does so efficiently, that we don’t miss a trick and aren’t outwitted, and that money due is collected.  That we can focus on, but it is very important to disentangle these points.  If graduate repayments are lower because average earnings are lower than forecast, that is different from graduate repayments being lower because the Student Loans Company fails to pursue people efficiently.  We have to disentangle those different effects.&#xa0;
+
+[[[Q137 ]]]&#xa0; 
+
+[[[Caroline Dinenage:]]] Forgive me—are you saying targets are useful for transparency, or not?
+
+[[[Mr Willetts]]]: It is useful to set a target for given economic circumstances, provided people understand that, for example, over the last few years earnings growth has been less than most external forecasters expected. That affects graduate repayments; it does not of itself mean that the Student Loans Company has proved to be incompetent.
+
+[[[Matthew Hilton]]]: On the specifics of the target, there is a difference between targeting and forecasting.  It is important to think about our work with the Student Loans Company in the context of the SLC doing their work as part of the HMRC system.  The HMRC does not have a target for tax collection; it has a strategy that looks at maximising yield and reducing the gap between what it should get and does actually get.  What we can do—this was the thrust of the report—is work more sharply with the SLC, which we are trying to do, and work alongside HMRC to ensure we maximise efficiency in that way.  It is a slightly different question from just imposing a monetary target, and a slightly broader approach to strategy than that.&#xa0;
+
+[[[Q138 ]]]&#xa0; 
+
+[[[Caroline Dinenage:]]] I think that the National Audit Office sympathises, recognising that it is very difficult to set a target that relies on wider economic variables, and of course that is going to be outside your Department’s control in the wider remit.  I wondered if you felt it would be helpful to have some form of target as a starting point for a “comply or explain” basis.
+
+[[[Mr Willetts]]]: We have accepted the recommendations in the NAO report, and we now have to work out a sensible way forward that disentangles these different effects.
+
+[[[Matthew Hilton]]]: We could target the SLC against a sharper strategy, but, as I said a moment ago, the real work lies in establishing what that strategy actually is.  I do not want to target them with something that does not make any sense.  I am sure we can get a crisper target, but I do not think that it will be, as you said a moment ago, a monetary one.
+
+[[[Mr Willetts]]]: Perhaps I can comment on the recommendations of the NAO.  BIS does not currently set a collections performance target.  In our response, we have said that we intend to mirror and adapt the HMRC approach to collection performance by undertaking work to identify the student loan repayment gap; identify weaknesses in our system; identify specific yield activities, such as overseas borrowers; follow up employer start notices fast using RTI data—absolutely practical things—and set a longer-term target to increase, score and track the activities against them.  We are working through the NAO’s recommendations—provided that we do not get ourselves into the implausible position of setting a figure for five years’ time and, when earnings undershoot, suddenly we are all told that we have failed.  It has to depend on the changing circumstances.&#xa0;
+
+[[[Q139 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] We talked earlier about graduate borrowers who are living abroad.  The NAO report said that over three quarters of the overdue payments from that group had been overdue for between one and four years.  What are you doing to chase these loans harder, given it is likely that the number of graduate borrowers who live abroad will increase and the amount owed per graduate will also increase?
+
+[[[Mr Willetts]]]: We are stepping up the procedures for overseas borrowers.  For example, we are improving online statements so they can see where they stand.  We are trying to make it easier for overseas borrowers to repay through the introduction of PayPal or other electronic overseas repayment methods.  We are also creating much stronger incentives for them to repay by communicating to them that, if their repayments pause—if we have asked them for information and they are not providing it—they are racking up interest at RPI plus 3%, no matter what they are earning, and that will remain until the Student Loans Company receives the information requested.  We are absolutely trying to put pressure on borrowers overseas.&#xa0;
+
+[[[Q140 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] But you will appreciate that the longer the debt remains unpaid, the risk of its having to be written off increases exponentially.  What are you doing to try to get more people to repay when their arrears are less than one year?  Clearly, once you go past one year to two years, you may as well, in most cases, forget about seeing the debt coming back ever again in a commercial sense.  What is the Student Loans Company doing to try to get those figures down?
+
+[[[Mr Willetts]]]: One thing we are doing is to contact EU borrowers before they graduate to make sure we have their correct contact details when they leave the country.  To get the scale of this, 41% of EU students pay their fees up-front because they never take out a loan, compared with 9% of English ones; and about 20% of EU students who do take out a loan repay it immediately on graduation, which is a much larger proportion than UK students.  We have quite effective systems for checking.  Often, these people want to settle their loans.  We are absolutely up for continuing to pursue them.  Earlier in this session, we heard the figure of £45 billion given as the pre-Browne income-contingent loan stock.  Of that, I think £450&#xa0;million, or 1%, represents EU borrowers, although I will happily write to the Committee if that is incorrect.  We are absolutely energetic about it, but sometimes the picture given is that somehow we are being ripped off by these people.  We are energetic in pursuing them, and it is a small part of the total picture.&#xa0;
+
+[[[Q141 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] The point is that UK graduates working abroad are becoming an increasing strain.  The other point is that 43% of the 368,000 borrowers with no employment record have not provided information to confirm whether or not they are earning enough to repay.  Are you confident that you do not have a problem with people basically avoiding making repayments?
+
+[[[Mr Willetts]]]: We are improving this.  In the past, the Student Loans Company did not do enough to keep in contact with people when they went abroad, and the new powers we have with the RPI plus 3% penalty mean we can keep in contact with them.  The Student Loans Company is much more focused on getting information.  They also know that there are penalties down the track if they should be repaying or providing information and they do not, and ultimately we will pursue them through the courts in the EU or elsewhere.  You cannot pursue someone living somewhere else through the courts to repay a graduate tax; you can pursue them through the courts if they have contractual obligations to repay, and we have done so and will do so. &#xa0;
+
+[[[Q142 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Can we talk about students with parents who are Turkish, and who get the loan through self-certification?  Turkey is well-known for having a slightly leakier border than most.  The conditions state: “A student who is the child of a Turkish worker who is ordinarily resident in the United Kingdom, and who is or has been lawfully employed in the United Kingdom”—one assumes that is at some stage—“can also apply for…loan and maintenance support.”  I wonder how we check that out in a country that does not quite have the standards of border control that even this country has.  
+
+[[[Mr Willetts]]]: I do not want Anglo-Turkish relations to plummet as a result of this, so we had probably better not get into this.
+
+[[[Mr Binley:]]] I think the Turks would admit they have a problem, and they are concerned about it. 
+
+[[[Mr Willetts]]]: As they are not part of the EU—you have touched on this, Mr Binley, and you are absolutely right—someone would only have an entitlement to loans if they had been resident in the UK for three years.  That would be the criterion on which they claimed, rather than anything else.  &#xa0;
+
+[[[Q143 ]]]&#xa0; 
+
+[[[Mr Binley:]]] “Or has been lawfully employed in the United Kingdom”.  It is that second bit that provides a bit of an open door.  
+
+[[[Mr Willetts]]]: Yes, and we do need to be very rigorous in ensuring that people have genuinely been resident for three years and have the documents to prove it.  If they do not have the documents to prove it, they are not entitled to loans.  We have, most recently in the case of Romanian and Bulgarian students, absolutely gone through a set of checks.  What happened was that there seemed to be an unusual proportion of students who were—&#xa0;
+
+[[[Q144 ]]]&#xa0; 
+
+[[[Mr Binley:]]] We stopped the loans, did we not, on 13 October?
+
+[[[Mr Willetts]]]: We did.  We said to all of them, “We are stopping all loans.  Now, come back to us with the documentary evidence that you have actually been living in the UK for three years, and then we will restart the loan.”  This is exactly how we are always policing this system.  As you said earlier, Mr Binley—and you are quite correct—the UK taxpayer should not be paying out any loans where there is not clear legal entitlement.  We are very rigorous about that, and so we should be.  &#xa0;
+
+[[[Q145 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Can I just follow that up?  There was a suspicious surge—to use, I think, your own Department’s language—and they were frozen on 13 November because of student loans to Romanians and Bulgarians, some of whom came through Turkey.  Can you tell me what the latest is on that?  You will know that there is some concern about this whole issue.  
+
+[[[Mr Willetts]]]: Yes. Some 7,448 students had their payments blocked and received letters asking for additional evidence on residency.  These are the latest figures I have, and I will happily update the Committee if they are out of date.  Of these, 2,783 have now replied with evidence, and 853 have already had their payments reinstated.  Those are the latest figures here, but I will happily go back and check if there is any further update.  &#xa0;
+
+[[[Q146 ]]]&#xa0; 
+
+[[[Mr Binley:]]] So you have dealt with just under half of them so far.
+
+[[[Mr Willetts]]]: Yes.  Of course, if we do not hear from them again—
+
+[[[Mr Binley:]]] Then that is the end of it.
+
+[[[Mr Willetts]]]: —they have no entitlement.  They have to come back and offer evidence, and we cross-check the further evidence.  &#xa0;
+
+[[[Q147 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I am grateful for that.  The point I am making is that we do need to check.  I want to be assured that we are checking. 
+
+[[[Mr Willetts]]]: Absolutely. &#xa0;
+
+[[[Q148 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] We have discussed the issue of RAB charges before, Minister.  You will recall that, in those distant days when we were debating a new funding regime, your projection for the RAB charge was 28%.  That was subsequently revised upwards, through 30% to 32%.  I think in a parliamentary answer last week, you conceded the RAB charge for post-2012 loans was now 40%.  You will remember that HEPI consistently stated the figure at 38%.  Back in October 2012, when the Secretary of State came to see us, he described HEPI’s calculations as nothing more than—and I quote—“An outlier in the debate”.  Would you concede that, actually, they got it broadly right?  
+
+[[[Mr Willetts]]]: I do not want to suggest I am in a kind of grudge match with Mr Bahram.  I think his calculations as to how he got to the 40% were not calculations that we accepted then or accept now. The main thing that has happened in the years since we made that original forecast is very simple: earnings are not growing by as much as forecast.  What therefore happens is that, twice a year, in the budget and the autumn statement, there is a new OBR earnings forecast.  We assiduously recalculate what we think is likely to be repaid, because this means that essentially, the £21,000 repayment threshold has risen relative to average earnings.  We come up—and we can only work on the basis of authoritative forecasts—with a new RAB charge.  This, due to what has happened in the economy in the past few years with earnings underperforming, has always been higher.  At some point in the future—I suspect long after I have ceased to be the Minister—we will have a burst of earnings inflation, and there will be a time when a Minister is able to come to this Committee every six months and announce the RAB charge is down.  I am sure we will say it is because of his extraordinary skill in running the Student Loans Company and collecting money.  However, he will actually be riding macroeconomic trends.  &#xa0;
+
+[[[Q149 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I appreciate the comment about not having a grudge match with Bahram, but the factor you cite in terms of earnings was actually the one where he said you’d got it wrong, wasn’t it?                                                                                                    Let me move on.  Casting my mind back to October 2012, you wrote in The Independent that when calculating the RAB charge, “HEPI assumes the worst outcome for taxpayers on pretty much every variable”.  Given that they said 38%, and you have now conceded 40%, can we therefore conclude that the taxpayer has indeed suffered the worst outcome?  
+
+[[[Mr Willetts]]]: This goes back to my point—it is possible that he has been right for the wrong reasons.  That is why it sounds like a grudge match.  It does not follow that the RAB charge’s having got to 40% is because the exact calculations that he made then were correct.  The big thing is earnings.  Our forecasts, 30 years out, are incredibly sensitive to a change in earnings every six months.  To be honest, all we do as a Department—and all we should do—is go on the OBR forecast.  We do not reach a separate view on earnings.  We just accept the OBR forecast and apply it.  Anything else would be very risky.  There is a second issue, which is what we think is going to happen to the structure of graduate earnings.  This, again, is why, looking out 30 years, there are big imponderables.  What, for example, is going to happen to the pattern of women’s earnings as against men’s?  How much are earnings going to bounce around?  If you are going to have periods of high earnings, and periods of low earnings, that is better for repayments than if people are going to be stuck on low earnings.  When you are getting into the detailed modelling, you are having to take some quite ambitious views about the future structure of the British jobs market.  These RAB charges are highly sensitive to changes in views about things.  They will keep on changing, because nobody can know exactly what the structure of graduate earnings is going to be in 20 or 30 years’ time. &#xa0;
+
+[[[Q150 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] You were fairly confidently talking about them back in 2012.  Can I just press the point?  You did describe a 38% RAB charge as the worst outcome for taxpayers.  What do you describe a 40% RAB charge as?
+
+[[[Mr Willetts]]]: What has happened is that, as earnings have grown by much less than expected, that means that graduates will be paying back less than was forecast at the time.  We have to always raise the game with the Student Loans Company, but the taxpayer has not lost out in the sense of the Student Loans Company having failed to collect money.  We are all, in this respect, passive in the face of big economic trends.  I cannot remember the details but I think that the reasons for the HEPI calculation of 40% were not quite the same as the factors I am now drawing to your attention today.  &#xa0;
+
+[[[Q151 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Just out of interest, have you now incorporated into the Department’s modelling any of the HEPI factors that led to the 38% calculation?
+
+[[[Mr Willetts]]]: I really cannot remember the basis of that calculation by HEPI.  What I can say is that we are doing more work and it is showing.  We have commissioned outsiders.  This is not done internally; we have commissioned outside experts.  There are some factors at work that will increase the RAB charge.  It looks, for example, as if people on low earnings are more likely to be on low earnings consistently, and less likely to have periods of bouncing into high earnings, than was assumed in the original modelling.  Things like that will push up the RAB charge.  We are continuously working on all this.  You are trying to take a view of the structure of British earnings over the next 30 years, and that is why they are estimates that will change.  &#xa0;
+
+[[[Q152 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Might some of the modelling that you are doing currently in the Department suggest that the RAB charge will rise significantly beyond 40%?
+
+[[[Mr Willetts]]]: I will happily keep the Committee informed of the developments of our thinking.  Certainly, a live issue that we are looking at at the moment is the patterns of earnings.  There is a kind of asymmetry.  If you have less variability in earnings—people in high earnings have already repaid their repayments, so the fact they are on high earnings for longer does not increase the amount we collect from them.  For the people on low earnings, if they are sadly stuck on low earnings rather than bouncing up for periods when they would be able to repay, that reduces the amount we collect from them.  That is an issue that our experts and outside advisers are focusing on at the moment. &#xa0;
+
+[[[Q153 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] If I can just push a little bit more, I understand the basis that is creating this trend, but some of the modelling you are now doing suggests that the RAB charge might be high 40s or even above 50%. 
+
+[[[Mr Willetts]]]: I do not want to speculate on the future RAB.  I am levelling with the Committee.  This process whereby every few months the RAB charge goes up because of a new earnings forecast is almost inherent in the system when you have been in a recession and have had low earnings.  I do not think the process of revising the RAB charge is suddenly going to stop.  Indeed, as I said, I can imagine for someone in the future it is going to go the other way.  It is in some ways one of the rather frustrating features of this.  We are endlessly getting a new earnings forecast and endlessly recalculating it.  The changes in the RAB charge are not some kind of deep defect in the system; they are a consequence of the inherent nature of how the calculations are done.&#xa0;
+
+[[[Q154 ]]]&#xa0; 
+
+[[[Chair:]]] Can I go on now to the strategy and future of student financing, in particular the Student Loans Company?  Last year, the Student Loans Company identified three strategic objectives, which I will just go through.  The first was the maximum collection of repayments due, and information about those who are or are not repaying.  The second was that borrowers understand repayment arrangements and fulfil repayment obligations. The third was to improve the efficiency of the Student Loans Company collections operation.  Dealing with these three strategic objectives in turn, first of all, how do you think you can ensure maximum collection of repayments due, etc?
+
+[[[David Willetts]]]: I might ask Mr Hilton to comment but, essentially, by collecting information promptly, keeping in touch with people who have borrowed, and being energetic in reclaiming it.  Do you want go through the performance measures in more detail?
+
+[[[Matthew Hilton]]]: That does explain much of our approach to this, and we touched on some of it before as well in relation to the discussion around the NAO report.  The key things I would draw attention to is the role that the SLC leadership is playing, first of all, in managing the organisation from a position of some difficulty a few years ago, where there were some well documented difficulties with their performance, into a position where their performance is now relatively strong; and their plans for future investment, which we talked about earlier, with a multi-million-pound investment in a system that will completely redevelop the student experience.&#xa0;
+
+[[[Q155 ]]]&#xa0; 
+
+[[[Mr Binley:]]] The first section of the question asked by the Chairman gets to the very point that concerns me enormously: information and the credibility of information. It seems to me that we have relied so much on self-certification, as it were, up to now. Points were made by the Student Loans Company about their objectives in 2013.  They have had not a massive time but a little time to get on with it; we are now halfway through the first month of 2014. What reports are you getting from them that their information-collection is improving?  My information is that it needs to improve pretty dramatically.
+
+[[[David Willetts]]]: What they have got a lot better at is accessing HMRC data online, and this matters at several points.  The first point it matters at is when prospective students apply for support—maintenance support in particular—when we need to know the personal financial circumstances of that student’s parents.  Compared, I have to say, with the system that we inherited in 2010, which was part of the problems that we had in those days, we now have a less clunky, more direct arrangement whereby HMRC is giving SLC the data it needs about the earnings of parents.  There is then the collecting of the actual loans through HMRC when they are due.  The HMRC/Student Loans Company online data-sharing has been transformed in the past two years.  That is a wild claim but I am going to stand by that.  A lot of it was almost paper stuff.  It was pretty shocking.&#xa0;
+
+[[[Q156 ]]]&#xa0; 
+
+[[[Mr Binley:]]] It was awful stuff, wasn’t it? You are hopeful, though, that it will get even better?  I assume you think that that improvement will continue.
+
+[[[David Willetts]]]: Mr Hilton has been working flat-out on this.  The Student Loans Company’s IT system is old and creaking, and it desperately needs replacement.  One always has to cross one’s fingers when talking about Government IT procurement contracts; we are in dangerous territory here.  We have had the Cabinet Office and lots of outside experts trawling all over it.  We have had a long and very rigorous procurement process, so the real moment when the collection procedures will be far more efficient is when we have the new IT system.  What we have been able to do, and will be going online with this weekend, I believe, or early next week, is the prospective student experience when you first apply to the Student Loans Company.  That, too, was dreadful and clunky; it wasn’t “smart”.&#xa0;
+
+[[[Q157 ]]]&#xa0; 
+
+[[[Chair:]]] That is my next question, on the second strategy. Are you confident that “borrowers understand repayment arrangements and fulfil repayment obligations”?
+
+[[[David Willetts]]]: I have to pay tribute to the Student Loans Company.  Compared with the situation that organisation was in during 2009-10, when many of us had constituents who were just not getting money that was due to them during that crisis in the autumn of 2009, they have made great strides. The latest will be visible within a week, when the online application process will be much clearer and simpler.  There has been a much more logical process of pairing. The main questions are asked and, if you do say something which suggests there is a financial issue that needs to be pursued—it could be disability or whatever—you are directed into a subset of questions that everyone else does not need to bother with.  I trialled it myself the other week and it is a much clearer and more effective way of communicating the basic terms of the student loan, giving prospective students the information they need about it, and getting the key information from them.&#xa0;
+
+[[[Q158 ]]]&#xa0; 
+
+[[[Chair:]]] I just want to ask how you respond to the third element of the strategy.  What is your reaction to the NAO’s recommendation that the company should use debt collection agencies to improve the efficiency of the operation?
+
+[[[David Willetts]]]: I do not think we would rule that out.  As I say, the NAO report was very helpful for us, and anything that we can do that is practical and improves the ability to collect money, we will.  Most of it is, however, via HMRC, which is a unique feature of the system.  I thought that, in the past, we had used debt collectors but, certainly, if it would help, we will.&#xa0;
+
+[[[Q159 ]]]&#xa0; 
+
+[[[Mr Walker:]]] I apologise for the fact that I had to step out earlier.  I just wanted to come back on some of what you were saying about improving the front end of this for students. I have had quite a lot of feedback recently from constituents about problems with the front end. One particular case springs to mind where someone was being pursued for the full amount and wasn’t given any of the advantages of being worse off, right up until the point where their parents were declared bankrupt.  Clearly, something was not working in terms of the information about their parents’ earnings and how well off they were feeding through into the system, so any improvement on that front would be very helpful.Coming back to Brian’s point about overseas students, and British students going overseas, can you reassure us that the improvements to IT will help in making sure that payments are collected from those who can pay but simply move overseas?
+
+[[[David Willetts]]]: On both of those points, we know the Student Loans Company needs to do even better.  It is better than it was but there is still more work to be done and, yes, we will be rigorous and energetic in collecting money.  We are absolutely committed on this, which is why we already putting big efforts into this.  People should not imagine they can go abroad and somehow escape their obligations—they cannot.&#xa0;
+
+[[[Q160 ]]]&#xa0; 
+
+[[[Mr Bain:]]] Last month, the Committee heard from Toni Pearce of the National Union of Students, and it has concerns about the recruitment of HNC and HND students by profit-making providers.  Do you agree with the NUS’s position, which is that there is a fundamental objection to providers who are making a profit out of the education system?
+
+[[[David Willetts]]]: I do not agree with that as a fundamental objection.  What matters is the quality of the education for the student, rather than the exact legal status of the provider.  That is perhaps a difference of philosophy between us.  I do care a lot about the student experience, and that is what matters.&#xa0;
+
+[[[Q161 ]]]&#xa0; 
+
+[[[Mr Bain:]]] How would you reassure the NUS and other people in our country who would share the same view, who believe that, effectively, the state is subsidising the profits of private providers?
+
+[[[David Willetts]]]: There are a range of providers of higher education.  They come in a surprisingly wide variety of legal forms and, I have to say, even under the previous Government, degree-awarding powers were given to, I think, one private provider, and I was not aware that it was any party’s philosophy that, in higher education, this should not be permitted.  All providers, however, need to be rigorously regulated through the Quality Assurance Agency and other bodies, because it is completely unacceptable if students are let down by shoddy and poor-quality provision.  In the past, the regulatory regime was so dependent on getting grants from HEFCE that the worst of the providers, under the system we inherited in 2010, were not being properly regulated. We are extending regulatory requirements and check-ups of the financial strength of the organisation, and QAA inspection, in a way that is more ambitious than it was in the past.&#xa0;
+
+[[[Q162 ]]]&#xa0; 
+
+[[[Mr Bain:]]] Are you looking at extending the expectations of providers, which may be private or may come from different origins, as you have said, in terms of the taxpayers’ money they will be receiving?
+
+[[[David Willetts]]]: We have to be careful here, because HNCs and HNDs are legitimate qualifications and we must be very careful about that.  What we did face was a very rapid growth in the number of students going through alternative providers and, to be honest, that was just a financial pressure.  We could not afford growth on the scale that was happening, so we have said to those alternative providers that were taking on extra students most rapidly that our baseline is their 2012&#x2011;13 student numbers.  We have had an upward financial pressure caused by the rate of growth in the number of students that they were recruiting.&#xa0;
+
+[[[Q163 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] If I could just press a little bit more, from a slightly different angle, on this question—and it is something that I raised with you in the House before Christmas—there were a number of warning signals about the difficulties that we got into with alternative providers.  This Committee, back in November 2011, raised concerns.  There were calls for a moratorium in May 2012.  You conducted a consultation, which ended in March 2013, on student number controls.  At that stage, on 27 March, you said, very confidently and very much in line with your policy trajectory, “Today’s announcement will enable alternative higher education providers to continue with their current plans rather than blocking planned expansion”; yet seven months later, you wrote to them suspending their designation and, effectively, blocking planned expansion.  Why did you ignore the warning signs?
+
+[[[David Willetts]]]: What you call the trajectory—I believe in diversity of HE provision.  Above all, that is in the interests of students.  There are now seven alternative providers with their own degree-awarding powers. Four of them are now full universities, two of which, in turn, are for-profit: the University of Law and BPP University Ltd.  I continue to say and believe that that is, above all, to be judged by what is in the interests of students.  This is a new regulation that we have introduced in the last year or two, and what we are now saying is that a recent, successful QAA review is a prerequisite for applying for specific course designation.  What we have been doing is absolutely welcoming a wider range of providers, but extending to them regulatory and quality requirements like this QAA review.What has affected our calculations was a surge in the number of students, especially in sub-degree courses—HNCs and HNDs—which was at a greater rate and, frankly, simply a bigger number than we could afford.  Where we have suspended designations, it has been simply because of the costs of the rate of growth.  Remember that, although we are looking forward to entering a new world without number controls, there are in the current world number controls necessary to deliver public expenditure.  Alternative providers have had to accept, therefore, that that kind of rate of growth, when everyone else is having number controls, is simply not something that we can afford.&#xa0;
+
+[[[Q164 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Is it not true to say that these were the sorts of concerns that were raised during the consultation and were fairly confidently brushed aside by the Department and by you last March, and that the failure to respond to those by introducing the sorts of controls that you subsequently did has left a black hole in the BIS budget, which is impacting on other areas of HE spend?
+
+[[[David Willetts]]]: I would say that, when we look at what we have done in the past three years, we have gone a lot further than the system we inherited in extending both quality regulation and our ability to set out and impose number controls—&#xa0;
+
+[[[Q165 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I am sorry to interrupt, but my point was, the failure to act sooner did create a black hole in the budget, didn’t it?
+
+[[[David Willetts]]]: No, because when—
+
+[[[Paul Blomfield:]]] Was there no negative impact on the HE budget?
+
+[[[David Willetts]]]: When it was clear what level of growth they were planning for the future, at that point we have, for example, told those providers with the most ambitious expansion plans for HNCs and HNDs that they should stop recruiting students to start these courses in 2013&#x2011;14.  When there was a signal of a budget pressure, we acted and, as a result, the growth in the number of students at alternative providers will be much less than previously forecast.  We have done that and we have done it in time.  We have also attached a range of conditions to the designation of a course—both quality conditions and agreement to participate in number controls—that were not set in the past.  I would say that we have to get the balance right.  We want diversity but we have to live within our budgets.&#xa0;
+
+[[[Q166 ]]]&#xa0; 
+
+[[[Chair:]]] Just to conclude, I have been trying to get my head round the funding structure post the sale of income-contingent loans.  Tell me if I have this right: first of all, students would pay HMRC; HMRC would pay BIS; and then BIS would pay private companies.  Is that the correct flow of finance?
+
+[[[David Willetts]]]: I am not sure that BIS particularly comes into it.  There is this idea of a server unit, which I might ask Mr Harrison to describe.
+
+[[[Michael Harrison]]]: Broadly, the flow is correct, but instead of BIS it is a master-servicer function.
+
+[[[Chair:]]] It is what?
+
+[[[Michael Harrison]]]: A master-servicer function.
+
+[[[Chair:]]] A master servicer—it sounds like a traditional engineering trade, but sadly it is not.  I think that other interpretations could be put on that, but we will not go down that road.  Go on.
+
+[[[Michael Harrison]]]: The master servicer is the interface with investors.  Repayments come through HMRC to the master servicer and then on to investors.
+
+[[[David Willetts]]]: The master servicer is within the public sector.
+
+[[[Michael Harrison]]]: It is, yes.&#xa0;
+
+[[[Q167 ]]]&#xa0; 
+
+[[[Chair:]]] It does seem that it is a rather complex process and, presumably, there will be costs incurred by each element of that process and some sort of reimbursement.  Would it not be simpler just to have students paying the companies?
+
+[[[Michael Harrison]]]: It is quite a common structure in transactions of this kind, because a simple interface between the investors and the organisation that has the repayments is, overall, lower-cost than having lots of individual arrangements with separate investors.  Overall, it is a lower-cost option for arranging the servicing.
+
+[[[Mr Binley:]]] I am not sure I believe that, frankly.  Will you write to us and give us the total detail, so that we can analyse it?  Forgive me, but I have heard this sort of nonsense before from people like Goldman Sachs and it turned out to be very unhelpful.&#xa0;
+
+[[[Chair:]]] It would be very helpful if you could spell out in detail how it would work and how it is a more cost-effective way, because I think, on the surface, there would be a fair degree of cynicism about that assertion.Can I just conclude by thanking you very much?  I think it is fair to say that there are a number of issues that have been raised, which we will want to comment on and put in our report, and we will welcome the Government response to them in due course.  There are certainly very serious issues that have to be fully thought through, and we will be making fairly robust and rigorous recommendations.  Thank you, Minister; that was very helpful.                      Oral evidence: Student Loans, HC 930                            22

@@ -1,0 +1,65 @@
+&#xa0;
+
+[[[Written evidence from the BBC]]]
+
+[[[&#xa0;]]]This note summarises the BBC’s principal comments in respect of the written evidence submitted by Mr John Linwood to the Public Accounts Committee, dated 23rd January 2014.&#xa0;The paragraph numbers refer to the paragraphs in John Linwood’s submission.  &#xa0;
+
+[[[It is incorrect to state that all major technology issue]]]
+
+[[[s]]]
+
+[[[ with DMI had been addressed by October 2012.  Equally, it is incorrect to state that ]]]
+
+[[[DMI technology could ]]]
+
+[[[have worked ]]]
+
+[[[with limited ]]]
+
+[[[further testing]]]
+
+[[[ ]]]
+
+[[[(paragraph]]]
+
+[[[s]]]
+
+[[[ 5b and 11)]]]
+
+[[[. ]]]&#xa0;At the 4th October 2012 DMI Steering Group meeting, the BBC PMO (project management office) DMI Status Update was presented.  This cited a number of key functions of DMI Production Tools (PT) which were still in testing or development, including:&#xa0;In addition, this update also reported: “
+
+[[[Archive and re-use content]]] – not started; dependent upon the Digital Archive.&#xa0; Although components had been built, the work to deliver the Digital Archive was planned to start in October 2012.”&#xa0;In October 2012, Production Tools were also still reported as being in testing.  The System Integration Testing status for Production Tools was reported to the DMI management team as:&#xa0;On 8th October 2012, the report submitted to the BBC’s PMO by the DMI project team contained some very clear warnings that not all was well with the technical solution.  Specifically the following risks were noted:&#xa0;There are numerous extracts from the Accenture Report (March 2013) which demonstrate that extensive further testing was required to determine if core parts of the DMI technology would work.  These include:&#xa0;
+
+[[[It is incorrect to state that Accenture did not make any comment about the validity of Production Tools or the Digital Archive during their review (para]]]
+
+[[[graph]]]
+
+[[[ 43)]]]
+
+[[[.  ]]]&#xa0;It is true that Production Tools were not included directly in scope of the Accenture review.  However, Accenture did make a number of comments in their report about the quality and comprehensiveness of testing of Productions Tools – specifically: &#xa0;&#xa0;
+
+[[[It is incorrect to state that t]]]
+
+[[[he primary reason for delays to the project was a significantly large number of changes requested by the business ]]]
+
+[[[(paragraph 10)]]]
+
+[[[.]]]&#xa0;The DMI Change Log indicates that, of the 160 changes accepted by the Change Board from November 2009 to October 2012, the majority (68%) were related to technical or schedule changes – all items that fell within Mr Linwood’s remit on the project. &#xa0;Any change in business direction and conclusion that the original DMI vision was no longer valid can be attributed to the lateness of delivery. This resulted in the commodity production tool market overtaking what DMI was delivering.&#xa0;
+
+[[[It is incorrect to state that Accenture]]]
+
+[[[ recommended ]]]
+
+[[[“]]]
+
+[[[that there is enough potential value in DMI to move ahead with plans to build on it]]]
+
+[[[”]]]
+
+[[[ (paragraph 39)]]]
+
+[[[.]]]  &#xa0;Accenture did not make this statement in their report.
+
+[[[&#xa0;]]]
+
+[[[It is incorrect to state that Accenture said it would cost £25 million to start to rebuild the technology from scratch to get to the same position. ]]]&#xa0;We have spoken to Accenture since Mr Linwood’s written evidence was published and they confirm that during their review for the BBC they did not make any assessment of the cost of rebuilding technology equivalent to DMI.  They confirmed that they did not say “it would cost £25 million to start to rebuild the technology from scratch to get to the same position” (paragraph 39).&#xa0;Accenture did undertake a costing for replacing the Archive Database with an off-the-shelf equivalent.&#xa0; They estimated this cost to be between $6.8-10.4 million (£4.3-6.5 million), which was used to inform the residual value we attributed to this part of the system in the final assessment of the project.&#xa0;&#xa0;31 January 2014&#xa0;&#xa0;

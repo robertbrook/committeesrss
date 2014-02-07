@@ -1,0 +1,467 @@
+&#xa0;Joint Committee on Human RightsOral evidence: The implications for access to justice of the Government’s proposed judicial review reforms, HC 868Wednesday 4 December 2013Ordered by the House of Lords to be published on 4 December 2013.Ordered by the House of Commons to be published on 4 December 2013.Written evidence from witnesses:–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Professor Sir Jeffrey Jowell QC–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Professor Maurice Sunkin–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Rt Hon Sir Stephen Sedley–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Michael Fordham QC–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Feizal Hajat OBE–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Karen Ashton–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Helen Mountfield QC–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Mark Hammond–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Rob Hayward OBEListen to the meetingMembers present: Dr Hywel Francis (Chair); Baroness Berridge; Lord Faulks; Baroness Lister of Burtersett; Mr Robert BucklandQuestions 1-39Witnesses: 
+
+[[[Professor Sir Jeffrey Jowell]]]
+
+[[[ QC]]], Director of the Bingham Centre for the Rule of Law, Honorary Professor of Public Law at University College, London,
+
+[[[ ]]]
+
+[[[Professor ]]]
+
+[[[Maurice ]]]
+
+[[[Sunkin]]], Professor of Public Law and Socio-Legal Studies, University of Essex, and 
+
+[[[Rt Hon S]]]
+
+[[[ir Stephen Sedley]]], retired Lord Justice of Appeal, Visiting Professor at University of Oxford
+
+[[[Q1 ]]]&#xa0; 
+
+[[[ ]]]
+
+[[[Dr Hywel Francis]]]
+
+[[[:]]] Good morning and welcome to this evidence session on our inquiry into access to justice and the Government’s proposals for reform of the judicial review. For the record, could you please introduce yourselves?
+
+[[[Professor Sir Jeffrey Jowell]]]: I am Jeffrey Jowell. I am Director of the Bingham Centre for the Rule of Law. I am also a practising barrister at Blackstone Chambers, and I am Professor Emeritus at University College London, Professor of Public Law. For the purpose of this meeting, I was the United Kingdom member on the Venice Commission, which is the Council of Europe’s Commission for Democracy through Law, for 11 years—up to two years ago.
+
+[[[Sir Stephen Sedley]]]: Stephen Sedley. I was a barrister specialising in public law for 28 years, and then for 18 years a judge, first on the Queen’s Bench Division, and then of the Court of Appeal. I retired at the beginning of 2011 and since then have been a visiting Professor of Law at Oxford University.
+
+[[[Professor ]]]
+
+[[[Maurice ]]]
+
+[[[Sunkin]]]: I am Maurice Sunkin. I am Professor of Public Law and Socio-Legal Studies at the University of Essex.
+
+[[[Q2 ]]]&#xa0; 
+
+[[[The Chair:]]]
+
+[[[ ]]]Thank you very much. Thank you again for coming along to speak to us and answer our questions. Could I begin with Professor Jowell? We have heard a lot of complaints that the Government’s proposals will fundamentally undermine the rule of law. Some of us find the concept too vague to be practically useful when conducting detailed parliamentary scrutiny of these proposals. Can you explain precisely how the proposals threaten the rule of law as a practical concept, and the relationship between the rule of law and what we are particularly interested in—human rights?
+
+[[[Professor Sir Jeffrey Jowell]]]: I mentioned a moment ago the Venice Commission, which did a report a few years ago on the rule of law. If I could preface my remarks by saying the most significant thing about that report was that it received agreement from about 50 countries in the Council of Europe, from diverse legal systems. I chaired the committee that drafted this, and it took five years to get agreement, because initially there was not agreement. It was regarded as a vague concept, suitable perhaps to an Anglo-American system. Then Lord Bingham’s very accessible book on the rule of law came out. It made two very convincing points and allowed a consensus to emerge in the Venice Commission on what the rule of law was: first of all, that it was a universal concept, so the 50 diverse countries agreed that it was an important concept; and secondly, that it was a practical concept that could be reduced to what he called eight ingredients, which I will go over very briefly in just a second, and relate them to this inquiry. It was also regarded as a very powerful concept. It does not exactly coincide with democracy, but it is the spine of democracy. It does not exactly coincide with human rights, but it gives access to human rights. Many human rights are contained in the notion of the rule of law. The content is very straightforward, and is something we all understand. First, we should be governed by law and not by man. Therefore, it excludes anarchy on one side and tyranny on the other. Secondly, law should be equally applied, so there is a strong element of equality there: rich, poor, powerful, marginalised. Thirdly, law should be certain, predictable, so that people can plan their activities by the rule of law. Discretionary power in a complex society must be permitted, but then, as Lord Bingham says so convincingly, “Discretionary power must also be constrained; it must not be allowed to be arbitrarily exercised. It must be fairly exercised and within the law, as laid down particularly by Parliament.” So, that is an essential aspect of the rule of law, which is very relevant here. Then The Rule of Law goes on to contain another three or four ingredients that also apply here. You must be able to challenge laws; you must be able to challenge decisions. Obstacles should not be unduly placed in your way to challenge any decision that is made about you, whether by a local official or by the executive, be he ever so high. So, there is a strong element there of access to justice, which is very relevant here. Of course, when you get to the courts, there must be a fair trial by independent judges. So, that is the rule of law, as set out in the Venice Commission paper so clearly, with at the end of it a checklist so that countries could check them all off to see it was a practical concept. One other element that Lord Bingham puts in that is not stressed as much in the Venice Commission paper is that states must fulfil their international obligations; so that is the international rule of law. 
+
+[[[Q3 ]]]&#xa0; 
+
+[[[The Chair:]]]
+
+[[[ ]]]So how do the Government’s proposals measure up to that checklist? I noticed in that checklist that cost does not figure. 
+
+[[[Professor Sir Jeffrey Jowell]]]: Well, access to justice ought to, if possible, be provided without undue cost. Obstacles ought not to be placed in a way that might inhibit reasonable access to justice. The other aspect that is important here is the question of standing to sue; you might want to come to that later. No breach of the law, whether by an individual or by the state, should really go unremedied, if at all possible. Not every breach will need a remedy, but where possible the breach should be remedied. That is why we have rather broad standing to sue in this country, and it is a jewel in the crown of our judicial review. Not every individual has the means to challenge a decision that is made about him or about his general interests. However, we have NGOs here, and other groups, that can do so in the public interest. 
+
+[[[The Chairman:]]]
+
+[[[ ]]]With regard to the proposals? 
+
+[[[Professor Sir Jeffrey Jowell]]]: The proposals seek to reduce the opportunity for judicial review—to reduce broad standing to sue on the behalf of interest groups and others. They suggest that only an individual whose interests are directly affected may seek judicial review, and there are other aspects of the proposals as well.
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Mr Buckland:]]] Developing on that point, if I may, Sir Jeffrey, we all know that the link in the evidence that has been submitted to the Committee, for which we are all grateful, between the legal aid proposals and the judicial review proposals is, according to your paper, access to justice. That is, if you like, the thread that brings them together. I think you were beginning to develop some of the issues that you raise in the paper that may affect that principle of access to justice relating to the reforms. You mentioned already standing and in the paper you talk about costs as well. I wondered if you cared to just enlarge on those points for us.
+
+[[[Professor Sir Jeffrey Jowell]]]: On standing to sue, most countries—not all, but most democratic countries—allow somebody to bring a claim for judicial review to challenge a decision that is made about them by any official themselves, if their interests are directly affected. On occasion they are not able to do so, or unwilling to do so. The decision may affect the broader public as well, such as to build a motorway right through London, or not to prosecute in a situation when there was an allegation of corruption against our purchase of planes from Saudi Arabia. In that case, an interest group, such as the Corner House group in that particular case, or an environmental body, will seek to support the action brought by an individual or bring the action in their own name. In deciding whether to give permission to that claim, the courts will not assess the public interest in the actual substance of the decision, which is an error in the way this was presented in the proposals—the proposals suggest that the public interest there is a matter for Parliament. However, they are not talking public interest in the sense of whether it is a good thing to drive a motorway through London or not, but whether the legality of the way that decision was made—its procedures and so on—might be challenged. They will assess that on the basis of whether the legal issues should really be clarified because they seem prima facie but only prima facie and the law has not been correctly applied; or that there is nobody else available; or thirdly that this is a group that can bring some knowledge of the law and perspective about the case to the table. So they allow a group that is representing broader interests to come to the table in that case. It is the same situation in France, and most European countries, in South Africa, and most countries in the Commonwealth, where they have a very broad standing. If you reduce that, you would really reduce the opportunity to challenge these kinds of decisions. Breach of the law may go unremedied and judicial review might well be the preserve of large commercial interests, and indeed the Government. The smaller individuals, or individuals asserting the public interest in a perfectly legitimate, respectable organisation, would be shut out.
+
+[[[Mr Buckland:]]]
+
+[[[ ]]]Yes. The thrust of your argument in the paper is that in effect the courts already apply a strict test when it comes to standing. 
+
+[[[Professor Sir Jeffrey Jowell]]]: They do indeed. A very strict test. 
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Mr Buckland:]]]
+
+[[[ ]]]I was interested in your points about costs, and obviously you set them out very clearly. What one point would you say is of outstanding concern in terms of the proposals with regard to the reform of costs, either pre-permission, permission stage or the wasted costs?
+
+[[[Professor Sir Jeffrey Jowell]]]: I would prefer in that respect to defer to one of the other speakers here on costs. I can make one point about costs. If I may, I see in the next session Michael Fordham QC will be giving evidence. He assisted with this issue—as you see, his name is on there—and I think he is better qualified, as a practitioner who is in court so frequently, to answer that question. However, we did make the point that, in terms of legal aid, legally aided claimants seem to succeed in the permission stage to a greater extent than non-legally aided claimants, and that is a very important point to make. There was a statistical error in the first proposals on that subject, on that point. 
+
+[[[Mr Buckland:]]]
+
+[[[ ]]]Thank you very much indeed.
+
+[[[Q6 ]]]&#xa0; 
+
+[[[Lord Faulks:]]]
+
+[[[ ]]]I should begin by declaring an interest as a practising barrister who has appeared both for and against government and public authorities in judicial review cases. Sir Stephen, in your piece in the London Review of Books, you discuss, among other things, the alteration to the Lord Chancellor’s role following the changes in the constitution by the last Government. Although the role is perhaps secondary to the Secretary of State for Justice, I would like to ask whether you think that, as the Lord Chancellor’s statutory duty is to respect the rule of law and defend the independence of the judiciary, he is entitled to put forward these proposals for reform of judicial review.
+
+[[[Sir Stephen Sedley]]]: You have put your finger, Lord Faulks, on a very serious paradox that was created by the Blair Government, which attempted first to abolish the Lord Chancellorship then to reintroduce it as, so to speak, an evening job for the Secretary of State for Justice. I personally do not think the two functions are compatible. The Secretary of State for Justice is a Minister in a Government that will have its own political views and collective responsibility for them. The Lord Chancellor historically has always had a slightly different role in standing up within Government for the interests of the justice system. It is very difficult to see how those two functions could be combined in a single individual. Indeed, when one looks at what is being proposed now, one can see just what the problems are that could arise. The Secretary of State for Justice’s proposals are in large part proposals that a Lord Chancellor, had there still been an independent Lord Chancellor, would have stood up against.
+
+[[[Q7 ]]]&#xa0;  
+
+[[[Lord Faulks:]]] Can I ask you one supplementary question, paying due regard to what you said, which I agree with? The position of the Secretary of State/Lord Chancellor, as he now is, is that he may decide that the cost of judicial review is such that changes ought to be made if possible. Do you think that he is entitled to take into account the cost, in a time of austerity, to propose any changes at all?
+
+[[[Sir Stephen Sedley]]]: Certainly, but cost is not a unitary thing. First of all, there is the cost of funding litigation; that falls partly on primary individuals or companies, partly on the legal aid fund, and partly on Government as the typical respondent, or local government as an even more typical respondent to judicial reviews. The cost of going to law may well be part of the cost of functioning at all in a civilised society, not regularly but from time to time. The second tranche of costs is maintaining courts to hear judicial review applications. The judicial review payroll and cost roll has been heavily inflated in recent years by immigration and asylum appeals. They are a tranche that, when I was last sitting in the Court of Appeal, occupied about a third of its entire work. That is being hived off now increasingly to the Upper Tribunal in the tribunal system and contained there, with much more occasional excursions of real issues of law that need a higher court to the Court of Appeal and/or the Supreme Court. So, those costs are well able to be contained in a justice system, which does not have, in order to contain them, to shut out public interest challenges. Indeed, the case for shutting out public interest challenges is destroyed in the consultation paper itself by the admission that they succeed more often than others.
+
+[[[Q8 ]]]&#xa0; 
+
+[[[Baroness Berridge:]]]
+
+[[[ ]]]I have a question for Professor Sunkin. The latest consultation paper refers to the fact that the use of judicial review has expanded massively in recent years; I do not think a timeframe is given for that. Is there evidence to support that assertion? Can you give us some high-level aspect of any such evidence? 
+
+[[[Professor ]]]
+
+[[[Maurice ]]]
+
+[[[Sunkin]]]: This is a very key question; it comes back to a point that Professor Jowell was referring to earlier. This is a debate about rule of law. In so far as there are restrictions to the rule of law, those restrictions have to be clearly justified. One of the best ways of justifying restrictions is by producing evidence. The evidence base being used here asserts that there has been a substantial increase in the use of judicial review over the last decades. The inference is that that increase has been generated largely by an increase in the abuse of the system. This assertion is widely made and has been repeated time and time again, but actually, if one looks at the statistics, it is a very difficult assertion to find supported. As Sir Stephen Sedley said, the immigration case load is a very substantial proportion of the judicial review case load, but if one leaves aside the immigration case load, the evidence does not show that there has been a substantial increase in the use of judicial review. In fact, the official statistics used by the courts and Government reveal that, in non-immigration civil judicial review cases over the last 15 years or so, case numbers have remained fairly constant at just over 2,000 a year. That is 2,000 non-immigration civil judicial claims. These are applications for permission. I am not talking about hearings in the court, because of course in judicial review proceedings there are two stages. The claimant first applies for permission and only if permission is granted will the matter get to court. I am talking about therefore applications for permission, which have remained constant at about 2,000 to 2,400 or 2,500. By any measure, that is not a large number compared with the number of decisions taken by Government annually. It is infinitesimal and it has not increased. The big question in my mind is why judicial review is not being used much more than it is. It is a real surprise. If there is a concern about this area, it is about the potential under-use of judicial review. Related to that is the much bigger question of why these statistics, which are clearly misleading, keep being repeated. One can only infer that they are being repeated with the intention to soften up the political and public mood for change and reform. Looking at it as an academic, the statistics do not justify the claim that judicial review is being abused or that it is increasing. 
+
+[[[Q9 ]]]&#xa0; 
+
+[[[Mr Buckland:]]]
+
+[[[ ]]]Thank you very much indeed, Professor, and for your written submissions as well. I note that it was a joint submission with Varda Bondy as well, and we are grateful to her. To be fair to the Government, in the figures that were produced at the time of the original consultation, immigration cases were placed fairly and squarely within those statistics. However, I accept the point that is being made that transfer to the upper tier is likely to produce a change. I was interested in some of the figures that you produced about future projection for JRs. With the change to the immigration cases, what is your view as to the likely number of JRs? I know that you cannot give an exact prediction, but how are things going to look at the end of next year?
+
+[[[Professor ]]]
+
+[[[Maurice ]]]
+
+[[[Sunkin]]]: It is always much easier to know what is happening now, or what has happened in the past, than it is to predict what is going to happen in the future. With the immigration cases being transferred to the tribunal system, then I would predict the numbers of civil cases will remain fairly constant at around the 2,000 level. There may well be other reforms relating to other aspects of the procedure that will diminish the numbers of those cases as well.
+
+[[[Mr Buckland:]]] Thank you.
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Baroness Berridge:]]]
+
+[[[ ]]]Sir Stephen, could you outline the powers there are, if there are, for the courts to deal with abuses of judicial review process? When you were sitting as a judge, were there abuses of that process that you did not have the power to deal with?
+
+[[[Sir Stephen Sedley]]]: There were and will always be attempts of abuse. I am not conscious of ever having had to put up with one that I could not deal with. The typical forms of abuse will not be addressed by the Secretary of State’s proposals, because they are conducted by litigants in person who have a bee in their bonnet, whom very little will deter short of an order barring them from the courts. Even then, they are able to apply to lift the order in any particular case. They are not dependent on legal aid and they are not dependent on getting lawyers to act for them. Over the years I encountered a good many whom it was necessary and perfectly possible to tell, “You cannot come here.” The paper that I have asked if I could supply to you—it seems to be circulated—which is a draft of a lecture that I just happened to have completed when I was asked to come and give evidence, contains some examples of politely showing would-be litigants the door. We are quite good at that. 
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Baroness Lister of Burtersett:]]]
+
+[[[ ]]]Professor Sunkin, in your research you were able to identify four cases which went to a final hearing in which you said it might be claimed that the claimant had no apparent direct and tangible interest. I ought to declare an interest as the honorary President of one of those organisations, the Child Poverty Action Group. Is that an argument in favour of the proposed changes to a narrower test, because you said it would make a difference in practice? Or were those four cases examples of the kind of judicial review challenges that the rule of law requires that there should be an opportunity to bring?
+
+[[[Professor Sunkin]]]: The first thing I would say is that we were only able to identify four, and of course this is our own identification, so there may well have been some others. These are substantive hearings; these are not applications for permissions. There may well have been others that were brought that the courts have filtered out at the earlier permission stage. That we were only able to identify four certainly shows this does not appear to be a massive problem in terms of numbers. My suspicion is that, whatever one does to the rules, there will always be individual cases of significance and difficulty that may well embarrass Government. That we were only able to identify four certainly shows there is not a new quantitative problem. Looking at each of the cases, in none as far as I can remember was the issue of standing raised by the defendant; I do not think the issue of standing was questioned, in other words. In one of the cases there was a comment from the judge, who emphasised it was an issue of public importance that the case be determined. As Sir Stephen Sedley has indicated, when courts are dealing with judicial reviews, they are very astute in trying to identify those who are abusing the system and in exercising their discretion at the permission stage. In relation to the standing issue, they will all take account of the public interest of the matter. In each of those cases therefore, one can assume, and in certainly one of the cases it was specifically said, that there was public interest in having the matter determined. 
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Lord Faulks:]]]
+
+[[[ ]]]Sir Stephen, in your lecture you defend the concept of public interest litigation. Why are the courts the right place to determine public interest, rather than a democratically elected Government? Is there not a danger, as one of your former colleagues described, that the judges will be the judicial branch of Government?
+
+[[[Sir Stephen Sedley]]]: Heaven forbid that that should happen. Neither the judges nor Government would like that to happen. The problem lies in the ambiguous use of the phrase “public interest”. To call it public interest litigation is a shorthand portmanteau term for describing litigation that is bought not by one individual, or group of individuals, to defend their private interests, but by some organisation or body to stand up for the legality of an action in some public sphere. The other meaning is one the Secretary of State has put on it in paragraph 80 of the consultation paper: “The principle that Parliament and the elective Government are best placed to determine what is in the public interest.’’ That is of course not only right but an essential proposition. However, it is mischievously deployed to suggest that the courts have been usurping that function by themselves deciding what is in the public interest. I hope this Committee might be able to ask the Secretary of State for Justice for a single example of a case in which the court has interfered with or struck down a government measure on the grounds that it is not in the public interest. I am certainly not conscious of ever having done so or indeed having been invited by a responsible lawyer to do so. What the courts are concerned with is the legality of a measure; whether the person coming to challenge the legality of it acts in their private interest or in a public interest does not matter, so long as they have standing. The important thing is the courts do not intervene on the grounds of what they conceive to be the public interest. If I may, I will send the Committee a short passage from a recent tribunal of the Supreme Court proving something I said in that regard, which I believe to be a universal approach of the courts—they do not intervene on grounds of public interest. Paragraph 80 of the paper is wrong to suggest they do.
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Lord Faulks:]]]
+
+[[[ ]]]Of course, legality has become perhaps a little more flexible as a concept since the Human Rights Act, where the courts are required to take into account the Strasbourg jurisprudence, the convention being a living instrument. There is room, would you agree, for the judges to have a little more input in interpreting what legality is than perhaps they did before?
+
+[[[Sir Stephen Sedley]]]: Yes. Even without the Human Rights Act, proportionality, as you will know, Lord Faulks, would be making its way into public law on the very simple basis that it cannot be lawful to use a sledgehammer to crack a nut. Legality in that broader sense will of course introduce a measure of value judgment. It is quite true that the courts have to be very careful. I would argue that ever since the Human Rights Act came in, the courts must structure their decisions on proportionality so it can be seen what value they are giving to the different elements, in particular so it can be seen by an appellate court that no more has been done than is proper, to evaluate governmental action without substituting the court’s view on the right way to go. If you take the recent case of the young couple, she British, he Chilean, they could not live together in this country because of an immigration rule that forbad under-21 couples from living together, purportedly designed to strike at forced marriages. The decision had to take a very careful look at whether it was actually going to have much effect at all on forced marriages, compared with the colossal effect it was going to have on perfectly innocent, above-board marriages. The Supreme Court was able, as my court was in that case, to say it just does not add up. I agree; it is a ticklish business.
+
+[[[Lord Faulks:]]] There was a strong dissenting speech from Lord Brown in that particular case.
+
+[[[Sir Stephen Sedley]]]: There was indeed.
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Lord Faulks:]]]
+
+[[[ ]]]Can I ask you now about the Human Rights Act and the concept of victim? This has been quite elastically interpreted by the Strasbourg Court and courts following that. However, the suggestion is that there would be a direct interest test for standing, as opposed to the current test, which is arguably a little more elastic than that. Is there anything wrong with limiting somewhat those who can bring judicial review proceedings? Is that an illegitimate restriction on access to justice by the Secretary of State? 
+
+[[[Sir Stephen Sedley]]]: No. There is nothing wrong with it at all. As I pointed out in that lecture text, in relation to the Rose Theatre case, Mr Justice Schiemann, as he was then, put his finger on the fact that if you were too elastic there would be nothing that was not sufficient in the case to bring proceedings. That is why in 200 and more years the courts have been very cagey about what they are prepared to regard as a sufficient interest. They have not delimited it to victim status, or some analogue of that in common law. They have equally been very resistant to the idea that anybody can come to court to complain about anything. The paper does trace the care with which the courts attempted to do that. With the elastic formula, as it is, of a sufficient interest, it leaves it for the courts to say what is sufficient. My argument is we that have done really rather well in preventing absolutely anybody from coming to complain about anything, while at the same time being prepared to look at illegalities of the part of central Government that might otherwise go unaddressed. The Rose Theatre was actually a very good example of that. No individual could possibly claim a personal right or interest in preserving the remains of the Rose Theatre from destruction. That it was a public issue that anybody ought to have been able to bring to the attention of the court not in their own but in the public interest—using that phrase again—seemed to me incontestable. 
+
+[[[Lord Faulks:]]] Suppose the judges decided—and this is judge-made law for the most part—to extend, and extend, and extend the concept of those who could bring judicial review cases. Would that be something on which a democratically elected Parliament could say enough is enough?
+
+[[[Sir Stephen Sedley]]]: A democratically elected Parliament can do anything it pleases, but as to whether it would be justified in doing so, yes, if that postulate were ever to come about. I see nothing in the Government’s consultation papers to suggest that it has come about. If there were something, I would resist it very strongly and suggest that the judges have been over-catholic, over-generous, in whom they are prepared to hear. If anything, the complaints go the other way, and we are a bit too tight about it.
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Baroness Berridge:]]]
+
+[[[ ]]]A short supplementary: there is a lot being made of this change from sufficient to direct interest. From the cases you have heard, can you give some flesh on the bones, if possible, as an example of a case that might now be caught by that more stringent test and would not satisfy the standing to come before the court? As someone who is not a practitioner, I am struggling to see what practical difference it will make to standing. 
+
+[[[Sir Stephen Sedley]]]: I think the Pergau Dam case is actually singled out in the consultation paper as the kind of case that ought not to be brought. I dealt with that in short form in this draft lecture. I should say, if I may, for the record, Lord Chairman, that what I quoted from William Waldegrave on the last page has not yet been checked against the tape—so it should not be taken as verbatim accurate.
+
+[[[Baroness Berridge:]]] I know that it is the Government’s view actually outlined on that case, but this obviously will be a judicial decision when the standing is changed. Do you agree with the view that this would be the type of case that would now not be able to be brought?
+
+[[[Sir Stephen Sedley]]]: That appears to be the intention. I am just looking to see whether the Pergau Dam case is dealt with. In any event, the idea is undoubtedly to do that and shut up public interest challenges, with the illogical exception, which has been forced on central Government by the Aarhus Convention, of environmental cases. The Aarhus Convention gives us an international obligation to entertain environmental challenges to Government, whether there is a personal interest at stake or not. So, the realism of a broad standing rule is recognised by the Aarhus system but for some illogical reason will be confined to environmental cases if the Secretary of State gets his way.
+
+[[[Professor Sir Jeffrey Jowell]]]: Can I give a further example? Corner House brought the case against the DPP, saying that he really ought to have continued prosecuting for corruption against BAE in respect of the Saudi Arabian sale of planes. This was on the grounds that the prosecution was only abandoned when the Saudi Arabians threatened that they would no longer be involved in sharing intelligence with the United Kingdom. They were given very generous standing in that particular case. The result of the case in the House of Lords was that prosecutorial discretion should no longer be available to be challenged. It is a kind of discretion that should be challenged in very rare circumstances. The granting of broad standing in that case allowed the judges to clarify an area of the law that was unclear. It was therefore brought into the public interest in the sense of it being an area of law that should be clarified. They are bringing something to the table that nobody else could bring, and we are using it as an opportunity not to expand interference on substantive grounds but to contract it. 
+
+[[[Sir Stephen Sedley]]]: Let me just revert to Baroness Berridge’s question. Pages 8 and 9 of my draft lecture deal with the Pergau Dam case. I will make another point that may go to Baroness Lister’s interests, which is that not all public interest litigation is hostile; it can be creatively used, and has been in the past. The Child Poverty Action Group was a pioneer in this respect, to elucidate the law to the benefit of everybody who is involved. Social security is a very good example, because it is an arcane and hideously complex area of law, where it is easy to get things wrong and a mistake can affect millions of people. It is very much to the advantage of everybody if the Government collaborates with challengers like the CPAG in getting the issue to the core.
+
+[[[The Chair:]]] Professor Sunkin, you wanted to make an observation.
+
+[[[Professor Sunkin]]]: I think it has probably already been covered, but in the context of standing, looking at rather more parochial-type issues, one of the difficulties is knowing exactly what would be meant by a direct link. There are a good many cases where there may be a dispute about whether there is a direct link. To take an example, there have been challenges to the closure of libraries. Does a claimant challenging the closure of a library have to be a user of a library or be interested in the closure of the library? Does he have to show how many books he has taken out, and so on and so forth? These sorts of issues are very unclear. At the moment one can deal with this without having to specify whether or not there is a direct link. One of the difficulties is the possibility of unintended consequences of a new generation of quite technical disputes about what does or does not constitute a direct link. That could take our law back to the early years before the reforms of judicial review were introduced in the mid-1970s. 
+
+[[[Sir Stephen Sedley]]]: In the Rose Theatre case, when the company was disaggregated, Laurence&#xa0;Olivier, Peggy&#xa0;Ashcroft and the historian Andrew&#xa0;Gurr had to be put forward as people with a special interest in the preservation of the remains. There is something utterly artificial about that; we all have an interest in it.
+
+[[[Lord Faulks:]]]
+
+[[[ ]]]We might all have an interest in the legality of the war in Iraq. It is difficult to establish, unless you have lost somebody or are directly affected, that you have sufficient standing.
+
+[[[Sir Stephen Sedley: ]]]That may be an example of why public interest standing is worth having. Suppose that a Government did break the Nuremberg laws by launching a completely unprovoked war of aggression. Why should anybody not be able to challenge that?
+
+[[[The Chair:]]]
+
+[[[ ]]]On that extremely important point, I would like to thank you all. We have finished in time with one minute to spare—the only evidence session that I have chaired since 2010 where that has happened. It is a comment on your ability to sum up very concisely and I thank you for that. If, as you have suggested, you might want to add to this evidence, it would be extremely helpful if you wrote to us. Thank you very much.
+
+[[[Examination of Witnesses]]]
+
+[[[Michael]]]
+
+[[[&#xa0;]]]
+
+[[[Fordham ]]]
+
+[[[QC]]], 
+
+[[[Feizal]]]
+
+[[[&#xa0;]]]
+
+[[[Hajat OBE, ]]]Head of Housing and Community Safety Law, Birmingham City Council, and 
+
+[[[Karen]]]
+
+[[[&#xa0;]]]
+
+[[[Ashton, ]]]Public Law Solicitors
+
+[[[Q16 ]]]&#xa0; 
+
+[[[The Chair:]]]
+
+[[[ ]]]Good morning and welcome. This second panel deals with judicial review and access to justice. Could you introduce yourselves, please, for the record?
+
+[[[Karen Ashton: ]]]My name is Karen&#xa0;Ashton. I am a practising solicitor with the firm Public&#xa0;Law&#xa0;Solicitors in Birmingham. I specialise in public law and judicial review work and particularly social welfare work.
+
+[[[Feizal Hajat: ]]]Good morning. I am Feizal&#xa0;Hajat. I am the Head of Law at Birmingham City Council Legal Department.
+
+[[[Michael Fordham]]]: I am Michael&#xa0;Fordham. I have been a barrister specialising in public law for over 20&#xa0;years and I have represented claimants, NGOs and public authority defendants including central Government.
+
+[[[Q17 ]]]&#xa0; 
+
+[[[The Chair:]]]
+
+[[[ ]]]Mr&#xa0;Fordham, this question is mainly aimed at you but if the other two witnesses wish to add anything, please do so. Could I ask you, Mr&#xa0;Fordham, what is the link between the provision of legal aid and access to justice in the area of public law? Is it purely a question of maintaining compliance with Article&#xa0;6?
+
+[[[Michael Fordham: ]]]No, not at all. Article&#xa0;6 is an important reference point for access to justice and, no doubt, for this Human Rights Committee, but it is not in any way an exclusive prism through which one looks at access to justice any more than the Aarhus&#xa0;Convention is an exclusive prism through which one looks at the parameters of public interest litigation. To take a straightforward example, the Government accepts that high standards of due process are appropriate in asylum cases where you have asylum claimants, and the courts have always sought to secure effective judicial protection in that as the top of the list of most important cases. That is not an Article&#xa0;6 scenario. Article&#xa0;6 does not cover asylum decision-making, and there are many, many examples of situations, both public law and human rights, where Article&#xa0;6 does not provide you with the answer as to what effective judicial protection means and, therefore, what access to justice under the rule of law means.
+
+[[[Q18 ]]]&#xa0; 
+
+[[[The Chair:]]]
+
+[[[ ]]]Do either of you want to add to that? If not, could I move on then to the question of judicial review and the alleged increase in the cost to taxpayers? Is this a legitimate concern or is the question an irrelevant one to pose given the evidence that we have just heard?
+
+[[[Michael Fordham: ]]]It is a legitimate concern to look at judicial review and its use and what it means in terms of public money. First, to leave aside legal aid for a moment, every judicial review case involves a public authority. Every judicial review case is therefore defended at public expense. That is part of the equation that you will not find in these materials. It is very striking that every single proposal that is put forward is a restrictive one that is focused on what claimants and NGOs do with any public money that claimants have access to. The question of speed and streamlining of public law and the question of cost saving are very important questions that should be being looked at. I am involved with the Bingham&#xa0;Centre in looking at precisely those kinds of questions, but you have to do it in a broader way and, if I may say so, an even&#x2011;handed way that looks at all of the aspects in which public money is used in public law proceedings.
+
+[[[Q19 ]]]&#xa0; 
+
+[[[The Chair:]]] Do any of you have any thoughts or suggestions about how we could have some cost saving within compliance of the rule of law?
+
+[[[Feizal Hajat:]]] Lord Chair, if I may say a few things on behalf of Birmingham, we are on the cusp of implementing the biggest cuts in our history, to the tune of £130&#xa0;million, and costs are a huge thing on our minds currently. What we say about that in relation to judicial reviews and challenges to local authorities is whether there are other ways in which, as a profession, we can resolve these differences and whether there are more streamlined processes that we can adopt. I am particularly attracted by the representations made to this Committee by the Equality and Human Rights Commission in relation to the pre&#x2011;action protocol letter and the requirement for both parties to address whether alternative dispute resolution has been considered and, if it is has, why it has been ruled out, and also in relation to neutral evaluation by an independent party, which would offer a quick resolution to, particularly, issues around public sector equality duties. The volume of judicial reviews that Birmingham deals with is twofold. There is what I call the transactional in nature or those where we are alleged to have not abided by our statutory duty—and it is quite right that where Birmingham falls down it is challenged. However, it is the nature in which we resolve those challenges and it requires both sides, not just claimants but also defendants, to be able to come together in the interests of the public purse to find other ways to resolve the dispute. 
+
+[[[The Chair:]]] For the purposes of the record, several people have addressed me as Lord&#xa0;Chair. I know that I announced my retirement in 2015 last week, but people should not read into that anything and my colleagues here from the other place will not be offended by this, but I have absolutely no intention at all of becoming a Peer. Lord&#xa0;Faulks.
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Lord Faulks:]]] Thank you, Chairman. On the question of the connection between rules on standing and the rule of law, we heard—and I think you heard the evidence—about the fact that judges generally think that they have had a pretty restrictive approach to who can or cannot bring judicial review cases. I would like your comments on how that relates generally, the decision of who can bring these cases, to concepts of the rule of law.
+
+[[[Feizal Hajat: ]]]Can I take it this way? We ought to pause in looking at these proposals in isolation and at this moment in time, not least because what Birmingham has to do going forward will result in what I call the provision of ordinary local authority services, homelessness and the like, by other means of production. That is, we will deliver what we would call a multi&#x2011;sector service provision, where statutory and other duties on behalf of local authorities are delivered by myriad organisations. It might be in co&#x2011;production with employee co&#x2011;ops; it might be in corporate bodies; it might be in relationship with third sector organisations; it might be the likes of Capita, G4S. We do not know what the landscape will look like, but the issue of standing becomes much more complicated, and if you were to focus on the now, by limiting the type and nature of interest that can bring these proceedings, it would be a mistake. We ought to look towards the landscape that is to come in order to enable parties who have different types of interests to be able to act. The suppression should be at the pre&#x2011;action protocol, alternative dispute resolution. It is one public purse. Is it that we all come together as legal professionals and say we all operate within one financial envelope? Restrict costs on both sides, not just one side. Therefore, in the short term we may have more challenges, but the cost incentive is that we all want certainty and to be able to reduce cost.
+
+[[[Lord Faulks:]]] Therefore, you would not want to restrict those who can bring proceedings, but you want to make them cheaper, if possible.
+
+[[[Feizal Hajat: ]]]Yes.
+
+[[[Karen Ashton: ]]]I do not want to try to repeat anything that the first panel said that flows down from bringing great expertise to the subject of standing, but I do want to add one perhaps practical dimension. There was a lot of discussion in the first panel about the types of cases where things that are outstanding might prevent a case from being brought, and they are cases that are perhaps most widely discussed. There are a number of cases that could be affected by standing that perhaps are slightly lower profile, which are those groups of cases where there are individuals on whom the decision impacts but there is a risk that the case will not be brought if an NGO does not step in and become involved. That is especially where the group of people affected are particularly vulnerable or where, if the challenge is brought on a case-by-case basis, the public authority involved might simply resolve that individual case without addressing the underlying systemic issue and so the wider group is still affected. One example of that goes back some years now, but it is when Help&#xa0;the&#xa0;Aged became a joint claimant in proceedings brought to challenge a local authority’s approach to provision of residential care for older people where the local authority was not stepping in at the point that the capital threshold was reached—I do not want to get too technical with this—but was allowing the individual savings to be reduced to the level of funeral expenses before providing residential care. Help&#xa0;the&#xa0;Aged became a joint claimant in those proceedings because it was concerned that if it was simply brought by individuals the issue would be resolved on a case-by-case basis and the underlying policy would not be addressed. Therefore, there are decisions that do have a direct effect on individuals but none the less will not be resolved, or their legality will not be properly addressed, unless an NGO can become involved, and those cases are at risk as well. There is a very important aspect of the rule of law in practice where you have decision-making policies that are directly impacting on individuals’ lives but the process simply will not work. 
+
+[[[Q21 ]]]&#xa0; 
+
+[[[Baroness Lister of Burtersett:]]] That is very helpful and moves on to the next question, because in contrast to that the Lord&#xa0;Chancellor, as you know, has suggested that charities and similar organisations target the legal system as a way of trying to get their policies accepted. This is initially to Mr&#xa0;Hajat, but anyone can come in after that, of course. Do you believe that judicial review has come to be used as a mechanism to undermine the role of Parliament and of elected local and national Government, and can you provide us with any examples of cases where you consider the challenge was simply being used as a delaying tactic or a campaigning tool?
+
+[[[Feizal Hajat]]]: I have produced some figures for the Committee; I am not sure whether you have those before you. 
+
+[[[The Chair:]]]
+
+[[[ ]]]Yes, thank you, we did receive them.
+
+[[[Feizal Hajat: ]]]As you will see, most of the proceedings here are what I call transactional. However, if you look at the council tax reduction scheme, the background, as you will remember, is the Welfare Reform Act; the Government reduced its grant to local government by 10%. For Birmingham, that was a reduction in terms of council tax in the region of £10&#xa0;million and there was a requirement on local authorities either to adopt what is called the default scheme or to produce its own scheme, and a number of local authorities across the country decided to develop their own schemes. In terms of campaigning and relationships between voluntary organisations and solicitors, there is some evidence—and I make no judgment about the relationship or the reason for bringing proceedings—of some element of issues of the day or, if I can call it this without being too provocative, issue farming, for want of a better word. This is where solicitors, barristers and groups get together and look at what issues that are relevant to those parties and their interests should be challenged and which authority. In this case, Lambeth, other London boroughs, Birmingham and Sheffield all received letters before action. Fortunately for Birmingham, Lambeth and Sheffield were chosen in relation to proceedings for judicial review. We breathed a sigh of relief, although the letters before action required costs for counsel in drafting responses to the tune of £3,000, but we would rather that than thousands of pounds defending a claim in relation to judicial review. Is it incumbent on legal professionals to talk with others regarding how they pick these challenges? Does every local authority have to be targeted in relation to the same issue? Although we do not have direct impact, in relation to campaigning and specific policy matters, we have evidence, both locally and from national solicitors, of this kind of issues of the day and picking of defendants. That is what we have and we cannot speak beyond those two things. 
+
+[[[Q22 ]]]&#xa0; 
+
+[[[The Chair:]]] Does either of you want to make any contribution to that?
+
+[[[Michael Fordham]]]: May I just briefly say that I cannot see an abuse here at all. I see no abuse here at all, still less any abuse relating to the standing rule. The premise for all of this is that we are talking about claims that can satisfy a conscientious judge at the very start that they are properly arguable points of law, that they have practical substance, that they are brought promptly, that there is no alternative remedy and that the person has a sufficient interest or that it is in the public interest that the claim should proceed. True it is there are particular issues that get advanced, but cases that meet those tests are viable and continue, and cases that do not meet those tests cannot proceed. I simply do not see an abuse in a process that applies those rigorously and allows only those cases to go ahead.
+
+[[[Karen Ashton]]]: Could I just make one comment very quickly on this point as well? I agree completely with Mike about this. The evidence in the paper itself—I think this was mentioned by the earlier panel—is that the cases brought by organisations have a greater success rate. This is not about absolutely empty threats or the systematic bringing of cases with no merit. This is about raising before the courts real issues of lawfulness of central Government or local government action. As I say, there is no evidence in the paper or elsewhere of any abuse. I will just make one comment on the issue of claimant solicitors or legal teams organising themselves. I do not have direct experience of what has just been described, but none the less, again, if there is a general issue that needs to be brought before the court, it is in everyone’s interest that that is brought in an organised way by a lead case and we do not have a situation where we have numerous cases being brought in a disorganised way. In fact, when that does happen, and it happens more frequently than the level of organisation that is being described, in practice the Administrative Court tends to pick that up and liaises with legal teams to decide which should be the lead case and which cases should be stayed. If that can be done before issue, so much the better, in my view.
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Baroness Berridge:]]] Obviously, at the moment what we have is the mixing of the proposals or the effect of the proposals about standing and the proposals, at the same time, regarding legal aid, so we have to try to think of that in one go. Is there going to be an effect of those two things coming together, in your view, on access to justice?
+
+[[[Karen Ashton: ]]]I am not sure this is going to address your question directly, but perhaps I can talk about the impact of the legal aid aspect of the proposals, and that may lead in to looking at how that relates to or links in with standing. The main aspect of the proposals, which is the legal aid aspect, is the proposal not to pay the claimant’s legal team for pre&#x2011;permission costs if permission is refused or the case is issued and is settled or withdrawn prior to the permission stage. Therefore, in effect, the claimant’s legal team would take the risk of no payment at all for that work. That risks having a very serious impact on access to justice because of the impact that is going to have on practitioners who act as the claimants. Set that against the backdrop of the current fees paid for legal aid work, which are, in the public law category, a fixed fee of £259 at the legal help level, and when you go on to certificated rates, we are talking about a rate of £67.50. This is outside London, of course; I practise outside London. That must be compared with the guideline rates currently paid for High Court work, which indicates the normal solicitor and client rates, which vary between, for the least experienced paralegals and claimant solicitors, £118&#xa0;per hour and £217&#xa0;an hour for the highest-grade solicitors, with over eight years’ post&#x2011;qualification experience. I have 20&#xa0;years’ post&#x2011;qualification experience, so I am paid, for certificated work by the Legal Aid Agency, at the moment, £67.50 compared with an accepted general inter partes rate of £217. It is less than a third: we are already acting at risk.The Government, if it is not intending to impact on access to justice, must be assuming that practices can have sufficient surpluses to take the risk that is being proposed. That is not the case. We do not have those kinds of surpluses. Therefore, it seems to me that what is going to happen is either practitioners will continue to withdraw from practice in legal aid or—and I think this is the more likely scenario, at least in the short term—practitioners will be forced to add another layer, if you like, of their own eligibility or threshold criteria. Therefore, someone may be eligible for legal aid: they meet the financial criteria; they cannot afford representation themselves.
+
+[[[The Chair:]]] We do need to make progress now, so could you be a little more concise in your answers, please?  
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Lord Faulks:]]] There is not a lot of legal aid about at the moment, in general terms. If I go into a public hospital and I consider myself to be the victim of medical negligence and I have a substantial potential claim, lawyers will not get legal aid to represent me or anybody else in that situation and, if they want to take the case, will only get paid if they are successful. That is, so we were told during the course of the last Bill, because of the financial condition of the country. Why is judicial review different where the public authority is being challenged? I appreciate all that you say about the limited funds available, and I am not suggesting for a moment that the people who do this work are well paid, but why is there a difference?
+
+[[[Michael Fordham: ]]]In your example, you can take a case on a no win, no fee, but if you win it has an uplift consequence.
+
+[[[Lord Faulks:]]]
+
+[[[ ]]]No, it does not.
+
+[[[Michael Fordham: ]]]Well, it depends which case and which model you are operating, but if you are on a CFA that enables you to get paid, you will be able to access an uplift, which can cross&#x2011;subsidise other work that you do. What is different about this situation is two things. First, these judicial review cases, which in good faith have been judged as viable, where you cannot predict what is going to happen and you cannot be certain or confident that you are going to need or get permission, will not be brought. They will not be viable, because legal aid practices will not be able to balance the books if they are not able to be paid for that very important stage of work. That is point one. Point two—I come back to it—is that public money is spent on both sides in judicial review cases, and I would like somebody to explain, please, why it is that if somebody is spending public money for a good faith judgment of the prospect of success, it is said that they should not be paid if a judge does not agree with them if they act on the claimant side, whereas on the public authority side, they know the importance of effective legal representation, and that means that people should get paid for work that they do, because judicial reviews should be properly argued on both sides.
+
+[[[Karen Ashton: ]]]Another difference with judicial review, of course, is that the kind of case we are talking about is an event that has happened; it does not change, and therefore you can make judgments on the basis of possibility of success and it is very easy to define what success means, which is why you have a conditional fee market that has developed in relation to private law litigation. In judicial review you do not; you may well, and this is the problem between issuing and permission; events may overtake the decision that is being challenged, and the case may become academic or may be settled in different ways. Therefore, it is much more difficult for that kind of conditional fee arrangement, with the necessary insurance products that are associated with it, to work, and it has not developed with judicial review. It is a very different type of litigation.
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Mr Buckland:]]]
+
+[[[ ]]]I want to ask Karen&#xa0;Ashton a further question about the proposal within the consultation to deal with meritorious claims that are made but are settled before the permission stage is reached. There is a proposal there for the LAA to apply some criterion, in its discretion, to make orders where no order for costs has been made. What is your view about that proposal? Do you think it is a workable solution or do you think it is too narrow?
+
+[[[Karen Ashton: ]]]There is an inherent problem with it, which is it is after the event and the judgments that we are going to have to make as practitioners are whether we can sustain the financial risk in advance. We are going to have to impose, as I say, the decision-making criteria at that earlier stage. Therefore, there is an inherent problem in an after-the-event discretion, particularly when the Legal Aid Agency already is the body that grants the legal aid initially on the basis that has sufficient merit—the problem is the idea that somehow it would change its mind at a later date and withdraw. Therefore, why can there not be a decision in advance? Why does it have to be after the event? However, the nature of the particular discretion that is being proposed is on very broad criteria; it involves factors such as late disclosure, which might affect the assessment of your merits beyond the control of the practitioner, and the judgment is being made by the very organisation that will have an interest in not paying. For all those reasons, I do not think it will be the basis on which practitioners will be able to make judgments on acting that are any better than they would be without the discretion. Obviously, it is better than nothing, but I do not think it goes very far in solving the problem.The other problem with it is the proposal to assess merit, so there is one factor about assessing the prospect of getting permission, but it is at the point of settlement. The reason probably the case is being withdrawn is that something has happened whereby it would be pointless to go to permission. Therefore, the prospects of assessing permission are necessarily going to be low at that point, so it is assessing merit at the wrong point.
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Mr Buckland:]]] I am very grateful. In general, do you think that the proposals are going to lead to a situation where agreement of costs between the parties will be encouraged or do you think that it will have the opposite effect, in that we will have more hearings solely on the issue of costs?
+
+[[[Karen Ashton: ]]]I think it will go both ways. The starting point is there is already an incentive on us to seek and agree costs, because we are already paid at much reduced rates, so if we settle with them, there is a great incentive to seek costs; it is not that claimant solicitors are not seeking costs. Clearly, the same principles on costs would apply, but there will be pressure on claimant solicitors to make the application for costs if they are not going to sort it any other way and there will be ancillary disputes that develop. My other concern is that, in discussions to try to get agreement on costs, claimant solicitors are going to be at an unfair disadvantage in those negotiations, because if the alternative is not being paid at all, it seems to me that the public authority defendant could exploit that negotiating position to their advantage. In that situation, claimant solicitors could start accepting settlements that are well below the usual rate for payment.
+
+[[[Q27 ]]]&#xa0; 
+
+[[[Lord Faulks:]]] Can I ask you about the question of investigating a case? There comes a time sometimes when your assessment of the prospects of success in a case are such that you do not think it has any future, but you need to investigate it in order to come to that conclusion. The Lord&#xa0;Chancellor has said that funding will remain for the earlier stages of a case to investigate the prospects and strengthen the claim and for pre&#x2011;action correspondence. If that remains, do you think that is sufficient to maintain access to justice and to comply with the need for there to be such access?
+
+[[[Karen Ashton: ]]]I do not want to answer all the questions, but that is something I can answer from the point of view of a practitioner. The resources available for investigating a case are either to do it under legal help with a fixed fee of £259 or, if it is going to involve substantial investigation work, you can apply for an investigative help certificate, which will cover further investigation. The guidelines on that used to be if it required six hours of work, but that is to the point of determining whether or not it has more than 50% probability of success. That will not necessarily address the situation where practitioners are in some difficulty in taking cases with a lower-end prospect of success, because of the financial risk that they are taking. Therefore, while, yes, obviously we welcome the fact that that funding is to remain in place, it does not address the problems that I have already talked about or, in fact, the non&#x2011;payment of a number of thousands of pounds on permission applications once that stage has been completed in a situation where legal aid practitioners, say, do not have any surpluses to support that kind of financial risk.
+
+[[[Lord Faulks:]]]
+
+[[[ ]]]The possibility of compulsory pre&#x2011;action disclosure has been discussed on the basis that, the more you know at an earlier stage, the less you may have to spend. I notice that the Bingham&#xa0;Centre is considering that as a possibility, and it may be, Mr&#xa0;Fordham, you have something to say about this.
+
+[[[Michael Fordham: ]]]That is a good idea and it is good that it is recognised that it is important there be public funding at the initial stage, and it is good that it is recognised that there should be public funding at the post&#x2011;permission stage. The difficulty is the blind spot that takes away funding or introduces such a deterrent that you cannot do the most important thing of all, which is to lodge a proper claim informed by what you have discovered at stage one. The second point is that there is a solution. If this is about abuse, a judge has a duty to certify cases that are brought unreasonably—totally without merit. If you are going to start depriving people of their fees because you think they have behaved unreasonably, that is the perfect mechanism. It does not involve new ancillary proceedings and it is a proportionate solution. 
+
+[[[The Chair:]]] Lord&#xa0;Faulks, we are going straight to question 21.
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Lord Faulks:]]] Yes. If a threshold to determine whether an error would have made no difference is lowered to a test based on likelihood, would it be possible for the courts to avoid putting themselves into the role of primary decision-maker? I think this is a reference to a number of cases about consultations and reconsulting and then having exactly the same result afterwards.
+
+[[[Michael Fordham: ]]]At the moment, the court will say, “If it is clear that this flaw makes no difference or would make no difference, then we will not grant judicial review,” and that is because courts recognise cases need practical substance. If you recalibrate that—if Government recalibrates the test that the courts have articulated—then it will inevitably make judicial review more restrictive and it will inevitably make judges descend into the arena of the merits of the decision. In a case called Cotton that the Government refers to in its consultation&#xa0;paper, these principles were articulated by Lord&#xa0;Bingham when he was Lord&#xa0;Justice&#xa0;Bingham. They have been very well developed and they are there because process matters and they are there because judges do not second-guess public authority decision-makers. What they do is to make public authority decision-makers apply the standards of due process unless it is clear that there is no utility in granting judicial review, in which case they save everybody public money.
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Lord Faulks:]]] Perhaps I can address this question particularly to you, Mr&#xa0;Hajat. Regarding the no difference argument, do you think there is an advantage in considering that earlier in the process so as to try to avoid costs? Would that be an attractive option for, in your case, local government?
+
+[[[Feizal Hajat: ]]]It has been recognised in the paper itself that the determination of that issue would inevitably result in a full day’s hearing or more, and I think that there is no saving there. I am with Michael on the issue of the current test being applied at the permission stage and for judges to certify whether something is reasonable or unreasonable. In our experience, if you look at most of the cases that come before us, they are settled at the letter before action stage and there are the others that go forward. The focus should be on the public purse and how to resolve them and I am not sure that that will result in any saving or in the cutting of any delay.
+
+[[[The Chair:]]] Thank you very much. As with the first panel, you have managed to keep to time. I apologise for cutting you off occasionally. If you feel that we have not covered all the points, we would be very pleased to hear from you. Thank you very much for your co&#x2011;operation. 
+
+[[[Examination of Witnesses]]]
+
+[[[Helen]]]
+
+[[[&#xa0;]]]
+
+[[[Mountfield QC]]],
+
+[[[ ]]]Matrix Chambers,
+
+[[[ ]]]
+
+[[[Mark]]]
+
+[[[&#xa0;]]]
+
+[[[Hammond]]],
+
+[[[ ]]]Chief Executive, Equality and Human Rights Commission, and 
+
+[[[Rob]]]
+
+[[[ert]]]
+
+[[[&#xa0;]]]
+
+[[[Hayward OBE]]],
+
+[[[ ]]]Chairman,
+
+[[[ ]]]Public Sector Equality Duty Red Tape Review
+
+[[[Q30 ]]]&#xa0; 
+
+[[[The Chairman:]]]
+
+[[[ ]]]Welcome to panel 3. To remind you, we are dealing with judicial review and the public sector equality duty. For the record, could you introduce yourselves, please?
+
+[[[Helen Mountfield]]]: I am Helen&#xa0;Mountfield QC. I am a barrister. I have done a number of cases in the public sector equality duty both for claimants and defendants, including the first case.
+
+[[[Mark Hammond: ]]]I am Mark&#xa0;Hammond. I work as Chief&#xa0;Executive of the Equality and Human&#xa0;Rights Commission.
+
+[[[Robert Hayward]]]: I am Robert&#xa0;Hayward. I was Chairman of the Public Sector Equality Duty Red Tape review undertaken for the Government over the last few months.
+
+[[[Q31 ]]]&#xa0; 
+
+[[[The Chair:]]] Mr&#xa0;Hayward, could I begin with your very polite letter of 29&#xa0;November, which seeks to make sure that there is no confusion about the steering&#xa0;group’s recommendation in relation to public sector equality duty. Can we take it from your letter that you would be opposed to any suggestion that the public sector equality duty ought not to be legally enforceable? 
+
+[[[Robert Hayward: ]]]Absolutely. If I can clarify that, as far as we were concerned the review was undertaken relatively quickly. We were confronted by a huge range of issues. We concentrated specifically on data collection and procurement, but we also touched on other issues, and our recommendation in relation to judicial review I hope is reasonably clear. Really, what we are seeking in light of the evidence that we received from councils in particular was, and I think we have heard from Birmingham just now, increased expedition because of the associated cost rather than doing away with the process—quite definitely not.
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Baroness Lister of Burtersett:]]] This question follows on from that and your recommendation that there are quicker and more cost-effective ways of reconciling disputes relating to the public sector equality duty. Can you perhaps expand a bit on how you reached that conclusion and, more importantly, what you consider would be appropriate alternative ways to reconcile disputes relating to the PSED?
+
+[[[Robert Hayward: ]]]In relation to the first half of your question, Baroness&#xa0;Lister, can I make an observation? What happened was we received evidence in a number of different ways, including going out to meet authorities and other bodies. One of the things that struck us when we went out to meet authorities, major authorities—one major city council and a county council—was how conscious they were of the cases that were going through the process of judicial review and how they tended to freeze decisions. As one major city council put it to us, “If we are in the position of either ourselves being taken to judicial review or another local authority where we do the same thing, and that in quarter one we are trying to effect £1&#xa0;million savings, if that takes four quarters to be completed, by the time we get to the fourth quarter we have to make the equivalent of £4&#xa0;million of savings, which impacts, clearly, four times as much as it would have done had the action been taken in the first quarter.” That is the reason we made the recommendation, because we were struck by councils not only being confronted by their own cases but looking over their shoulder at cases that were applying to other councils; I think we heard that in the previous panel. We did not address the second point in relation to ideas. There was one barrister on our steering group. I am not a lawyer and therefore we made the recommendation that Government should look at it rather than looking at options.
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Baroness Lister of Burtersett:]]] This is to our other two witnesses, please. Do you agree with the steering group’s finding that, even when decisions are overturned on judicial review due to non&#x2011;compliance with the PSED, it is not uncommon for the initial decision to remain unchanged and “it is not clear how this benefits anyone”?
+
+[[[Helen Mountfield: ]]]There are two answers to that. The first is the point that Michael&#xa0;Fordham made in the previous session that law is about process. It is not telling people what the result is. It is saying you must think about this: you must give due—that is, proportionate—regard to it, so that is the appropriate role of the court. The second is that I do not recognise that, from the cases that I have done, as the result. If I can give you just one or two practical examples, there was a case in 2008 against Ealing&#xa0;Council, which was reconfiguring its domestic violence services in a way that would preclude funding for specialist services for black and minority ethnic women. That decision was quashed on judicial review for failure to give due regard to equality and the grant funding going forward was reconfigured. There have been cases involving dress codes in schools, where a dress code says you just cannot wear a bracelet, when it has been said you have not thought properly about equality for Sikhs. That uniform code has been quashed and had to be amended. There was a case against Haringey&#xa0;Council in 2010 when they made a major planning decision to redevelop an area. They had a lot of policy guidance on equality, but they had not applied it to the decision. They had not thought about the implications of that decision for small and medium&#x2011;sized enterprises that were largely owned by minority communities in the area. That decision was quashed and they had to rethink the planning decision, not because it was a bad decision as a whole to redevelop the area, but because that was a factor that must be taken into account and was taken into account. There has been a case in Devon about how you set care home fees and they had not thought properly about the additional costs of care for people with dementia. Consequently, people with dementia had a smaller choice of private sector provision than others. That decision was quashed and those care home fees were set on a differential basis. There have been cases about a taxi licensing decision in Liverpool where they had not appreciated that the taxi they were going to license that they thought was accessible to all disabled people was not, so they rethought the decision and they made some exceptions to their licensing policy. There have been cases in the context of housing where people with mental health difficulties lose their homes as a result of antisocial behaviour. Courts, as a result of the public sector equality duty, will say, before making a possession decision, “Has this person’s community care needs been addressed?” because it may not be proportionate to make them homeless—street homeless—in those circumstances if due regard has not been given to their mental health needs.That is the practical effect of some of the cases that I am aware of, and the other important effect is that of course litigation is a longstop. This is not all about disputes. It is about a duty to mainstream thought about equality that, as the courts have said in the past, has played regrettably little role in public sector decision-making because it has not been enforceable; it has fallen off the end of the to&#x2011;do list. The idea, I think, is that you have a duty, the courts explain in quite clear and practical terms what the duty is, that it is enforceable and how it is enforceable, and then decision-makers feed it into their decision-making process because they do not want to act unlawfully. Therefore, it has an effect beyond the decided cases, and I am aware of that also from my practice: that public sector decision-makers will come and say, “We want to cut this or reconfigure that. How do we do it in a way that ensures we take into account relevant considerations?” I do not tell them what to do. I tell them the sorts of things they need to think about.
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Mr Buckland:]]] This is a question to Mr&#xa0;Hayward. You have already referred to the findings of the steering group relating to judicial review. If the steering group did not want to remove it altogether, how did they envisage it remaining available after the exhaustion of alternative processes? I think the concern of the group was duplication, delay and additional cost. How do you see the two systems meshing together?
+
+[[[Robert Hayward: ]]]In relation to alternatives, in answer to a previous question I said that we did not look at that in detail. We sought guidance through the Civil&#xa0;Service as to whether there may be alternatives, but I do not think it is beyond the wit of man. After all is said and done, there are already some processes under judicial review—again, I am not here as a legal expert—in terms of permission and the like, and there are other legal matters that I am experienced with in relation to tribunals, et cetera, where one goes through employment tribunals, where one goes through reviews and the like. However, we are talking here about expedition, primarily, and that was our key objective and our key concern—that things were not drawn out, because we received this series of evidence not that cases would not be won but that they were taking so much time that the net effect was to hit the budgets of the councils in a disproportionate way. 
+
+[[[Mr Buckland:]]] Therefore, you think alternative methods could reduce that cost and delay.
+
+[[[Robert Hayward: ]]]We hoped that they could. Within the legal frameworks that are in operation, we hope that people would be able to find ways of achieving that.
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Baroness Berridge:]]] Mr&#xa0;Hammond, can I bring you in at this point? What would be the effect, if any, in your view, of the removal of judicial review on the effectiveness of the public sector equality duty? Have you given some thought to what alternative mechanisms, if that were to happen, for enforcing the duty would better ensure that the needs of those people with protected characteristics were taken into account in decision-making?
+
+[[[Mark Hammond: ]]]We have given some thought to it but, as Rob has outlined, it is still fairly early days in its consideration. We have a number of specific enforcement powers around the PSED, as having broad oversight of it, but we very much view those, as Helen said, as a longstop ourselves. Our objective with the PSED is that everyone achieves the better policymaking that the duty entails rather than that we are able to say we have managed to take enforcement against A, B and C. That is why we have put so much effort into the guidance and advice and encouragement and cajoling that we have with public bodies. I can see a slight danger in looking at alternative mechanisms, as the previous panel echoed. If one introduced a mandatory judicial review mechanism in between, say, a pre&#x2011;action letter and the courts, that might divert a certain number of cases and reduce a certain amount of cost. However, it would open up a serious question then as to whether that was mandatory only for those cases that had already qualified, as the previous panel was saying, or whether you would then need to widen the funnel to those that might not have qualified for a full judicial review because of some factor but ought to qualify for some mandatory mechanism. It would be possible to construct mechanisms that ended up costing the public purse more rather than less, depending on how widely that funnel ran.Our own powers, as I say, are available on the general duty but are very cumbersome in terms of the pre&#x2011;actions and the terms of referencing that we have to do. They are simpler on the specific duties, but they are so narrow that it does not really have any real impact. We would be happy, certainly, to look at a role we might play in some sort of mandatory mechanism, but we would need to look at the powers we have. However, we would always argue that it is essential that judicial review does remain as a final option in any instance.
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Baroness Berridge:]]] Going back to the first part of the question and the other side of the coin, what do you think would be the effect of the removal of judicial review for the equality duty?
+
+[[[Mark Hammond: ]]]If I put on my previous hat as the Chief Executive of a council, I think it would be that some of the impetus or imperative to make sure that the decisions we were taking were fully in accordance with the PSED would undoubtedly be lost.
+
+[[[Helen Mountfield: ]]]Could I just chip in there? Before the first modern public sector equality duty was introduced, the race equality duty, there was in fact an equivalent but only target duty on local authorities, and it was never enforced and no one was aware of it. In that first case, which was brought against the Ministry of Defence in 2005, the reason the Ministry of Defence lost that case was they had simply not given any thought at all to the duty when they were doing something that obviously had serious race implications. Therefore, if you do not have something legally enforceable, people are not aware of it. The other important point is that if you took that public law wrong—you must do this, but you cannot enforce it legally—it would be contrary to the rule of law and it would also send a message that giving due regard to equality does not matter anymore; you cannot do anything about it if somebody does not. Therefore, it is an essential mechanism.
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Baroness Lister of Burtersett:]]] I have two questions for Ms&#xa0;Mountfield. You were implicitly partly answering the question in your previous answer to me, but in your own experience acting in judicial reviews involving PSED disputes how important have these cases been to the overall equality law framework? What do you think would be the potential impact, if any, on protected groups of people if it was not possible to enforce the duty through judicial review?
+
+[[[Helen Mountfield: ]]]They play an enormously important part in the framework because, of course, since the 1970s brave individuals have been able to take tort claims if they think that they have been discriminated against. However, that is practically impossible and it does not address structural questions. That is why the public sector equality duty was introduced in the light of the findings of the Stephen&#xa0;Lawrence inquiry. When Sir&#xa0;William&#xa0;Macpherson talked about institutional racism in the police, he was not talking about an institution full of racists. He was saying, “Here is an institution where the needs of minority ethnic communities have been left out of our thinking, and what this is for is to ensure that we, as public authorities, guard against that future disadvantage.” Therefore, when it was introduced with all&#x2011;party support, that duty was introduced to ensure that it was no longer just lip&#x2011;service and not the people who make decisions and know what they know just making the decisions as they go, but asking the questions to enable them to identify what we need to do to promote equality of opportunity, and what we need to do to foster good relations. In the first case, Lady&#xa0;Justice&#xa0;Arden in the Elias case said that this is an integral and important part of the mechanisms for ensuring the aims of anti&#x2011;discrimination legislation. My perception, having practised in discrimination law for 20&#xa0;years or so, is that it has had an enormous effect just on awareness of what those aims are and a normative language that these things matter because Parliament has said they are needs. We should be trying to do it; this is a useful way of doing it. I have said that I think the duties have a practical effect; they are not just red tape. They change the way people think over time. We are in early days and I agree with Rob&#xa0;Hayward and his review that you cannot abolish something until you have seen how it works.
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Lord Faulks:]]]
+
+[[[ ]]]Ms&#xa0;Mountfield, you said that you are asked to advise quite often about the public sector equality duty and you do not tell the bodies what decision to make but tell them how to make it. In your experience, do public authorities or those who have to take these decisions find it difficult to interpret what the duty is?
+
+[[[Helen Mountfield: ]]]I think they find it less difficult in light of the 100 or so court decisions that have now gone through, particularly the key decisions of the Court of Appeal, because those set out in very clear and practical terms what authorities do. They say this is not about filling in a particular form. This is not about thinking about the impact of buying air-conditioning units on transgender people. It is about saying what equality effects might this have. Let us think about how this might affect people. Let us think about what we do not know and let us find out, so that we do give due regard to equality. If we are going to reconfigure our libraries so that there are fewer of them, let us address the obvious accessibility issues and see what we can do within the available budget to avoid it having that effect. If we are going to have a school uniform policy, let us think about whether it is a policy that is appropriate to foster good race relations or relations between different religious groups. What are the issues? What should we be thinking about? What information do we need? It really is in support of good public sector decision-making and best value and ensuring people are included.
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Baroness Lister of Burtersett:]]] Mr&#xa0;Hammond—Mr&#xa0;Hayward, you might want to comment as well—the steering group made recommendations with regard to the role of the commission, other regulators, inspectorates, and relevant ombudsmen in supporting the implementation of the duty. Could you please outline briefly the commission’s view of its own enforcement role and that of the regulators, inspectorates and relevant ombudsman services?
+
+[[[Mark Hammond: ]]]Certainly. As I started to say in talking to Baroness&#xa0;Berridge’s question, our objective in this exercise entirely is that all bodies are abiding by the standards Parliament has said they should. We do not count success, as it were, in the number of cases we end up taking. In a sense, that is a failure on our part to bring people into compliance. Therefore, the two legs that we have particularly concentrated on are the material we provide to all forms of public authority, both generally on the duty and what is required and with specific sectors and decision-making. That remains a key part of it and, as the review suggested, we will continue with our board to look at the material we provide and how we can improve that in the light of the feedback we get.We also work directly at times both with groups of public bodies, through bodies such as the Local Government Association, and with some of the regulators. I was meeting last week with the Chief Executive of the Care&#xa0;Quality&#xa0;Commission, which is a very important partner of ours, talking exactly about how the work they do can pick up our expert input into the sort of assessments they do of how people that they are responsible for are complying. Therefore, the more that we can work through other regulators, through the forum that we convene among regulators, to ensure that everyone understands what is required for compliance, how that can be done and what sort of cases, as Helen said, have come along that might change the view people take—the more information they are able to have, hopefully, through us—then the higher the standards they will be able to meet.
+
+[[[Robert Hayward: ]]]I do not have anything to add at this stage, in the interests of brevity as much as anything else.
+
+[[[Baroness Lister of Burtersett:]]] I am sure the Chair will be pleased.
+
+[[[The Chair:]]] I am getting something of a reputation. We have been extremely successful this morning. I congratulate you, along with the other two panels, on getting through an enormous amount of work on time. If you feel, however, that we have been a little rushed, please write to us on matters you think we have not covered adequately. We do hope that we have done our best. Thank you very much for coming.&#xa0;&#xa0;&#xa0;&#xa0;              Oral evidence: The implications for access to justice of the Government’s proposed judicial review reforms, HC 868                            26

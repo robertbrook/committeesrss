@@ -1,0 +1,781 @@
+25&#xa0;UNCORRECTED TRANSCRIPT OF ORAL EVIDENCE               To be published as HC 877-iiiHouse of COMMONSOral EVIDENCETAKEN BEFORE the SCOTTISH AFFAIRS Committee
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[LAND REFORM IN ]]]
+
+[[[SCOTLAND]]]
+
+[[[ ]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]TUEsDAY 28 JANUARY 2014PROFESSOR DAVID ADAMS and PROFESSOR PAUL CHESHIRE&#xa0;Evidence heard in Public              Questions 291 - 400&#xa0;&#xa0;USE OF THE TRANSCRIPT1.This is an uncorrected transcript of evidence taken in public and reported to the House. The transcript has been placed on the internet on the authority of the Committee, and copies have been made available by the Vote Office for the use of Members and others.&#xa0;2.Any public use of, or reference to, the contents should make clear that neither witnesses nor Members have had the opportunity to correct the record. The transcript is not yet an approved formal record of these proceedings.&#xa0;3.Members who receive this for the purpose of correcting questions addressed by them to witnesses are asked to send corrections to the Committee Assistant.&#xa0;4.Prospective witnesses may receive this in preparation for any written or oral evidence they may in due course give to the Committee.&#xa0;&#xa0;Oral EvidenceTaken before the Scottish Affairs Committeeon Tuesday 28 January 2014Members present:Mr Ian Davidson (Chair)Mike CrockartGraeme MorriceMr Alan ReidLindsay Roy&#xa0;________________ 
+
+[[[Examination of Witness]]]
+
+[[[es]]]Witnesses: 
+
+[[[Professor David Adams]]], Ian Mactaggart Chair of Property &amp; Urban Studies, University of Glasgow, and 
+
+[[[Professor Paul Cheshire]]], Emeritus Professor of Economic Geography, London School of Economics, gave evidence.&#xa0;              
+
+[[[Q291]]]&#xa0; 
+
+[[[Chair:]]] I welcome you to this meeting of the Scottish Affairs Committee. This is our third evidence session in our inquiry into land reform in Scotland. It would be helpful if for the record you said who you were, what your background was and what your area of expertise was. Is this the first time we have had two professors out of two? No. We have had scores of professors before, but we have usually always had a normal mortal with them rather than exclusively professors.              
+
+[[[Graeme Morrice:]]] We had three at one time.
+
+[[[Chair:]]] Okay. Tell us who you are, then.
+
+[[[Professor Cheshire]]]: My name is Paul Cheshire. I am professor of economic geography at the LSE. I am interested in urban economics, land markets and land use planning effects viewed from an economic perspective.
+
+[[[Professor Adams]]]: I am David Adams. I am the professor of property and urban studies at the University of Glasgow. My interest is in the interaction between planning and property real estate markets, primarily in an urban context. In relation to this inquiry, I am one of the advisers to the Scottish Government’s land reform review group.&#xa0;
+
+[[[Q292]]]&#xa0; 
+
+[[[Chair:]]] Thank you very much. As you will appreciate, most of us here do not have a background in this area of work. Don’t feel you will be insulting us by telling us very basic things. We would much rather be told very basic things twice than have them skimmed over. Given the fact that land reform in Scotland has traditionally focused on rural rather than urban land—we are interested in both of those—and the distortions caused by the tax system, does it make sense for us to make, however, a substantial differentiation between the way in which urban land markets and rural land markets work, or is there a substantial degree of overlap?
+
+[[[Professor Adams]]]: There is a substantial degree of overlap if you look at markets in a particular way, which places great emphasis on the behaviour and strategies of the owner. It looks at the relationship between the strategies and key players, such as estate agents, so there are ways in which you look at land markets that can be as applicable in urban and rural areas.              Having said that, the issues are rather different. In urban areas, certainly in key settlements in Scotland such as Glasgow, there is a huge overhang of land that is not being used. It has been vacant and derelict for a long period of time. In rural areas, such land is very rare in terms of unused land on the Scottish Government’s vacant and derelict land register, for example, and the issues are much more about ownership structures and the extent to which, as a result of those ownership structures, the land is being used to sustainable effect or not.
+
+[[[Professor Cheshire]]]: I would come at it from a rather different view. My basic message to you would be that all the work that I have done, and that an increasing number of scholars around the world have done, reinforces the conclusion that land markets are amazingly efficient at capitalising almost everything. By “capitalising,” I mean that the price of land reflects everything about its value and use, including intangible things like not just current aircraft noise but expected future aircraft noise. Some very interesting work is going on in Berlin at the moment. There is a proposal for a new airport, and the proposed flight paths and opening date have been changed over time. Each of those changes is already capitalised into the land markets in Berlin. If you try to help poor farmers by giving them subsidies, it gets capitalised into the price of land. If you give inheritance tax reliefs to farmers to try to keep family farms going, it gets capitalised into the price of land and squeezes family farmers out. If you give subsidies to farmers, it gets capitalised in the price of rural land. If you give planning permission with particular obligations, the expected value of those obligations—because it is always in the future—is again reflected in the price of land. This seems remarkably efficient, given that we know there is a fair degree of apparent monopoly in land markets, but you still have trade and it is trade on the margin that really matters. In urban areas, because lots of houses are changing hands, the process may be rather quicker and complete than it is in rural areas where the volume of trades is rather less relative to the total stock of land.&#xa0;
+
+[[[Q293]]]&#xa0; 
+
+[[[Chair:]]] Professor Adams, I presume you agree with that. It is always quite helpful for us to have witnesses disagreeing and fighting between themselves, because it then illustrates for us the areas perhaps we need to give further thought to. If either of you do not say anything about the other’s answer, we will assume that you agree 100%.
+
+[[[Professor Adams]]]: I do not think you can assume that you can get two economists in a room to agree. I do not fully agree with what Professor Cheshire has to say. He comes at it from a different mode of economic analysis that has its strengths as well as its weaknesses. There are a number of issues in what he has to say. First, the difference between price and value needs to be much clearer. For example, one of the issues is the huge difficulties in ascertaining what the value is, those difficulties often being the result of not enough price evidence—in other words, not enough transactions.In terms of the transactions in land and how the market works, we often find that a lot of the deals are done in a fairly closed way. Land is advertised to a very short list of people. It is not openly marketed; it is not an open competition; it is through contacts and networks. I would take what we call a much more institutional view of the land market than perhaps Professor Cheshire takes. For example, the big land agents in Scotland are very important in what one might call making the market and the way they lead people on, the way in which expectations are formed and the way in which behaviour is changed. You might put those two perspectives together because, if you take both of them, you might start to get towards the truth. I am not saying you should take one and ignore the other, but you should not necessarily expect that when you get two of us in a room we will agree.
+
+[[[Chair:]]] That is helpful.
+
+[[[Professor Cheshire]]]: As to the issue of price and value, it is yes and no. I do agree that there are some things which clearly have value which it is difficult to put prices on. What is the value of habitat, for example? What is the value of an SSSI? What is the value of something which reduces the chances of global warming? The problem is that you have these very long-term and uncertain outcomes and it is very difficult to value. In that sense, I am not disagreeing with my colleague. There are some things, but most of the things which actually happen, like the value of open space, the value of shooting rights, the value of fishing rights, the value of land for food production, the value of land as a licence to receive subsidies, or the value of land as a licence to receive exemption from inheritance tax, are pretty well priced in the market.&#xa0;
+
+[[[Q294]]]&#xa0; 
+
+[[[Chair:]]] Professor Adams, I want you to clarify the distinction that you seem to be drawing between value and price. Without getting into metaphysics and the like, I just presumed that the only way in which you could measure the value of a piece of land, as with a piece of art, was the price somebody was prepared to pay for it. Am I missing a point here?
+
+[[[Professor Adams]]]: No. You are right, but then it depends on how much evidence you have of that. Let’s say you are valuing a semi-detached house. You would expect there to be a lot of comparable transactions you can draw on. If you are valuing a highland estate, for example, there will be very few relative transactions, and therefore the task of the valuer becomes much more difficult. Hypothetically, if you sent 10 valuers to do that exercise, the research shows that you would come up with 10 different answers. The question would be: how different are they? That depends on how particular is the form of property. If it is a semi-detached house, the differences might not be very much; if it is a highland estate, the differences between different valuers might be quite a lot.
+
+[[[Professor Cheshire]]]: I am putting no trust in valuers whatsoever, both from personal experience but also from academic studies of how reliable they are. All my evidence would be drawn from large-scale statistical studies of transactions, and that is where you can get really fine detail. It is not just a question of two semi-detached houses in the same road being rather similar, but you can identify statistically the implicit price of each attribute. Every property is different, but it is composed of a bundle of attributes. If you have got a large sample of transactions—a colleague at the LSE has just been analysing 1&#xa0;million house transactions to identify the price that is put on green belt land—you can get very accurate statistical evidence, but I would never trust a valuer to give me an accurate answer.&#xa0;
+
+[[[Q295]]]&#xa0; 
+
+[[[Chair:]]] Professor Adams in particular, one of the difficulties we have with these hearings is that when you nod it is not recorded, so you have to say something. Let it be recorded that Professor Adams agreed with the idea that you should never trust a valuer.
+
+[[[Professor Adams]]]: Professor Cheshire is right. If you have a large number of transactions in a particular form of property, the kind of econometric analysis that he specialises in becomes far easier. If you are undertaking that kind of analysis for, say, highland estates, it becomes much more difficult than it would be if you were doing it in an urban context for, say, semi-detached houses.
+
+[[[Professor Cheshire]]]: You can probably do it with a sample of 100 transactions, and over time you can get pretty good information. I have just done a study of London office markets where I have identified 650 transactions, only 51 of which are interesting, and it is very clearly statistically identified.&#xa0;
+
+[[[Q296]]]&#xa0; 
+
+[[[Mr Reid:]]] Following on from what you said earlier about everything, including tax and subsidies, affecting the value or price of land, are you able to tell us what distorting effects the taxation regime has on land in Scotland?
+
+[[[Professor Cheshire]]]: As I understand it, the inheritance tax exemption of agricultural land applies in Scotland as it does in England. That clearly has inflated the price of agricultural land in England quite substantially. I have not done the work, and I do not know that anyone has done the specific work. My guess is that, if you compare agricultural land prices in England or Scotland with equally productive land in, say, France where you do not have that, you are looking at something like a factor of four.&#xa0;
+
+[[[Q297]]]&#xa0; 
+
+[[[Chair:]]] When you say “a factor of four,” does that mean it quadruples?
+
+[[[Professor Cheshire]]]: It is something like. I have not got a statistical standard.&#xa0;
+
+[[[Q298]]]&#xa0; 
+
+[[[Chair:]]] When you say “a factor of four,” does that mean that the price is four times higher than it would otherwise be?
+
+[[[Professor Cheshire]]]: Than it would be without the inheritance tax relief.&#xa0;
+
+[[[Q299]]]&#xa0; 
+
+[[[Mr Reid:]]] What about other taxes—for example, capital gains tax? There is forestry exemption.
+
+[[[Professor Cheshire]]]: It works in forestry as well. It used to be that the only reason for planting trees was to keep your accountant happy as a very big wealth holder.&#xa0;
+
+[[[Q300]]]&#xa0; 
+
+[[[Mr Reid:]]] Is it only forestry where capital gains tax exemption applies?
+
+[[[Professor Cheshire]]]: As I understand it, in Scotland that is true; it is only forestry, but it has a significant impact on the value of forestry. It also has distorting effects on how forestry is managed because I think it applies to the trees, not to the land.&#xa0;
+
+[[[Q301]]]&#xa0; 
+
+[[[Mr Reid:]]] Can you expand on what distorting effects it has?
+
+[[[Professor Cheshire]]]: It is not one of my particular areas of expertise. As I understand it, it affects how old the timber is before you crop it. You crop it to maximise your tax exemption rather than your timber yield.&#xa0;
+
+[[[Q302]]]&#xa0; 
+
+[[[Mr Reid:]]] So it is the trees themselves rather than the land.
+
+[[[Professor Cheshire]]]: I think it applies to the trees rather than the land in the case of forestry in Scotland.&#xa0;
+
+[[[Q303]]]&#xa0; 
+
+[[[Mr Reid:]]] Are there any other effects of the tax system that distort land values?
+
+[[[Professor Cheshire]]]: Obviously, there are agricultural subsidies. The single farm payment does, but it is better than the alternative.&#xa0;
+
+[[[Q304]]]&#xa0; 
+
+[[[Mr Reid:]]] What about the move to an area-based system? Have you analysed what effect that will have?
+
+[[[Professor Cheshire]]]: I am sorry; you will have to clarify that.&#xa0;
+
+[[[Q305]]]&#xa0; 
+
+[[[Mr Reid:]]] The common agricultural policy is moving away from the single farm payment to an area-based system.
+
+[[[Professor Cheshire]]]: If it goes to conservation payments, that is clearly in the public interest. That will then negatively affect the price of agricultural land, because, by and large, more environmentally friendly forms of farming reduce output of saleable food, and therefore tend to reduce income generated from food, but they may increase recreational income. It is a complicated system, and once you press one button it may pop out somewhere else.&#xa0;
+
+[[[Q306]]]&#xa0; 
+
+[[[Mr Reid:]]] How complicated is it to carry out quantitative research to try to work out the distorting effects of subsidies or taxation?
+
+[[[Professor Cheshire]]]: I am quite an old academic. I have reached the position where I think almost every well-intentioned intervention has other consequences which have not been foreseen, and which often completely offset the good intentions of the original intervention.&#xa0;
+
+[[[Q307]]]&#xa0; 
+
+[[[Chair:]]] That is a very positive thought to leave us with, is it not?
+
+[[[Professor Cheshire]]]: I do not want to be a counsel of despair.&#xa0;
+
+[[[Q308]]]&#xa0; 
+
+[[[Mr Reid:]]] Do you regard state intervention as market failure?
+
+[[[Professor Cheshire]]]: No. You clearly need state intervention in land markets because there are serious endemic problems of market failure in land markets. You clearly do need policies to preserve national parks, heritage coastline, SSSIs and habitat; otherwise, they will just disappear. You should do it carefully and bit by bit rather than clapping in an across-the-board policy that is one size fits all, because that will most likely have detrimental effects. Incremental change is a good idea with things like this. Suck it and see. The move to the single farm payment was better than the subsidies, headage payments, less favoured area payments and so on, which simply intensified farming in very bizarre and, I am afraid, environmentally unfavourable ways. To go to conservation payments would be a better move, but not all at once: go gently.&#xa0;
+
+[[[Q309]]]&#xa0; 
+
+[[[Mr Reid:]]] Professor Adams, was there anything you wanted to add?
+
+[[[Professor Adams]]]: No. I broadly concur with what Professor Cheshire has said on the taxation implications.&#xa0;
+
+[[[Q310]]]&#xa0; 
+
+[[[Chair:]]] I am glad you agree on this, but are you saying to us that the price of land would be a quarter of the price it is at the moment were it not for the inheritance tax exemptions?
+
+[[[Professor Cheshire]]]: You are taking away my very cautious academic caveats. I have not done the work. That would be my back-of-the-envelope guesstimate, but it is work that could be done.&#xa0;
+
+[[[Q311]]]&#xa0; 
+
+[[[Chair:]]] How do you get the figure of a quarter? First, I appreciate your general point that that makes land more valuable than it would otherwise be. I can understand that. Why four times rather than 24 times, or 400 times?
+
+[[[Professor Cheshire]]]: Looking at the starting point when this was introduced—it is not all that old—and looking at what has happened to agricultural land prices relative to visible agricultural incomes, and how land prices have risen relative to incomes; the rate of appreciation of agricultural land compared with other sorts of land since inheritance tax relief; and also the difference between the value of land in Britain where you have this tax relief, compared with other countries where you don’t, on land which is, roughly speaking, equally productive.&#xa0;
+
+[[[Q312]]]&#xa0; 
+
+[[[Chair:]]] If we came out with a recommendation and had it implemented that inheritance tax relief for agricultural land and rural estates should be abolished, you reckon that the price would fall to a quarter of its present level.
+
+[[[Professor Cheshire]]]: Again, you are taking away my academic caveats. I would recommend that you commission a piece of good academic work to give you a much better approximation of the answer that I am able to give, but in general I think you should take away inheritance tax relief.
+
+[[[Chair:]]] We will come on to that later on.&#xa0;
+
+[[[Q313]]]&#xa0; 
+
+[[[Graeme Morrice:]]] Good afternoon, gentlemen. Scottish Land and Estates, which, as you know, is the representative body for landowners in Scotland, told us previously in evidence: “Much is made of the fact that some individuals in Scotland own large landholdings, but large landholdings are equally as common in other countries, especially in countries where the productive value of the land is low.” Do you think it is fair to say that the productive value of Scottish land is low and that is why large landholdings are common?
+
+[[[Professor Adams]]]: There is a whole series of historic and social reasons why we get large landholdings in Scotland. If we take just one example, Murray Estates goes back to 1563 and Mary Queen of Scots. There is an example of a large landholding that does all sorts of different things and is quite heavily involved in property development in new towns and so on and so forth. In those circumstances, there is a huge variety of different sorts of rural landowners in Scotland, some of whom are more active and some of whom are more passive. Those reasons are historic, institutional and behavioural, as well as the reasons you mentioned.&#xa0;
+
+[[[Q314]]]&#xa0; 
+
+[[[Graeme Morrice:]]] Professor Cheshire, do you want to comment on that?
+
+[[[Professor Cheshire]]]: As a generalisation, I think it is true. “Less productive” may just mean “very inaccessible.” Intrinsically, it may be quite productive land, but, if it is very inaccessible, that will make it in some sense less productive; it will earn less revenue. There is a broad statistical association between less productive land and larger holdings, which is what you would expect. My colleague may have a point in that there is a historical and institutional structure to it as well. I rather doubt that that is a complete explanation, but you would expect that in the highlands of Scotland, with its pretty short growing season, you would have relatively large landholdings for them to be viable.&#xa0;
+
+[[[Q315]]]&#xa0; 
+
+[[[Graeme Morrice:]]] So it is to do with the topography of Scotland, in particular the highlands and islands, and the issue of super-sparsity and rurality.
+
+[[[Professor Cheshire]]]: And elevation, climate and the basic fertility of the soil, but it is also to do with the structure of inheritance, traditional land ownership and so on that has come down the years, and the fact that estate duty and inheritance taxes have not worked in quite the way they were expected to. Equally, you have got to put it against the inequality in earnings and incomes. If you have an unequal society, you are going to have unequal ownership of property.&#xa0;
+
+[[[Q316]]]&#xa0; 
+
+[[[Chair:]]] To follow up one point, you said that inheritance tax and other taxes had not applied in the way they were intended to. Can you clarify how you thought they were intended to work, and how they are actually working in practice?
+
+[[[Professor Cheshire]]]: When they were introduced in the early 20th century I think they were intended to reduce the generational passage of wealth, so you had a more meritocratic outcome. I do not think they have. There continue to be so many loopholes in the system, and agricultural land is one of them. People who are big in buying agricultural land are making their money mainly in other walks of life, and they are becoming farmers for tax purposes.&#xa0;
+
+[[[Q317]]]&#xa0; 
+
+[[[Chair:]]] So the answer to that would be to apply inheritance tax without exemptions to all land.
+
+[[[Professor Cheshire]]]: If your aim is to try to reduce the generational transmission of inequality.&#xa0;
+
+[[[Q318]]]&#xa0; 
+
+[[[Chair:]]] What would be the consequences of that for landholdings in areas like those in Scotland?
+
+[[[Professor Cheshire]]]: Over a long period of time, they would tend to become less concentrated, but whether that is a good thing is another issue.&#xa0;
+
+[[[Q319]]]&#xa0; 
+
+[[[Chair:]]] You think it would tend to become less concentrated, and not simply rich people losing some of their money as a result of inheritance tax and other rich people coming in and buying it and losing it in turn. The estates might remain, as it were. I do not quite follow why you automatically assume that the estates would be broken up.
+
+[[[Professor Cheshire]]]: It is easier to keep something than to buy it. It is easier to keep something intact over time. Bits will tend to get sold off, so it stays in the families. It happened to a lot of the estates after the first world war when there were unexpected deaths. You had to sell off part of the estate, so it got smaller because you had to pay the inheritance tax. The other problem is, as I was saying earlier, that you plug one loophole and a clever accountant finds another, so it is easier said than done.
+
+[[[Chair:]]] The view that you have of valuers is the one we have of accountants and lawyers. We have not examined or considered professors at all, so at the moment you are fine.&#xa0;
+
+[[[Q320]]]&#xa0; 
+
+[[[Mr Reid:]]] How widespread is the agricultural exemption from inheritance tax? Does it apply to sporting estates or to forestry?
+
+[[[Professor Cheshire]]]: I think you have to be officially recognised as a farmer only.&#xa0;
+
+[[[Q321]]]&#xa0; 
+
+[[[Mr Reid:]]] But does it apply to forestry?
+
+[[[Professor Cheshire]]]: Forestry is a separate category, so there is a separate tax regime for exemption from capital gains tax primarily in the case of forestry. I am not a tax accountant, but I think it then applies to the timber rather than the land itself, so that is why it affects the cropping age of the timber. It also affects the value of the land.&#xa0;
+
+[[[Q322]]]&#xa0; 
+
+[[[Mr Reid:]]] A lot of these estates are owned by trusts. If there is not inheritance tax to pay because it is agricultural land, why did these families see the need to establish trusts to keep the land in the family?
+
+[[[Professor Cheshire]]]: Because they did have to pay estate duty, and trusts are one way in which you can avoid paying various forms of inheritance tax.&#xa0;
+
+[[[Q323]]]&#xa0; 
+
+[[[Mr Reid:]]] That is tax on the non-farming part of the estate.
+
+[[[Professor Cheshire]]]: No, because the exemption from inheritance tax specifically for farming is a relatively recent innovation; I think it is about 15 or 20 years old.
+
+[[[&#xa0;]]]
+
+[[[Q324]]]&#xa0; 
+
+[[[Mr Reid:]]] So these trusts were set up before then.
+
+[[[Professor Cheshire]]]
+
+[[[: ]]]Yes.&#xa0;
+
+[[[Q325]]]&#xa0; 
+
+[[[Graeme Morrice:]]] We were also told by Highlands and Islands Enterprise that, with regard to the purchase of large tracts of rural land, the return on investment that is generated as a result is disproportionate to the value attached to the land. Would you agree with that? If so, could you maybe explain how it is disproportionate?
+
+[[[Professor Adams]]]: Could you explain what they said in more detail?
+
+[[[&#xa0;]]]
+
+[[[Q326]]]&#xa0; 
+
+[[[Graeme Morrice:]]] According to the note that I have here, that is what they said. I do not know whether anybody else wants to expand upon that.
+
+[[[Chair:]]] I read from their evidence: “With respect to the purchase of large tracts of rural land and forestry estate islands, it is our experience that the contemporary value of such land is disproportionate to the return on investment that such assets typically generate. This could be shown as a direct legacy of the economic context and fiscal environment of land ownership over time in Scotland, and the legacy which presents a barrier to diversified land ownership patterns in Scotland today.”&#xa0;
+
+[[[Q327]]]&#xa0; 
+
+[[[Graeme Morrice:]]] I am sorry. I assumed you would have read their comments to the Committee previously. 
+
+[[[Professor Cheshire]]]
+
+[[[: ]]]No.
+
+[[[Graeme Morrice:]]]
+
+[[[ ]]]Don’t worry about it.
+
+[[[Professor Cheshire]]]: You have to take account of the value of the land for tax avoidance purposes. The agricultural returns may be relatively low, but it may still be advantageous to invest in it. I do not know.&#xa0;
+
+[[[Q328]]]&#xa0; 
+
+[[[Chair:]]] We will have to check this, but presumably land simply as an appreciating store of value makes it somewhat more attractive than as a productive asset. That is the background to quite a lot of the evidence we have had in writing and informally from people. If you put your money into land it will only appreciate, almost irrespective of what you do with it.
+
+[[[Professor Adams]]]: There is a body of research that looks at what is called psychic income, which is non-monetary income that gives you beneficial feeling, whether in terms of status, power or whatever it happens to be. In assessing the returns to landowners and what their motives are for buying highland estates, if we simply look at their financial year-on-year returns, that is not the whole picture. They are in there for a whole series of other reasons, and they may well have a return that to them is not a monetary one.&#xa0;
+
+[[[Q329]]]&#xa0; 
+
+[[[Chair:]]] That is presumably the equivalent of conspicuous consumption, is it not, to keep up with the Joneses, as it were? There is nothing much that the Government can do then to affect that element of it, but there is something the Government can do to affect the inheritance tax regime. It is just a question of whether or not there is anything we ought to be taking into account when making recommendations about prices being so much higher than what would seem to be an objective value. The objective value in those circumstances is based on the productivity of the land, but, as you say, there are other factors. Is there anything in particular you would draw our attention to in academic research that would help quantify that and help us look at the extent to which that is something that is applicable in the highlands and islands?
+
+[[[Professor Adams]]]: No, because I do not think that kind of mode of analysis has been applied very largely to this question. I am not aware of anyone who has done a piece of work that could answer the question that you are asking.
+
+[[[Professor Cheshire]]]: An agricultural economist at the University of Wales, Bangor, tried to work out the rate of return in agriculture since about 1780. Allowing for the cost of land as part of the capital employed in agriculture, his conclusion was that the rate of return, if you looked at it in the long term, had not changed over about 200 years. It is very low. The reason is partly the psychic income where there appears to be a ready supply of people who are keen simply to own agricultural land to be farmers. That tends to push up the price of land at the margin, which means that, if you take account of the value of the land in the total cost of farming, it pushes down the return.              If you look at the price of land since, say, 1930, you have periods of very substantial reduction. You can see the anticipation and then entry into the common agricultural policy reflected in the price of land around about 1970. You can see the very bad harvest in the US and the increase in the set-aside acreage in the US, at the same time as interventions from the USSR purchasing in the 1970s pushing up the price of food. That had an almost immediate effect on the price of land. It is the same with tax relief. Essentially, it is subsidy plus tax relief. That is why the price of land has been rising over time. Maybe people draw false expectations about future prices, because those subsidies and the tax relief can go away, in which case, without doubt, the price of land would fall.&#xa0;
+
+[[[Q330]]]&#xa0; 
+
+[[[Chair:]]] Can I clarify to what extent the assumption that land will grow in value, and therefore it is a good place to put your money, rather than, say, fine art or gold bars, helps drive the price up? Is there an extent to which you can say, just as you were so specific about “four times” earlier on—
+
+[[[Professor Cheshire]]]: I was very definitely not specific.&#xa0;
+
+[[[Q331]]]&#xa0; 
+
+[[[Chair:]]] Specific-ish. Is there a quantifiable figure you would pick up and say that 20%, 40% or 200% of the price is simply because people are using it to store their wealth, as distinct from having it in a bank account, on the assumption that land will appreciate? Can you help us with that at all?
+
+[[[Professor Cheshire]]]: I have not done the calculations. You could commission a relatively cheap bit of work for someone to work out the present value of the capitalised flows of expected subsidies and tax relief and what it was adding to the price of agricultural land. Of course, it involves the expectation that these things are going to continue in the future.&#xa0;
+
+[[[Q332]]]&#xa0; 
+
+[[[Chair:]]] These unknowns or variables are going to be affecting the amount of income that is drawn from the land in terms of agricultural subsidies and the like. Am I right in thinking that they will also affect the anticipated capital values of the land? Therefore, it is a bit like buying stocks and shares. You are not buying them to do anything with them; you are just buying them to sit there in the expectation not necessarily that you will draw dividends from them, but that they will simply grow. If you want to avoid that sort of speculative bubble, how do the Government address that?
+
+[[[Professor Cheshire]]]: I do not think it is a pure speculative bubble, but it does involve the expectation that subsidies are going to rise rather than fall, which is possibly optimistic, but it also may be, as David said earlier, the psychic element also exists and may also be rising in value over time. As you get richer, you can afford to engage in the luxury of owning a large amount of grouse shooting, or whatever it may be. There is globally an increasing number of very rich people who may be taking advantage of that.
+
+[[[Chair:]]] We cannot deal directly with snobbery by Government action, but presumably we can deal with the question of subsidy and so on. That is helpful.&#xa0;
+
+[[[Q333]]]&#xa0; 
+
+[[[Graeme Morrice:]]] I am hopeful that you are aware of the policy aims of the Scottish Government’s land reform review group in relation to the topic of land ownership. In general terms, is it possible to achieve the Scottish Government’s aims to diversify land ownership, and, in particular, to expand community ownership, without tackling the question of land values?
+
+[[[Professor Adams]]]: It is certainly possible to expand community ownership. There are a number of aspects of that. Top of my list of expanding community ownership would be to simplify the whole process, because it is remarkably complicated under the current legislation for the community right to buy to be effective. Part of the remit of the land reform review group is to look at the processes by which that community right to buy can be registered and then exercised.Having said that, you then have to fund any community buy-out. That is partly about the Scottish land fund and Government funding; it is partly about, in some cases, charitable funding, lottery funding and so on and so forth; but it is also about the short time scale in which cash has to be raised to fulfil the community buy-out. Clearly, if the capitalisation of taxation incentives to which Professor&#xa0;Cheshire referred were not there and land were cheaper, it would become a lot easier, but, irrespective of going down that line, there is a lot you can also do to promote community ownership, in terms of both speeding up the process and the amount of money that is available under the current system.
+
+[[[Professor Cheshire]]]: I largely agree, but it is not an either/or. The more expensive land is, the more concentrated ownership tends to be and the more damaging agricultural practices will be to the environment. The argument that you need agricultural subsidies to safeguard the environment is the exact opposite of reality. What you need are conservation subsidies to preserve the environment. The cheaper the price of land, the easier it is for smaller people to enter the market, whether they are community groups or just smaller land owners.&#xa0;
+
+[[[Q334]]]&#xa0; 
+
+[[[Chair:]]] Can I seek a view on the question of state aid rules? Professor&#xa0;Adams, you mentioned the question of raising the money and so on. We have had a couple of sessions where people have been telling us about the difficulties of state aid rules. We are not entirely clear at the moment whether or not these are being used as camouflage, or things to hide behind, rather than genuine difficulties in purchasing. Can you give us a bit of assistance with that?
+
+[[[Professor Adams]]]: That is not an area in which I would claim specific expertise, but I think there is a general issue of the risk-averse nature of the bureaucracy. If you stand back a little and think about the objectives of community ownership, they are quite different from the way in which land has been held in Scotland over a long period of time. That requires people to take risks. It requires communities to take risks because they have responsibilities as a result, but it also requires people within Government agencies to take risk, and perhaps push out the boat further than they would to make things happen and, if they do not break the rules, they certainly bend them. As well as looking in detail at the specifics of state aid, maybe it is just as important to look at the culture within the Government organisations that are responsible for interpreting those rules.&#xa0;
+
+[[[Q335]]]&#xa0; 
+
+[[[Chair:]]] That certainly echoes the sentiment we were expressing last week, or whenever we held our last session. That is very helpful. You have emphasised the difficulties of the bureaucratic process, and there is the issue of raising money and so on. Presumably, the question of land price is an enormous barrier to community land ownership, notwithstanding these tinkerings, as it were. Unless there is an unlimited pot of money, which is then caught by the state aid rules presumably, not much progress can be made while land retains its existing price level.
+
+[[[Professor Adams]]]: If we are getting down to the level of individual buy-outs, for example, there is a process within the statute of an independent valuation being commissioned on behalf of the Scottish Government. The aim is to identify what would be open market value for which the community has to stump up the cash. Coming back to what I was saying earlier, it is quite a difficult task for a valuer to take maybe a small piece of land that the community wants to buy—perhaps it is part of a much larger estate—and say definitely what the open market value is. The tendency of the whole process is to give a more cautious and higher estimate of open market value than would probably be the case if you had a public auction of that single piece of land for the particular purpose that the particular community body wanted to buy it for. There is difficulty within the statutory process of trying to judge what open market value is for a product which there are very few transactions to compare against.&#xa0;
+
+[[[Q336]]]&#xa0; 
+
+[[[Chair:]]] Presumably, if the Government announced tomorrow that the inheritance tax allowance and so on was being abolished, the valuations being arrived at would be much lower, almost a quarter.
+
+[[[Professor Adams]]]: The valuers could make an estimated adjustment. They would feel much happier to see some transaction evidence over a period of time.&#xa0;
+
+[[[Q337]]]&#xa0; 
+
+[[[Mike Crockart:]]] It is interesting to take that argument further. You are talking about coming up with an open market value but in a market which effectively is dysfunctional, because it is massively affected by subsidies and hidden taxation. In terms of getting to a point where you are getting good value for the public purse, surely you have to deal with the market issues; otherwise, you deal with the bureaucracy of a community buying a piece of land and make that easier, but, at the end of the day, you are still left with a price, a valuation of the market, or otherwise, that is massively inflated by the system. Surely, from the point of view of getting proper value for money for what is effectively public money that you are handing over to buy this property, you should be dealing with the market, which is distorting the value of the property that you are then handing money over to buy.
+
+[[[Professor Cheshire]]]: The market value of land is what they pay in the market. That will reflect the capitalised values of these subsidies and other things we have been talking about. It is asking a lot too much of valuers to give you any reasonably sensible valuation of what the land would be worth in the absence of those. At one stage, most of what we were paying farmers for environmental aspects was essentially for their forgone subsidy for not producing food. The problem is that we were paying out of two pockets at the same time. Take away the tax breaks and subsidies and convert the subsidies into conservation payments, which would have real community value but would also support farmers’ income, and the price of land will fall. If you did that, there would immediately be a lot of land coming on to the market because a lot of it is being held simply because it provides a way of shielding wealth against tax.&#xa0;
+
+[[[Q338]]]&#xa0; 
+
+[[[Mike Crockart:]]] To use your analogy, that is precisely what we are doing here. We are paying out of both pockets. We are paying communities to help them to buy the land but also paying the subsidies which inflate the market value of the land. 
+
+[[[Professor Cheshire]]]: The money you are giving communities to buy the land is to compensate people for money you are already giving them through the tax break. It is a problem of policy failure rather than of market failure. &#xa0;
+
+[[[Q339]]]&#xa0; 
+
+[[[Chair:]]] That is a very good way of putting it. On the question of the community wanting to purchase land, is there anything about the parcels of land that communities tend to want to buy that distinguishes them from other land? To some extent, land is land, but maybe it tends to be in particular locations. Is there anything we ought to be aware of that it would be useful for us to consider?
+
+[[[Professor Adams]]]: In some cases, it is whole estates that communities have wanted to buy out in order to remove the landlord and control the estates themselves; in other cases, it is small plots of land on the edge of a village, or whatever it happens to be. But the community right to buy also applies to all settlements with populations under 10,000. In Neilston, the community bought out a bank building and turned it into a community centre. So, across the piece, the pieces of land or property that communities might be interested in purchasing are quite varied.&#xa0;
+
+[[[Q340]]]&#xa0; 
+
+[[[Chair:]]] But there is nothing in that which in a sense ought to lead us towards a particular policy prescription.
+
+[[[Professor Adams]]]: As to the policy prescription, in terms of the community right to buy, the legislation is devolved under the Land Reform Act, the Scottish land fund and so on. The immediate legislation is for the Scottish Parliament. If changes of the taxation regime indirectly made that easier, that would probably be welcome.&#xa0;
+
+[[[Q341]]]&#xa0; 
+
+[[[Graeme Morrice:]]] In your view, is it proper for Government to intervene in land markets with the aim of reducing the price of land?              
+
+[[[Chair:]]] I take it that is a hard one.
+
+[[[Professor Cheshire]]]: I think it is proper for Governments not to intervene in ways that increase the price of land.
+
+[[[Graeme Morrice:]]] That is a good answer.&#xa0;
+
+[[[Q342]]]&#xa0; 
+
+[[[Mike Crockart:]]]
+
+[[[ ]]]They already do.
+
+[[[Professor Adams]]]: As they presently do.&#xa0;
+
+[[[Q343]]]&#xa0; 
+
+[[[Chair:]]] They could quite easily withdraw from the market by changing a whole number of things they are presently doing. I understand that.
+
+[[[M]]]
+
+[[[ike Crockart:]]] Or withdraw the intervention rather than further intervention.
+
+[[[Professor Adams]]]: I think your whole question makes presumptions of how you construct land markets and prices. That is the problem with the question, and probably why I hesitated over it. I cannot see any mileage in the long term in Governments wanting to intervene in the way you have said, but there are a number of things that Governments could do. For example, Governments have a role to play in ensuring much better information within the market. That may or may not have price implications. For example, the question of exactly who owns the land, what price has been paid and what the mortgages are is a contextual action that Governments can take that, in certain circumstances, may well result in price changes. This is quite separate from the debate on taxation, but I do not think that going in and saying, “We are going to subsidise land prices and try to get prices down that way,” is correct. The other way round—removing subsidies that may be keeping prices high—may well be appropriate.&#xa0;
+
+[[[Q344]]]&#xa0; 
+
+[[[Graeme Morrice:]]] Can I look at the options? From the evidence that we have received to date, there appear to be three ways in which public policy could influence land values: first, reforming the system of tax reliefs and subsidies; secondly, regulation of the land markets; and, thirdly, fiscal measures such as land taxes to moderate or reduce land prices. From your own research, which of these three options do you think would be the most effective in reducing land values?
+
+[[[Professor Adams]]]: Can I add a fourth?
+
+[[[              ]]]
+
+[[[Graeme Morrice:]]] Of course. I was going to ask later on whether there are any other options that perhaps you might like to share with us.
+
+[[[Professor Adams]]]: This is particularly applicable within urban areas, but I suspect it is applicable to a lesser extent within rural areas. Where you have people holding on to land and not doing much about it, because there are very few holding costs for keeping land unproductive, one could introduce various measures to bring that land for sale. They could be direct or indirect.In my view, one of the huge problems we have in urban Scotland is that we have large areas of land, some of which has been vacant, or under the same ownership, for a long period of time. What Governments could perhaps do most productively is ensure that that land came to market. That does two things. First, it gets us away from all these estimates of value; it gives us real hard price evidence, and that probably means some write-down of owners’ expectations, because there are expectations of value in urban areas. Secondly, it also helps to produce new opportunities within urban areas. I have argued that strongly in urban areas. There may be parts of rural Scotland where that applies as well.&#xa0;
+
+[[[Q345]]]&#xa0; 
+
+[[[Graeme Morrice:]]] How do you dampen expectations of owners in terms of future potential value?
+
+[[[Professor Adams]]]: You need to be pretty direct about it. You have to take the view that there comes a point where holding on to land without doing much about it is not in the public interest. Whether you define that as two, three, five or 10 years is an open question, but at that point there needs to be a procedure by which that land can be put to public auction. Whether it is public land or private land does not matter. Some of the land is held by public authorities. The majority of land is held by private bodies. We do not even know who holds some of it. If we put that land to public auction, we start to get a more realistic assessment of what prices probably are, reflecting today’s economic circumstances, and that is a stimulant to new activity.&#xa0;
+
+[[[Q346]]]&#xa0; 
+
+[[[Graeme Morrice:]]] How do you bring about that situation? Obviously, you would have to make that mandatory.
+
+[[[Professor Adams]]]: Yes. I have published a paper on this. You would need to have a legislative procedure with all the safeguards you would suggest. These are what we call hard core vacant sites. It is not land that has been vacant for a year or two; it has been vacant through one boom and slump and the next boom, and nothing has happened. In many parts of urban Scotland, we need structural change. Part of that structural change is an acceptance that land values are not as they were and, in order to get that structural change, we need hard evidence through transactions. I think the best way to do that is a public procedure by which you can force that land to public auction.&#xa0;
+
+[[[Q347]]]&#xa0; 
+
+[[[Chair:]]] Before Professor Cheshire comes in, can I clarify something? You mentioned increasing the costs of holding land. What did you have in mind?
+
+[[[Professor Adams]]]: In some jurisdictions, there is what they call a vacant land tax. If you have a piece of land that has been sitting idle for a number of years, a tax is imposed on it, and there are arguments for and against that. I think it is a fairly indirect mechanism. You can say that you tax land to raise the holding cost of keeping it vacant. It would take a long time for that to work through. A more direct mechanism is to have almost an inverse compulsory purchase order. It is not the state acquiring it but the state saying, after a period of time, “You’ve had your chance to make use of this land. You haven’t made use of it. This now has to go to auction and someone else can have it.”&#xa0;
+
+[[[Q348]]]&#xa0; 
+
+[[[Chair:]]] Surely, in those circumstances, you can quite easily have a carousel of owners. It is not held by the same group, trust or structure for any length of time, but after six months it is sold to another front company and it keeps rotating.
+
+[[[Professor Adams]]]: You could deal with that through the terms of the contract and the property rights to give an implied option to the public authority that, if someone bought it and did nothing for a period of three years for example, it would then vest in the public authority. That would probably not need to be exercised, but you would have to put something in the contract to avoid precisely the problem you mention.
+
+[[[Professor Cheshire]]]: I am not entirely 180 degrees away from what has just been said, but I would be more cautious. There are holding costs which vary according to the type of land holder. Historically, one of the problems might have been with public authorities where there was no cost penalty to them and they simply were not behaving as if this was an asset which was potentially worth something. There may be some land tied up in that way, but privately held land has got a cost which is the opportunity cost of doing something with it. It may be that the owner expects the future value to be higher and there is an optional demand process going on. It may also be, in some former industrial areas, that the remediation costs of the land mean that it is not worth doing anything with it, unless you get quite substantial public assistance to remediate it.              When you come to rural land, it is very dangerous territory. What is land that is not having anything done with it? Is a nature reserve an area of land that is having nothing done with it? Is it a habitat that you are not wanting to develop in any way? I can certainly see an argument for a vacant land tax. Coming back to the tax relief that exists for agricultural land, I can see an argument for rateable values being applied to such land, certainly in England—I am not quite sure about the situation in Scotland—where agricultural land is exempt from local taxation. That seems an odd state of the world. I can see that you can’t charge a very high rateable value, but if there were some rateable value. Of course, on the margin you have things that are farmed. I know that in Scotland you have areas where maybe you could do some sort of very extensive farming but the land may be held by absentee landowners who are really doing nothing at all. Therefore, some nominal rate on vacant land, even rural vacant land, might be justifiable. That would get capitalised into the value of the agricultural land. If you were liable for paying those rates, the value of land would fall.&#xa0;
+
+[[[Q349]]]&#xa0; 
+
+[[[Chair:]]] Professor Adams, can I pick up a point you made about not knowing who holds the land? Is there a way in which that ought to be addressed?
+
+[[[Professor Adams]]]: If I can give you some precise figures on that, there is almost 11,000 hectares of vacant and derelict land in Scotland. According to the Scottish Government’s statistics, the ownership of 12% of that is unknown to the local authority. That is in a country where we have the register of sasines and the Land Registry. We have very good historic records of land ownership. According to the Scottish Government’s statistics, local authorities have no idea who owns 12% of the vacant and derelict land in Scotland. That is the kind of problem we face in trying to make land markets work.&#xa0;
+
+[[[Q350]]]&#xa0; 
+
+[[[Chair:]]] How should that be dealt with?
+
+[[[Professor Adams]]]: There are issues around land registration and the speed of moving over to the new system. They are issues that the land reform review group has been asked to consider. No doubt, there will be ideas on that coming out of the land reform review group. There is a question as to whether, in the modern age, where you can get so much information from the internet, we should have a system that, if you wanted to check who owns a piece of land, there would be quite efficient publicly kept registers, so there is no doubt, and you could very easily find out who owned that piece of vacant land in your community, and you could at least send them an e-mail and ask whether they would be interested in selling. That is one of the problems at the moment.&#xa0;
+
+[[[Q351]]]&#xa0; 
+
+[[[Chair:]]] There is no reason why the relevant authority, which presumably would be the Scottish Government or local authority, should not have the opportunity to compulsorily purchase land for which there is no identifiable owner, and then the money is not handed up unless the owner appears.
+
+[[[Professor Adams]]]: Local authorities have that power. If we look across Scotland, the number of local authorities which are skilled, experienced and undertake compulsory purchase regularly is very small now. It has been whittled down from the position 30 or 40 years ago. Dundee is a very good example of an authority that has used compulsory purchase to undertake a major city centre redevelopment. People point to Dundee and say, “This is how it can be done.” Most Scottish local authorities are not really in that league. They do not have the skills and certainly don’t have the finance. Compulsory purchase is uncertain legally and financially. There are a lot of constraints to put local authorities off going down that line, particularly with all the financial cutbacks. My view is that an auction may be a way to try to get some of the markets to work themselves a bit better, without necessarily having to rely on local authority compulsory purchase.&#xa0;
+
+[[[Q352]]]&#xa0; 
+
+[[[Chair:]]] In the event that an owner could not be identified, their land would be sold at auction and they would get the proceeds if they ever appeared. Is that roughly the way in which this would work?
+
+[[[Professor Adams]]]: There are ways in which the local authority can deal with that. I am not sufficiently knowledgeable about what the local authority would then do with the proceeds—whether they would have to hold on to them for someone to turn up and say they owned it, or whether they could deal with it in another way.&#xa0;
+
+[[[Q353]]]&#xa0; 
+
+[[[Chair:]]] Presumably, it is reasonable for us to expect the Scottish Government’s commission, to which you are an adviser, to resolve all these matters since all these are devolved at the moment. We are a bit hesitant to intrude into things that are devolved. Where it is appropriate, we will do it if it ties in with what we are looking at, but presumably this is something they ought to resolve when they report in April.
+
+[[[Professor Adams]]]: The group has a fairly broad remit from the Scottish Government, as you will know and will have seen. It is charged with a whole range of issues that relate primarily to devolved matters, and it will be coming forward with a report in response to that remit.&#xa0;
+
+[[[Q354]]]&#xa0; 
+
+[[[Chair:]]] Is that a yes or no? I was saying it was reasonable for us to expect that they will come back and resolve this. I am not quite sure whether or not you agree.
+
+[[[Professor Adams]]]: It depends on what you mean. I cannot say that the land reform review group will resolve it as you think it should be resolved. I am not a member of the group; I am advising it.&#xa0;
+
+[[[Q355]]]&#xa0; 
+
+[[[Chair:]]] It is reasonable for us to expect them to resolve it in some way, not necessarily the way we would want.
+
+[[[Professor Adams]]]: Let’s put it this way: I think you will find they will try to address it.
+
+[[[Chair:]]] That is helpful.&#xa0;
+
+[[[Q356]]]&#xa0; 
+
+[[[Graeme Morrice:]]] I had finished my line of questioning, but what was flagged up was the interesting stat with regard to vacant land. You said that 12%, which is about one eighth, of that land does not have an identified owner. You are saying that local authorities will not be aware of who owns that land, if indeed it is owned at all. Are there any other bodies out there which would be aware of that, apart from the landowners themselves? That is a remarkably high figure.
+
+[[[Professor Adams]]]: It is. As a gross figure, the ownership of just over 1,300 hectares of vacant and derelict land in Scotland, according to the Scottish Government’s survey, is unknown to the local authority.&#xa0;
+
+[[[Q357]]]&#xa0; 
+
+[[[Graeme Morrice:]]] And, therefore, not known by any public body.
+
+[[[Professor Adams]]]: With quite a bit of digging within the registers, some of that might be discoverable. I have not drilled down below that, but I was surprised by that figure.&#xa0;
+
+[[[Q358]]]&#xa0; 
+
+[[[Chair:]]] Professor Cheshire, do you want to comment on this exchange?
+
+[[[Professor Cheshire]]]: This is a level of detail where I probably do not have anything very useful to offer.&#xa0;
+
+[[[Q359]]]&#xa0; 
+
+[[[Chair:]]] To be fair, that does not always stop some of our witnesses commenting. That is a remarkable degree of self-restraint.
+
+[[[Professor Cheshire]]]: Having said that, of course I will say something. I just happened to be in a discussion the other day when roughly this sort of conversation was going on. They were identifying ownership, but failing to identify options. Sometimes it may be owned land or land that is not owned, but there may be a third party, or even fourth party, that has an option on certain rights associated with that land, like future development rights.&#xa0;
+
+[[[Q360]]]&#xa0; 
+
+[[[Chair:]]] Presumably, if somebody has an option over a piece of land that is derelict and lying unused and it comes up for auction, they have the opportunity to step in beforehand either to exercise that option at that stage or participate in the auction.
+
+[[[Professor Adams]]]: The option would be registrable, so you would discover it by the normal search processes.&#xa0;
+
+[[[Q361]]]&#xa0; 
+
+[[[Chair:]]] In that case, if you identify it, it would not apply to any of the land for which there is no identifiable owner, since presumably you will have an idea of what the option is against it, so to speak.
+
+[[[Professor Adams]]]: I am not sure of the technicalities of that. I am just trying to think it through. You would expect, if there was an option on land, that it would be one where the outright owner as well as the option holder were known.&#xa0;
+
+[[[Q362]]]&#xa0; 
+
+[[[Chair:]]] I am aware from my experience in Glasgow that there are blocks of air where tenements have been demolished and they have been unable to identify the owner. The tenement has collapsed, so theoretically somebody still owns that block of air, but they managed to find a way round it and move on. To what extent are these difficulties a bit like the Gordian knot? If there was a will to address them, they could be addressed relatively straightforwardly.
+
+[[[Professor Adams]]]: Let me take you to a study that we did of major redevelopment sites in Aberdeen, Dundee and two English cities—Nottingham and Stoke. These were areas of at least two hectares, so they were substantial sites. We did the study in the 1990s and looked at 80 in detail. Last year we went back. How many of those 80 had now been developed? Forty-three had been fully developed; 20 had been partially developed; and 17 were in exactly the same condition as they were in the mid-1990s. That exemplifies the issue that in many of these cities you have areas of vacant derelict land that has been in exactly the same condition for decades.&#xa0;
+
+[[[Q363]]]&#xa0; 
+
+[[[Chair:]]] Yes, but is it not the case that there would almost be no economic use to which some of these derelict sites could be put? I know of areas where the community is devastated, but, unless a local authority or public body wants to step in and build something on that on an uneconomic basis, there is absolutely no way in which the market will be able to identify any profit that can be made from developing it.
+
+[[[Professor Cheshire]]]: That is a very important point. It is not just an either/or; it is a gradation of what the costs are of remediating and servicing the land and what the value of the land would be were it developed. This is very variable. A city which has got outward movement of population, for example, may have very substantial areas of land which essentially have no economic viability, unless there is major public intervention. My view is that that public intervention needs to have a very good case to justify it. I am not saying it cannot have a case, but it is not necessarily the case that it is worth intervening.
+
+[[[Professor Adams]]]: I disagree to some extent with what is being said.
+
+[[[Chair:]]] Oh, good.
+
+[[[Professor Adams]]]: The reason I do that is twofold. First, different potential users have different profit expectations. Those profit expectations turn into the way that they appraise potential schemes for development. When we are talking about whether particular pieces of land are viable we need to ask: viable for whom? They may not be viable for a large multinational company; they may be viable for a small local housing association, for example, because of the different ways the development appraisal is undertaken, the different profit ratios and so on. In some parts of urban Scotland, the answer is not multinational companies coming in; it is encouraging local enterprise, local community organisations, local co&#x2011;operatives and local housing. Some of the lessons from rural Scotland in terms of community initiative are quite easily transferable to urban Scotland, if the land was available.              The other matter comes back to what I have written about, which is unrealistic price expectations. If the market were working as Professor Cheshire says and it was a nice, perfect one, we would not have this situation. I come back to the difference between expectations and price. Part of the problem you might have in making the economics work is getting landowners in urban areas to be prepared to sell at more realistic prices that would encourage all sorts of things to happen. I take the view that the land market in urban areas is very dysfunctional, and part of the result of that—it is not the only cause—is extensive land vacancy.
+
+[[[Professor Cheshire]]]: I am sceptical of the evidence of dysfunctionality. The problem is that any action is about something that is going to happen quite a long time in the future. It requires investment now if you are going to develop or remediate a piece of land, but your returns are quite a long time in the future. You also have to negotiate a Government process, planning process and so on, so there is an awful lot of uncertainty associated with these things. If the holding costs are low, which is a possible argument for a vacant land tax, it simply may make commercial sense to sit on land for a very long time.&#xa0;
+
+[[[Q364]]]&#xa0; 
+
+[[[Chair:]]] I think we now have a much greater understanding of what we do not understand. That is progress. We are now moving to the known unknowns to some extent. Can I come to the question of the Mirrlees review? Do you agree with the observation in that review that tax reliefs in the UK are more generous than in other countries and push up the price of agricultural land?
+
+[[[Professor Cheshire]]]: Yes, but not all other countries. It is a continuum. Many countries have no tax reliefs, but we have a series of tax reliefs and subsidies. All European countries have got common agricultural policy payments. Not all of them have inheritance tax relief; not all of them have rate relief.&#xa0;
+
+[[[Q365]]]&#xa0; 
+
+[[[Chair:]]] I used to be told at school, for my big sums tests, “Show working.” Can you prove it? Is there evidence? I understand the point you are making. What evidence can you point to that we can take to somebody else as a justification for arguing a policy change?
+
+[[[Professor Cheshire]]]: I am sorry; I missed that.&#xa0;
+
+[[[Q366]]]&#xa0; 
+
+[[[Chair:]]] I understand the point you were making that tax reliefs are more generous and push up the price of agricultural land. I just want to be clear that there is firm evidence for that, and that you can show us how you have reached that conclusion.
+
+[[[Professor Cheshire]]]: In Britain, you can show quite clearly that, when you introduce agricultural subsidies and they have been increased, that has been capitalised into the price of agricultural land. When inheritance tax relief was introduced, over a relatively short time, it was capitalised into the price of agricultural land. You can compare the price of agricultural land in Britain with similarly productive land in, say, France where you have common agricultural policy support but a lower regime of tax advantages associated with it, and you see a lower price for agricultural land. That is not 100% proof. You could commission better proof, but you would have to do the research. As far as I am concerned, I am convinced that that is the case. If you look at historical patterns of agricultural land, you can get those back to the early 20th century. If you go into historical statistics, you can get them back to the 18th&#xa0;century. You can see these things going through during the Napoleonic wars; you can see the opening up of the British lamb market to New Zealand lamb with refrigeration, and that is reflected in land prices.
+
+[[[Chair:]]] Excellent. Our report would be greatly assisted by being able to quote reference to Napoleonic land prices in support of any particular policy prescription. We will leave our advisers to make sure they can manage to work that in somewhere.&#xa0;
+
+[[[Q367]]]&#xa0; 
+
+[[[Mike ]]]
+
+[[[Crockart:]]] I have a question that goes back to fiscal and tax interventions to deal with the dysfunctional market or policy, whichever way you want to look at it. Earlier on, you seemed to be saying that, in general, interventions do not work; they have unexpected consequences, and, to be frank, we should probably take away some of the ones we have. But you have just said that the potential for a vacant land tax as an intervention might be a way of dealing with some of those things.
+
+[[[Professor Cheshire]]]: If you want to bring forward development. It was a conditional statement. It depends on what your policy objectives are. Broadly, there are reasons for having comparable tax treatment for all productive assets. Land is a productive asset. You might argue that there are social dimensions to land use, but there are certainly environmental issues associated with land use which suggest you should have a particular tax treatment to favour certain categories. In general, the lower the prices of agricultural land, the more variety of ownership and the more environmental benefits you will get.&#xa0;
+
+[[[Q368]]]&#xa0; 
+
+[[[Mike Crockart:]]] What is your view of a land value tax, or is the problem there in defining what the value is?
+
+[[[Professor Cheshire]]]: You are back to taking with one hand and giving back with the other. Why have the tax break in the first place, which, apart from anything else, is leading people who have no association with land or farming to become quite extensive agricultural land controllers?&#xa0;
+
+[[[Q369]]]&#xa0; 
+
+[[[Mike Crockart:]]] That is the rural side of things. Would it be different on the urban side where you do not have the same distortion?
+
+[[[Professor Cheshire]]]: Here I disagree with my colleague. It seems to me that the enormous distortions in the urban market arise from the planning system and the separation of use categories. You are allocating supply for different uses independently of market prices and generating distortions at quite incredible levels. For example, agricultural land to the north of Oxford is worth about £10,000 a hectare. If you can get permission to build houses on it, it is worth about £8&#xa0;million a hectare.
+
+[[[Professor Adams]]]: That point in relation to the difference between agricultural and urban land is entirely correct. I have slightly different figures, but the point is correct. Within the kinds of urban areas I am talking about, which are the industrial areas of Scotland that have undergone huge structural change, it is not very hard to persuade the planners to give you permission for whatever you want to do. In those areas—we are a million miles from the south-east of England—the huge constraint is not planning. They will welcome you with open arms. There has been criticism of the way Glasgow has regenerated over a period of 20 or 30 years. The arms have been too open there. There is not a lot of evidence in those areas that the constraint is primarily a planning one.
+
+[[[Professor Cheshire]]]: I have done research on this. You can look at a paper in The&#xa0;Economic Journal in 2008, where we estimated the regulatory cost in about 20 office centres across Europe. While Glasgow was lower than, say, Birmingham, which is fairly shocking, it still stood out. All British office centres, with the single exception of Newcastle, had very substantial regulatory costs associated with their restrictiveness. Like Glasgow—this is from the top of my head, from memory—it was equivalent to about a 200% tax on the costs of construction associated with the supply restriction.&#xa0;
+
+[[[Q370]]]&#xa0; 
+
+[[[Chair:]]] Professor Adams, you are about to disagree.
+
+[[[Professor Adams]]]: The areas I am talking about are not primarily in the centre of Glasgow; they are in the inner city of Glasgow. There are one or two pieces of land in the centre of Glasgow, which I know well, where often owners are holding out for the next boom to come, but, irrespective of some disagreement with Professor Cheshire’s work and his methods, I am not arguing about office centres, I am arguing about large areas of often vacant de&#x2011;industrialised land in British cities.
+
+[[[Professor Cheshire]]]: I do not have detailed knowledge of the Scottish situation, but across most of England, housing is so valuable because of the restriction on supply that it is crowding out other uses. If you look at the price of land zoned for industry relative to land zoned for housing, there is a big discontinuity there. There is a similar discontinuity at the boundary between land zoned for offices compared with land zoned for housing. Certainly, in most English cities, housing is essentially crowding out any marginal commercial use, and therefore is increasing the costs of commercial use of land.
+
+[[[Professor Adams]]]: As to the areas I am talking about, you could come with a housing scheme, industrial scheme or commercial scheme—whatever it happened to be—and in most cases Glasgow city council would fall over and sign up. These are very different places from many parts of England.&#xa0;
+
+[[[Q371]]]&#xa0; 
+
+[[[Chair:]]] Can I pick up a point about the size of land holdings, and whether or not the taxation treatment deals with them differently? We have been told by Scottish Land and Estates that “there is generally a level playing field in relation to reliefs…regardless of size of landholding.” Is that a fair assessment?
+
+[[[Professor Cheshire]]]: I do not know.
+
+[[[Professor Adams]]]: I do not know the answer to that one either.&#xa0;
+
+[[[Q372]]]&#xa0; 
+
+[[[Chair:]]] Agricultural land benefits from inheritance tax at 100%. Another witness has told us that relief from inheritance tax for businesses is “common in the developed world.” Do you agree with that?
+
+[[[Professor Cheshire]]]: I think that is an overstatement. There are cases where there is a degree of relief—for example, family businesses—but it is not an either/or. There is a variation across countries in the extent to which there may be relief from tax for small businesses in an inheritance context, but I think the issue of agricultural land is an outlier in that.&#xa0;
+
+[[[Q373]]]&#xa0; 
+
+[[[Chair:]]] Is that, agricultural land in the UK is an outlier?
+
+[[[Professor Cheshire]]]: Yes.&#xa0;
+
+[[[Q374]]]&#xa0; 
+
+[[[Chair:]]] When we are doing international comparisons about how agricultural land is treated for inheritance tax, the UK would be an outlier among those and would be seen to be much more generous in terms of what it permitted people to carry without the impact of inheritance tax.
+
+[[[Professor Cheshire]]]: I am not saying there is not another country in the world, but, in general, if you look across OECD countries, yes.&#xa0;
+
+[[[Q375]]]&#xa0; 
+
+[[[Chair:]]] Is there clear evidence to support that? Again, would you be able to refer us to something, if one of our advisers gets in touch with you?  Is that not just a feeling, and has comparative research already been done on that?
+
+[[[Professor Cheshire]]]: I could not cite a specific piece of evidence. I know about some individual countries, but I am not going to offer to do your research for you.&#xa0;
+
+[[[Q376]]]&#xa0; 
+
+[[[Chair:]]] We are here. We just thought we would try to pick your brains.
+
+[[[Professor Cheshire]]]: Which I am happy to have done.&#xa0;
+
+[[[Q377]]]&#xa0; 
+
+[[[Chair:]]] Professor Adams, do you want to comment on those few points?
+
+[[[Professor Adams]]]: No. It is not something in which I have as much expertise as Professor Cheshire, so I would defer to what he has to say.&#xa0;
+
+[[[Q378]]]&#xa0; 
+
+[[[Chair:]]] Land occupied for agriculture, forestry and hunting, shooting and so on is all de-rated at the moment. Given that the current business rate is 46p in the pound, if we applied the charge to agriculture, forestry, hunting and shooting would that have quite a substantial impact on the capital value of that land? I am presuming, from what you have said before, that you think it would.
+
+[[[Professor Cheshire]]]: It would, and I think we should be very careful how we proceed. As I was saying earlier, go very cautiously. You can easily end up with a tax which means that the market value of agricultural land is negative, which is not a result you probably want. 
+
+[[[&#xa0;]]]
+
+[[[Q379]]]&#xa0; 
+
+[[[Chair:]]]
+
+[[[ ]]]Is negative?
+
+[[[Professor Cheshire]]]: In the sense of how you are going to treat the rateable value of agricultural land. My position is that it should be cautiously set at a low rate.&#xa0;
+
+[[[Q380]]]&#xa0; 
+
+[[[Chair:]]] At a low poundage. We have valuations at the moment. Irrespective of whether or not we trust valuers, we can reach valuations on estates and they can be charged, not necessarily at the existing business rate of 46p in the pound, but certainly at a low rate and building it up as and when. The substance of your evidence, I think, is that almost all that increase in taxation would be reflected in the price.
+
+[[[Professor Cheshire]]]: Correct.&#xa0;
+
+[[[Q381]]]&#xa0; 
+
+[[[Chair:]]] As the tax rose, the price would fall, and then there is an issue for either the local authority or somebody else as to what balance they strike.
+
+[[[Professor Cheshire]]]: Yes, and it would provide a mild financial incentive for people to make the best of their land, so to speak.&#xa0;
+
+[[[Q382]]]&#xa0; 
+
+[[[Chair:]]] Professor Adams, do you agree with that?
+
+[[[Professor Adams]]]: I do not disagree with that. I am happy to leave that to Professor&#xa0;Cheshire.&#xa0;
+
+[[[Q383]]]&#xa0; 
+
+[[[Chair:]]] Were we wanting to drive down the price of land, ending de-rating would be one of the easiest ways of doing it.
+
+[[[Professor Cheshire]]]: I would start with inheritance tax relief and see what happened, then move to a vacant land tax, if you wanted that, and then move to agricultural re-rating, which is a very modest step.&#xa0;
+
+[[[Q384]]]&#xa0; 
+
+[[[Chair:]]] I can see a possible difficulty about vacant land tax on the basis of what is “vacancy,” particularly in rural areas: is a single sheep per million acres vacant or not? Presumably, you then get into all sorts of complicated rules.
+
+[[[Professor Cheshire]]]: You can apply a vacant land tax only to urban land.&#xa0;
+
+[[[Q385]]]&#xa0; 
+
+[[[Chair:]]] In rural areas, you would not have any equivalent.
+
+[[[Professor Cheshire]]]: It would be agricultural rating, because you would have your vacant land with a single sheep on 1,000 acres. That land would then be charged an agricultural rate.
+
+[[[Professor Adams]]]: There are clear definitions from the Government’s survey of exactly what vacant and derelict land is. They need some adaptation, but that would provide the basis for any further policy action.&#xa0;
+
+[[[Q386]]]&#xa0; 
+
+[[[Mike Crockart:]]] I would like to address questions on the Valuation Office Agency particularly to Professor Cheshire. Since 2011, that agency has stopped collecting and publishing land price indices. Among others, you were quite vocal in your concerns about that. Why is it so important to have that information?
+
+[[[Professor Cheshire]]]: The information was less than perfect, but it was the only source that existed. There are lots of different sources—for example, the house price indices. There was only one source of publicly available data on land prices. We differ in where we were in the spectrum of valuation. My view is that markets yield very valuable information about where shortages are, but where you have a relative restriction on supply compared with demand—there may be good reasons for that restriction; for example, you do not want people to build in areas of outstanding natural beauty, national parks or wherever it may be—unless you have information on land markets, you cannot use the information which land markets are generating to guide where you should be releasing more land for development.&#xa0;
+
+[[[Q387]]]&#xa0; 
+
+[[[Mike Crockart:]]] The indices are purely a pointer; they show areas that we need to look at more closely, so it is not indicating anything in itself.
+
+[[[Professor Cheshire]]]: It is indicating something in itself—that there is an excess demand for land in that location relative to some other location. Where we observe that the price of land north of Oxford, or within the green belt part of Greater London, is £8&#xa0;million to £10&#xa0;million a hectare, that is not just the land market telling you something; it is screaming that there is a real shortage of housing in that area, if it is at a price that is available for housing land. This is not Scotland, but guidance issued on the national policy planning framework says that land prices should be used as indicative measures to allocate land for development. That came out in October, but all the data had been abolished a year previously.&#xa0;
+
+[[[Q388]]]&#xa0; 
+
+[[[Mike Crockart:]]] Your specific concerns are around housing.
+
+[[[Professor Cheshire]]]: Because that is the single most important use, but it also supplied data on agricultural land. It is very valuable to have a long series. That series had been available for a very long period. Even if it was not absolutely right, you could see trends over time and make comparisons across areas and regions, and that has been lost.&#xa0;
+
+[[[Q389]]]&#xa0; 
+
+[[[Mike Crockart:]]] More generally, would it be useful in giving assistance in exactly the sort of thing we are trying to do, which is to develop our policies particularly dealing with land reform?
+
+[[[Professor Cheshire]]]: Without land price data of a systematic sort, you are essentially scrabbling around in the dark. It is absurd that we do not have land data; it is worse than absurd. You cannot even value company assets. There are a lot of companies that own land as part of their asset values. We have no way of objectively assessing those.&#xa0;
+
+[[[Q390]]]&#xa0; 
+
+[[[Mike Crockart:]]] Companies do it.
+
+[[[Professor Cheshire]]]: With increasing difficulty, but you cannot challenge them because there is no official data series on what has been happening to the price of land.&#xa0;
+
+[[[Q391]]]&#xa0; 
+
+[[[Mike Crockart:]]] There was a big debate around the Post Office estate, but valuations were done that put nominal values on it.
+
+[[[Professor Cheshire]]]: You can commission specific valuations, but you have no check against some third party quasi-objective source of evidence, so they may or may not be good, but they are one-off; they are not an ongoing basis. How can we challenge some big developer that says that their landholdings are worth x if there are no data on land prices out there?&#xa0;
+
+[[[Q392]]]&#xa0; 
+
+[[[Mike Crockart:]]] I meant Royal Mail, not the Post Office. Are there other aspects of information, data or transparency, such as patterns of land tenure and occupation, that are important, particularly in being able to develop evidence-based policy in this area?
+
+[[[Professor Cheshire]]]: Historically, Scotland has been much more open about price data for property than England, but there seems to me no reason at all why there should not be publicly accessible data on all transactions in land, including ownership, price and other characteristics of the land, particularly the exact geo-location of the land, because without that you cannot really assess the value of the land in terms of its composite characteristics.&#xa0;
+
+[[[Q393]]]&#xa0; 
+
+[[[Mike Crockart:]]] Professor Adams, do you want to comment?
+
+[[[Professor Adams]]]: An absolutely fundamental role for Governments to play is to make sure this information is available. The key characteristic of the Valuation Office data is that they were independent; they were not acting on behalf of, or trying to produce an index from a selective number of clients. The position was that they had full access to data because of the particulars delivered, and it was then published. To go back to my point, they were not estimates; they were published as price data. If there is one thing that Governments can do to improve the functioning of land markets it is to have decent information systems. I concur entirely about knowledge of the owner and the price being public. It is absolutely essential; otherwise, the difficulty of values or estimates getting out of line with prices becomes worse. Anything that this Committee could do to have that data series reinstated, I would applaud.
+
+[[[Professor Cheshire]]]: It is absolutely amazing that a modern, allegedly civilised, country does not have any public data on land prices or land ownership. If you think back to the banking crisis of 2007, part of that came out of a mis-valuation of real estate assets. It’s—I’m lost for words.&#xa0;
+
+[[[Q394]]]&#xa0; 
+
+[[[Mike Crockart:]]] That was prior to these indices not being done.
+
+[[[Professor Cheshire]]]: Of course, there were other failures in the system, but you cannot even begin to be worried about what is going on with the value of real estate assets unless, as my colleague said, you have a publicly available quasi-objective source of data.&#xa0;
+
+[[[Q395]]]&#xa0; 
+
+[[[Chair:]]] Can I ask whether or not there is any other information—data, patterns of land tenure and so on—that it is valuable to have and we do not have at the moment? You mentioned beneficial ownership, for example. Is there anything else that we ought to seek to have established as an information source in the public sector?
+
+[[[Professor Adams]]]: In relation to urban land, there could be much better public knowledge on contamination, for example, because that clearly has a knock&#x2011;on price effect. It is not easy to do. There have been attempts to do it, but one needs to have a system that puts together various pieces of information that affect prices offered and paid in the market, and in urban areas contamination may be one of those.&#xa0;
+
+[[[Q396]]]&#xa0; 
+
+[[[Chair:]]] Presumably, that would require somebody going out to assess it. I can see how, when a piece of land is being examined for purchase/sale, and somebody gets it tested, then the information becomes available and it should be held in the public domain, but are you suggesting there would be an automatic process by which the public sector started collecting this information? I can see an expense argument against that right away.
+
+[[[Professor Adams]]]: There might be certain parts where that would be useful, in the same way that there are geological surveys on which areas have had coal mining in the past. That is going to undermine development prospects. You might take that approach. It certainly would not be a blanket coverage, but there might be areas where that would be useful. In other places, there are simply surveys that have already been done which could be made more public.&#xa0;
+
+[[[Q397]]]&#xa0; 
+
+[[[Graeme Morrice:]]] I wanted to touch briefly on the issue of urban land reform. Professor Adams, you have written about the urgent need for urban land reform. Could you define what you mean by this? What are the key issues that need to be addressed?
+
+[[[Professor Adams]]]: The tie-up between urban land reform and rural land reform is all about property rights. The issue would be: who owns and exercises the property rights? Property rights are conditioned by statute, custom and so on and so forth. Previously, one is starting to question whether a property right that enables you to hold land indefinitely, which I talked about a moment ago, is in the public interest, but let’s move on from that.              Another issue is where you are trying to put together a major redevelopment site. Whether it is in the city centre or the edge of the city does not really matter. Particularly in urban areas, we will often find many different property right holders with different ownership interests. It is a patchwork. Either the local authority comes in and compulsorily purchases the whole lot—the evidence tells us that that happens very rarely—or the private developer operates secretly over a period of time, gradually trying to assemble it, which is a very inefficient way of doing it.              One issue that has come up in my paper is the suggestion that in those kinds of circumstances we adopt the legislation that applies in Hong Kong, for example. They have a similar problem but it is much more evident because they have a lot of multi-storey buildings. Imagine a multi-storey building in Hong Kong with 100 different owners and trying to get that together for redevelopment. Many of those buildings are past their sell-by date and you could put something more viable there.              Under our system, the private developer would have to negotiate individually with all 100 owners, or the local authority would put in a compulsory purchase order and buy them all out. The legislation introduced in Hong Kong is such that the private owner simply has to buy up 90% and at that point can go for what you might regard as a privatised form of compulsory purchase. I will not go into the details of that, but that is basically what it is. It is the same sort of principle as company acquisition.              The advantage of it is that previously there was a reason to be the last person to sell. If you were the 100th person and he had bought all 99, you could hold him to ransom. You do not know where you will be in the queue. You might be very happy being the 89th because you can still hold him to ransom, but you do not want to be the 90th or 91st person to sell because your bargaining power has gone. In that kind of arrangement, you have redefined the property right to overcome what is primarily an issue of market failure. You have said, “We will deal with that issue of market failure without necessarily going through a big compulsory purchase. We will deal with it by trying to deal with the way the market operates.” That is an example of what one could do in terms of urban land reform. It would be reform of property rights to speed up redevelopment without the need for compulsory purchase.&#xa0;
+
+[[[Q398]]]&#xa0; 
+
+[[[Chair:]]] Professor Cheshire, do you want to add anything to that?
+
+[[[Professor Cheshire]]]: A classic problem of land markets is land assembly and the hold-out problem, as it is called, which has been described. I have one slight worry, which you would have to pay attention to. It is easy in Hong Kong where you are dealing with a vertical structure because it is defined before you start, but, if you are talking about land assembly, what is 90%? Ninety per cent. of what? In some sense, the intended developer would have to identify the area over which they were wishing to assemble ahead of time.
+
+[[[Professor Adams]]]: You would probably need to tie that up with at least some acknowledgement by the public authority early on that the area identified by the developer was a suitable one for redevelopment, but it could be done. You could set up the system in such a way, so that is an example where you could make the market work a lot better.&#xa0;
+
+[[[Q399]]]&#xa0; 
+
+[[[Mike Crockart:]]] I have a very quick question about the community right to buy. At the moment, it is very much a rural matter. There are conditions attached to it about the size of the community. We have heard evidence in this inquiry that that should be made universal so it could be brought in in an urban situation. What is your view of the extension of that right to buy?
+
+[[[Professor Adams]]]: The Scottish Government ran a consultation precisely on that point. The consultation responses were overwhelmingly in favour of extending the right to buy to urban areas. I think the principle is one that has quite broad support. There were very few people arguing against it. The issue is obviously operationalising it. How do you define the community in an urban area? That is not insurmountable. You might need to take small rather than large distances; you may need to define the community in different ways. For example, there are community councils in urban areas that represent parts of urban areas, so there are a number of ways in which it would be possible to identify the community so it was not one or two individuals.&#xa0;
+
+[[[Q400]]]&#xa0; 
+
+[[[Lindsay Roy:]]] My apologies, gentlemen. I had another commitment this afternoon, so I am acting as sweeper. I am sorry I missed your evidence. The scope of this inquiry is quite wide. In relation to the operation of land markets, are there topics or questions that you think we should pay particular attention to, in addition to those that you have discussed today? In other words, are there any answers you have prepared to questions that you thought we might have asked but have not so far asked?
+
+[[[Professor Cheshire]]]: I think we have covered quite a lot of the ground over which I think I have expertise. The basic issue is capitalisation and how relatively effective land markets are at capitalising all sorts of what one might think are extraordinarily intangible values, like expected future aircraft noise, local graffiti or quality of fishing. All of this is reflected in land prices. That was the basic message I wanted to get across, and that applies to these tax incentives, tax breaks and subsidies as well.
+
+[[[Professor Adams]]]: Although I disagree with the application of a number of the ideas that Professor Cheshire is putting forward, the fundamental principle is that the way land markets in this country work is very directly conditioned by law and policy. It is possible for Parliament and the Government to make major changes to the operation of land markets by setting the context slightly differently. We should not think of land markets as something natural that appear from the sky like the weather. Land markets are constructed through social relationships but also through Government policy and legislation. All that can reconstruct land markets in a different way.
+
+[[[Professor Cheshire]]]: I entirely agree. Property rights are not given by God; they are defined by law, and exactly how they are defined is reflected in the prices people will pay in land markets. Coming back to the issue of 12% of land under uncertain ownership, I suggest it is very likely that that land would sell at a discount because of the uncertainty of ownership.
+
+[[[Chair:]]] Colleagues, are there any final points? As I indicated earlier, I now have a much greater understanding of what I do not entirely understand, but at least you have, very valuably, pointed us in the right direction. Thank you very much.&#xa0;

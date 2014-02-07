@@ -1,0 +1,691 @@
+&#xa0;&#xa0;UNCORRECTED TRANSCRIPT OF ORAL EVIDENCE               To be published as HC 763-ihouse of commonsoral evidencetaken before theTreasury Committee
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[Monetary Policy: Forward Guidance ]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]Wednesday 23 October 2013Jens Larsen, SIMON WELLS and ROBERT WOOD&#xa0;Evidence heard in Public              Questions 1 - 84&#xa0;&#xa0;USE OF THE TRANSCRIPT1.This is an uncorrected transcript of evidence taken in public and reported to the House. The transcript has been placed on the internet on the authority of the Committee, and copies have been made available by the Vote Office for the use of Members and others.&#xa0;2.Any public use of, or reference to, the contents should make clear that neither witnesses nor Members have had the opportunity to correct the record. The transcript is not yet an approved formal record of these proceedings.&#xa0;3.Members who receive this for the purpose of correcting questions addressed by them to witnesses are asked to send corrections to the Committee Assistant.&#xa0;4.Prospective witnesses may receive this in preparation for any written or oral evidence they may in due course give to the Committee.&#xa0;&#xa0;Oral EvidenceTaken before the Treasury Committeeon Wednesday 23 October 2013Members present:Mr Andrew Tyrie (Chair)Mark GarnierAndrea LeadsomMr Pat McFaddenMr George Mudie________________ 
+
+[[[Examination of Witnesses]]]Witnesses: 
+
+[[[Jens Larsen]]], Managing Director and Chief European Economist, Capital Markets, Royal Bank of Canada,
+
+[[[ ]]]
+
+[[[Simon Wells]]], Chief UK Economist, HSBC Holdings PLC, and 
+
+[[[Robert Wood]]], Chief UK Economist, Berenberg Bank, gave evidence.&#xa0;
+
+[[[Q1 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Thank you very much for coming in to see us this afternoon. Do not feel obliged, all three of you, to answer all questions but please do chip in if you have something that is demonstrably different from what one of your colleagues has said. What do you think the bank had in mind when they created forward guidance? I will go to Mr Larsen, Mr Wood and then Mr Wells.
+
+[[[Jens Larsen]]]: I think the bank had it in mind to reduce uncertainty. It was not quite to reduce uncertainty in the way that the market or perhaps the public expected it, which is to reduce the uncertainty unconditionally about where interest rates were going, but to reduce the uncertainty about their reaction function, to make people understand the circumstances in which they would change monetary policy. I think a great deal of the disappointment in the markets reflects that. They were expecting a more unconditional statement, a clearer commitment of some kind, whereas the committee’s aim was more to clarify the circumstances surrounding an eventual rate hike.  
+
+[[[Robert Wood]]]: I pretty much agree with that. I think guidance more or less describes what the bank was already doing, which is trying to support the economy as much as possible.&#xa0;
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] That would mean loosening policy.
+
+[[[Robert Wood]]]: Yes, and I think the unemployment rate they have given is a bit more certainty about how they see the economy and where they want to head to, so it was aiming at giving more transparency and certainty about, in the jargon, their reaction function or how they would behave.&#xa0;
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] To be clear, when you say “support the economy as much as possible”, do you mean support the economy more than it had been supported by the monetary policy as explained hitherto?
+
+[[[Robert Wood]]]: If you are asking me if I thought it was a loosening of policy, my answer would be yes, a little bit. In answer to the initial question you asked, I think it was extra transparency and more certainty about its goals and what it was aiming for.&#xa0;
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Yes, but one of the things it was aiming for—indeed, a crucial purpose—was to loosen policy. That is what you effectively said.
+
+[[[Robert Wood]]]: I think it did loosen policy a little bit, yes.&#xa0;
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Therefore it has fulfilled its purpose, or is fulfilling its purpose?
+
+[[[Robert Wood]]]: Yes, I guess you could say that.&#xa0;
+
+[[[Q6 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Mr Wells?
+
+[[[Simon Wells]]]: The others have covered the stated aims quite well. There is another unstated aim we have to look at. If we rewind to the beginning of the year, we were still talking about triple dip recessions in the UK, the economy looked like it was heading for another tough year, and there was some reasonable demand from people and politicians for the Bank of England to do something, when there was not an awful lot left in its toolkit. I think the forward guidance we saw was in some sense a necessary response to some of the pressure that they were under at that time.&#xa0;
+
+[[[Q7 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] That is an explanation for how we got to where we are. I think there is one dissenter from the three of you to this, on the basis of what you have said so far. This did loosen policy a bit, it did increase transparency a little, and it has increased certainty a little. Is there any disagreement? I think there is a bit of disagreement from Mr Larsen on the last. 
+
+[[[Jens Larsen]]]: As with every statement that has to do with forward guidance, it is a conditional statement. I have learned more about the bank’s reaction function, but I have sat down and thought very hard about it and constructed my own unemployment forecast and studied the documents very carefully. There is a slightly different perception among the people I speak to in the market, which is that this has not reduced uncertainty and has created more confusion about what the bank is trying to do and how this is meant to work—for instance, how the status of the bank’s inflation forecast has changed, whether the unemployment threshold is a threshold or a trigger, and so on. There are many dimensions of this policy that I can just about keep in my head, but I do spend a lot of time thinking about it.&#xa0;
+
+[[[Q8 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] You seem to be saying something rather different there, which is that this is extremely complex, sophisticated stuff and that any reaction people might have had is probably from ignorance.
+
+[[[Jens Larsen]]]: I would not say it is extremely complicated and I would not say it is ignorance. When the bank has tried to set out in words what it is trying to do—which is effectively saying that this recovery is likely to be different and that it wants to keep rates low until it has come to the point where you have strong growth for a while, where employment has increased, unless they see a risk to inflation or there is a financial stability risk—I think those words are quite clear. I am less sure that the threshold and the three knockouts add much to clarity. I changed my mind on that. I thought in advance that this might be a good idea with the specific thresholds and knockouts, but it has turned out that these have been misunderstood.&#xa0;
+
+[[[Q9 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Yes. You seemed to be saying a moment ago that they were decreasing certainty, adding to uncertainty.
+
+[[[Jens Larsen]]]: Taking the unemployment threshold as an example, if you put out a numerical and very precise threshold, 7%, and you publish a forecast, you should expect people to look very carefully at that forecast and interpret the 7% as something very specific. I think most markets have a perception that that is, if not exactly, certainly something very close to a trigger where monetary policy is likely to be tightened. The MPC has since been very clear in emphasising that it is not a trigger but a chance to re-evaluate monetary policy. It is a chance to think again about the inflation forecast at the point at which unemployment is 7%. I think that rather diminishes the clarity and importance of the 7% threshold and the market is focusing much more on when is unemployment going to hit 7%.&#xa0;
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] I am trying to summarise that again. You are saying that it is complex and that they have therefore reduced certainty. That is what I said a moment ago.
+
+[[[Jens Larsen]]]: I agree, yes. I think it is complex and the straightforward formulation of forward guidance is much more helpful.&#xa0;
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Is it more complex in reducing certainty, Mr Wood and Mr Wells?
+
+[[[Robert Wood]]]: I pretty much agree with what Jens said. It is a complicated way of saying something pretty simple, which was where I started out, which is, “We think the economy can grow pretty quickly over the next few years. We are going to do all we can to support that by keeping interest rates low, and we are going to do that until we see some strong growth, unemployment coming down and the economy looking better”. There is a simple message in there but the implementation of it has been complicated. The executive summary in the document runs to three pages, which I think is a complicated way of saying something you could probably put in one sentence.
+
+[[[Simon Wells]]]: I agree with the others. In a way, what the Bank of England is trying to say is, “This time it is different. This time we will see strong data, strong demand, and economic supply will respond as well, so there will be less inflationary pressures”. I think the problem is that message is not getting through to the market. The market is saying, “This time it is not different. We are going to see strong data, we are going to see strong demand, and then you are going to tighten policy”. The top level message is quite simple, but operationalising it has proved quite complicated for them.&#xa0;
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] I know others may come on to this more in a moment. Do you think it has made the first tightening more difficult because it is focusing so much attention now on the detailed triggers for this that we run a greater risk than we might have done of what appears to have happened in America, where just talking about tapering the extremely loose policy generated a flurry of concern in the markets?
+
+[[[Simon Wells]]]: With any new and unorthodox policy, the further you go down that route, the harder exit is. I think forward guidance has been yet another step to try to keep monetary conditions as loose as possible for as long as possible, and in that sense it certainly complicates exit. More generally, by putting this simple message out—which is that despite the recovery, interest rates are going to stay lower for longer—of course, if the Bank of England’s forecasts turn out to be wrong and all of our forecasts turn out to be wrong, then the element of surprise to any eventual tightening is going to be greater. 
+
+[[[Jens Larsen]]]: Measuring it in terms of uncertainty or volatility about interest rates, this policy will lead to volatility around the point at which we are getting close to the threshold. Indeed, that is why the bank, as Charlie Bean said yesterday, is likely to have to do some more forward guidance at that point, either by lowering the unemployment threshold or by giving some other shape of forward guidance. There is more in the pipeline.&#xa0;
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] In other words, we have to generate more of this complexity and uncertainty in order to reduce the risk of even greater complexity and uncertainty at the time of exit. That is what you have just said.
+
+[[[Jens Larsen]]]: I think that is right, yes.&#xa0;
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] That does not sound like a ringing endorsement of this policy.
+
+[[[Jens Larsen]]]: I do not think it is a ringing—&#xa0;
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] But you began quite enthusiastically, Mr Larsen.
+
+[[[Jens Larsen]]]: I would not say I am overly enthusiastic. It is a difficult policy. The exit in any case is going to be a very difficult point to administer, and I think more communication is likely to be needed. Whether they had done forward guidance or not, that exit would have been a tricky one. At the moment there is a very simple message on the exit strategy, which is about raising rates and then selling assets subsequently, but when it comes to it, guiding expectations about the path for interest rates and asset sales at that point will be very difficult indeed, forward guidance or not.&#xa0;
+
+[[[Q16 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Is anybody disagreeing with that, before I move on?
+
+[[[Robert Wood]]]: No. I would just add that exiting from a long period of very low interest rates would have been hard either way. If they had not given us an unemployment threshold, we would probably have been speculating about what it was. We have one now, so there is going to be a lot of focus on passing that particular number, and no doubt we will see more guidance as we get to it. Either way, it would have been pretty difficult, and as we approached a period where rates would probably have had to go up, then we would have had the speculation anyway.
+
+[[[Chair]]]
+
+[[[:]]] We are only looking here today at the difference between forward guidance and not forward guidance, which was the pre-existing policy, so we are talking about the additional help or hindrance that we get from that policy to exit. &#xa0;
+
+[[[Q17 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] It sounds less like forward guidance and more like forward obfuscation, doesn’t it?
+
+[[[Jens Larsen]]]: That might be a little unkind. I think the history here matters, as Simon said earlier. Mark Carney started talking about nominal GDP targeting back in December of last year. When the Treasury decided to do a review of the remit, the circumstances were very different and the need for further monetary stimulus was more obvious. I think if forward guidance had been introduced in an environment of that kind, where US interest rates were rising but the outlook for the UK economy continued to be very weak, then the policy might have made more of a step of distinguishing between those conditions in the US and the UK. As it was, we ended up having both rising US interest rates and a very consistent stream of positive macro news in the UK, and I think that is what has made this policy quite difficult to implement. You could say it is the UK economy that has done it. At the time this policy or this review and the subsequent decisions made sense, or made more sense. Since then the economy has clearly changed tack.&#xa0;
+
+[[[Q18 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] It is improving anyway. Where a lot of people find a bit of confusion is that we are now talking about forward guidance and everybody is obsessing about—and you are right to raise the point—whether it is a threshold or a target. They keep repeating back to us that it is very much a threshold, and there are obviously these knockouts. Now people are focusing very much on unemployment rates, whereas ultimately the MPC has a mandate to try to maintain inflation at 2.5%. What happens if inflation starts going up? You could have a hypothetical situation where the economy stops looking so good. You have a weakness in sterling and then you start importing inflation at the same time as unemployment is rising, and yet the MPC’s overriding mandate will be to try to keep inflation under control. How do you think the markets would react to that kind of scenario unfolding?
+
+[[[Jens Larsen]]]: I think they would go back to thinking about the MPC much as they did in the past three years, where the MPC was very consistent in seeing through externally-driven inflation. If it is an external shock—if it is driven by, say, external commodity prices or, for that matter, energy prices domestically—then I think the MPC would continue to be quite comfortable with seeing through that, and the market would do that too. There is an issue here, which is that that kind of response, that kind of bias, has been taken for granted by now. &#xa0;
+
+[[[Q19 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] Energy price rises and a weakening of the currency are slightly different things. 
+
+[[[Jens Larsen]]]: Absolutely, where the weakening of the currency is clearly influenced by the setting of monetary policy.&#xa0;
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] What was interesting about this was that when the forward guidance first came out, in the summer I think it was, it was pretty clear that it was going to be the 7% unemployment rate and it was expected that the unemployment rate would not fall below 7%. It would get close to 7% for another three years, so the inference then was that you have three years of low interest rates to work with. Immediately, the markets closed that up and started suggesting it was going to be more like two years or 18 months. The markets are a better indicator of what is going to happen, what these people think are going to happen. Does the fact that the markets ignored this, effectively straightaway, mean that forward guidance as far as the markets are concerned is completely irrelevant?
+
+[[[Simon Wells]]]: Given the strength of some of the data that we saw coming out of the UK economy through the summer, in the absence of forward guidance—not just the announcement in August but the previous forward-forward guidance, in July and before—we would have seen market interest rates rise potentially quite a bit more than they did. Policy is looser now than it might have been, so I think, compared to the untestable counterfactual, policy is slightly looser. In terms of why the market sees things happening first, it should potentially rile the MPC a little that it plainly does not share their assessment of the economy, but the MPC can’t be too surprised, given its recent forecast record over the past few years, that the market is not believing their forecast as gospel. That is basically it. It comes back to whether the market shares the assessment of the MPC, and it does not, because it just sees the strong data and, to a certain extent, sees that feeding through to inflationary pressure, which the MPC does not. &#xa0;
+
+[[[Q21 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] Your point about the counterfactual is quite important. What you are saying is that if we had not had forward guidance, interest rates would be that much higher in the markets than they are now and, even though interest rates have gone up, it is still looser than it would have been otherwise. Do you all agree with that analysis?
+
+[[[Robert Wood]]]: Yes; modestly. I do not think it is an enormous effect but modestly, directionally, that is the right direction. &#xa0;
+
+[[[Q22 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Just to be clear on that—it is a very important point—you are arguing that the whole of the rise in yields that we have seen is accounted for by non-UK-specific factors; that is, global yield adjustment?
+
+[[[Robert Wood]]]: No. I would want to be careful about the period of time I was looking over the rise of yields. Was it from late July to August, in which case there is probably an element of surprise in this guidance that it was not quite as aggressive as expected? Or do I want to look at, say, the end of last year to now, when the rise is much less significant and is probably a lot smaller than I would have anticipated, given the strength of data over the summer?&#xa0;
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] This is UK data over the summer?
+
+[[[Robert Wood]]]: Absolutely, yes.&#xa0;
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] So, the markets have priced in quite a big shift that did not in fact turn out to be warranted?
+
+[[[Robert Wood]]]: Yes.&#xa0;
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] The inference of that is that the forward guidance is probably having more of an effect than we give it credit for.
+
+[[[Robert Wood]]]: If you are giving it no credit, then the answer would be yes.&#xa0;
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] I think you have summarised that quite nicely. Can I turn to a slightly different thing? We have talked about the markets, where we are pretty sophisticated and have clever fellows like you looking at this stuff. What about the man in the street? Who do you think, first of all, forward guidance is aimed at? Do you think it is aimed at the markets or do you think it is aimed at the wider economy, the household and the small business and medium-sized business?
+
+[[[Robert Wood]]]: As implemented in early August, with the data pretty strong at the time—we have talked about it being a modest easing, but not a massive one—in that situation, most probably it is aimed at the public. The message on the day was pretty simple. We have tried to boil it down to one sentence, and I think the message was, “Rates on hold for three years”. That was the message the day after. The bank was obviously a lot more careful when speaking at the press conference, but that was the broad message and I think that is probably what they were aiming for.&#xa0;
+
+[[[Q27 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] We have seen, broadly speaking, since then a pickup in housing activity, which can partly be explained by the various measures being brought in by Government and a bit of confidence. Do you think that sending a message out that interest rates are going to stay this low for another three years is going to give people a spur to get into the housing market while the good times, in terms of interest rates, only last for another three years?
+
+[[[Robert Wood]]]: The one bit of evidence I would point to is surveys of when people think interest rates are going to go up. The market do one of those. The proportion of people who expected rates to rise within two years fell pretty sharply in the month after the Bank of England did this guidance. It has subsequently gone back up. The proportion is still lower than it was in July, even though in the meantime people are much more confident about the economy. You might have otherwise expected it to be higher now than back in July. That is the sense, in a way, in which this has had a modest effect. I think the way that people would react to believing interest rates will remain low is to probably borrow a bit more, buy more goods and probably houses as well. &#xa0;
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] It is quite an interesting proposition. UK households are, as you know, very heavily in debt. There is just under £1.5 trillion in household debt and about £1.2 trillion is in mortgages. I know, looking across the piece, it is not necessarily that alarming but it is pretty alarming. Clearly, those households that are in debt feel pretty vulnerable. The Bank of England has done surveys looking at if you see a 2% rise in the base rate, then it is going to put 28% of mortgages by value into that problematic area for the households. Do you think this is giving the right message out to the consumer or the wrong message? Do you think it is giving people a false sense of security, or do you think it genuinely is giving help to those households that could be suffering under rising interest rates?
+
+[[[Jens Larsen]]]: To the extent that it is providing clarity about policymakers’ intentions—it is not misleading or confusing about what it is the bank intends to do—I do not think it is a bad policy. I do not think it contributes to over-indebtedness. It gives you a sense of conditions, and people then should make up their minds. It is not the Monetary Policy Committee’s job to tell the consumers, or for that matter firms, what the right decision is. It is to provide a sense of what their intentions are in the current environment.&#xa0;
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] The key point of this is, as we heard from you, Mr Larsen, right at the beginning, that this is an immensely complex thing. You do not know whether it is a threshold or a target. There are three knockouts. Nobody is really talking about the knockouts at all. Nobody really understands what the unemployment means or what an equilibrium rate of 6.5% means. It is all pretty random stuff. By the time you start drilling down into this, this is not the sort of easy conversation that you would have down at the Dog and Duck. It is quite complex. How do you rationalise that complexity when what consumers want are very simple messages?
+
+[[[Jens Larsen]]]: As I said, I think the bank has made a statement that is very simple, and provided they honour that—that is, that we only see rising policy rates at the point at which we have strong growth, strong employment and rising incomes—I do not think consumers will feel misled. If they had walked away with the impression that it was three years, and it was definitely three years, and that was what the bank had promised and had made decisions on the basis of that, that would not be very good. I think the bank has managed to get across the message that this is about the circumstances in which rates will go up, and that is a good way away. I think things are looking better. At the same time, I would say people hopefully do not make housing or mortgage decisions on the basis of only what interest rates are going to do in the next two years. Hopefully there is an awareness—and the bank has certainly talked about that—that rates will go up at some point. It is not about it going up immediately, but it will go up at some point. That message is tremendously important. Again, the bank would rightly point to the fact that mortgage lending has yet to pick up pace. If you see consumer credit picking up anywhere, it is in unsecured credit, whether that is credit cards or in other unsecured lending. The secured lending growth rate is really very modest.&#xa0;
+
+[[[Q30 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] I can see where Mark Carney is coming from in this, in terms of trying to give guidance to households. Of course, in his previous job he could pretty much make these decisions by himself. Do you think this really deep complexity of how forward guidance works, with all these various caveats and God knows what, reflects more the fact that he had to come up with some technical thing to get it through the MPC, or do you think this is just genuinely the MPC lifting up its bonnet and showing everybody how the engine works?
+
+[[[Robert Wood]]]: I would say mostly the latter. To boil it down to one number, unemployment, and three caveats for a whole economy, which we know is a hugely complicated thing, is simplifying a lot already. So I think mostly the latter. &#xa0;
+
+[[[Q31 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] Did he have to do it to get it through the MPC?
+
+[[[Robert Wood]]]: He had to do it in order to correctly explain how the Monetary Policy Committee is making its decisions. The decisions are complicated; therefore you are going to need to describe that in some way. You can’t boil it down to just, “We are going to keep rates low for three years”.&#xa0;
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] So you don’t think he was simply starting off by saying, “Let’s try to keep it down at 3%” and then had to create this argument to get it through the MPC? Do you think it was a genuine process that they all came to and that they are just lifting the lid on the bonnet and showing everybody?
+
+[[[Robert Wood]]]: I can’t speak for what he planned to do or what happened, but the fact that the unemployment rate was probably at the top end of the range that we would have expected, and there were three caveats, whereas you may well have been able to have two, probably speaks to the things we have seen in the MPC minutes—that not everyone thought more stimulus was needed. I think there was that sentence in the minutes around August that some members thought interest rates were in roughly the right place. With a committee of nine, there are plainly disagreements there, and I think you can see that probably in the three caveats that you have.
+
+[[[Jens Larsen]]]: I think it is important too that the framework from the MPC’s perspective is helpful in structuring their uncertainty and their different views on the economy, so this threshold can accommodate very different views about how fast the unemployment rate is going to fall and how quickly productivity is going to pick up. There is a very wide range of views on that on the committee and it is difficult to squash it all together. The unemployment threshold does that. It allows people to hold different views, yet signing up to the framework. That is an important point. The second bit that is important is that it preserves the individual accountability. All of them are very aware that they have to be accountable to you and to the public. Therefore, retaining an individual responsibility, which the knockouts give them a chance to, is very significant for them.
+
+[[[Simon Wells]]]: I would add that we should not be at all surprised about the nature of the knockouts. The primary mandate is still to preserve price stability. It would not have been particularly helpful or sensible for the MPC to set a copper-bottomed guarantee that it was going to keep rates on hold until 2016. In that sense, we should not be surprised with the design of it at all. &#xa0;
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] Unwinding, when interest rates start to rise and the bank starts taking action, what do you expect to happen first: intervention in the asset purchase programme, selling the assets, or movement of the base rate?
+
+[[[Simon Wells]]]: I would think neither. The first thing they would do is stop reinvesting the maturing gilts that are currently in their portfolio, see how the market reacted to that, and then a few months down the line after that dip their toe in the water with a very small interest rate rise.&#xa0;
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] That is a QE move, really.
+
+[[[Simon Wells]]]: It is a QE move.&#xa0;
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] It is important, because there is not that much clarity. We keep hearing—
+
+[[[Simon Wells]]]: None at all.&#xa0;
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] It is interesting to know what you, as the representatives of the markets, think—QE action or QE inaction, I think you were suggesting.
+
+[[[Simon Wells]]]: QE inaction, rate action, and then only, some way down the line, almost as a matter of principle, the bank will want to sell some of the bonds back to the market, but that will be a long way down. I expect most of them just to roll off and mature. 
+
+[[[Jens Larsen]]]: I am firmly of the belief that they will raise interest rates first.&#xa0;
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Mark Garnier:]]] Base rate first?
+
+[[[Jens Larsen]]]: With the idea of letting reinvestment roll off, you do not have control over the timing or the size. You may test the waters, but I think the bank will want to raise rates at a point at which they are confident they can raise rates a couple of notches, and when they have done that they will feel more comfortable starting to sell the assets. Whether that involves stopping reinvestment first or selling assets straightaway, there is less certainty about that, but I think rates will come first.
+
+[[[Mark Garnier:]]] Mr Wood?
+
+[[[Robert Wood]]]: Rates first.&#xa0;
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Is that not an area where they want symmetry, in the sense of a symmetry of uncertainty between those options? The last thing you want is to be boxed in, as America is experiencing.
+
+[[[Jens Larsen]]]: The UK money market functions very differently from those of the US, so some of the steps that the Americans will have to take in order to be able to raise rates will not have to be taken here. We do not have that separation between different players in the money market, so putting up bank rate will work straightaway, whereas in the US you probably have to reduce the level of liquidity before you start raising the target for the federal funds rate. &#xa0;
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Are these two policies taking money in and out of slightly different pockets in the economy? Are they not the same?
+
+[[[Jens Larsen]]]: That is certainly true, and I think the uncertainty associated with an unwinding of QE is almost surely as big as it was for the purchase. It is very dependent on the circumstances. It depends on how you do it and on the state of markets at that point, the state of fiscal affairs and so on. &#xa0;
+
+[[[Q40 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] I want to ask you about the timescale. You said that the simple way of understanding the forward guidance was, “Keep rates on hold for three years”. The bank said in its own forecast when it announced the policy that it expected the 7% unemployment threshold to be hit around about the third quarter of 2016. When do you think, looking at it today, we are likely to hit the 7% threshold?
+
+[[[Jens Larsen]]]: I think the early part of 2016 is the likely point.
+
+[[[Robert Wood]]]: Q3 2015.
+
+[[[Mr McFadden:]]] That is a good bit sooner.
+
+[[[Robert Wood]]]: Yes.
+
+[[[Simon Wells]]]: Q4 2015.&#xa0;
+
+[[[Q41 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] You two are saying two years and you are saying a little bit more. Even the most optimistic unemployment threshold here is that it will be about two years before this threshold gets hit. What is the point of the MPC for the next two years?
+
+[[[Jens Larsen]]]: They can discuss when they are going to hit the 7%. The MPC minutes today made clear that the nature of the MPC’s discussion, as long as you are in forward guidance, is very different. You do not get what I would call monetary strategy discussions about the framework and how to intervene and so on. It is a very clean assessment of whether you have hit the threshold or not, whether any of the knockouts are knocked out. If not, rates will not move. You still have to make that assessment. MPC members, who are all drawing a salary and are all individually accountable to you and the public, want to carry on doing that assessment. Of course, you do not want to turn up and find that that monetary policy decision reverts to something more akin to what we saw prior to forward guidance.
+
+[[[Robert Wood]]]: The thing I would say is that you have to do this anyway. Whether the Bank of England had told us or not that it was not going to raise rates until unemployment hit 7%, they are probably having that sort of debate anyway. You can see that in the speeches and so on, when they talk about, “The economy has a long way to go, and we think interest rates need to remain low for a long time”. The only change is that we know about that now. On a month-to-month basis, unless something dramatic happens, we are probably not going to get a change in interest rates, but I think that is probably what happens from month to month anyway. Unless something big changes, you do not tend to move interest rates on a monthly basis.&#xa0;
+
+[[[Q42 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Might it be sensible for them to say, “Now that we have this forward guidance and now that the most optimistic forecasters in the market don’t expect this threshold to come for at least two years, we will just give this a rest for six months at least”? That is perfectly rational, isn’t?
+
+[[[Simon Wells]]]: I certainly think Mr Carney has achieved what Mervyn King always wanted to in making monetary policy very boring, and certainly for the next few years. I think by law they have to meet every month. You are quite right: whether that system is right for the current framework is a good question.&#xa0;
+
+[[[Q43 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] The point I am driving at, without being too light about it, is that this has changed the job description of MPC members in quite a material way, hasn’t it?
+
+[[[Jens Larsen]]]: If you look at the August inflation report, there is more emphasis on the unemployment forecast. The inflation forecast is primarily presented through the presentation of the knockout, rather than through the traditional fan chart. Even if you just look at it that way, I think there is a difference in the MPC’s approach to policy and in its communication. I agree with that.&#xa0;
+
+[[[Q44 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Emphasis has been placed on individual accountability of MPC members. We discussed that a few minutes ago. In the context of a forward guidance framework, isn’t there less individual responsibility? All but one of them are signed up to this framework anyway, so they have set themselves on this trajectory where things are not expected to change. We can argue about whether it is two or three years, but they are not expected to change for a while. Although you are saying they meet and review things anyway, it is not the same, is it? There is a different context now, through this new remit.
+
+[[[Robert Wood]]]: There is definitely a different context. I agree with that. We are talking about trying to look at three specific knockouts now, rather than, as Jens said, looking at the fan chart. I agree the emphasis is different. Where there probably still is individual accountability is if, six months or three months down the line, an MPC member felt that 7% was the wrong number—that inflation was going to pick up before unemployment hit that—then one of the knockouts can be triggered, and in that sense they can have individual accountability that is not tied to that specific number. There is still some there, but clearly, as you say, the context is very different to it.
+
+[[[Jens Larsen]]]: I think it goes to the question you asked earlier. What happens in the circumstance where we get a big external shock to inflation—a long-lasting shock that will shift inflation forecasts for a long period of time? If an MPC member thinks that the appropriate answer to that is to raise rates, then they have an obligation to stick up their hand and say there has been a knockout.&#xa0;
+
+[[[Q45 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] When this was introduced in Canada, things were pretty much at the bottom and it was intended to set a path to calm things down, restore confidence and give people some certainty about the forward path. Do you think forward guidance is a policy for all seasons, or is it less useful in the circumstances that we are in, where it looks like we are at the early stages of an economic recovery?
+
+[[[Simon Wells]]]: I think, given its stated aims, it is more powerful in the recovery phase, because if we had been told back in early 2012 that rates were going to be on hold for two years, we probably would have all shrugged our shoulders and said, “But we knew that anyway”. The fact that the bank is trying to say that this recovery is a bit different in nature and it will be able to keep policy looser for longer does mean it has potentially more power now than right at the bottom. 
+
+[[[Robert Wood]]]: I would disagree a little bit. Right now, at a time when the economy appears to be picking up some momentum over the summer—we have not had hard GDP data, of course, but surveys are looking a lot stronger—it is hard to shift expectations of when that first rate rise is going to be, and indeed until you have seen the bank doing something that is more or less what they were doing before; that is, a little bit of a loosening but nothing dramatic. If you had introduced this in December last year, maybe it would have been more important. We may be grateful it is there when interest rates get closer to rising, and we covered that a little bit earlier. We probably would have had heavy speculation about when the bank would raise rates anyway, and now we have a bit more clarity about that—not as much as we would have liked but a little bit more—and I think that will be important.
+
+[[[Jens Larsen]]]: In the current circumstances, where the focus is more squarely on the eventual exit, even if it is a long way away, I think it would have been more helpful to give a straight interest rate forecast, of the kind that you would have seen from FOMC, for instance; a description of the economic circumstances, like the ones we have had, about when you want to raise rates; and then a forecast from the MPC, maybe as a committee or maybe as individuals, about when they think interest rates will actually go up.&#xa0;
+
+[[[Q46 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] This is associated personally with the new governor, isn’t it? It is his shtick—his personal thing. Do you think there are dangers in that? We were talking a second ago about the individual accountability of MPC members. Do you think there is a danger that, thinking about all these knockouts and caveats and what have you, MPC members might be a bit reluctant to reassess the timescale, for example, that the bank originally came out with, because that might look as though it was undermining the governor, and that is something they would not want to do? Are there potential policy implications of having something that is so associated with the new governor?
+
+[[[Jens Larsen]]]: The process that led to the forward guidance policy gave me some concerns about that. All those steps—the review, Mark Carney’s speech, the new remit, but also the statement that the MPC made in July about it not thinking that market rates were at the right level—send strong signals about what the new governor intended to do, which I think was unfortunate, in that they all acted to raise expectations about the transformation that a new governor could make. Already by now we are at a more comfortable place in that sense, and I do not think the risk of the MPC members holding back in order to support the governor is all that important. Things are, in that sense, bedding down just fine.
+
+[[[Robert Wood]]]: In principle, it is a risk to have a policy associated with one person on the committee, because it is nine taking the decision. In practice, I think the MPC have proved themselves happy to say what they feel about the policy. So in practice I agree with Jens’s conclusion, but in principle I think it is a risk to have a policy associated with one person.
+
+[[[Simon Wells]]]: I agree with that.&#xa0;
+
+[[[Q47 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Before I pass over the questioning to George Mudie, you have said, Simon Wells, “That would take us close to the May 2015 general election. With the political debate increasingly revolving around the cost of living and around half of the UK’s mortgage stock linked to Bank Rate in some way, it would be a brave move to tighten policy around the election.” If that is the conclusion of the way monetary policy is run now, is it not a colossal indictment of what has happened over a run of years, and it may be across Governments—that we have effectively succeeded, bit by bit, in compromising the central purpose of Bank of England independence in the 1997 Act?
+
+[[[Simon Wells]]]: The specific backdrop to that comment was that the market then was pricing in the first rate rise in April 2015, which I thought was a highly unlikely month to see the first interest rate rise. The bigger picture is exactly the one that you mention. In the 1980s we had average inflation of 7%, much higher in the 1970s, and because things have happened over the past few years, it is easy to forget the great achievements of independent monetary policy and divorcing monetary policy from the political sphere.
+
+[[[Chair]]]
+
+[[[:]]] Tackling inflationary expectations.
+
+[[[Simon Wells]]]: Exactly. Even though inflation peaked at 5.2% in 2011 and we have had all this forward guidance, inflation expectations have stayed very well anchored, and that is to the credit of the Bank of England. We did also have the first remit change under the MPC this year, and I suppose the question is: is that the thin end of the wedge and are we going to see more frequent remit changes in the coming years, or was that very much a one-off for exceptional circumstances? If we did see very frequent remit change for the MPC, there is, of course, the potential to undermine the inflation credibility.&#xa0;
+
+[[[Q48 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Maybe I could have framed my question more crisply. Have we allowed politics back into monetary policy?
+
+[[[Simon Wells]]]: I think the Bank of England is to some extent being dragged into the political sphere a lot more than it had been when the going was great in the early 2000s. I do not think the UK is unique in that either. The Federal Reserve is being dragged in, and I think the ECB is, but to some extent that is—&#xa0;
+
+[[[Q49 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Sorry to interrupt. It is the inevitable consequence of the fact that you need to run fiscal and monetary policy in extremely close tandem in a deflationary crisis, unlike an inflationary crisis where separation carries huge benefits in the markets. 
+
+[[[Simon Wells]]]: Yes. It is partly that, but it is partly, given the financial crisis that we have been through, that central banks ultimately have to answer to you and to the people, so there is a democratic legitimacy argument to all of this as well. I can’t emphasise how much I think inflation credibility has helped the UK economy and therefore, by implication, how we need to be on guard, shall we say, for this issue.&#xa0;
+
+[[[Q50 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] You are saying here not that we should be on guard, but that something has slipped past our guard. You have said they can’t raise rates in the run-up to an election. 
+
+[[[Simon Wells]]]: I said I think it is unlikely.
+
+[[[Chair]]]
+
+[[[:]]] You said it would be a brave move to tighten policy.
+
+[[[Simon Wells]]]: To tighten policy in April 2015, Mr Chairman. I stick by that, yes.&#xa0;
+
+[[[Q51 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] In March?
+
+[[[Simon Wells]]]: The probability decays, but I am sure you can see where I am coming from.&#xa0;
+
+[[[Q52 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] I can see where you are coming from; I am asking you to be explicit about it. We had an election in 2010. We had an election in 2005. Do you think it was equally brave, more brave or less brave to raise rates in March, or whenever it was, 2005?
+
+[[[Simon Wells]]]: It would have been monumentally brave to have raised rates in 2010.
+
+[[[Chair]]]
+
+[[[:]]] I have moved to 2005—I have moved swiftly on.
+
+[[[Simon Wells]]]: I think through the first decade or so of inflation targeting, by and large the going was good. The central bank was unlikely to make decisions that were hugely unpopular, but now there is the potential that we could see unemployment come down and we could see the economy take off. It may be that the first rate rise might need to be around that time, but when you put the economics and politics together, the reason I wrote that was because I do feel that it is going to be at least the second half of 2015, maybe 2016, before we see the first rate rise.&#xa0;
+
+[[[Q53 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] I am trying to find out whether you are also saying something slightly different. Are you saying, as you put it, we need to be on guard and at the moment our guard has been wholly robust and has not been penetrated by anything, or are you saying we already have political risk or a political pricing element in monetary policy, which we did not have before, and therefore monetary policy has been politicised?
+
+[[[Simon Wells]]]: To some extent. It is very much the same as Mr McFadden’s question. While forward guidance was Mr Carney’s big initiative, more monetary activism was certainly being promoted by the Government. You could say that, alongside the first remit change, there has been a bit more meddling than before, but I think we need to be on guard that this is not the thin end of the wedge.&#xa0;
+
+[[[Q54 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] We also need to be on guard to that, seeing as something has slipped past our guard, which is what you are now saying. Do you think that inflationary expectations are more vulnerable now than they were before as a consequence?
+
+[[[Simon Wells]]]: Potentially, and for a slightly different reason. I think that with the forward guidance and the remit that asked to be more explicit about the growth-inflation trade-off, it seems to me that the Bank of England is willing to trade off a little bit of risk of higher inflation for a little bit less risk of killing off a recovery. In that sense, the inflationary risks have shifted a little bit more to the upside as well.&#xa0;
+
+[[[Q55 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Is that what you meant, perhaps, at the start—don’t let me put words into your mouth; I know you won’t—when you said you thought policy was somewhat looser?
+
+[[[Simon Wells]]]: Yes, indeed, policy was somewhat looser, and that obviously feeds through to a higher inflationary risk.&#xa0;
+
+[[[Q56 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] That has been a highly tendentious exchange, and I have two smiling people here who want to chip in.
+
+[[[Jens Larsen]]]: I am glad you did not ask me
+
+[[[Chair]]]
+
+[[[:]]] Let’s go to Mr Larsen and then Mr Wood.
+
+[[[Jens Larsen]]]: I think you look back at the experience the economists went through, but also that you have been through, with the bank. The bank has evolved very substantially. The governor is now in charge of microprudential and macroprudential regulation. The toolbox for the Bank of England is much bigger and the bank now has a much more direct say in the evolution of credit conditions in the UK. With the size of the balance sheet, the size of the gilt holdings, the decision to repatriate the coupon and so on, it is very clear, to me at least, that the overlap between monetary and fiscal policy has become a lot stronger, and the overlaps between monetary policy, monetary stability and financial stability issues have become much stronger than they were five or 10 years ago. Monetary policy is conducted in a completely different environment. &#xa0;
+
+[[[Q57 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] The point that we were getting towards with Mr Wells is that we made the bank independent so that the sticky politicians’ fingers could be kept well away from those monetary policy funds. I am asking you whether they are dangerously close to them or whether a careful forensic examination might already find some of that stickiness on those funds.
+
+[[[Jens Larsen]]]: I do not think so much stickiness relative to the election date, but political issues will weigh more heavily on a bank that has a much wider remit than one that has a very narrow monetary policy focus. The delegation that has effectively taken place used to be constrained to monetary policy in a very well defined way. Now the governor and the Bank of England have a much wider remit, which makes it much less easy for them to isolate their minds and take monetary policy decisions in a vacuum. &#xa0;
+
+[[[Q58 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] So, greater importance for the bank in taking account of this broader perspective, which is an inevitable consequence of their new remit, but no increase in the risk that they are going to get leant on by the politicians?
+
+[[[Jens Larsen]]]: I think “leant on” would be disrespectful to both the politicians and the MPC, but it is obvious that you have to be aware of the political context when you have such wide-ranging responsibilities.&#xa0;
+
+[[[Q59 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] A first-rate diplomat, if I may say. Mr Wood?
+
+[[[Robert Wood]]]: What is the question?
+
+[[[Chair:]]] It is the same question that I put to Mr Wells. Has this all got a bit politicised by the back door, or not?
+
+[[[Robert Wood]]]: A little bit more, yes. We have had a remit change from the Government this year. We have a strategy where monetary activism is part of that. That is right at a time when unemployment is very high and the UK has not really gone anywhere for a couple of years. But necessarily, talking about those things, and given the situation in the economy, I think it is a little bit more politicised. &#xa0;
+
+[[[Q60 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] Mr Wells, in a contribution to the Chairman, you referred to Mark Carney, “Actually, his moves provided more monetary activism provided by the Government”. Did you mean to say that or did I mishear you?
+
+[[[Simon Wells]]]: I think it was clear that the Government wanted more monetary activism, if we go back to the first quarter of this year. We can assume that at his interview Mr Carney was supportive of more monetary activism as well, and his idea of monetary activism, as we have said, was this forward guidance intention to keep interest rates lower for longer, which we now have. Although we have discussed the dangers of building a policy around one person, I think it is clear that it is his big initiative so far.&#xa0;
+
+[[[Q61 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] That makes it clearer. Carney is supposed to be lucky. Well, he is lucky. He has been a lucky individual; that is clear from his record. Do you think he has run out of luck, coming forward with forward guidance? In other words, if he had started this month rather than in July, do you think he would have brought forward forward guidance?
+
+[[[Simon Wells]]]: I do not think he has run out of luck particularly. The UK economy has turned up much quicker than any of us would have expected this year, so the problem that he has—&#xa0;
+
+[[[Q62 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] If you leave all that to one side, do you think he would have done forward guidance this month with a changed economic atmosphere?
+
+[[[Simon Wells]]]: I think there would have been some policy change after the review announced by the Government in March of the monetary policy framework. It would have been very surprising if the Bank of England had concluded that absolutely no change was required, so something would have been done, I am sure.&#xa0;
+
+[[[Q63 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] What do you think, Mr Wood?
+
+[[[Robert Wood]]]: Yes, I would agree. With all of the run-up through the summer, the public speeches with the commissioning of a review of monetary policy, we would have had some change, whether it be this month or in August. What the run-up in the date and the strength of data over the summer probably meant is that we had a relatively cautious announcement in terms of an unemployment rate that was at the high end of where people expected. I think that is where the data came in. Either way, I would be pretty sure we would have had something.&#xa0;
+
+[[[Q64 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] If he had not brought forward forward guidance, what change would you have seen him take or suggest? You are saying there would have been some policy changes. What policy changes could he possibly have made? All he seems to have done is, with a few back doors open, lengthen the area where he has signalled to the market and the consumers, “Don’t expect interest rates to go up until 2015, 2016”. What else could the Monetary Policy Committee under Carney have done? What is the alternative?
+
+[[[Robert Wood]]]: To be clear, I was trying to say that if this had been the month when the review happened, I think they would have introduced forward guidance this month.&#xa0;
+
+[[[Q65 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] They would have introduced it regardless?
+
+[[[Robert Wood]]]: I think so, yes.&#xa0;
+
+[[[Q66 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] So the change in atmosphere does not matter?
+
+[[[Robert Wood]]]: That has affected how aggressive this forward guidance is. I think the strength of the economy and the improvement in the surveys mean we have not had a super-aggressive loosening of policy. We have had a little bit. I think we would have also had a little bit this month as well.&#xa0;
+
+[[[Q67 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] When we come near to reaching the 7%, what communication challenges face the governor and the MPC? In fact you have probably answered it with the last answer. Do you think that will be a very important sign? They are not saying they are going to raise interest rates then, but at that time they will take a close look at it. Do you think that they will introduce fresh guidance at that stage? Will there be a need for it? In other words, have we changed into a different world—fresh guidance is the policy?
+
+[[[Robert Wood]]]: There is a pretty good chance that we get further guidance once we approach 7%—we heard as much from deputy governor Charlie Bean yesterday in his speech. It is a binary thing—either you are at 7% or you are not—so I think there will be some further guidance. We have seen the Fed doing these sorts of things as well—trying to spread out the debate away from just one number, unemployment, towards a number of measures of how the economy is doing. To try to stop moving to 7% being the event that causes interest rates to rise, I think they will probably want to smooth out the trigger point a bit.&#xa0;
+
+[[[Q68 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] The old days of the Monetary Policy Committee meeting and deciding whether to raise interest rates or to do more QE have disappeared now. They will be working in blocks in the future. Does that make sense in an economy that is working away pretty reasonably? Monetary activism was designed to try fresh things. Is that a condemnation of the way the Monetary Policy Committee used to work, and is this therefore the future?
+
+[[[Robert Wood]]]: They will, of course, be meeting every month and they will be talking about whether or not they should raise interest rates, particularly as we approach 7% unemployment. The idea of further guidance is that they might well decide in those discussions that 7% is not the be-all and end-all for whether you raise interest rates, and that would be the point of saying something additional at that time—probably, that 7% is not the be-all or end-all of interest rates. Saying that publicly would be pretty simple. Is it a condemnation of previous policy? No, I don’t think so. We find ourselves in a pretty unusual situation. On output, the economy is still smaller than it was before the crisis. We now appear to be growing, but we have not done for quite some time, so we probably need to do something a little bit different in that situation. I don’t think it is a condemnation.&#xa0;
+
+[[[Q69 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] Mr McFadden was talking to you about whether the MPC has changed its role. It is just a personal view, but I thought it was a very clever move. Instead of Carney being one of nine and arguing from basic principles—every meeting he comes with a decision unknown—he has lifted himself out of that and got at least two years’ breathing space, unless certain things happen, and he has them in the knockouts, which I will ask you about. Is that a jaundiced view or a cynical view? I always worried about him coming here. When he was in Canada, he was the top man and he took the decisions. Coming here as a Canadian and having to convince nine UK citizens that he knew better, I thought they were waiting for him. 
+
+[[[Robert Wood]]]: I am not sure whether I can say it is jaundiced or not. I would go back to one of the answers earlier, where there are three caveats to this guidance. If any of the members were particularly worried about inflation picking up, about a big rise in import prices destabilising the economy, they could vote for a rate rise. I do not think—&#xa0;
+
+[[[Q70 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] That would kill the whole strategy, would it not?
+
+[[[Robert Wood]]]: It would. It would knock it off.
+
+[[[Mr Mudie:]]] If he as the governor is personified and tied up with “until 7%”, that would be a major revolution, wouldn’t it—a major revolt, you would say—and it would threaten the whole structure, wouldn’t it?
+
+[[[Robert Wood]]]: That is why I said in principle it is dangerous to have a policy very closely associated with one person in the institution, so I kind of agree in principle. In practice, of course, we have had a vote against the guidance—well, not against it, but against its specific formulation—right at the start, and we have had a number of speeches and public appearances where different MPC members are giving very different views about how they see the outlook. I can definitely see where you are driving at. I think it is a risk in principle, but what we are seeing from the members is at least some individual accountability and different views. &#xa0;
+
+[[[Q71 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] That is a point. You make a very important point there. Martin Weale was the first, but there are clearly some disgruntled people on the Monetary Policy Committee. Now he has locked them into this overarching policy, isn’t there a danger that there will be more public disagreements that would cause trouble in terms of messages sent out to the market?
+
+[[[Robert Wood]]]: If the message is, “Interest rates are going to be on hold for three years”, I think anything that stops that happening is problematic. I know that was the simple message that came across the day after, but across all of the talking we have heard over the past couple of months, they have been very careful to say, “We are going to keep interest rates on hold until unemployment falls to 7%. We have all these caveats around inflation and financial stability”—to, I guess, guard against that risk. Clearly it is a risk when you are trying to communicate a policy.&#xa0;
+
+[[[Q72 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] What about these knockouts? They are clearly back doors, but do they give him too much wriggle room, so as almost to be less useful? [Interruption.] Front doors, then—I have no argument with front doors. Does it just not undercut the whole policy that it is this 7% in a certain year, but if these three things go wrong, or one of these three, we can revisit the overall target? I think one of you—HSBC is it—say by your criteria or judgment he has probably failed the first already.
+
+[[[Simon Wells]]]: If the Bank of England were to take my inflation forecast, yes, they would be knocked out already. I am not quite as optimistic.&#xa0;
+
+[[[Q73 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] You are too good. Remember, they have not met theirs for four years, so you might get a nomination soon. 
+
+[[[Simon Wells]]]: The problem is four years ago we were probably all doing the bank’s inflation forecast, but anyway. To me, the knockouts are completely within the control of the Bank of England. It is in control of its own inflation forecast. It can decide if it wants to knock itself out or not. Of course, there will be a wide range of views on the committee and, as we approach 7% or inflation takes off, it will become a tense debate, I am sure. On the second knockout—on the Financial Policy Committee and whether it is destabilising to the UK financial system—it seems like pretty much a last resort that Mark Carney, as chairman of one committee, is going to write a letter to himself, as chairman of the other committee, and say, “Your flagship policy is risking financial instability”. I think the FPC will try to use its own tools to prevent that happening. Anyway, the bank is in control of it, so really it is only the inflation expectation knockout, which is anyway out of control of the bank, and that is very subjective as to whether the inflation expectations have got out of hand. I think we could all have a long debate to decide whether that had happened or not. I think there is a lot of wiggle room within those three knockouts.&#xa0;
+
+[[[Q74 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] On a different matter, in one of your papers, your last sentence dealing with the recovery says, “Recovery is welcome and should continue. However, the UK needs to look beyond just the quantity of growth and start focusing on the quality”. Jeremy Warner said that in the Daily Telegraph a couple of weeks back. Can you explain what you meant?
+
+[[[Simon Wells]]]: Yes. If we rewind to 2010, we all hoped that the UK economy would rebalance away from debt-fuelled household and Government consumption and become more reliant on investment and trade as the drivers of growth. Unfortunately, after several years of stagnation, frankly I think we are delighted to see any growth at all, but the fact is, along the dimensions that the UK economy needed to rebalance, if anything, it has got more unbalanced, so we are more reliant on household consumption and less on investment. The current account deficit in the UK last year was the widest since 1989. Therefore, we are more unbalanced externally than we were in 2007. As for the relative shift from services to manufacturing, services output has recovered above its pre-crisis level. Manufacturing output is still 10% below. This can’t get us away from the fact that, fundamentally, in order to avoid mistakes of the past, the economy still needs to rebalance. It is great that we are finally growing again, but we still need to rebalance and look at the composition of growth as well.&#xa0;
+
+[[[Q75 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] You have missed out, again, a growing dependence on City salaries and taxation that is starting to reappear. I have struggled in this Committee over the last three years to get somebody to explain how we are actively going to get that rebalancing. Do you see signs that I am missing?
+
+[[[Simon Wells]]]: To take the external rebalancing towards trade and towards goods and manufacturing as one example, on reflection, it was rather naive to think that because sterling had depreciated by 25% in 2008 we were going to go back into factories that had lain idle for a decade and switch the lights back on. While our macro textbooks would tell us the competitiveness from the sterling depreciation would have been useful, there is perhaps some evidence, particularly in manufacturing, that there is a bit of a skills shortage. Certainly, survey measures of spare capacity and labour shortages are far more acute in manufacturing that in services. These sorts of things can’t just be fixed overnight. Training people takes a long time. &#xa0;
+
+[[[Q76 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] Three years is not overnight, is it? We accept the governor of the Bank of England said it was imperative we rebalanced. For three years we appear to be recovering in the same areas where we regretted before the recession. What do you say, Mr Wood? You do not have to say anything. 
+
+[[[Robert Wood]]]: We are recovering in the areas that we regretted before the recession. The one thing I would add to the point about it taking three years is that of course we had a very difficult period for the world economy—who, ultimately, we are going to try to sell these things to?—in the meantime. I think that probably slows things down. 2009, 2011 and 2012 were probably not the best times to open up or turn on the lights in an old factory, to take Simon’s phrase. I totally agree with the point.&#xa0;
+
+[[[Q77 ]]]&#xa0; 
+
+[[[Mr Mudie:]]] Those three years should have been used. You are right that the markets were not there overseas and Europe had their problems, but those were the years we should have been putting the infrastructure into place so that when the markets came back we were poised and we had the supply ready, whereas it does not look as though from your figures, Mr Wells, that it is responding.
+
+[[[Jens Larsen]]]: The monetary policies we have put in place have been supportive of demand and can’t do much to achieve the rebalancing, other than if you see monetary policy as underpinning a very weak exchange rate. Where we have made progress in the Bank of England’s area is on financial regulation where, even if it is not yet seen in the way you want, you have certainly seen a different City and a different set of regulatory approaches emerge from all that has been done. Rebalancing is happening. If you want a stronger manufacturing sector, then you have to do what many European countries are struggling to do, which is to improve competiveness in those sectors. First and foremost, that means improve productivity—that is, improving skills. That is more than a three-year job, but you are right, we had better get started. &#xa0;
+
+[[[Q78 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] I want to end by coming back to these knockouts. Of course, one of the knockouts only kicks in at 2.5% inflation rather than 2%. Is that in itself a signal for a new policy?
+
+[[[Jens Larsen]]]: No, because it kicks in earlier. Of course, this is where there was disagreement of the committee. By shortening the horizon, I think there is a better chance that an inflation shock now, of the kind that we discussed earlier, will still impact the forecast. If you go to a two or three-year horizon, most of that shock will have washed through and inflation will almost invariably be either at or very close to the target.&#xa0;
+
+[[[Q79 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] So that is a tightening?
+
+[[[Jens Larsen]]]: I think that is very carefully calibrated so as not to constitute very much of a tightening, but that is where the balance and judgment lies, I guess.&#xa0;
+
+[[[Q80 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Where does it lie?
+
+[[[Jens Larsen]]]: Martin would have seen it. Martin Weale would have wanted it earlier. In that sense, I think it would have made the framework tighter and made that very small loosening we talked about smaller still.&#xa0;
+
+[[[Q81 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Is this 2.5% a loosening or a tightening?
+
+[[[Jens Larsen]]]: 2.5% as it stands and where we are, I do not think it makes a big difference.&#xa0;
+
+[[[Q82 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Bang on the button?
+
+[[[Jens Larsen]]]: More or less. Unlike Simon, I am a little more optimistic on inflation. 
+
+[[[Robert Wood]]]: I do not think it makes a big difference. To return to where I started, guidance more or less describes what the Bank of England was already doing. After all, we have not had inflation below target for quite some time, so we have been tolerating faster price rises to support the economy. Two and a half, two years ahead, they very rarely forecast that to happen, so I do not think it is a significant tightening. 
+
+[[[Simon Wells]]]: I agree. It is a probabilistic thing anyway. It only has to be the probability of it being above 2.5%, so the central case could be well below that, but it gives them a lot of parameters to play with. They can widen the uncertainty. They can change the skew around inflation. There are a lot of tools they can use to control that knockout, I think.&#xa0;
+
+[[[Q83 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Taking all three, they are pretty front-door routes out of what was initially announced or appeared to be an announcement about, if not a straitjacket, then certainly a much more rigorous framework to limit scope for an early rise in rates. One more question. Do you think that, to any degree, the fact that we have had a new remit—and of course we have this new forward guidance—tarnishes the credibility of monetary policy, which is very hard-won, the core part of the credibility that enables downward pressure to be brought to bear on inflationary expectations?
+
+[[[Simon Wells]]]: In theory, no. I think the bank has set out this framework deliberately to try to test the limits of growth without compromising price stability, but as the afternoon’s discussions have indicated, there is potential for the wiggle room within the strict knockouts to allow it. I think that the choice has been to allow a bit more risk of inflation for a smaller risk of recovery.
+
+[[[Robert Wood]]]: Not dramatically. I do not think it dramatically changes it. Ultimately, the remit still says the key target or goal of monetary policy is stable inflation at 2%. It adds a lot of riders and additional things subsequently—volatility of output is one. No dramatic change, but I do agree with Simon’s sentiment that it probably makes a small change in that direction by adding that additional test.
+
+[[[Jens Larsen]]]: I do not think a remit review was necessary. I do not think the remit change has added very much, and in general one should be averse to reviewing the remit too often because it does feel as if it could be changed for non-good reasons. I do not think I would have done it. The MPC has demonstrated that under the old remit they had plenty of flexibility to do what they thought was necessary anyway.&#xa0;
+
+[[[Q84 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] All things being equal, it will have tarnished the credibility at the margin?
+
+[[[Jens Larsen]]]: On the margin, but because the change was small, it is not a big deal. It was certainly a discussion point in the first quarter of this year, when we were still talking about very high inflation, what this remit review was going to lead to and whether a potential change to a nominal GDP target would have changed monetary policy fundamentally.
+
+[[[Chair]]]
+
+[[[:]]] Thank you very much for coming today. If you think we have asked you the wrong questions this afternoon, then put on paper what we should have asked and give us the answers, and we will be very happy to see those as well. Thank you very much for coming.

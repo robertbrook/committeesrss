@@ -1,0 +1,1287 @@
+&#xa0;Energy and Climate Change CommitteeOral evidence: IPCC 5th Assessment Review, HC 907Tuesday 28 January 2014Ordered by the House of Commons to be published on 28 January 2014Written evidence from witnesses:–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The Grantham Institute for Climate Change–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Myles Allen–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Met Office–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Professor Richard Lindzen–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Nicholas Lewis–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Donna Laframboise&#xa0;Watch the meetingMembers present: Mr Tim Yeo (Chair); Ian Lavery; Dr Phillip Lee; Mr Peter Lilley; Christopher Pincher; Albert Owen; John Robertson; Sir Robert Smith; Graham Stringer&#xa0;Questions 1–112Witnesses: 
+
+[[[Professor Sir Brian Hoskins]]], Grantham Institute, 
+
+[[[Professor ]]]
+
+[[[Myles Allen]]], Oxford University, and 
+
+[[[Dr Peter Stott]]], Met Office,
+
+[[[ ]]]
+
+[[[Professor Richard Lindzen]]], Massachusetts Institute of Technology, 
+
+[[[Nicholas Lewis]]], climate researcher, and 
+
+[[[Donna Laframboise]]], author, gave evidence.________________
+
+[[[Examination of Witnesses]]]Witnesses: 
+
+[[[Professor Sir Brian Hoskins]]], Grantham Institute, 
+
+[[[Professor ]]]
+
+[[[Myles Allen]]], Oxford University, and 
+
+[[[Dr Peter Stott]]], Met Office, gave evidence.
+
+[[[Q1 ]]]&#xa0; 
+
+[[[Chair:]]] Good morning and welcome. Thank you very much for coming in. Could we start by looking at the changes in the conclusions of Working Group 1 for the fifth assessment report compared with the previous assessment reports? If you would just like to highlight what the main changes are and why they have been made.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: Shall I start with a general comment perhaps? I think the first thing to say is that, after more years of research and observations, there is not a huge change in the conclusions of the AR5 report and the science compared with the previous reports. There is a fair consistency through there. It builds on those and there are some little bits that perhaps are emphasised more and some slightly less.If I was to pick out one thing that impressed me as new—and I am sure others will pick out others—it is the fact for the first time we can measure the decrease in the ice sheets in Greenland and Antarctica and see their contribution to sea level, so the present 3 millimetres per year of rising sea level. About a third of that is due to the decrease in the Greenland and Antarctic ice sheets. It had been expected that it would be there, but it can now be measured from satellites and I found that particularly impressive. As I say, other things have gone up and down, but I think the main thing is there is a continued and stronger message that we can see the changes in the climate system that are consistent with the increase in greenhouse gases that we can also see. Understandings have increased and models have become more complex, but still the same sorts of conclusions ride through as were there in the previous reports.
+
+[[[Dr Stott]]]: Yes, I think that is right. If you look across the report, you will see further evidence to support the conclusion that warming is unequivocal and then we have more evidence from right across the climate system of the effects of human influence on the observed changes. That is not just in temperatures of the atmosphere. It is also in temperatures of the ocean, reductions in snow and ice, rising sea level, and changes in some climate extremes. We have more evidence that strengthens that assessment on human influence on climate and then we also have new evidence around the future, the conclusion that continued emissions of greenhouse gases will cause further warming and further changes in the climate system. Limiting climate change will require substantial and sustained reductions of greenhouse gas emissions and we have new science that show this link between overall cumulative emissions and the overall warming of the climate system.
+
+[[[Professor Allen]]]: I agree with all that. I think one of the interesting developments that has emerged is how strong the consensus is both within and outside the IPCC on the science now. Reading through the submissions to this inquiry it is easy to get the impression that there is still lots of disagreement, but it is important to remember the things we do agree on. By and large the projections, where the IPCC’s critics have made projections, are now at the bottom end of the IPCC’s own ranges. There are other people who make projections that are at the top end of the IPCC’s ranges. That is why the IPCC gives uncertainty ranges. That is a very different situation to where we were back in the 1990s where we had people saying that they were an order of magnitude different from the IPCC’s predictions. We are now essentially talking about a range of uncertainty and obviously there should be some argument about where we are within that range of uncertainty. That is what the range of uncertainty is for. I will happily go into that in more detail as we proceed.              I think it is a very interesting development that we are seeing such a high level of agreement on the big picture of the amount of warming we should expect over the coming century.&#xa0;
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Chair:]]] Do you think, in the light of those answers, there are some areas of climate science that could now be considered to be settled?
+
+[[[Professor Allen]]]: Obviously no aspect of science is finally settled in the sense there is no more uncertainty about it. On the other hand, the disagreements about the size of the climate response are typically at the level of maybe 20%, 30% or so. You should bear in mind that a 30% reduction in the transient climate response to warming we expect by a given date means that the warming we might expect between now and 2050 might take until the early 2060s instead. That sort of level of disagreement does not, I would imagine, make a huge amount of difference to the kind of decisions we have to make. While there remains uncertainty and scope for continued progress in the science, it is important to keep the uncertainties in context.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: Just to give an analogy, many people would have thought Newton’s laws and so on were all settled, but along came Einstein. For most of us Newton’s laws are a good enough approximation; so “settled” means within a range we think we know where we are, but it is not. We know exactly where we are.&#xa0;
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Chair:]]] Do you have any anxiety that controversies that arose from previous reports—take the hockey stick graph that seems to be referred to quite frequently—may cast doubt on the conclusions reached in AR5?
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: There is a concern always if previous mistakes have been made, as in some cases, or maybe be accentuation of one view. It is a group of people and mistakes will be made and that should not reflect on anything in the future for that body. Of course, we should all be sceptical and we are all sceptical the whole time; so probing it must go on. It is not going to be taken as the Bible, but it should be taken as the view of a large group of scientists from the diverse range of where the scientists come from and this is the consensus view given by them. That is what it is. There must always be a concern if then people can return to a mistake made 20 years ago or an accentuation made 20 years ago to down excellent work that has been done now. There must be a concern.
+
+[[[Professor Allen]]]: The other important point to stress is it is very easy, looking at the very elaborate process involved in reviewing and setting these IPCC reports, to think that the strength of the evidence lies in the process of the report and, therefore, you can find any piece of grey literature used and, therefore, the process is undermined and the evidence is undermined. That is not how science works. The strength of the evidence, with respect, does not even rest with the number of FRS’s of the people presenting it—and I am only jealous—but it rests in the fact that the results are reproducible. In fact, if you want to explain what we have observed over the past century, it is very difficult to construct a climate model that does not warm—in fact nobody has yet constructed a climate model that explains what we have observed over the past century—and does not warm substantially over the coming century under a continued sustained increase in greenhouse gas scenario.Just to illustrate this point, I hope you will forgive me, I did send in as some supplementary information the little two-time constant climate model that the IPCC uses. I would encourage Committee members—it is an Excel spreadsheet, it is easy to do—to put in some numbers, see how you can explain the data, and see whether or not your results differ from those of the IPCC’s. You will find it is very hard to plug numbers into that model and not get results out that are broadly consistent with the IPCC projections. Ultimately, it is the data that speaks for itself.
+
+[[[Dr Stott]]]: Just following up on that point, I think it is important to put the Paleo information in context. The IPCC assessment is based on multiple lines of evidence looking right across the climate system, from the instrumental data, warming of the ocean, changes in the water cycle, and sea level rise. All this wealth of evidence builds into this picture and robust comprehensive assessment, as I say, based on multiple lines of evidence of which the Paleo reconstructions with the uncertainties that are involved with inferring global temperatures from indirect proxies of temperature play their part but a relatively small part in the overall assessment, which is based on our understanding, on our climate models and on the observational evidence.&#xa0;
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Chair:]]] These are quite complex issues, certainly for people like us, and they are dealt with at some considerable length in the report. I think it would be unlikely that many Members of Parliament would get beyond reading the Summary for Policymakers. Are there any risks in that; that you are condensing a great deal of written material into something that is of a manageable length for people for whom this is not their exclusive preoccupation? Are there any concerns about relying on the summary for policymaking?
+
+[[[Dr Stott]]]: As somebody who was at the plenary meeting for when the Working Group 1 Summary for Policymakers was approved, I think it is important to stress and for people to understand that those statements in the Summary for Policymakers are traceable back into the report. There are clear lines of sight that go from the Summary for Policymaker statements down into the wealth of evidence and the depth of evidence that is in there. Indeed, that is the crucial part of the process in which we are inducted as lead authors, to see that through. Of course it is a condensation for the main policy-relevant conclusions of the assessment, but each of those statements is then traced through to the underlying evidence that then people can trace back into the peer-reviewed literature. As part of that process, that underpins the development of that summary document.
+
+[[[Professor Allen]]]: It is worth stressing the scientific community is its own best guarantor of the probity of that process. I was part of the internal discussion group that made the decision to lower the lower band on climate sensitivity, which made a lot of noise at the time. I have had a lot of feedback from colleagues in the scientific community about whether or not that conclusion was justified. Papers have come out since the IPCC report that point to substantially higher values for the climate sensitivity and people invariably send me emails saying, “See”, when these papers come out. That is the process at work. Scientists continue to check what other scientists have done and obviously high profile statements, such as those made in the IPCC summaries, are checked even more carefully than others. They get a lot of scrutiny.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: On the traceability of this and the review of the whole process, Members of Parliament can be more content over what goes on in this case than, say, much of the information they get in the economic sphere, I suspect, where they would read the summary but not know the details and the traceability would be rather less.&#xa0;
+
+[[[Q5 ]]]&#xa0; 
+
+[[[John Robertson:]]] Gentlemen, I want to talk about climate sensitivity and natural variability. Remembering that I am just a normal layperson, it would excellent if you could speak in language I understand, and I am sure that would apply to a lot of my colleagues. Having said that, I always have this feeling that scientists are a bit like politicians; if you get two of them together, they will both argue with each other just to be different. I just wonder if sometimes the science itself and the arguments we have—and I am going to quote some people in a minute—are done just for the sake of argument rather than dealing with the facts as they should be. I could be wrong. You can comment on that in your answer.              Let me ask the first question then. The range of values quoted by the IPCC for the climate sensitivity parameter is quite large, between 1ºC and 6ºC. Given the importance of climate sensitivity for predicting the future changes, has the IPCC failed to adequately address this issue?
+
+[[[Professor Allen]]]: I am happy to start speaking to that because I was involved in all of this. The first thing to emphasis is you are absolutely right; a lot of the discussion about climate sensitivity is precisely because it is very hard to resolve. It is not nearly as important a property of the climate system as the transient climate response that I mentioned earlier. The transient climate response is basically the warming you get when you reach double CO2. Forgive the jargon here. The climate sensitivity is the warming you get when you get to double CO2 and then you hold concentrations there forever—and the definition does mean forever—and see what warming you eventually end up at. Therefore, as you might imagine an infinite prediction, which is the climate sensitivity prediction, is much more intrinsically uncertain than the prediction of the transient response. A lot of the controversy, and certainly all the statistical controversy about statistical methods, revolve around this parameter that doesn’t matter very much because there are other things that we know better than that. Climate sensitivity is a bit of Katie Price of climate parameters in the sense that everybody talks about it because everybody else talks about it, but nobody can quite remember why we are talking about it in the first place.
+
+[[[John Robertson:]]] I sometimes wonder whether it is to do with the fact that people understand temperature rather than anything else.
+
+[[[Professor Allen]]]: The transient response is temperature, but it is temperature by a given time. That is the point. It is temperature over a finite timescale. The problems arise with pinning down climate sensitivity precisely because it is this very long-term equilibrium warming, which is very difficult to pin down with the things we can observe today.
+
+[[[John Robertson:]]] Why does it take so much prominence?
+
+[[[Professor Allen]]]: It is the job of the IPCC to assess the literature, and there is a lot of literature on estimating climate sensitivity. We also devoted space to estimating the TCR. We emphasised in AR5 that the transient climate response is the more policy relevant variable, because there is obviously a certain inertia in the climate community. People are responding to other papers that have looked at climate sensitivity and so it remains a bit of an industry of people trying to pin it down.&#xa0;
+
+[[[Q6 ]]]&#xa0; 
+
+[[[John Robertson:]]] There have been some studies like Forster et al, Marsters and Lewis who have brought out papers after the conclusions that the IPCC made in 2013. Is it perhaps time to go back and look again at this or is it just one of these things that will evolve through time?
+
+[[[Professor Allen]]]: I don’t think there is any pattern of results published after. Several of the papers you mentioned were assessed in the IPCC assessment, but there is no clear pattern of results after the deadline pointing towards lower or higher sensitivities than results published before the deadline.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: In fact, there was a recent paper that suggested that the models with the higher response were more in tune with the observations of clouds. This is living science, so there are results that will come out. Almost all of them are within the range of the IPCC, but they are sometimes emphasising the one end and sometimes the other end. There is no point in saying, “This is the crucial parameter. We must reassess it because there is new information that pushes us to one end”. This is living science. This is one parameter of a number of ways of looking at the climate system.&#xa0;
+
+[[[Q7 ]]]&#xa0; 
+
+[[[John Robertson:]]] Professor Lindzen suggested that an inaccurate appraisal of the role of aerosols in the atmosphere and the models used to estimate climate sensitivity are open to fudging. How severely do poorly-understood climate factors reduce the reliability of climate sensitive estimates? I say that simply because aerosols are one of the things that the general public could latch on to, because they all have them.
+
+[[[Dr Stott]]]: The assessment takes account of the uncertainty in the aerosols and includes it in our attribution estimates and in estimates of climate sensitivity. It is part of this assessment process I am talking about where we have looked at multiple lines of evidence, the processes involved, and at how well those processes are included in the climate models, which have improved considerably in the current generation in terms of how they represent these processes than the previous generation of models.&#xa0;
+
+[[[Q8 ]]]&#xa0; 
+
+[[[John Robertson:]]] Did we overreact years ago about the effect aerosols were having?
+
+[[[Dr Stott]]]: We have known for a while that it is not just simply a matter of increasing greenhouse gases in the atmosphere producing a warming; that there is potentially some effect from aerosols, notably a net cooling effect. That is not new in the AR5, but in the fifth assessment report we have provided ranges of likely warming since the mid-20th century attributable to the greenhouse gases on the one hand and attributable to these other anthropogenic affects that indicate there is a net cooling effect. In other words, the overall warming effect would have been larger than observed were it not for some cooling effect from the aerosols. That is all factored into the assessment, including of climate sensitivity and transient climate response.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: Perhaps I can just say about aerosols, these are little particles and the question is how much of those is in the atmosphere. There are all different sorts and they have different impacts. It has been a living science area, again, to try and get measurements to show what is there and to see what their effect is. The estimates change as we go through. For many years there has been the idea of the greenhouses gases tending to warm but these particles, on average tending to cool. It is on average and it is difficult to say just how much and how much that average is.&#xa0;
+
+[[[Q9 ]]]&#xa0; 
+
+[[[John Robertson:]]] I am not altogether certain I understand this question, so hopefully you will explain it to me. Drs Curry and Wyatt have proposed a stadium wave theory that, contrary to the conclusions of the IPCC, suggest that natural internal variability has a larger role to play in climate change than does anthropogenic CO2. What impact does the stadium wave theory have on the conclusions of the IPCC?
+
+[[[Dr Stott]]]: This is the issue of natural internal variability. We talk about natural internal variability, which is internally generated variations in the climate system. One example of that would be the El Nino - Southern Oscillation, but there are others like the Pacific Decadal Oscillation, which is what we call a multi-decadal scale type of variability. That means that the temperatures can warm and cool globally on several decade timescales, potentially, and that is not due to the additional greenhouse gases that we put into the atmosphere. That is a natural process. We have understood this factor for a long time and we have taken this fully into account in the assessment. When we provided our assessment—I was the co-ordinating lead author for the chapter on so-called attribution that looked into this—we, of course, checked out this null hypothesis; that we could explain the observed changes purely by these types of internally-generated variability. One term that has been used is this stadium wave type of effect, but it basically relates to natural internal variability. We have found that the greenhouse effect dominates in terms of the last 60 years. What you have to remember is the timescales are important here and also what we call the fingerprint. For the timescales, these modes of decadal variability, very importantly, vary the temperatures from decade to decade—that is a very important part of our climate system that we are seeking to better predict—but they do not provide the very long-term warming that we are seeing as a result of greenhouse gases. That is the first point.The second point is that warming due to greenhouse gases produces a distinctive spatial pattern—more warming over land than ocean, higher warming at higher latitudes—that is different from these types of internal variability, and that allows us to distinguish between them. It is fully factored into the assessment where we conclude that the dominant cause of the warming since the mid-20th century is anthropogenic and not these natural factors.&#xa0;
+
+[[[Q10 ]]]&#xa0; 
+
+[[[John Robertson:]]] What I gather from what you are saying is we are creating the problem. There is historical evidence there to show that it has happened in the past, but it is worse now than it was in times gone by. Is that fair?
+
+[[[Dr Stott]]]: Well, there are natural variations that have always happened and will continue to happen in the future. We will not get a simple linear every year warmer than the previous year.
+
+[[[John Robertson:]]] People that disagree with you will say that this is all natural and everything goes in cycles.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: It is not all natural and it is not all anthropogenic. It is a mixture. What we have on all timescales is a mixture and this makes it difficult to understand and a very interesting scientific problem, but on a day-to-day basis it is dominated by natural variability. I was not part of this last IPCC report—I have only been part of one IPCC report—and, if I had a criticism of IPCC, I would say in the past there tended to be rather too much thinking that everything was being explained on the multi-decadal timescale from the greenhouse gases or the aerosols or the volcanoes. I think there was perhaps an underestimate of the natural variability. This recent period has been an example of this last decade or so where natural variability has been very apparent. Probably in the 1990s the natural variability was encouraging the warming. It is disentangling these two, but with the very strong theoretical basis and the observed warming over a 100-year period giving some agreement we are seeing what we think is the fingerprint of our anthropogenic warming on that century timescale. When you get down to the decadal timescale, then we see a lot of the natural variability tending to dominate.
+
+[[[Professor Allen]]]: I just want to chip in. That disagreement on the role of natural variability over the past century is precisely reflected in the range of uncertainty in predictions for the future. If you have a look at your Excel spreadsheet climate model you will find that, if you go to the lower end of the response, you get a rather smooth curve over the past century because there are very little aerosols in that scenario and you get the lower end projections. If you go to the highly responsive model with higher aerosols, you get something that goes up and down more, as the observations did, and gives you a higher warming in the future. However, when you look at both of them, both of them are broadly consistent with the observations. There is just not enough in the observations to say, “This one is right and that one is wrong”. We can’t look at the observations and say, “Because the observations have gone up and down in this way, it must be natural variability”, when there is an alternative explanation, which is that it is driven by the combination of greenhouse gases and aerosols. We account for all of those possibilities in coming up with the ranges of uncertainty.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: I am afraid it may be more complicated than that because one of the really interesting and important climate changes could be a change in the natural variability. You get an interaction. For instance, suppose the El Nino had a different flavour to it in either the frequency, intensity or nature, one can’t necessarily separate natural variability from climate change.&#xa0;
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Could we move on to models? I understand that the full technical report scales down the projections for near term global warming by 40% below that which the CMIP5 global climate models gave. Is that correct and why is not mentioned in this Summary for Policymakers?
+
+[[[Professor Allen]]]: The revised range is mentioned in the Summary for Policymakers.
+
+[[[Mr Lilley:]]] But not the fact that it has been revised.
+
+[[[Dr Stott]]]: In terms of the near term, there is a scaling of approximately 10%, which is an estimate in terms of the comparison between the observed trends and the model trends. You also have to take account of effectively the starting point for your near term projections. Those are the two pieces of information that go into those projections in the Summary for Policymakers. Again, all of that science is fully described in the traceable account that underpins that report.&#xa0;
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] It is all in the technical report, which is extremely good. I just wondered why it was not in the Summary for Policymakers. The figures from the models are a range of between .48º and 1.15º and the figure in the technical report is revised down to 0.3º to 0.7º. That is a 40% reduction against 10%.
+
+[[[Professor Allen]]]: I was party to one of the conversations to this, although I wasn’t in Stockholm. The firmly held view was the 1.15º number was not a helpful number to put into the Summary for Policymakers for rather obvious reasons. It was not the view of the IPCC authors that we were expecting to see over 1º of warming between now and 2035. In the conversation about this that I was party to that carried a lot of weight; that it would have been misleading to have elevated that number too high in the process. The aim of the Summary for Policymakers was to summarise what we thought was most important rather than the detail.
+
+[[[Mr Lilley:]]] You gave us a range that was based on expert opinion not the models, but you did not tell us that you had lost faith in the models sufficiently to scale down as a result of expert opinion?
+
+[[[Professor Allen]]]: No, the short-term range is based on a combination, like all of the ranges in the report, of models of multiple different types of modelling experiments. There are also initialised experiments that go into the IPCC report where the models have been reconciled with recent observations. These are new in the current report and one of the lines of evidence supporting that lower range was obviously that the models that had been reconciled with recent observations were giving lower projections than the models that were just running free. The models that were running free were already too warm by today because they didn’t reflect the natural fluctuations that have happened over the past decade.Another point was a study that Peter Stott led, where you can use observations to try and constrain near term future warming and that fed into that assessment. You say the assessments are based on expert judgment, but they are based on a range of lines of evidence and it is the expert judgment that is used to draw those different lines of evidence together.
+
+[[[Dr Stott]]]: That is right. It is also worth pointing out that the so-called transient climate response, the range of the CMIP5 model range, is consistent with estimates where you also bring in the observations, your understanding and your models together. In fact this is what we are doing here. We are bringing models, observations and understanding together to give an overall assessment, but there is a consistency of all of that evidence that underpins that overall assessment on transient climate response, which, as I say, is overlapped strongly with the basic CMIP5 model range.&#xa0;
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] It does not, of course, because point 3 is outside the range given by the CMIP5 models, the bottom range of which is 0.48º. I think we can go on too long about this. The point I am trying to make is the point you make and particularly the points in the technical report are all good science, but what you entrust us, the policymakers, to know in the Summary for Policymakers is politicised. You think, “We won’t tell them that we have scaled down below the range given by the models”. Today the Chancellor is going to give the latest figures for GDP; if it were to emerge that the figures he was giving were not those given by the Treasury model but his expert judgment and he had not told us that, there would be trouble in Parliament.
+
+[[[Professor Allen]]]: I don’t know the process whereby the Chancellor comes up with his numbers, but I am sure there is an enormous amount of expert judgment in running that Treasury model. The key point is there is an enormous amount of judgment in running climate models. There is nothing sacrosanct about ranges that come out of the CMIP5 ensemble. We rely on a whole range of lines of evidences, including observations and these models, to provide these projections and those are the projections that are elevated to the Summary for Policymakers.Just to pick up on the notion, “You no longer rely on the models”, there are certain things for which I would never rely on these models and there are other things that I would. That is where the expert judgment comes in. You have to look at a model and ask yourself, “Is it appropriate to the question that I am asking with it?” If you wanted me to use one of these models to predict whether there is a white Christmas in 2030, it wouldn’t work, but that doesn’t mean that the model is useless for giving us the big picture estimates of what warming we should expect over the coming century. There is no mechanical process for taking a set of model results and turning a handle and getting a set of answers out, and I suspect there is not a mechanical process like that in the economy either.&#xa0;
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] You are certainly right there. I understand they revert to using the model estimates after 2035 or whatever it is, so there is no fudging in judgment. The model is assumed to be right in the longer-term future but wrong in the near-term future.
+
+[[[Professor Allen]]]: No, the models are not assumed to be right. What happens is, in the longer term, the lines of evidence coincide sufficiently well that we are able to say there is no evidence for the models being either an overestimate or underestimate and the 5% to 95% model range—so most of the models—are assigned only as a likely outcome. You say the models are assumed to be right, but that is incorrect. Explicitly in the Summary for Policymakers we say there is a one in three chance of the real world lying outside that model range; whereas, if we just took the model range at face value, we would say that was only a one in 10 chance. In the longer term as well we are not just relying on the model ensemble. We are using it as one of the lines of evidence that is fed into the assessment.
+
+[[[Dr Stott]]]: That is right, and that is also the point I was trying to make earlier. The overall assessment of the transient climate response between 1ºC to 2.5ºC, bringing in our information from the recent observations as well, is very consistent with the overall 5% to 95% range of the CMIP5 models, which is from 1.2ºC to 2.4ºC. You can see how there is consistency of evidence there.&#xa0;
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] A recent paper by Swanson et al published last year, Emerging selection bias in large-scale climate change simulations, says the remarkable thing is between the previous generation of models and the one currently used there has been a greater convergence between the models. The models now agree with each other much more but they agree with reality less. The previous range did include reality in the range of projections. He suggests that is partly because there is a natural tendency for model builders to try and agree with each other, and partly that they are all trying to simulate what is happening in the Arctic. Would you agree that, first, the basic phenomenon is true; secondly, that it is worrying; and, thirdly, that the reasons given are valid?
+
+[[[Dr Stott]]]: We looked at this in research that we did at the Met Office Hadley Centre, but if you compare the CMIP5 range with the CMIP3 range, you will see there is a larger spread reflecting the fact that we are now taking more fully account of things like the aerosol forcing uncertainty that we discussed earlier. There is in fact a larger spread in those model runs and that is part of the assessment.Now, if you assess those models against the longer-term climate changes, we have always expected that there would be variability. It comes back to the point about variability. That has been talked about in IPCC reports going right back to the first report about the important role of variability from year to year and decade to decade. We have always expected to have periods of faster warming, which we saw leading up to 1998, and periods of slightly slower warming in terms of the surface temperature response. What we have to remember there is that is an imperfect measure. That surface temperature index is an imperfect measure of what we are talking about here, which is the energy imbalance as a result of the enhanced greenhouse effect. What we have seen there is we have seen about 93% of the additional heat is going into warming up the ocean and we are seeing, if you look at measures of the overall energy of the climate system, that has continued to increase over the last 15 years. If you do the assessment of the models against a whole raft of climate indicators over those longer-term time scales that you need to do to assess their fitness for purpose for the longer-term changes—and we did this in this study that Myles referred to earlier and a number of studies have done this—we see that the models do a good job of representing the larger time scale changes.We see the potential that the fastest warming models may be slightly less consistent and we have this potential to scale by about 10% as we have already discussed, but on the broad scales the models are validating well against the observations.
+
+[[[Professor Allen]]]: This point about the models agreeing with reality less, in order to make a statement like that you have to choose some aspect of reality that you decide to compare your model against. Okay, the surface temperature is problematic because it is contaminated with internal variability and it may just be what we have seen over the past decade is a random fluctuation that would take many more models than what we have in the consumer ensemble to reproduce. However, there is that study that Professor Hoskins mentioned earlier where they are specifically looking at observations of reality that are particularly relevant to the feedbacks that determine climate sensitivity. This study published recently showed the models that agreed with reality best were the ones with the very high responses and, of course, that is the observation of the world that is particularly relevant to that process. If you are testing models, there is obviously an element of judgment in deciding what is most relevant to understanding the model performance.&#xa0;
+
+[[[Q16 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Those combined were quite long answers and I will read them with interest to see whether they provide me with the answer to my question. The point you have just made was that the models that worked best for clouds were worse for  temperature, which is interesting. Aerosols is another area where there has been a change in the evidence between AR4 and AR5. AR5 says in a fleeting mention, and it even gets into the Summary for Policymakers, that the impact of aerosols has been scaled down significantly. Has that evaluation of aerosols been applied retrospectively to models to see whether they now fit the data as well as they were previously thought to when we were using the wrong figures for aerosols, or has that not been done? If the aerosols have been less powerful than we thought, won’t it mean the climate sensitivity must have been less powerful than we thought?
+
+[[[Dr Stott]]]: They have been taken into account in the Attribution chapter that I was the co-ordinating lead author of. We do not take the models at face value. We combine observations with the models to understand in our assessment—
+
+[[[Q17 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] They have been rerun with new aerosol figures. That is what I am asking.
+
+[[[Dr Stott]]]: We have a whole raft of models that have been run with—
+
+[[[Mr Lilley:]]] Just yes or no. 
+
+[[[Dr Stott]]]: We have not rerun the models. We have taken the models that have a whole range of forcings, but then—
+
+[[[Professor Allen]]]: Sorry, that is misleading. There is a range of aerosol forcings in the models and some of them match the new estimates. So when you say—
+
+[[[Q18 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Some of them were right, even when the figures were wrong?
+
+[[[Professor Allen]]]: No, there is a range of uncertainty and there is a range of what goes into the models. I don’t think there is an obvious inconsistency there.
+
+[[[Q19 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] When you have new data, do you not feed into the models? That is what I am asking.
+
+[[[Dr Stott]]]: Yes.
+
+[[[Professor Allen]]]: Of course we do.
+
+[[[Dr Stott]]]: Yes, we do.
+
+[[[Mr Lilley:]]] But you said you haven’t.
+
+[[[Dr Stott]]]: We do enter it into the models and so we have a new generation of models that have—
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Could you write to us afterwards and tell us what is true, whether you have used this new data retrospectively and seen whether the models now fit as well or whether you have not? It is not clear from your answers.
+
+[[[Professor Allen]]]: I can answer specifically on that. With the simple models we can run quickly on a PC, such as the one I provided you all with, yes. With the very complicated models that take several years to run, the answer is rather obviously no, because these estimates were only available last year. Obviously it is not possible, but you can imagine CMIP6 will use these new estimates and that just reflects the different time scales of different types of model and assessment. However, it is worth stressing, when you put these new estimates into the simple models, you get the range of uncertainty that is consistent with the ranges that are in the IPPC fifth assessment. 
+
+[[[Q21 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Surely you get a different range of uncertainty. It may overlap with the previous range of uncertainty, but it will be different.
+
+[[[Professor Allen]]]: The range of uncertainty in the AR5 projections accounts for the possibility that the aerosol forcing might be very small. You can try it out yourself. You do not need to take my word for it on that. If you put in essentially a zero aerosol forcing, that is when you get the best fit with the lowest end of the range but that does not mean that is correct. The aerosol forcing might be much higher than zero. That full range is accounted for.&#xa0;
+
+[[[Q22 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] I should remind the Committee of my entries in the Register of Members’ Interests, in particular to do with the oil and gas industry and a shareholding in Shell.               There has been talk already of the language of uncertainty that goes with these reports and some concerns expressed that the IPCC causes confusion for policymakers and the media in its use of uncertainty. Is there any need to clarify the language of uncertainty?
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: The language of the IPCC, they do try and quantify—I say “they” not “we” because it is not me—the uncertainty and sometimes I wonder about that quantification, but it is perhaps useful to know what the language means. I think it is helpful to give confidence ranges in the way they are doing. That then reflects the expert judgment of all the bits of evidence they have available to them at the time. The confidence in certain aspects then may change over the years and that reflects how the level of understanding and the observational evidence has changed.
+
+[[[Dr Stott]]]: I should stress that we had a guidance note. We had very clear guidance on how to use this uncertainty language, which provided us with calibrated statements and that allowed us to provide a well-calibrated assessment across the report. That guidance note basically allows us to quantify when we have high agreement across multiple lines of evidence, when we have robust evidence. Where we have quantitative estimates and probabilistic estimates, we can then provide these likelihood assessments. We had very clear guidance that was produced by the IPCC that, as authors, we could work to. Then, of course, as a communication tool—and that is provided in the Summary for Policymakers—there is information about what those confidence terms and those likelihood terms mean.
+
+[[[Professor Allen]]]: When the IPCC says something is very likely, it is explained what that statement means. It is an assessment based on the lines of evidence available of the probability of something occurring. That is what the words mean. I accept that there are many different views. If you put two statisticians in a room, they will probably start arguing with each other about exactly how to do these things, but I think it represents a reasonable effort at communication. Is there anything specific you wanted to focus on?&#xa0;
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] The InterAcademyCouncil recommended the implementation of a calibrated uncertainty language, but it sounds like it is calibrated.
+
+[[[Professor Allen]]]: Yes. The InterAcademyCouncil suggestions were very helpful, but it was reinforcing a direction that the IPCC was already going on.
+
+[[[Dr Stott]]]: That is right. It was reinforcing that direction, but this was a cross-working group document that was produced across the working groups of IPCC so that we are using this common understanding and this common calibrated language, which was in response to the InterAcademyCouncil but, as we said, following that direction the IPCC was going.&#xa0;
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] What are the main areas where the certainty level is increased and what are the main areas where it is decreased since the last report?
+
+[[[Dr Stott]]]: One area to talk about is in terms of the evidence for human influence where we have more evidence from across the climate system and so there is a conclusion that it is extremely likely. In that calibrated uncertainty language you have just talked about, that means greater than 95% confidence that human influence has been the dominant cause of the observed warming since the mid 20th century. I think that is one of the important areas.We also have new signs around cumulative emissions and the link to warming. We also have stronger confidence around extremes as well. We are seeing observational evidence for changes of temperature extremes and we are also seeing evidence that we can link that to human influence on climate through increased greenhouse gas concentrations.
+
+[[[Professor Allen]]]: You asked specifically for a case where we saying something that was explicitly less confident; so we were expressing lower confidence than was expressed in the previous report, that the climate sensitivity was greater than two, although we were not revising the range for the more policy-relevant TCRs. That change doesn’t make much difference to the projections. If we stabilise, then that revision changes the range of outcomes. If these ranges are correctly specified at any given time, you should not expect that they will always get smaller. This is not a ratchet. If we give an honest assessment of uncertainty, you should expect that to wobble as we proceed into the future. I think this Committee should appreciate that is what happens because, at any given time, these assessments represent the state of the evidence at that time.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: Can I just add to that? I think one of the amazing things about the IPCC is how the equilibrium climate sensitivity range has stayed the same over the years. That would seem we have not been doing any science to try and refine this, but during that period those started with an atmosphere-only model with a fixed ocean underneath. Then gradually the system has become the whole depth of the ocean involved, the vegetation on the land and the ice. The system has become so much more complex and interactive that is modelled and uncertainty ranges could well increase as you do that. The triumph has been that most of them have stayed about the same.
+
+[[[Professor Allen]]]: It may come up later, but in one of the submissions to you the IPCC was criticised for not using a very specific branch of statistics, the so-called Objective Bayesian methods, in quantifying our uncertainties. The job of the IPCC is to be inclusive. We have to assess the full range of literature and the different methods that different people use and obviously every author likes their own method. I was a bit of a fan of the Objective Bayesian methods a few years ago, but there were problems. It turns out they had paradoxical consequences as well. What the IPCC ends up doing is assessing the range of methods used in the literature and presenting results accordingly.&#xa0;
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] Is it possible in the time we have to summarise why there was an increased confidence in human influence?
+
+[[[Dr Stott]]]: Yes. We have more evidence from across the climate system. We have evidence in terms of the ocean warming in particular. We have better observations now and we understand not just the changes but the variability in ocean temperatures. Of course, if you are going to measure temperatures below the surface of the ocean, you have to send buoys down to measure those temperatures and so on.
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] Isn’t that more confirming the outcomes of warming?
+
+[[[Dr Stott]]]: Well, it is increasing our level of—sorry, excuse me.
+
+[[[Q27 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] I am just trying to pin down. That is a sort of symptom of the system warming, but how does it increase the confidence that the human activity was the cause?
+
+[[[Dr Stott]]]: What we are seeking to do is to quantify the overall role of human activity. As I said, our null hypothesis starting point is that we can explain it just by internal natural processes and we can rule that out at very high confidence levels, but then it becomes the so-called attribution question of how we quantify the human role. As we have already discussed, as a starting point it could be that it is dominated by natural factors and that human factors is rather small. This is where we have increased our confidence in saying that it is extremely likely that more than half of the observed warming, therefore the dominant cause, is human influence. To do that you need to bring all the evidence to bear including, importantly, the ocean temperatures. Previously in the AR5 there was a lot of variability apparently in the observational records, which we have now understood was an artefact of a different bias in those measurements. That is one example of where we have improved our confidence, but it is not just in terms of ocean temperatures. It is also in terms of other factors such as the retreating ice and snow. We have developed our understanding of the water cycle. We have developed our understanding of extremes. When you look into our chapter 10, you will see we have a table at the back there with 33 rows where we have itemised all the evidence, both the evidence where we have multiple lines of evidence and also where we have remaining uncertainties. We have a greater wealth of evidence now than we had, with better understanding, with more observations and also with the improved models as well.
+
+[[[Professor Allen]]]: Just briefly, to come back to the earlier conversation, I recall one of the big arguments in AR4 was over whether human influence via aerosols could be masking the human influence due to greenhouse gases. That was one of the big uncertainties. That uncertainty has now come down because we are more confident that the aerosol forcing is not at the really high end that was considered possible back in AR4. Of course, that increases our confidence in the size of the total anthropogenic warming over the past 50 years because our confidence about anthropogenic cooling—
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] It means it is less, does it not?
+
+[[[Professor Allen]]]: No, because aerosols cause cooling. If you have less aerosols, then the total anthropogenic warming—
+
+[[[Mr Lilley:]]] There has been less cooling.
+
+[[[Professor Allen]]]: If you are saying you are more confident that the anthropogenic cooling is less, then obviously your lower band on your total anthropogenic warming goes up. We are more confident that humans are not cooling the climate. Therefore, we can have greater confidence that the overall effect, including all the warming factors, is towards warming. That is just one of the factors that play in.&#xa0;
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Most of us who live in the real world know how much warming there has been. It is how much warming there has been. It is not how much warming there is in a model. As I say, there has been 0.7º warming. If that is not the result of 1º warming through CO2 and 0.3º cooling through aerosols—if, for example, there were no cooling through aerosols—then the amount of warming through CO2 must be 0.7º.
+
+[[[Professor Allen]]]: Yes, but the statement refers to the total human-induced warming and we have greater confidence in what the total human-induced warming is than we were able to give in AR4. That is an example of the increased confidence resulting—
+
+[[[Q30 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Increased confidence and a smaller amount? 
+
+[[[Professor Allen]]]: No, I don’t think that is a correct representation of the conclusions but the key thing is that, by assigning a lower probability to something that might be compensating for the warming effect of CO2, you can increase your confidence that the overall human influence on climate is towards warming. I am sorry if I haven’t made myself clear on that. I have done my best.
+
+[[[Q31 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] I think what Mr Lilly was saying was you are talking about the net effect of human activity.
+
+[[[Professor Allen]]]: Yes, and that is what the statement—
+
+[[[Sir Robert Smith:]]] —and Mr Lilley is making the point that if there is less human input to cooling then the human input to warming—because, after all, you—
+
+[[[Professor Allen]]]: Yes, okay. This uncertainty in aerosols is reflected in our uncertainty and specifically the warming attributed to greenhouses gases, which of course is highly relevant to quantifying uncertainty in the future. As I emphasised before, it is that uncertainty that contributes very substantially to the range of uncertainty in future projections—this balance between aerosol induced cooling and greenhouse induced warming—but this was specifically focusing on how much of the warming over the past 50 years is attributable to overall human influence. That is a situation where our reduced estimates of aerosol helped increase your confidence in the total human influence.&#xa0;
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Chair:]]] Given this increased confidence and what all of you were saying at the start, that there was a slightly increased consensus about broad conclusions, one of the terms of reference of this inquiry is, do the conclusions of the fifth assessment report strengthen or weaken the economic case for action to prevent dangerous climate change? Do they strengthen or weaken that?
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: Given that we have had another six years or so of observations and of developing climate theory, modelling and so on, I think it strengthens in that we have found nothing to go against the previous line that suggested the actions were necessary. There is still even as strong or stronger evidence that we are performing a very dangerous experiment with our planet.
+
+[[[Professor Allen]]]: One conclusion of AR5 that I think is very pertinent to this is this accumulation of carbon in the climate system and the fact that the best determinant of long-term warming is the total amount of carbon we dump in the atmosphere rather than what we dump in any particular year. One consequence of this is that, as long as our emissions continue to increase exponentially, the long-term committed warming increases at the same rate. Since emissions have been going up at rough 2% per year over the past five years, the committed warming we get by simply continuing to dither has gone up by a similar amount. That is just as a consequence of the accumulation of carbon in the system. That is a good indication. The actions we would have needed to have taken to meet a 2º target in 2010, if we postpone those actions to 2015, they would only meet a 2.2º target. That is how rapidly the target is receding away.&#xa0;
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Chair:]]] Just to be clear, even if the rate of emissions was to stop to increasing and to start decreasing, there would still be emissions. The concentration of greenhouse gases in the atmosphere will continue to increase even though emissions themselves were coming down?
+
+[[[Professor Allen]]]: That is a tremendously important point. Until we bring net carbon emissions into the atmosphere close to the zero we are going to see continued warming. That does have quite profound implications for policy.
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: Can I just add to this? In the Climate Change Committee we used the latest IPCC AR5 estimates of transient climate response as a basis for rerunning the calculations to see how our UK targets would fit into a global context and the range is very similar to before. The emphasis that our target is well based is still there.&#xa0;
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] Finally, to what extent does the IPCC Working Group 1, fifth assessment report represent a consensus within the scientific community?
+
+[[[Professor Sir Brian]]]
+
+[[[ Hoskins]]]: There are thousands of scientists and you will get a range of views, but across the vast majority of that they would say, “Well, my view has been account of. Perhaps I might have written it slightly differently, but I can see it has been taken account of and essentially it is in the range there”. As I said before, I can be critical of certain parts of the IPCC reports but the consensus view that comes through, which is very difficult in a complex area like this where you have different scientists doing different things—the system itself is very complex. To get a consensus is not a natural thing for scientists and it is sort of demanded by Governments and by the UNFCCC process to get a view that they can take on board, trying to synthesise the science that is around, so that they can have it and then say, “Well, what must we do on the basis of that”? It is not a natural process for scientists to go through this but, given that, I think it is a remarkable job that has been done. It is not perfect, but it is remarkable.
+
+[[[Professor Allen]]]: As I emphasised at the beginning, I think what is interesting, particularly looking at the submissions to this inquiry for example, is that we are now talking about a range projected by IPCC and people arguing about essentially whether we are at that end of the range or that end of the range. They are not arguing, “Are we down here?” The situation has changed from the 1990s in that we are no longer arguing that the climate is not changing at all. The argument is over where, in the IPCC range of uncertainty, the correct answer lies and that is why the IPCC presents a range of uncertainty.
+
+[[[Dr Stott]]]: I think the discussion now in the field is around the regional aspects, the details of the regional aspects for the UK in the future. That is where, of course, having national climate programmes and national climate capability comes in. It is about those regional details where the focus of the scientific activity is, because the main headline messages of warming and human influence and the implications of future emissions in a very large scale are robustly supported by the great majority of the scientists.
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: Can I come in on that? I think what we have seen from the models over the years and from the IPCC is a projection of a climate where the circulation of weather stays the same but the whole system is warmer so you a bit more rain out of it and so on, but there is no confidence yet on how things like the El Nino, the circulation or the storm track that affects us might change. This is the challenge now, as Peter is saying, is to get more confidence in what the interaction is between the natural variability, the natural process with phenomena like storm tracks and this changing climate. That is a real challenge, but it is one that has to be there for adapting to a change in climate and you could say it would be very influential if, for instance, one had confidence how something like the Indian monsoon was likely to change, because the confidence at the moment is rather small on such things.&#xa0;
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] In terms of the organisation of the IPCC, there has been a lot of criticism. As we have read in the papers and the documents we have, there has been criticism of it being overly-political and extremely burdensome. There are obviously problems with the image of IPCC. Since the ER4, the InterAcademy Council criticised the IPCC and they recommended a number of improvements to the practices and the structure. Have these been effectively addressed?
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: Perhaps I will start, but the others who were involved can then follow. I think there were 26 recommendations and 20 of them have definitely been given a tick. Most of those were to do with how the IPCC assessment was done in terms of the scientists and the review process. In fact, putting those into place has made it even more burdensome than it was before. It is a case where the review is so intense and the process has just become more burdensome. For the scientists involved I can say that it is now a huge commitment to get involved. The recommendations have been followed in terms of the assessment and, in terms of the response to criticisms, I think they have been involved. There were some in terms of the sort of IPCC head office that I do not think have been followed yet, but perhaps it was not opportune to do so at that stage. It was almost committed at that stage. Not everything has been followed, but I would expect by the next one, if there is, they would be. However, the question over whether the process has become so burdensome certainly has to be raised as well.
+
+[[[D]]]
+
+[[[r Stott]]]: It is hard work, for sure, and we can both vouch for that. Some of these processes have been helpful. We have review editors and, in response to the InterAcademy Council, the review editors have been ensuring that we do indeed adhere to the process. We have already talked about the uncertainty language and the clear guidance on that has been helpful to us as lead authors.I would like to make one further point around politicisation. Having been present at the final plenary meeting for the Working Group I Summary for Policymakers, it is very important to stress, having experienced that, how clearly that is a scientific process, and the scientists have the final veto on the sentences that go in. There is clearly, rightly, a very strong scrutiny of the statements that go into that and a very clear process in terms of making sure the language is as clear for the policymakers as it can be. It is policy relevant, but not policy prescriptive, but it is not a political process. It is a scientific process where we, as scientists, had the final word in agreeing to that final document. I think sometimes there is a bit of a misunderstanding about that process, but it is very clearly based all around the science and around the extent to which our assessment does reflect our scientific understanding, as provided in the underlying reports.
+
+[[[Professor Allen]]]: I should probably respond to this, because I may have been one of the people you have been able to read in the press criticising the IPCC process. In the big picture, the key thing is to recognise the strength of the evidence of human influence on climate does not rest on the IPCC process and, whether you have however many thousand authors involved, it rests on the evidence. In some ways, the IPCC process has become so elaborate that it almost distracts attention from the evidence itself and I think that is potentially a bit of a problem. I very much hope it will be significantly streamlined in the future.&#xa0;
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] What areas of the IAC report have not been effectively addressed?
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: As I suggested in my previous answer, I think there were elements to do with the IPCC head office, the head of the IPCC and the organisation just under that, which does not affect those involved in doing the report that much, but it is the infrastructure on top. I do not think those were carried out at that time. I think the argument was that it was too close to the next review to make a major change in their structure at that level.&#xa0;
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] Professor Allen, it is right; we have seen criticism from you with regard to the IPCC. You recently criticised them for the practise of producing exhaustive assessments on a six-year cycle because you did not feel it best served the interests of the Governments whom the IPCC is intended to inform. How might these practices of the IPCC be altered in order to more effectively inform Governments on current issues in climate change and climate science?
+
+[[[Professor Allen]]]: I should stress, speaking personally here—
+
+[[[Ian Lavery:]]] I am asking the question personally.
+
+[[[Professor Allen]]]: Yes. I strongly support the Netherlands proposal that I believe has been put forward to the IPCC Bureau for an annual assessment, which is not one of these multi-thousand page documents, but something much more streamlined—simply giving the conference of the parties an update on the science every year—and then we have special assessments when the science changes and when there is some call for it, special reports. That structure would work far better and would much better reflect the progress of science, which does not work on a six-year cycle. One of the worrying aspects of the IPCC is how climate modelling activities have to be kind of shoehorned into the requirements to do the runs for the next IPCC assessment and I think that is unhealthy. I think an annual assessment supported by extensive special reports would be a much better process. This is the Netherlands proposal. I commend you to read that proposal; it is on the KNMI website. In my personal view, I think they are spot on. The Dutch are very sensible people.&#xa0;
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] Professor Hoskins, the Grantham Institute, the LSE have defended the IPCC and argued that some of those sceptical of its work have been guilty of misleading the public and indeed policymakers. Would you like to elaborate on that?
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: Sorry, what did I say?
+
+[[[Ian Lavery:]]] The Grantham Institute, the LSE, has defended—
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: I am at the Grantham Institute at Imperial, so I am not responsible for what LSE say.
+
+[[[Ian Lavery:]]] I am not saying you are responsible, but I am just saying it has defended the IPCC and argued that some of those sceptical of its work have been guilty of misleading policymakers and the public. I am just wondering whether indeed you could elaborate on that.
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: Okay. I think the science is full of probing and discussion and sometimes that gets into the media, and that is fine and each person will try to say that their view should be carried forward to politicians. One of the interesting stages we have reached now in my discussion with some of those sceptics—I am a sceptic, but with some of those who in the common parlance would be called sceptics—is that there is general agreement on the science now. It is a question of what actions should be taken on account of that. I hope we have reached the place where we can say, “There is a range and some people might put their number on the bottom of that range. Okay, it is possible they are right, but we do have a range”, and that we can agree on that and then say, “What is the likely outcome of these projections and what policies then should follow from that?” As was said earlier, the IPCC gives a range. If we can accept that and move forward, rather than probing particular things and waving one’s own banner on that, let us say, “It is just about agreed. We do not know all the details and let us move on to the next stage of saying, ‘What should we do about it?’”
+
+[[[Professor Allen]]]: There is a little note I wrote with Thomas Stocker recently that made the point that if we are the low end of the IPCC’s range, we have to reduce emissions by 1.4% per year from now on and if we are at the high end, we have to reduce emissions by 2 point something per cent. In terms of policies, in both cases we have to reduce emissions by a challenging amount from now on, so the remaining uncertainty does not necessarily have that much impact on many policy decisions we have to make. It is not to say we should not make efforts to resolve it, but I think we should be thinking about designing policies to accommodate the remaining uncertainties, rather than necessarily waiting until these uncertainties go away.&#xa0;
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] Finally, does the IPCC lack credibility and, if it does, how can it be improved? I would be interested to get each panel member’s view on that.
+
+[[[Sir Brian Hoskins]]]: In the science world, the IPCC certainly does not lack credibility. The IPCC does not exist except for the scientists who are involved in the report, as far as the scientists are concerned. It depends how you number it, but some 800 scientists were involved in writing that report, and, having not been involved in this time, it is incredibly interesting to see what was going to come out and incredibly interesting to read it. In general, I think it is viewed as a very positive thing, except for the burdensome nature of it and whether it is the right thing to do or whatever, but the assessment of one’s science provides a sort of six-yearly thing at the moment. It is just amazing for the young scientists to say, “This is the state of the art. What can I do?” It is providing a superb assessment of where we are and that is generally the thing in the scientific world. Of course, in the wider world, maybe there will be people with certain lines who wish to try to not give it this credibility.
+
+[[[Dr Stott]]]: I should say that I am very proud to have been involved in the IPCC as lead author in the Fourth Assessment Report and the Fifth Assessment Report under the leadership of the co-chairs of the Working Group I—Susan Solomon, Qin Dahe and Thomas Stocker—who impressed on us the importance of robustness, comprehensive assessment, traceable evidence, and I think it is a remarkable achievement. It is this meta-analysis of the science. It has been a remarkable achievement to collect that evidence together and provide that assessment for the world. I am very proud to have been associated with that.
+
+[[[Professor Allen]]]: Just quickly on that, certainly the discussions in IPCC author meetings are extremely heated. These are the meetings where I see the science tested most critically by other IPCC authors, trying to establish whether statements are robust. That process is tremendously useful for the science. My comments that you quoted earlier were specifically not intended to question the status of existing IPCC reports. I was simply suggesting how the IPCC could be more useful for Governments going forward than the current six-yearly cycle.&#xa0;
+
+[[[Q40 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Apologies to you, Chair, and the witnesses for arriving late.              I was just interested in what you said, Professor Allen, about an annual report and your faith in the Dutch approach. I was wondering what the other witnesses’ response to that would be.&#xa0;
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: I can see some advantages in that. Let me give one thing about the present process, this six-yearly thing. It has been said that the modelling centres then all have to run on this six-year cycle and that is not the natural thing for them. I totally agree with that, but there is an advantage that one has a body of results from all those models that one can look at, at the same time, and analyse in great detail. This bank of data exists now and many thousands of scientists around the world are interrogating that data and they are all there at once and one would lose that. There are advantages. I think maybe we have to try to get some mix where there is a faster, slimmer process that maybe takes particular aspects, but then there is also time for a total look at what the projections are giving from all the modelling centres.&#xa0;
+
+[[[Q41 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Dr Stott, just before you come in, how do you think that would impact on policymakers though? You get a frenzy in the press. You get your politicians reacting to that and maybe one year is slightly different to the other.
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: I agree. The other aspect is that, like it or not, the present one creates a certain crescendo of interest and what has been said will be viewed very widely. Those not regular but sort of every six-month, one-year reports, whatever or whenever it seems necessary would not create the same political interest.
+
+[[[Dr Stott]]]: I think there is a value in taking stock every few years of where we are with the overall looking across the climate system. It is important that the IPCC takes this opportunity to take stock and look forward at how it could potentially do things differently. From discussions among colleagues, I am detecting a consensus—and we have touched on this already—around how we can avoid this process becoming even more burdensome on the scientific community. I think it is important that that is taken account of.Personally, I think that it would be interesting to try to see if we can break down the slight siloisation between working groups. To take one specific example there, Working Group II deals with the impacts of climate change, and I think there are clearly areas in which we could maybe think about how we could combine some of the physical climate science assessment with the impacts better and not necessarily have that separated out in the way it is. Like I say, I hope that the IPCC does take time. For all its successes to date, I believe it is now the moment for the IPCC to take stock and see how to go forward and not necessarily do it in the same way as before.&#xa0;
+
+[[[Q42 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] I am surprised that you have such high opinions and confidence in the IPCC process because there have some pretty high-profile failures, haven’t there? It took the chairman two years to recognise that information from a press cutting in India got in the report saying that there was going to be an immediate and dramatic decrease in the Himalayan glaciers. We have heard the world’s leading expert on mosquitos and malaria excluded from the process and an inaccurate analysis of the relationship between temperature and mosquitos and malaria was put into the reports. We have had exaggerations of the decline of the Amazon rainforest. One could go on. Why are you so confident and doesn’t this indicate there is something pretty fundamentally wrong with the process?
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: I do not think you could go very long on your list. As for 3,000 pages and finding one little paragraph that was certainly misleading and was not on good evidence, if a student of mine in 3,000 pages managed to have 2,999 pages that were totally right and then one paragraph that was wrong, I would think that is pretty good. There is one thing to have an error creep in. There is another thing to not react properly when it is pointed out, and there is no doubt the IPCC at that time did not react properly. That was an IAC comment and that is one that has been taken on board.&#xa0;
+
+[[[Q43 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] Can I just come back, Professor? Human beings make mistakes, I accept that, but this was not an ordinary mistake of putting “not” in instead of leaving it out. This was putting information from a newspaper cutting into the report when it is supposed to be a review of peer-reviewed science.
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: I thought the focus of today was on Working Group I, which is the science. This was not in that. This was in Working Group II where, from the nature of looking at the impact, one is looking around all sorts of countries around the world and trying to glean what information you can. In that process, not everything is in the peer-reviewed literature, and that does give a problem. In Working Group I there is an absolute thing of keeping to peer-reviewed literature and that is the science that we are focusing on here. When one is looking around and trying to get indications of maybe the different number of butterflies in a region, you cannot necessarily get information that is always in the National Academy of Science proceedings, which is telling you about butterflies in Afghanistan. I have not been involved in that, but they clearly did try too far to get disparate information. My main comment is their reaction to it when pointed out was too slow and tried to say, “Oh no, we are all right”. That is the part that was wrong.
+
+[[[Professor Allen]]]: Just to emphasise that the error was pointed out by Georg Kaser, a Working Group I scientist on the cryosphere. That is evidence that the scientific community is its own best policeman in terms of spotting these things.&#xa0;
+
+[[[Q44 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] If we can just go back to the compilation of reports, you said in answer to a previous question that scientists have the final say in drawing up the reports. We have a submission from Christopher Walter here that points out that the involvement of Governments and their representatives in the drawing up of the process makes it a political process, not a scientific process.
+
+[[[Dr Stott]]]: I can only comment on my experience, which was at the plenary meeting for the Fourth Assessment Report and the Fifth Assessment Report and, of course being involved in the review process. The review process in the second round of review does involve a Government round of review. It the Intergovernmental Panel on Climate Change and it is a document that is accepted and adopted by the Government. What happens in review process, both written review and in the oral process of the plenary meeting, which was in Stockholm in the Fifth Assessment Report, was a scrutiny of the scientific assessment and the close scrutiny of whether or not that summary document represents the underlying assessment document, which runs to a million words or so in terms of the Working Group I AR5 report. It is a scientific process. Arguments have to be made based on the science, not on the politics and, as I said, scientists have the final word on the statements that appear.
+
+[[[Professor Allen]]]: I was not on the final team with this one, but I have been involved in previous ones. The reason I think we need that process is that if you send scientists away and tell them just to write a report entirely in isolation, it is quite difficult to predict how people will interpret what they say because we end up just spouting jargon and nobody knows quite what we mean. You need that dialogue to make sure that the conclusions of the scientists have been correctly understood.
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: Can I just say, I recognise that there is a tightrope here, because the IPCC is for Governments in the UNFCCC process and clearly Governments and UNFCCC are involved in the set-up. Then the scientists who go forward to be looked at, whether they would be members of the IPCC, tend to come through a process of being fed forward by the Governments in different countries, but then the thing proceeds and then Governments come in at the end. There is a tightrope that has to be walked there, but I was involved in just one IPCC process and I certainly did not feel the weight of a Government of any country telling me what I should say.
+
+[[[Professor Allen]]]: Absolutely. I think I would emphasise that, certainly at the chapter level, the scientists involved are contributing based on their expertise entirely and that is all. There is no Government interference at all at that point.
+
+[[[Dr Stott]]]: No. Of course, there is scrutiny as to whether we have used the appropriate levels of likelihood and that comes in both directions, as you would expect. We provide the evidence and an important part of the review process is to scrutinise whether that is the correct assessment, based on the evidence.&#xa0;
+
+[[[Q45 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] In the recent submissions to the Committee, there has been quite a lot of concern that many of the authors are activists with Greenpeace or the World Wildlife Fund. How would you deal with that? Is there a process of declaring interests or activism? Do you see it as a problem or do you not see it as a problem, that there are so many essentially political activists in a sphere who are authors in this area?
+
+[[[Dr Stott]]]: I do not see it as a problem at all. There is a conflict of interest statement that we sign and there are examples given on there. For example, if we are part of some non-governmental organisation or something, there is a recommendation that we should resign. We have signed a conflict of interest statement or we signed it as part of this process. We are first and foremost scientists, good sceptical scientists, scrutinising the science and the discussions that we had were purely on the basis of the science. They are not on the basis of political considerations or activism or anything else. They are on the basis of the science.
+
+[[[Professor Allen]]]: Speaking personally, many of my more environmentalist colleagues feel that I am close to a dyed-in-the-wool sceptic as regards current climate policy and that does not make any difference to my ability to contribute to IPCC reports on the science.&#xa0;
+
+[[[Q46 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] How do you ensure that all the scientific views, sceptical or otherwise, are reflected in the report? You have just repeated that you are painstaking in that. How do you go through the process?
+
+[[[Professor Allen]]]: The process works, of course, by its openness in the sense that we draft the chapters and then these are distributed for review and anybody who wants to send review comments in can. I think that is an enormous benefit of the IPCC process. Then we obviously go through all those review comments and make sure that they have been adequately addressed. That is a way in which we can elicit input. Although I may have made some remarks earlier that sounded like I was very critical of the bureaucratic nature of the IPCC process, it does have its benefits because it means that we draw in comments and thoughts from directions where we might not have done so otherwise. That is very healthy and that is very helpful to the science.&#xa0;
+
+[[[Q47 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] Going back to some of the questions that John asked previously, one of the things that puzzles me about the greater confidence that the IPCC now has in their analysis and predictions is the hiatus in increasing temperature was not predicted, and yet you have greater confidence as that particular prediction was wrong. I am a chemist, not a mathematician and so I am treading somewhere where I fear to tread, but my understanding of Bayesian analysis is that when you have high confidence of something and you miss your target, you should have less confidence, not more confidence. Why do you have more confidence?
+
+[[[Professor ]]]
+
+[[[Sir Brian Hoskins]]]: I was not part of it, so I will not say “we”, but let me say that the models were not in the position to predict the hiatus, because that would have been an initial value problem where they would have needed the observations over the whole depth of the ocean as well as more of the whole climate system to start the model off, like a weather forecast if you like. That information was not available and so they were just running and would not expect to predict that behaviour. There is no way that counters the model. It is the sort of variability one would hope that the long runs of the models would show and I suspect that the models do not quite have enough of that sort of variability in general, which means that climate can change faster in one spell and less fast in another spell. They are probably slightly too uniform in their behaviours. There was no attempt and, in fact, there would have been no ability to predict the hiatus at that time. That was a decadal prediction problem for which the initial data were not available, but perhaps I can hand over to you.
+
+[[[Dr Stott]]]: Maybe it is just worth pointing out that back in the Second Assessment Report there was a statement when it was talking about warming rates to 2100. The actual annual to decadal changes would include considerable natural variability, and this is part of what we are seeing at the moment and part of what has been assessed. Of course, it has been relatively challenging to assess this, because we are talking about very up-to-date information and therefore, for the cut-off date that the IPCC had, which was 15 March last year, there has not been a huge amount of literature, but that literature was assessed. In fact, the assessment that was made in the Fifth Assessment Report has been borne out by further evidence we have had since. In the assessment it talks about particularly the contribution from internal variability, including a possible redistribution of heat within the ocean, and we have seen some literature since then—we also discussed this in the series of notes that the Met Office produced as well—that has talked about the potential role of the Pacific decadal oscillation, all within a context where we have seen multiple indicators of climate change, including estimates of the increasing energy of the climate system, continuing to increase in the last 15 years. There is more work to do to further delve into exactly the details of that Pacific decadal oscillation and what that is doing, but there is clearly an implication behind that, which is that there is an expectation for warming rates to pick up in the future as the mode of that variability switches into the other mode.
+
+[[[Professor Sir Brian ]]]
+
+[[[Hoskins]]]: At a meeting in Downing Street in the late 1980s I said that we could easily have a decade that would be cooler than the previous one and that would not mean the whole global warming thing had gone away. It is not unexpected, given natural variability, to get a behaviour like this but there was no attempt to predict it. 
+
+[[[Graham Stringer:]]] You are obviously much wiser than the scientists at the University of East Anglia who said that children would not see snow after 2003. Do you remember that one?
+
+[[[Professor Sir Brian Hoskins]]]: I was asked by an old school colleague, whose wife had a business of hats, scarves and gloves, should she stop and I said no.&#xa0;
+
+[[[Q48 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] Good advice. Professor Allen, you gave the standard answer before about what science is: it has to be reproducible and testable and you have to be able to check. I took some interest in what happened at the University of East Anglia on another Committee of the House of Commons and it is absolutely clear that Professor Jones and his colleagues could not reproduce their work and they were not prepared to share the information or the data sets that they had. There are two questions: do you think that was typical of the way that climate scientists work and do you think it has damaged climate science generally?
+
+[[[Professor Allen]]]: I absolutely could not comment on the allegation you are making about Professor Jones and his colleagues.
+
+[[[Graham Stringer:]]] It was not an allegation. It was part of the—
+
+[[[Professor Allen]]]: No, but I would not want to get into a discussion of that because I am not party to that evidence. It is absolutely not the way science works, of course not, and one of the benefits of the IPCC process is that it does encourage sharing between groups. As Brian mentioned, it means that we get many groups looking at results, model output and so forth, and that is obviously beneficial. Perhaps thanks to the IPCC, certainly when I talk to my colleagues in physics about the way other branches of physics operate and the way groups keep their results to themselves because they are terrified of somebody scooping them, I think that climate science is remarkably collegiate in the way it approaches problems. Maybe that is not true of every aspect of climate science but certainly is in the mainstream modelling, observation, comparison work that I have been involved in. I have always experienced a very open and collegial attitude to scrutinising other people’s results and sharing of data. I would firmly argue that certainly all the aspects of climate science that I have been involved in would not fit the characterisation you described.&#xa0;
+
+[[[Q49 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] Just one final question if I may. It is a deep question. Why are here? I don’t just mean at this Committee meeting. Why have we survived if the earth has had periods in its history when there have been great quantities of carbon dioxide in the atmosphere, as there must have been? How have we managed to survive? Is the atmosphere not more stable than the catastrophic predictions indicate?
+
+[[[Professor Sir Brian Hoskins]]]: There have been huge swings in the climate system on long time scales in the past, much larger than we are talking about, but we were not around with our socio-economic activity at those times. There is every evidence that the changes we are talking about would be extremely important for us trying to continue that socio economic activity. Yes, the earth has been through those but we were not around with the sort of society we have.&#xa0;
+
+[[[Q50 ]]]&#xa0; 
+
+[[[Chair:]]] Would it be fair to characterise it as that we are one of the most recently arrived species on the earth and that our phenomenal success in proliferating in numbers and the extent to which we control our own environment, and even in the very short term our own destiny, has been associated with a period of climate stability?
+
+[[[Professor Sir Brian Hoskins]]]: Absolutely, and I agree that that is the case and it is interesting that the number of extremes in this last period have exposed our vulnerability to our environment. I will not get into the extent to which climate change is involved in this. However, it has certainly exposed—
+
+[[[Q51 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Why raise them then?
+
+[[[Professor Sir Brian Hoskins]]]: Well, because I think they show our vulnerability to our environment. Our society is very much hoping that the environment will keep within these bounds and that is how we can continue our activity. Any move outside those bounds, whether in terms of extremes or a whole shift of the system, is something that would put huge stresses on society.
+
+[[[Professor Allen]]]: Just responding to these two questions, I find the predictions that humanity might be somehow rendered extinct by climate change somewhat implausible, but the point is that you do not need humanity to be rendered extinct by a process for that process to be undesirable or for it to make economic sense to curtail it.
+
+[[[Chair:]]] Thank you very much for coming in. It has been very useful for us.&#xa0;
+
+[[[Examination of Witnesses]]]Witnesses: 
+
+[[[Professor Richard Lindzen]]], Massachusetts Institute of Technology, 
+
+[[[Nicholas Lewis]]], climate researcher, and 
+
+[[[Donna Laframboise]]], author, gave evidence.&#xa0;
+
+[[[Q52 ]]]&#xa0; 
+
+[[[Chair:]]] Thank you very much for coming in and for being so patient. We overran our time slightly but I think that is because of the interest in the subject, both from the Committee and from the witnesses. Could I start by asking you which of the conclusions from AR5 give you the greatest cause for concern?
+
+[[[Professor Lindzen]]]: I do not find very much of concern. What I find is a translation problem. For instance, I don’t agree with the arguments for attribution but, on the other hand, if man is responsible for 51% of the warming since the last 50 to 60 years, that itself does not tell me that the sensitivity is high. It is completely consistent with there not being a problem. What I find strange is the popular translation of that statement into a statement that catastrophe is around the corner. I don’t think the IPCC itself says that and so the question is: why are we depending on translations and what is going on? From my own experience with the IPCC—and I was active in the third assessment as a lead author—the pressures were never political. If there were any pressures, it was to restrain the participants from criticising models. If you ask, “Do scientists have an interest”, I can only speak for the US on this but in the US the reward for solving a problem is to have your funding ended, so there is an intrinsic pressure to make sure a problem never disappears.
+
+[[[Nicholas Lewis]]]: A major concern with the IPCC AR5 report is that the observational evidence is pointing in one direction and the model simulations, particularly for the future, are pointing in a somewhat different direction towards substantially higher warming than the best observational evidence in AR5 implies. Given that all the policy relevant stuff is based on the projections from models, I think that is a major concern.
+
+[[[Chair:]]] Are you saying that the models have somehow been twisted not to reflect the evidence that is available so far?
+
+[[[Nicholas Lewis]]]: I would not say they have been twisted, but I do not think they reflect the current evidence. There was reference made in the first panel to the reduction in the aerosol cooling effect strength in AR5 compared with previous assessments due to better knowledge. In some ways that is the most significant thing in AR5 because if aerosol cooling is lower and, as Mr Lilley said, we would know how much warming there has been, then it must follow that less of that warming is attributable to carbon dioxide rather than being 1º or 1.3º attributable to carbon dioxide offset by 0.6º aerosol forcing. It is a much lower figure attributable to carbon dioxide. That was not recognised at the time when they started drafting AR5 and it certainly was not taken into account in the models, because they predate this reassessment of the evidence.&#xa0;
+
+[[[Q53 ]]]&#xa0; 
+
+[[[Chair:]]] Professor Lindzen, I have seen a quotation from you saying that the small warming over the past 60 years is not a problem that is worth bothering about.
+
+[[[Professor Lindzen]]]: As always, one is a little bit cautious in the language. What I am saying is it is completely consistent with there being nothing to worry about.
+
+[[[Chair:]]] How about some of the other conclusions, such as the rise in sea levels? Is that worth bothering about?
+
+[[[Professor Lindzen]]]: I heard Brian say that he feels they are now confident about it. My colleague Carl Wunsch, who is very much involved with TOPEX and the current measurements, feels you cannot say anything about that at the moment because you have two different measurement systems and they have not yet been fully reconciled and so we are not sure what is going on with the sea level. Using the previous measurements, we do know that it has been increasing for thousands of years at a certain small rate and indeed there is some reason to suppose, whether you had global warming or not, you might want to take that into account in how you develop land and so on. I don’t see much evidence here that points to man doing something extraordinary.
+
+[[[Chair:]]] It was not quite what I asked, was it? The conclusion of AR5 was that global sea level is expected to rise more by 2100 than previously projected.
+
+[[[Professor Lindzen]]]: Yes. I don’t know where that comes from.
+
+[[[Q54 ]]]&#xa0; 
+
+[[[Chair:]]] So you dispute the conclusion, in other words?
+
+[[[Professor Lindzen]]]: Sure.&#xa0;
+
+[[[Q55 ]]]&#xa0; 
+
+[[[Chair:]]] Are there any areas of climate science that you would now consider settled?
+
+[[[Professor Lindzen]]]: Yes. I think there are quite a few areas that at least there is common agreement on. I agree with Myles and Brian that you are never quite completely certain, but I think we understand that man should have some effect. I think it is agreed that climate changes and these have been the points of agreement that people point to when they say “consensus”, but none of this tells you that there is a problem.
+
+[[[Chair:]]] Including the point about sea level rise?
+
+[[[Professor Lindzen]]]: Sea level rise is not one of the points I said we agree on.&#xa0;
+
+[[[Q56 ]]]&#xa0; 
+
+[[[Chair:]]] Turning to the Summary for Policymakers, can that be relied on for policymakers? Can they use that? 
+
+[[[Professor Lindzen]]]: How would you propose using it?
+
+[[[Chair:]]] As a practical matter, it is unlikely that a lot of policymakers are going to wade through 2,000 pages of written material, so I suspect they will rely on a summary. Certainly my own instinct would be to rely on a summary. Is there any inherent danger in that?
+
+[[[Professor Lindzen]]]: There is, of course, but the question I ask, in order to understand your question better, is what is it in the present summary that you could use for what policy? I don’t understand that. I know it says “Summary for Policymakers”, but the part I don’t understand is how the policymakers read this and translate it into policy.&#xa0;
+
+[[[Q57 ]]]&#xa0; 
+
+[[[Chair:]]] I think it was pretty clearly summed up by the previous panel that the Fifth Assessment Report reinforces most of the conclusions of its predecessors and, therefore, I would say probably the majority of policymakers will believe that that contains warnings that we should not ignore.
+
+[[[Nicholas Lewis]]]: From a practical point of view, presumably they would be looking at how much warming is projected to occur on various scenarios, which is set out clearly in the Summary for Policymakers, because that will drive what actions need to be taken to hit various targets. From my point of view, I think that those projections, while they are within the range of possibilities, are probably centred about 60% higher than they would be if they were based on the observational evidence in AR5 and I think that should be something that policymakers are aware of.
+
+[[[Chair:]]] You are also disputing the conclusions, in other words?
+
+[[[Nicholas Lewis]]]: I am disputing that particular conclusion. These are model projections. It is not the science. It is the models, which is a different point.&#xa0;
+
+[[[Q58 ]]]&#xa0; 
+
+[[[Chair:]]] I was looking at you, because I think you have expressed a view. You commented on the difficulty of condensing so much material into a relatively short conclusion.
+
+[[[D]]]
+
+[[[onna ]]]
+
+[[[Laframboise]]]: That is right. You start with thousands of research papers and then a report 14 chapters long gets written from those thousands, so there is a lot of human judgment to decide what is relevant and important. Then we have 14 chapters condensed down to 31 pages and so, again, there is a whole other level of human judgment. Human judgment, of course, is not science. The science was way back at the beginning before the papers were written and then the chapters of the IPCC report were written and then the summary was written. If it were a scientific document, we would expect that the summary written by the scientists would be the last word and that is what would be released to the media and the policymakers, but instead it is almost like it is a summary by policymakers because then there is a four-day process where every single line in that summary written by the scientists is argued over and it is behind closed doors. It is very fine for the panel before us to say, “It is all above board and, no, there is no political pressure”, but we are supposed to just take their word for it. If there is no political pressure and everything is fine, why isn’t that four-day meeting open to the public? Why isn’t it televised? Why are there not media present if it is simply a discussion and a dialogue between policymakers and the scientists who have done the summary?
+
+[[[Chair:]]] Are you suggesting that the scientists, having done all that detailed work, have a meeting with some policymakers and suddenly cave in and say, “We are quite happy now to sign a summary that does not reflect the conclusions of our work”? Is that what you are saying?
+
+[[[Donna ]]]
+
+[[[Laframboise]]]: No, I am not suggesting that. I am suggesting that there is a potential for politics to influence the emphasis.&#xa0;
+
+[[[Q59 ]]]&#xa0; 
+
+[[[Chair:]]] I am just going to drill down a bit further. There is a meeting and the scientists have all their conclusions they have been working on for years and they say, “Actually, we are not going to insist you reflect those in the summary and we are happy for you to dictate a completely different conclusion”. Is that what you are saying?
+
+[[[Donna ]]]
+
+[[[Laframboise]]]: No. They start with the summary written by the scientists, which is 31 pages, and they rewrite that summary. It was 700 words shorter by the end of it but five pages longer. I think a number of graphs were put in. It was not totally dictated but every single line is put up on a projector and is discussed for four days by political people, not scientists.
+
+[[[Professor Lindzen]]]: I think it is fairly obvious that what the previous panel said was that you could trace everything in the summary to the text. That is probably true—although they allow the process to change the text in view of the summary, which is a little bit suspicious—but there is always selection. There would be a statement, “Should you say that? Should you not say that?” That still allows you to trace it back to the text. What is clear is that 31 pages leaves a lot out from 1,000 or 2,000 pages and sins of omission can be as great as those of commission. &#xa0;
+
+[[[Q60 ]]]&#xa0; 
+
+[[[Chair:]]] Do we have large numbers of scientists protesting that their conclusions have been somehow edited out?
+
+[[[Donna ]]]
+
+[[[Laframboise]]]: No, but we didn’t see a large number of—
+
+[[[Chair:]]] Why not? If what you are saying is true, why aren’t they protesting? In my experience, many of the authors of these papers on which all this is based are not in the least afraid to express their views if someone else disagrees with them. They will say, “Come on, you haven’t reflected what we have said”. Is there some kind of giant conspiracy here that we have not noticed?
+
+[[[Donna ]]]
+
+[[[Laframboise]]]: Of course not, but the chairman of the IPCC has gone around for years publicly declaring that the entire report is based 100% on peer-reviewed literature. In fact that is not the case. About a third of the sources cited were not peer-reviewed literature and thousands of people who worked on the IPCC report knew that, but none of them talked to the media and none of them protested that the chairman was misrepresenting the process.
+
+[[[Chair:]]] You have moved on to a different point. Are you abandoning your assertion that the summary somehow is not an accurate reflection of what the scientists think?
+
+[[[Donna ]]]
+
+[[[Laframboise]]]: No, I am sorry, I don’t believe I made that assertion. What I said is that there is potential for political interference and, because it is happening behind closed doors, there are not a lot of checks and balances to assure us that the political interference has not happened.&#xa0;
+
+[[[Q61 ]]]&#xa0; 
+
+[[[Chair:]]] There is a sort of conspiracy of silence among the scientists not to say anything if their views were altered in some way?
+
+[[[Professor Lindzen]]]: For instance in the third assessment where I was involved, there is nothing in the summary about our section. It is taken for granted that the 30 pages are not going to include everything. I felt comfortable that the section I was participating in and the guidelines we used for that were that we agreed that we would say nothing overtly false. It is a process that involves intrinsic compromise. To then, in retrospect, say, “How did you let that happen?”you are dealing with volunteer efforts and an understanding that the summary is not going to deal with the bulk of the text. I do not know why you would expect there would be loud protests.
+
+[[[Chair:]]] If I was a scientist who had worked hard on a particular aspect of this and found that somehow my conclusions were not reflected, if some false picture was painted, I do not think I would be inclined to stay quiet about that. I think I would be pretty cross about it.
+
+[[[Professor Lindzen]]]: It is interesting that you say that. For most of us, it was an extraordinary bother dealing with the IPCC. For about four pages that I was involved in, I had to circumnavigate the globe two or three times and, like most of my fellow participants, I never participated again. It was just too much of a drag on one’s time and effort.
+
+[[[Chair:]]] You think it should be done on a more slipshod or less thorough basis?
+
+[[[Professor Lindzen]]]: I am not supporting that statement, obviously, but I am also saying in practical terms there is a limit to how much time one can devote to the IPCC.
+
+[[[Chair:]]] It is certainly an original line of criticism of a scientific document to say, “We put too much work in to try to make it accurate”. Anyway, we will move on.
+
+[[[Professor Lindzen]]]: It may not be untrue, though.&#xa0;
+
+[[[Q62 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] We did establish in a previous hearing, I think—and perhaps Mr Lewis can confirm since it was his evidence that drew it to my attention—that, although the technical report indicates that they downgraded the assessment or reduced the assessment of the projection of temperature in the near term below what was indicated by the models, that does not get into the Summary for Policymakers. Am I correct in that respect?
+
+[[[Nicholas Lewis]]]: There is a very oblique, cryptic reference to it in note 3 to table 2, I think, but no one who had not read the original report would have the slightest idea what it was about. Effectively it does not say, no.
+
+[[[&#xa0;]]]
+
+[[[Q63 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] Likewise, it was not shown up in the Summary for Policymakers that they have not rerun the models with the new aerosol forcings, even though they would quite substantially alter the whole picture, was it?
+
+[[[Nicholas Lewis]]]: No. I think maybe they assumed that, because they realise that, they think everyone will.
+
+[[[Mr Lilley:]]] You are being very kind. Could it not be that there is a certain feeling that we must not rock the boat. We must not encourage complacency. We must not put too much weight on things that might suggest the problem is a bit less than previously thought?
+
+[[[Nicholas Lewis]]]: I think that they had a major problem between the models and the observational evidence. I think they probably did not realise that to start with and, by the time they did realise that, it was too late to do anything about it because so much of the report is built around the model projections, model simulations, and they could not write conclusions that said basically, “We think the models are wrong”.&#xa0;
+
+[[[Q64 ]]]&#xa0; 
+
+[[[Chair:]]] Leaving aside the models, are you saying that these scientists agreed to present a distorted picture of the evidence and conclusions of their work?
+
+[[[Nicholas Lewis]]]: I think the uncertainty ranges are sufficiently great that they can say they are not inconsistent statistically.
+
+[[[Chair:]]] So this was not a distorted picture?
+
+[[[Nicholas Lewis]]]: It depends what you mean by “distorted”. I don’t necessarily think the ending they wrote was untrue a variant, but I think they did not bring out the fact that the centre of the model range and the centre of the best estimate, based on the observational evidence, is substantially different now. It was not helped by the fact that they did have conflicting evidence and it is difficult for them, probably, within their guidelines to separate the good from the bad.&#xa0;
+
+[[[Q65 ]]]&#xa0; 
+
+[[[John Robertson:]]] This Select Committee is about analysing things we are told, holding Government to account and trying to make sure that my constituents and their families will live well into the foreseeable future. I said something at the beginning of my previous questions about how if you get two doctors or two politicians or two of anything, you will also get two people who will argue with each other, and I see I am not wrong. Everybody talks about politicians but the one thing that neither you nor the previous group have talked about is the influence of business and who pays for Mr Lewis’s research, who pays for your university and who organises to pay for your books, as well as who pays the gentlemen who were speaking before you for their work. There is always an influence and therefore you have to pay the piper—that is probably a good phrase—and that worries me. That is what I am seeing here, because never once has anybody mentioned about what happens if you just have unabated coal-fired power stations or what happens if you just let cars go along as they used to in the past with emissions that would damage everybody’s health and, at the end of the day, there would be no improvement in people’s lifestyles. The fact that people are living better means we are obviously doing something right. My disappointment is why there is a criticism here. I think Professor Lindzen said nobody can be 100% accurate and he is absolutely right, nobody can, but you have to err on the side of caution, particularly when people’s lives are in order. Professor Lindzen, the IPCC criticised your approach in calculating climate sensitivity and they said it was based on problematic assumptions. I am giving you a chance to answer that. How accurate was the IPCC in their assessment of your work?
+
+[[[Professor Lindzen]]]: I don’t know because we ourselves were critical of the work. It was a technical issue. You had feedbacks involving infrared and shortwave. The shortwave has a huge signal-to-noise ratio. The longwave is crucial to the models and has a pretty good signal-to-noise ratio. I think to declare that it is discredited in some sense was inappropriate. It has been confirmed by two other groups since then, including Trenberth, who is very much on the other side. He also looked at the data and confirmed that the longwave feedback was missing.
+
+[[[John Robertson:]]] What I am saying is you criticise them and they criticise you. That does not mean to say that both of you are wrong or both of you are right.
+
+[[[Professor Lindzen]]]: I agree.&#xa0;
+
+[[[Q66 ]]]&#xa0; 
+
+[[[John Robertson:]]] The problem we have in this Committee is we do not have the luxury of being able to look both ways. We have to make decisions in Government that say we have to go down a certain road. Are we going down the right road in having our concerns about climate change?
+
+[[[Professor Lindzen]]]: I think you are asking a policy question and most of my colleagues would want to avoid it, but there is an obvious one. What you are hearing is: it is entirely possible there is no problem. You are also discussing—
+
+[[[John Robertson:]]] I would suggest there is a question mark in the sense of “but”. There is a “but” there. 
+
+[[[Professor Lindzen]]]: No. If you listen carefully, the range of uncertainty allows for the possibility that—for instance, if you look at economists like Nordhaus, Tong, Seo or Mendelsohn, they estimate that warming up to 2º would be a net benefit.
+
+[[[John Robertson:]]] I do not trust economists, to be honest.
+
+[[[Professor Lindzen]]]: That is all right, but it may be up to 5º of net benefit.&#xa0;
+
+[[[Q67 ]]]&#xa0; 
+
+[[[John Robertson:]]] But there is money involved is a problem; that has always been the case. Therefore, people will always err on the side of who is paying. 
+
+[[[Professor Lindzen]]]: What are you addressing with money?
+
+[[[John Robertson:]]] I like the idea that science tells us something and we have to agree because science says that is it.
+
+[[[Professor Lindzen]]]: But science is an interest in its own right. If you are going to go down that path, you have to take account of the fact that scientists have their own interests.
+
+[[[Nicholas Lewis]]]: The money is all on the IPCC scientists’ establishment side. It is not on this side.
+
+[[[Professor Lindzen]]]: This is an area where the Government—
+
+[[[John Robertson:]]] I have been to the United States a few times and I would not have said that. 
+
+[[[Professor Lindzen]]]: For science, if you look at it, especially climate science, it is virtually a Government—
+
+[[[Q68 ]]]&#xa0; 
+
+[[[John Robertson:]]] So why then are all these national Governments going down the road are going then? If you are right, we are paying out a lot of money in things we should not be paying out on.
+
+[[[Donna Laframboise]]]: That is what I worry about and I worry that—
+
+[[[John Robertson:]]] But worry is not good enough. I need you to convince me that they are wrong and you are right.
+
+[[[Professor Lindzen]]]: About what?
+
+[[[John Robertson:]]] About climate change and whether we should worry about spending billions of pounds and investing into it.
+
+[[[Professor Lindzen]]]: All I am saying is there would be no disagreement here that whatever the UK is deciding to do, vis-à-vis climate, will have no impact on your climate. I think you will all agree it will have a profound impact on your economy. You are making the decision to take a problem that might not be a problem, take actions that you know will create problems and feel in the net you have done the right thing. That is for you to decide.
+
+[[[John Robertson:]]] I think that is somewhat negative, but okay. Mr Lewis.
+
+[[[Nicholas Lewis]]]: I think at the time of the previous IPCC report what they were saying was logical on the basis of the observational evidence and, therefore, it pointed to there being a substantial worry. The big thing that has changed is they now have much better estimates of things like aerosol forcing, in particular the cooling effect due to having satellite-based studies and other studies of working out what its effect is. If that is substantially lower—it has come down from 1.3º to 0.9º since AR4—it necessarily implies that the warming from greenhouse gases must be substantially less than previously thought.
+
+[[[Professor Lindzen]]]: There is a bit of confusion out there.&#xa0;
+
+[[[Q69 ]]]&#xa0; 
+
+[[[John Robertson:]]] Let me go down this a bit before I let you back in, Professor. The IPCC re-evaluated studies due to your investigations. You said they had used inappropriate statistical methodology. Therefore, they re-evaluated their studies based on your evidence. They have looked at it. They have looked at what you have told them. Does the IPCC’s reassessment of climate sensitivity factor in your statistical methodology in proving the reliability of their estimates?
+
+[[[Nicholas Lewis]]]: It is not their estimates. It is other scientists who—
+
+[[[John Robertson:]]] Let us just call it “them” as a group.
+
+[[[Nicholas Lewis]]]: Fine. The bulk of the studies estimating climate sensitivity—and, from a practical point of view estimating transient climate response is a derivative of estimated climate sensitivity—use a subjective Bayesian method, not all of them. Mine uses an objective method. One or two of them use non-Bayesian methods. The non-Bayesian methods and the objective Bayesian methods give very much the same answer.The subjective ones, basically the answer you get depends on the subjective assumptions you have fed in. Some of those use what is called a uniform prior insensitivity, which definitely biases up the results, particularly the upper end of the uncertainty range greatly. Some of them use what is called an expert prior, which basically means in practice they fed in the assumed probability distribution of planet sensitivity or aerosol forcing from the time of AR4, which was higher, and that has dominated their results.
+
+[[[Q70 ]]]&#xa0; 
+
+[[[John Robertson:]]] Have they reassessed it?
+
+[[[Nicholas Lewis]]]: They have not reassessed it. They then melded it with observational evidence but, because the observational evidence is not that strong, where they have used an expert prior that has generally dominated their results. Most of the studies are not statistically sound, no. They have not re-assessed them. There are one or two studies that gave it on more than one way and they have put in both of those ways.
+
+[[[Q71 ]]]&#xa0; 
+
+[[[John Robertson:]]] Yet most scientists would disagree with you.
+
+[[[Nicholas Lewis]]]: I would not say that. I do not think there is the statistical expertise in Bayesian—
+
+[[[Q72 ]]]&#xa0; 
+
+[[[John Robertson:]]] Can you prove that?
+
+[[[Nicholas Lewis]]]: Yes. I can give you an example. In AR4, there were two co-ordinating lead authors of chapter 9, which was the one that dealt with estimating climate sensitivity and related matters. One of those is, as well as being a climate scientist, an Adjunct Professor of Mathematics and Statistics, Francis Zwiers. He is the co-author of probably the most standard text book on statistical methods and climate science. He mentions Bayesian theory at one point and says, “Some statisticians use Bayesian theory. We do not deal with it in this book.” He clearly does not touch it.
+
+[[[John Robertson:]]] He is open and honest about what he did.
+
+[[[Chair:]]] Can we return to AR5, if possible? We are not inquiring on AR4.&#xa0;
+
+[[[Q73 ]]]&#xa0; 
+
+[[[John Robertson:]]] I know what you are saying. The point has to be made, though, that each time they do an assessment it will change, naturally, because the science will always develop as the years go on and things will be better and easier to assess. I would expect when we get to the sixth assessment, it will be different from the fifth one. I do not think that has to be criticised for that. In a lot of ways they should be complimented on it. They might even get to the same assumption as you have by the time they get to it. I doubt it, but they could.
+
+[[[Nicholas Lewis]]]: I think they have already got to it in AR5. It is just that the models do not reflect it.&#xa0;
+
+[[[Q74 ]]]&#xa0; 
+
+[[[John Robertson:]]] But it is whose model and who agrees. You have to agree with me, though, that in most cases people are concerned and scientists in general are concerned about climate change, and they are right to be concerned. If we take that as a premise of where we are going then we take the advice, gentlemen and ladies, that you give us, and at the end of the day politicians have to weigh up the pros and cons of what they are doing, and hopefully we get it right. It will never be 100% right, but you hope to get it. Let me ask this last question. Is the IPCC’s assessment of the role of natural variability in climate change adequate? If it is not adequate, how far out are they?
+
+[[[Professor Lindzen]]]: I think it is not adequate, and I do not think there is much argument about that. Even in the model into comparisons, we know that there are no models at present that do an acceptable job on ENSO Pacific decadal oscillation and Atlantic multi decadal. Our record is only 100-odd years long. There may be longer periods. We understand the intrinsic time scales for heat exchange with the ocean can extend to 1,000 years. The fact that the models do not do this and the fact that there are people like Tsonis, Swanson, Tong and Seo and other respected papers that attribute significant parts, if not all, of recent climate change to internal variability leaves that wide open. The fact that the system can change on its own is an important advance in understanding, for the public at large, of the notion that climate is at its peak at the moment and any change has to be due to something specific. We know the climate is always changing. &#xa0;
+
+[[[Q75 ]]]&#xa0; 
+
+[[[John Robertson:]]] I remember a movie that I think was called The Core, and the scientist who was a bit of a pain in the backside made a statement that “science is a best guess”. Nobody knows exactly what it is, but it is a best guess. We have to go on the best guess. You need to help us.
+
+[[[Professor Lindzen]]]: Yes, but the question is, how do you decide on policy? In other words, it is kind of a point of amusement. Somebody says, “There is a problem”, and the politician says, “We have to do something”.
+
+[[[John Robertson:]]] There lies your problem. Your problem is the science. Our problem is the policy. I do not get involved in the science and perhaps probably you should not get involved in the politics.
+
+[[[Donna Laframboise]]]: If I might make a comment. I am a journalist with no scientific background whatsoever and I had left journalism for seven years. I got laid off at the National Post with 130 other people. I decided to do something else with my life. Then I started doing some independent research on climate change and decided I should write a book because I realised that there was a wide diversity of scientific opinion about climate change, but that diversity was not being reflected in the news reports that I was reading. I thought I was writing a book about 10 reasons to be calm, cool and collected about climate change because there are diverse points of view. Instead, I ended up writing an exposé of the IPCC, quite unexpectedly, because the more I did some basic fact-checking about what we were told about how the IPCC works as a new organisation, the more concerned I got. I compare it to a criminal trial. If we find out that there was bias among the jurors, then we have to throw out the verdict and start again. What I see is there are so many questions and biases and potential problems with the IPCC process that I do not think it is trustworthy. I do not think any reasonable person can look at the IPCC in depth and say, “We can trust this decision”. It is unfortunate. I wish we could because it would be much clearer what we should do.
+
+[[[John Robertson:]]] With the best will in the world, you are one person and a lot of other people would disagree with you and you have had your chance to sell your book.&#xa0;
+
+[[[Q76 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] Have climate models improved since the last assessment review?
+
+[[[Professor Lindzen]]]: It is not my impression that they have. For instance, with one phenomenon that I work with a little with the modelling group in Paris, there is something called the quasi-biennial oscillation that I played a role in explaining many years ago. The wind blows from east to west for one year and then back the other way for the next year and so on with an average period of 26 months. It is very well observed. It is around 100 millibytes, about 30 kilometres in the atmosphere. No model got this, yet we knew the physics of it. So models have begun fudging the physics. Now they call it parameterisation. There are things they cannot resolve. They force the model to behave the way nature is observed to do. Is that an advance? I do not know. It says, “We know how it is supposed to work. We know the models do not do it. We can make the models do it”. You can add complexity to a model and that has happened a lot, but it has not helped them do major things with ocean processes that are still known to be important. We like to think of progress as kind of linear. You spend more money, you make it bigger and get it better, but there has been no discernible increase in scale that has been associated with the advances. There are claims that regional climate has improved, but there are still notable errors in describing today’s regional climate with current models, so that naturally gives one pause with predictions. You have the modelling to comparisons and you can look at an array of 20-odd models, each of which is predicting different results for a given region. That is not a prediction. No, I feel the progress so far has not been awfully good in identifying the specific problem. There is some feeling that the resolution is inadequate. You say you start out with the basic equations, but you need to have very fine resolution for the numerical methods in the model to replicate what the equations are saying. The Japanese are trying to get closer to a very high resolution. So far not a lot has come out of that. I don’t feel it is a matter of steady progress. On the other hand, when you have a report every six years you have to make a statement, “We have made progress”.&#xa0;
+
+[[[Q77 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] Do you think the models are reliable?
+
+[[[Professor Lindzen]]]: No, of course not. If they can’t get today’s distribution of regional climate right, why would they be reliable for the future?
+
+[[[Ian Lavery:]]] How can they be improved?
+
+[[[Professor Lindzen]]]: I remember a woman once said, “If you have error bars, you know there are errors. Why don’t you do something about it?”  &#xa0;
+
+[[[Q78 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] With regard to the hiatus, despite the fact that the decade between 2000 and 2010 was the hottest on instrumental record, there has been no net increase in global mean surface temperature since 1998. How significant is the 15-year hiatus to the overall warming trend of the last 150 years?
+
+[[[Professor Lindzen]]]: Let us break it down because I think the IPCC did something that seemed obscure but was reasonable. It spoke about attribution for the last 50 or 60 years. It did not speak about it for the last 150 years. That is because if you do the calculation, and this is not very hard, you realise the impact of man’s emissions do not become very significant until the last 50 or 60 years. Before then we are dealing with natural climate variability. We have incidents like 1990 to 1940 where the warming was almost indistinguishable from what we had from 1979 to 1998. I just do not personally think that there is much to be said. Natural variability undoubtedly accounted for part of that. Man probably accounted for some of that. If you say that man accounted for all of it, it is still consistent with low sensitivity. If you now drag away the aerosols or if you now say much of it is due to natural internal variability, you are then forced to lower sensitivity and each of these is pointing to less of a problem. I know my colleagues mentioned a paper that said high sensitivity models were in some sense more accurate, but that was for a particular boundary-layer property that had very little to do with overall climate. They said it just made low level clouds look a little better. I do not know. That seemed like a reach, so to speak.
+
+[[[Chair:]]] Just for the sake of clarity: did you intend to say 1890 to 1940 because what you said was 1990 to 1940.
+
+[[[Professor Lindzen]]]: 1919. Excuse me.
+
+[[[Nicholas Lewis]]]: On the hiatus, yes, natural variability may well account for a lot of it but if that is on declining phase then it seems likely that it was on a phase that was boosting the warming in the previous two decades and, if you take a long enough period, natural variability will tend to, hopefully, cancel out in the longer term.
+
+[[[Professor Lindzen]]]: There are a couple of things in it. It has been pointed out that 15 years is not as significant as 30 years. It is more significant than five years. The longer this goes on, the harder it will be to support a high sensitivity. It is not a matter that there is a cut-off at any given period. There is not much more one can say except it was not predicted.
+
+[[[Nicholas Lewis]]]: There is a quite nice graph, figure 9.9 in AR5, which shows a 25-year period to 2012, so it has the rapidly warming decade from the late 1980s to the late 1990s as well. That shows that the observational data sets—and this is the lower tropospheric temperature in the tropics; of course the tropics are the key area for climate—show a trend of about 0.1º per decade and the models span the range right from 0.1º up to almost 0.5º per decade with a big clustering around about 0.3º to 0.4 per decade. So there is much faster warming in the models over the last 25 years, which is getting to a more serious period—they often talk about 30 years for climate—compared with the observations. We are talking about a multiple here of three times as high warming. This indicates that the models are not to be relied on.&#xa0;
+
+[[[Q79 ]]]&#xa0; 
+
+[[[Chair:]]] Just to be clear on this point, you do not think there is any connection between higher greenhouse gas concentrations in the atmosphere and changes in the climate?
+
+[[[Professor Lindzen]]]: How do you deduce that from—
+
+[[[Chair:]]] I am asking members of the panel. I think it is beyond dispute we have a higher concentration of greenhouse gases in the atmosphere. You are saying that has no effect on the climate?
+
+[[[Professor Lindzen]]]: Theoretically it is supposed to have some effect. 
+
+[[[Chair:]]] But you do not think it does?
+
+[[[Professor Lindzen]]]: No, on the contrary. I think it should have some effect.
+
+[[[Chair:]]] I just want to be clear on what you are saying.
+
+[[[Professor Lindzen]]]: But that is not the same as saying that it is the major factor. It is not the same as saying there is a high sensitivity. It is not the same as saying there is catastrophe around the corner. In other words, you can’t take a relatively trivial statement that has some impact, which everyone agrees on, and all of a sudden reach the conclusion there is a problem that has to be dealt with.
+
+[[[Chair:]]] Sorry, Ian. I interrupted you.&#xa0;
+
+[[[Q80 ]]]&#xa0; 
+
+[[[Ian Lavery:]]] Not a problem. Just finally, the IPCC said that the hiatus is a consequence of recent volcanic activity and the redistribution of heat within the oceans. Do you find that explanation valid?
+
+[[[Professor Lindzen]]]: The first one, no. The second one, and this is again a matter of language, it is a very opaque way of saying internal natural variability is the reason. To say the heat is hiding in the ocean is another way of saying that there is always heat exchange between the upper levels of the ocean and the deeper ocean, leaving the surface out of equilibrium and leading to the surface undergoing climate change. Instead of saying, “Well, it could have been natural variability”, they said that, and I think that was designed to make it opaque and confusing and does indicate a certain bias.
+
+[[[Nicholas Lewis]]]: On that, the AR5 report shows quite a high ocean heat uptake over the last decade and more so than in previous decades or the last 15 years. There have only been reasonable measurements of that down to approaching the 2,000 metre level since about 2004 when the Argo network of buoys that dive down and come back up again reached 50% coverage, down to that sort of depth. The most recent paper published on that, Lyman and Johnson, shows that over the period 2004 to 2011—and they do not have up-to-date data because they have to go through a data validation correction system—was only about 0.3 watt per metre down to 1,800 metres, which is I think under half what the AR5 estimate had. The evidence that it increased heat going into the ocean does not appear to have the observational support.&#xa0;
+
+[[[Q81 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] By definition, the predicted warming that the models suggested should have occurred over the last 15 years of 0.3º or something, but has not occurred, could have been offset by natural variability. The IPCC report makes that point. It is a perfectly logically valid point. Does it not also imply that the previous heating could have been partly contributed to roughly the same order of magnitude by natural variability in the other direction? Does the IPCC report make that point?
+
+[[[Nicholas Lewis]]]: It certainly could have been affected in the opposite direction over the previous 20 to 25 years since warming started in the late 1970s. I do not think the IPCC report brings that out. In fact, if anything, it suggests that is not the case, but it seems to me very logical. It is known that there are fairly long term, perhaps 60 or 70 year, quasi periodic variations of the Atlantic multi decadal oscillation and other things and one would expect, therefore, that you would have hit an up phase and now you may be past the peak and be going down. It is entirely logical that it would have boosted it before if it has cut it now.
+
+[[[Professor Lindzen]]]: I think the IPCC did reference the papers by Tong and Seo and Tsonis and Swanson.
+
+[[[Nicholas Lewis]]]: They did reference them, yes.
+
+[[[Professor Lindzen]]]: Tsonis and Swanson were arguing that it is completely explicable financial internal variability. Tong and Seo argued that half the period of rapid warming was due to natural internal variability, but obviously this was not stressed.
+
+[[[Mr Lilley:]]] But either way it would lead to a lower estimate of the sensitivity?
+
+[[[Professor Lindzen]]]: Absolutely.&#xa0;
+
+[[[Q82 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] The previous panel seemed to be playing down the importance of sensitivity. Is it possible not to be worried about sensitivity and yet to be worried about global warming?
+
+[[[Professor Lindzen]]]: I don’t think so. 
+
+[[[Mr Lilley:]]] I hope I am not misrepresenting them.
+
+[[[Nicholas Lewis]]]: I think Professor Allen’s point was that, for policy purposes, the transient climate response, which is approximately over a 70-year period during which you have forcing concentrations rising, is more policy relevant. That is true enough. It is not a property of the climate system in the same way as climate sensitivity is, which is more directly related to the physics of the climate system. It is a mixture of the longer term equilibrium climate sensitivity and the heat uptake by the oceans and so on. Effectively, if you are estimating one, you will automatically be able to estimate the other. Given any degree of ocean heat uptake efficiency, transient climate response would increase with climate sensitivity but less so because the oceans have a greater effect at high cloud systems.
+
+[[[Professor Lindzen]]]: Could I clarify something? Sensitive climates take longer to reach equilibrium than insensitive climates. If you had a climate sensitivity of 1º for a doubling of CO2, the system equilibrates in a couple of years. If you have a sensitivity of 6º for a doubling of CO2, it will take centuries. By taking transient climate you are saying, “If I fix it to 70 years, the climate sensitivities that are high will not manifest themselves and you will not see much difference between a model that has a very high sensitivity and one that has a medium sensitivity”. However, 70 years will allow you to distinguish between, let us say, a 2º sensitivity and a 1º, because those are both rapid. I think one will be able to already pin it down to much lower sensitivities than the high ones, even with the transient results.&#xa0;
+
+[[[Q83 ]]]&#xa0; 
+
+[[[Mr Lilley:]]] But again, Myles Allen, who has clearly been adopting a generous and open approach to those who are not core members of the team, said that there is now a broad consensus of the range of values in which climate sensitivity falls and that your estimate is within the range of the members of the team. First, is that true, and secondly, is the range of your estimates within the range of the team?
+
+[[[Nicholas Lewis]]]: The range of matters would go beyond the IPCC 1.5º at the bottom end; not hugely because there is a very sharp cut-off there because of the way the mathematics and physics works. A more important point is that the essential estimates are quite different and, from a policy point of view, it is important what you use as your central estimate. If you have a wide range, the probability could be concentrated at one end or it could be concentrated at the other end or it could be spread right over it, and those have quite different implications. In fact, if you run these economic models for impact purposes, it is the extreme high end that has a disproportionate weight because that is what leads to high warming that starts to forecast big damages. &#xa0;
+
+[[[Q84 ]]]&#xa0; 
+
+[[[Chair:]]] Is it the case that the decade 2000 to 2010 was the hottest on record?
+
+[[[Professor Lindzen]]]: It is entirely possible.
+
+[[[Chair:]]] People like NASA and so on have expressed a view. Is it—
+
+[[[Professor Lindzen]]]: It has always been a funny way of expressing things. 
+
+[[[Chair:]]] It is a straightforward question. Is it yes or no?
+
+[[[Professor Lindzen]]]: The answer is if it is increasing until then and stopped—
+
+[[[Chair:]]] I am asking whether the decade 2000 to 2010—
+
+[[[Professor Lindzen]]]: I am saying the opposing—
+
+[[[Chair:]]] I am asking a straightforward practical question. Is it the case that the decade 2000 to 2010 was the hottest on record?
+
+[[[Professor Lindzen]]]: Of course it is.
+
+[[[Chair:]]] It is interesting that you are using that as evidence that somehow global warming has stopped; that we have just gone through the hottest decade of all time, and this apparently is—
+
+[[[Professor Lindzen]]]: No, hottest record of the last 150 years.
+
+[[[Chair:]]] —evidence that global warming is not taking place. Anyway we will pass on.
+
+[[[Nicholas Lewis]]]: We have not argued that.
+
+[[[Professor Lindzen]]]: You are saying something that does not make sense. 
+
+[[[Q85 ]]]&#xa0; 
+
+[[[Chair:]]] It is continuing? Either it is or it is not.
+
+[[[Professor Lindzen]]]: No. How shall I put it? On a certain smoothing level you can say it is continuing. It has not done anything for 15 years.
+
+[[[Chair:]]] Except we just had the hottest decade.
+
+[[[Professor Lindzen]]]: If it had been increasing until then, then that decade will be the hottest.
+
+[[[Chair:]]] If I am just clocked at driving my car at 90 miles an hour, faster than I have ever driven it before, I do not find that convincing evidence I have not broken the 70-mile speed limit. I just do not find that very convincing.
+
+[[[Professor Lindzen]]]: But you are saying two contradictory statements.
+
+[[[Chair:]]] No, I think you are. 
+
+[[[Professor Lindzen]]]: No.
+
+[[[Chair:]]] You are saying, “Yes, we have just had the hottest decade on record but, no, there is no global warming taking place anymore. That trend has stopped.”
+
+[[[Professor Lindzen]]]: No, nobody has said that.
+
+[[[Nicholas Lewis]]]: He did not say that.
+
+[[[Chair:]]] The professor can answer the question.
+
+[[[Nicholas Lewis]]]: He did not say that.
+
+[[[Professor Lindzen]]]: No, nobody said that. 
+
+[[[Chair:]]] Okay, so it is continuing?
+
+[[[Professor Lindzen]]]: No. 
+
+[[[Chair:]]] Either it has stopped or it is continuing; one or the other.
+
+[[[Professor Lindzen]]]: Then you better use the right terms for each. If you are saying you are taking a 16-year smoothing average, then it has continued. If you are saying that the last 16 years are looked at in their own right, they have not been increasing. If you say that it was increasing until the last 16 years so that we are now at the peak and now it has levelled off, that level is still going to be at the level of the highest temperature. It is perfectly clear what each of these statements is saying, but when you confuse them to be saying different things then I do not know where to pick up.
+
+[[[Q86 ]]]&#xa0; 
+
+[[[Chair:]]] I am just simply saying, it seems to me that the evidence that we have just had the hottest ever decade does not seem conclusive proof that global warming has come to an end. It does not seem to me to be that.
+
+[[[Professor Lindzen]]]: Nobody is saying that.
+
+[[[Chair:]]] Good, I am glad you are not.
+
+[[[Mr Lilley:]]] You are withdrawing the statement that they had, are you, Chairman?
+
+[[[Chair:]]] No, I am not. I was just trying to get clarification. I thought Professor Lindzen was trying to say, in respect of global warming, that the upward trend has come to an end. I thought that was what he was saying.
+
+[[[Mr Lilley:]]] He never said that.
+
+[[[Professor Lindzen]]]: I never said it had come to an end. We say for the last 16 years it has not increased. 
+
+[[[Chair:]]] I do not think we are going to get much further than this. I am happy to be judged by what is on the record.&#xa0;
+
+[[[Q87 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] Just returning to the language of the IPCC and its way of expressing uncertainty, are you happy with its use of language for uncertainty?
+
+[[[Professor Lindzen]]]: For the uncertainty concerning the attribution, no, of course I am not happy. I do not know how that was derived. 
+
+[[[Sir Robert Smith:]]] The uncertainty in terms of the words connected with the ranges of percentages?
+
+[[[Professor Lindzen]]]: Yes. Again, they have no relation to the mathematical definition of those words. You are using statements that do have mathematical meaning but you have not put them into a mathematical context. I am not sure how somebody is supposed to deal with it. I would assume, but it is purely an assumption, they were meant to explain to the policy people that they are very confident about something, but by using the mathematical term, nobody was able to confirm by any analysis what they are saying.&#xa0;
+
+[[[Q88 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] You have also said that consensus is frequently hurled at those who question alarm.
+
+[[[Professor Lindzen]]]: Yes, but that is pretty obvious in a sense. Let us say you are a person who has not studied science and you know the world around you has a strong scientific component and you are uneasy about it. Consensus is terribly important because then you do not have to understand it; you just have to say, “I go with the consensus”. I found in my experience people who do that get very upset if one says the consensus is wrong because then they are back where they started from. They have to understand the science and they do not appreciate that. I do not think the previous panel also felt comfortable with the notion of consensus. Yes, there is consensus of simple things but those are pretty trivial. They are not policy relevant.&#xa0;
+
+[[[Q89 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] Do you think the IPCC report represents a consensus view?
+
+[[[Professor Lindzen]]]: Depending on the definition of consensus I would say, with respect to certain things, I think it is probably a majority opinion. For instance, the majority of people working in climate science will go with the view that climate is serious. I do not think that would be surprising to anyone. There are very few fields that would say, “My field is not serious”. Other than that, there are so many penalties to saying, “This is not an important problem”, that I do not think many people would go out on that limb either. &#xa0;
+
+[[[Q90 ]]]&#xa0; 
+
+[[[Sir Robert Smith:]]] On the other side of the argument, the Grantham Institute at Imperial College has argued that in striving for a consensus there is a risk of underestimating the potential consequences. 
+
+[[[Professor Lindzen]]]: I do not see much evidence of that. Logically, it is possible. For example, I know with the Laboratory for Dynamic Meteorology in Paris they were doing the cloud simulations for the model into comparison. There were telephone calls frequently when they were out of the range of other models, “Couldn’t you do something?” It could happen sometimes that this would lead inadvertently to a conservative view, but I do not know of too many examples of that.&#xa0;
+
+[[[Q91 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] A simple question just to clarify things for when we come to write our report: would you agree that there is no scientific way of separating natural variation from anthropogenic warming?
+
+[[[Professor Lindzen]]]: Certainly a lot of effort is put into trying to. There is the issue of fingerprints and so on. It has not been terribly successful so far. I say at the moment there is no good way of distinguishing them other than natural variability will not correlate particularly well with increases in greenhouse gas. Indeed much of the variability you see on the record does not correlate.
+
+[[[Graham Stringer:]]] There is no way of saying it is 50%, 30% or 20%?
+
+[[[Professor Lindzen]]]: The way people attempt to do that is to get specific estimates. For instance, what Tong and Seo did was look at the records for central England—they go back to the 18th century—to see to what extent they represent the global mean when you do have records elsewhere and used that to estimate the amplitude of long period oscillations. Then from that estimate, they estimated that the order of 50% of the change was due to natural variability since it pre-existed the impact of anthropogenic. It is not rigorous.
+
+[[[Nicholas Lewis]]]: Apart from studies like that, which are specifically trying to work out what influence natural factors had, in general the studies that are done of climate sensitivity and other things will assume that none of the overall effect is natural. They will assume it is all driven by anthropogenic factors, apart from volcanic activity, which is known obviously, and solar. They would not assume internal variability had had an effect one way or the other. It would have been entirely attributed to drivers.&#xa0;
+
+[[[Q92 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] The fifth report has been criticised for underestimating the role of solar cycles and the role of cosmic rays in cloud formation. Do you think that is a fair criticism of the IPCC report?
+
+[[[Professor Lindzen]]]: Yes. You are dealing with something that is very uncertain. It is pretty clear that actual solar variability is very small. We now have satellite data, which shows it is a fraction of a watt per metre squared. On the other hand, there is now some experimental evidence—and there has been hypothesis for decades—that things like cosmic rays, which vary quite a lot, have an influence on the formation of cloud condensation nuclei, which can change the brightness of clouds and also the ability to form sometimes. This can amplify the effect of solar variability by a large factor. That is an unknown at this moment. The IPCC not only did not include it but it may not have any way of including it at the moment.&#xa0;
+
+[[[Q93 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] Thank you. You have said you think the IPCC should be disbanded.
+
+[[[Donna Laframboise]]]: Yes.
+
+[[[Graham Stringer:]]] Are you still of that view and can you explain to the Committee why?
+
+[[[Donna Laframboise]]]: When I started examining the IPCC, I found profound shortcomings, and I was not the only one. When the IAC reported in 2010 it said that there were significant shortcomings in every major step of the IPCC process. That is not a mild criticism. That suggests that there are serious reasons to be very careful about the conclusions of the IPCC process. There is some feeling that some of the recommendations made by the IAC report have been taken on board but other ones have not.For example, the IAC said the review process that happens at the IPCC is not independent, and they said, “We have no way of proposing how to make it independent”. If it was independent the review editors would be chosen by someone else, someone exterior to the IPCC. They would report to someone exterior to the IPCC. We still have that problem at the IPCC. The review process is not independent. As an excellent submission to this Committee by Ruth Dixon pointed out, it is not peer-reviewed as that term is normally understood. There are a great number of concerns about the IPCC process and I do not see a significant improvement at this point, and I am not sure it can be reformed. It has a culture. It has been around for 25 years. It is very difficult to change a culture. I think it needs to be replaced with something different.&#xa0;
+
+[[[Q94 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] I know you said you found it difficult to say how it would be reformed, but if it is not going to be abolished can you make recommendations as how it could be improved?
+
+[[[Donna Laframboise]]]: I think there should be a team B. I think there should be a minority report. There is the consensus view and then there are alternative perspectives and I think that people who are involved with the IPCC should be free to write a report at the back and say, “I agree with these conclusions but I have concerns about these ones for these reasons”. I think that would be very healthy. Again, we are told that these are the best scientists in the world. Why is it that they are nominated by Governments? Why are the sciences societies not nominating the best scientists in the world? It is Governments who are doing the choosing and again—
+
+[[[John Robertson:]]] That is why we invited you here.
+
+[[[Donna Laframboise]]]: There is a consequence to that kind of structure. 
+
+[[[Professor Lindzen]]]: You have gone further than the IPCC would go on this but I think, first of all, with climate science you are not dealing with a huge field. As I have asked people very frequently at university, how many people do you remember who were studying climate? Were the brightest people you know studying meteorology or oceanography? The answer usually is they knew no one. If they did, they were not the brightest people. Suddenly we have a world full of thousands of the world’s leading people in this area. It just goes against common sense.&#xa0;
+
+[[[Q95 ]]]&#xa0; 
+
+[[[John Robertson:]]] Does that not go down to the breakdown of the ozone layer years ago when we had scientific proof from satellites that took pictures of something that nobody ever knew about and did not know was happening? That started the ball rolling on climate change, did it not? 
+
+[[[Professor Lindzen]]]: Why are so many astronauts sceptics?
+
+[[[John Robertson:]]] Everyone is a sceptic. I am a sceptic on most things. 
+
+[[[Professor Lindzen]]]: No, what I am getting at is when you are dealing with something like the IPCC, it is manpower intensive. You heard someone this morning start mentioning that 58% of the participants this time are new participants. I know, from my group, lots of them have decided never to participate again and there are on both sides on that.
+
+[[[John Robertson:]]] Is that a bad thing, that new people—
+
+[[[Professor Lindzen]]]: It is not a bad thing per se, except in a small field where you have to keep finding people when there are not any. This is where Donna was coming in and saying you look at the credentials of some of these people and you realise the world does not have that many experts. It does not have that many leading climate scientists. We are inventing something where we would like it to be that way when it is not.&#xa0;
+
+[[[Q96 ]]]&#xa0; 
+
+[[[Chair:]]] Were you suggesting just now that the people who have gone into this field of work were academically or intellectually inferior to those who had chosen other fields of work?
+
+[[[Professor Lindzen]]]: Yes. I do not think there is any question when we were in college that the brightest kids went to physics and math, then chemistry and other areas. 
+
+[[[Chair:]]] Out of interest, do you think that is still the case? Obviously climate science is talked about rather more now.
+
+[[[Professor Lindzen]]]: I think so. The only change that has occurred is, in my career, most of our graduate students came from physics and math. They were the overflow. That has ceased. It is also the case today that many of the brighter students do not go into physics and math. They might go into business, law, and so on. Things change with time but your statement, although it makes people a little queasy to say, “My field is not as strong as other fields”, is obviously true.&#xa0;
+
+[[[Q97 ]]]&#xa0; 
+
+[[[Chair:]]] Just going back to the point about the Government appointing the scientists. Are you saying the Government is deliberately appointing scientists who are not as good as the ones who would be otherwise available?
+
+[[[Donna Laframboise]]]: No, I am say that, depending on who the Government is, their choices will be skewed. A Government in which Al Gore is Vice-President is going to make different choices than a Government in which Bill Cheney is Vice-President. That stands to reason. 
+
+[[[John Robertson:]]] Which would be best?&#xa0;
+
+[[[Q98 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Just on Professor Lindzen’s remark about not many climate experts around, I get hundreds that write to me and claim to be these academics or experts in this field. I find that statement a little bizarre.
+
+[[[Professor Lindzen]]]: It depends on what you mean by “experts”.
+
+[[[Albert Owen:]]] Absolutely. I just wanted to come back to your remarks about the IPCC. Donna, you called for it to be disbanded because of reasons that you have given. I just wanted to pursue them a little bit further because Professor Allen has told us in his evidence that there was a painstaking effort to include sceptical views within the IPCC, so there is a difference of opinion there. Would you like to comment on that before I ask further questions?
+
+[[[Donna Laframboise]]]: Yes. If I understood correctly, I think he said that sceptics were involved at the review level. Not in the writing of the report, but that sceptics were free to make comments. It is wonderful that I can make comments, but are my comments incorporated? I think there is a submission by Marcel Crok where he lays out a number of examples where people made very serious criticisms and during the review process those criticisms were ignored. They were not incorporated into the report, so that is the difficulty.&#xa0;
+
+[[[Q99 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Politicians are not sensitive souls. Whatever committee we set up there is going to be criticism, so I do not think we are going to have a perfect scenario where everybody is chosen and their views are going to be unanimous in the results. So I think you are being a little bit sensitive and probably playing the journalist role a bit there, because you are looking for a story rather than accepting it. I hear what you said, the colour of the Government may have some impact on the appointments to very important panels. That is going to be the case, but if you get different countries with perhaps different colours of politics you would perhaps get a decent mix; not a perfect mix, but a decent mix.
+
+[[[Professor Lindzen]]]: Brian may wish to contradict us but I think I am correct on this. In 1988, the number of countries that had intensive efforts on climate research was very few. There is the UK; the US; occasionally Norway; the Soviet Union, which still existed at that time; there is a little bit in Germany and there was almost nothing in France at that time. When you start working with the UN and you have representations from 50 or 60 countries or more, you are obviously having representation from lots of countries that have no scientific effort at all in this area. So you are immediately changing the nature of the expertise.&#xa0;
+
+[[[Q100 ]]]&#xa0; 
+
+[[[Albert Owen:]]] But just coming back to the structures and the IPCC and the criticism that we have heard from you, Donna, on this issue. Some would argue that this is the most scrutinised document in the history of science because 55,000 comments have come to it. What other document has had this kind of scrutiny and why do you think that is not a good thing?
+
+[[[Donna Laframboise]]]: I think that is a misunderstanding because one of the concerns raised by a number of people—and I am pretty sure the IAC raised it as well—is that the reviewers, who are volunteers, can review whichever part of the report that they choose. But there is no one keeping track to say that every single part of the document—
+
+[[[Albert Owen:]]] But you do not argue it is not being peer-reviewed and being scrutinised, do you?
+
+[[[Donna Laframboise]]]: Pardon me?
+
+[[[Albert Owen:]]] You do not argue it has not been scrutinised.
+
+[[[Donna Laframboise]]]: Yes, I do. Yes, because there may be parts of the report that received no comments from anyone. In fact, we can see that in the review editor’s internal documents where they say “There is a whole section and almost no one commented about this”.
+
+[[[Albert Owen:]]] Why do you think that?
+
+[[[Donna Laframboise]]]: Because people are allowed to choose what they are interested in to review. It is a very haphazard review process from a certain perspective.
+
+[[[Albert Owen:]]] They might have agreed on those other paths.
+
+[[[Professor Lindzen]]]: Yes, but you do not know that and from personal experience—
+
+[[[Albert Owen:]]] Isn’t that the point of this discussion?
+
+[[[Professor Lindzen]]]: I remember with the chapter I was involved in you get a box full of reviews and it is huge, that is true. You have a review editor, who is in this case Suki Manabe, and you just run through all the reviews. Here you have the authors of the chapter saying, “Suki, I do not want to deal with this”, and Suki saying, “That is okay, throw it out”. You just run through it this way. That is not a normal review. It is not a normal review when the authors play a role in deciding whether to pay attention or not to a review. It is a different process. It may have its virtues but it is not a peer review.&#xa0;
+
+[[[Q101 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Coming back to a point that was made by the other panel as well and I would like to ask about it. If the IPCC was to opt for smaller reports on a more frequent basis, do you think that would arrive at better scrutiny? Would it help the processes? Just very general comments. Mr Lewis?
+
+[[[Nicholas Lewis]]]: Yes. I have not read the Dutch proposals, so I am speaking slightly off the top of my head, but I think there is an advantage to having a fairly comprehensive assessment at the state of advice put down at one time because it enables you to examine it as a whole and see what implications the various bits of it have for other parts and see whether they are consistent or not. In this case the models and the observations have not been consistent. I am not sure you would still get that if you just had an annual much lighter report. I can quite understand Myles Allen’s concerns about the time it takes. To expect these academic scientists to do this on top of their normal workload is not the ideal by a long way, but I think it is useful.
+
+[[[Q102 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Any other comments from the panel; frequency would get better scrutiny or improve the system?
+
+[[[Donna Laframboise]]]: One of the suggestions is that there are these massive reports. Part 1 of AR5 has come out and I think it is 2,000 pages, and part 2 is going to be even bigger. Then there is going to be part 3 and who does read that? One of the suggestions is why do they not just focus on a few topics about which there is serious controversy but of which there are important questions and jettison all the rest.
+
+[[[Q103 ]]]&#xa0; 
+
+[[[Albert Owen:]]] The problem with that is somebody would criticise you if you have left a huge important issue out.
+
+[[[Donna Laframboise]]]: Sure, but make a short list, “Here are the 10 most important topics” and all of the rest of that—Working Group 2 and especially Working Group 3, there is a lot of effort going in—is it serving a purpose? I think one of the people suggesting this just said, “Yes, take the few crucial scientific questions that are still very much open and change the process, but concentrate on those rather than these massive reports that no one ends up reading anyway”.
+
+[[[Professor Lindzen]]]: How about, for the massive reports, have an index?
+
+[[[Q104 ]]]&#xa0; 
+
+[[[Albert Owen:]]] An index. Just put a simple index in and people can find their own way through it? Won’t people look for things that they have a specific interest in and ignore something else, though? Is that not a danger?
+
+[[[Professor Lindzen]]]: At present they are not terribly useful because there is no way to find things. &#xa0;
+
+[[[Q105 ]]]&#xa0; 
+
+[[[Albert Owen:]]] One final point I have, again back to you, Donna, on the objectivity of the IPCC and the remarks that you have made, or attributed to you, with regard to documents linked to activist organisations. Do you think it is heavily weighted to the WWF and Greenpeace and others of this world?
+
+[[[Donna Laframboise]]]: The problem is that there are those people involved and involved in very senior roles. I know this about Working Group 1, but Working Group 2 is about to come out in a couple of months. There are three lead authors—not co-ordinating— chapter leaders, who have very definite activist mind-sets. One gentleman has worked for an activist organisation for more than 20 years and, according to his official biography, is still advising them. He is not merely contributing. He is in charge of a chapter. We have other gentlemen in charge of a chapter who spent much of his career writing, for pay, for the World Wildlife Fund and Greenpeace. That is going to affect his view. He is not objective. He has a very particular activist world view and he has been put in charge of a chapter of what is supposed to be an objective scientific report.
+
+[[[Q106 ]]]&#xa0; 
+
+[[[Albert Owen:]]] But cannot a young activist, in whatever role, be maturing to have different views as they progress when they see the evidence?
+
+[[[Donna Laframboise]]]: It is possible but if we—
+
+[[[Albert Owen:]]] It is damn likely as well, isn’t it?
+
+[[[Donna Laframboise]]]: No, if we were holding a—
+
+[[[Albert Owen:]]] I do not hold exactly the same views as I did when I was 16, 17 or 18 and an activist in some organisations.
+
+[[[Donna Laframboise]]]: If we were holding a criminal trial, we would not—
+
+[[[Albert Owen:]]] It is not a criminal trial though, is it?
+
+[[[Donna Laframboise]]]: But it is. The question is: is CO2 responsible for causing dangerous climate change? We would not—
+
+[[[Q107 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Do you think their views should be ignored then, or these people should be side-lined just because they have strong views or an activist background?
+
+[[[Donna Laframboise]]]: Yes. If it is an objective assessment—
+
+[[[Albert Owen:]]] I am not defending them, I am just making the comment.
+
+[[[Donna Laframboise]]]: If you are telling me this is an objective assessment you cannot put people who are bringing all this activist baggage.
+
+[[[Q108 ]]]&#xa0; 
+
+[[[Albert Owen:]]] You are going to have a sifting process where everybody has independent views that come on this body. Is that what you are telling me?
+
+[[[Donna Laframboise]]]: Yes, I am.
+
+[[[Albert Owen:]]] Do you think that is a little naive? Has that ever been achieved anywhere?
+
+[[[Donna Laframboise]]]: If the future of our children and grandchildren is at stake, I think we should make an effort.
+
+[[[Albert Owen:]]] If we are going to do that emotive thing, these people have strong beliefs as well as to the future of our children. You cannot just dismiss somebody because they have been an activist in the past.
+
+[[[Professor Lindzen]]]: Nobody is dismissing them.
+
+[[[Albert Owen:]]] That is the way I have read it, sorry, and that is the way I think it has been explained.
+
+[[[Professor Lindzen]]]: If you are Greenpeace or World Wildlife Fund you have made your views perfectly clear from massive advertising campaigns. To now put yourself in a position where you also determine the information that is used by you and so on is not very healthy. 
+
+[[[&#xa0;]]]
+
+[[[Q109 ]]]&#xa0; 
+
+[[[Albert Owen:]]] But we have tried to get a balance here. You were asked a question and I am trying to get a balance here today. We picked six people who we think reflect a balanced view of what is happening. We did not dig into your activism of the past or anything. If we did, I do not think that would exclude you from coming here today. That is the very point I am making. I think it is nice to get a colourful array of people with colourful backgrounds.
+
+[[[Donna Laframboise]]]: Yes, but if the gentleman who is leading the chapter of AR5 is still advising the Environmental Defence Fund—that is not in his background. That is his current position.&#xa0;
+
+[[[Q110 ]]]&#xa0; 
+
+[[[Albert Owen:]]] I do not have the knowledge of who is on the group and who is what, but I would just say that we need a good mix. You mentioned in your opening remarks today about our being calm and collected about this. I have tried to be calm and collected, but it is difficult when people come up with remarks like your saying just because you do not agree with certain activists or their activism that somehow they do not contribute in an important way to the debate. 
+
+[[[Donna Laframboise]]]: I am sorry, I think I have done a poor job of explaining myself. I think if you want the public to have confidence in the conclusions of an expert body, that expert body should go to some length to appear objective. Justice must not only be done it must be seen to be done. That is not a concern that the IPCC displays at this point.&#xa0;
+
+[[[Q111 ]]]&#xa0; 
+
+[[[Albert Owen:]]] I think I have exhausted this point, but one other point, Professor. It is a great session for listening and reflecting in these types of inquiries. Did you say in the beginning that even if man was 51% responsible, we should not worry? Did you make that remark because—
+
+[[[Professor Lindzen]]]: I said it was consistent with not worrying.  If you said that the sensitivity to a doubling of CO2 was 0.6º—
+
+[[[Albert Owen:]]] Just in that context, okay.
+
+[[[Professor Lindzen]]]: —it would still be reasonably compatible with that statement.
+
+[[[Albert Owen:]]] Do you go further to say we should not do anything about it?
+
+[[[Professor Lindzen]]]: I am saying at this point we not only do not know what to do about it but almost everything proposed would have very certain consequences for the people and very uncertain consequences for the environment that should be taken into account.
+
+[[[Albert Owen:]]] What about the old cliché, “Doing nothing is not an option”?
+
+[[[Professor Lindzen]]]: I do not believe that. 
+
+[[[Albert Owen:]]] Even if you accept the 51% to be—
+
+[[[Professor Lindzen]]]: Exactly. Nordhaus has this book—
+
+[[[Albert Owen:]]] Sorry?
+
+[[[Professor Lindzen]]]: An economist at Yale, Bill Nordhaus, has a book on climate policy and, if you look carefully at that book, he estimates the cost benefit and so on of various policies. It is clear that there is virtually no policy that beats doing nothing for 50 years.
+
+[[[Albert Owen:]]] But in 50 years’ time if you and I are still around, and we got it wrong, would there not be a little bit of guilt?
+
+[[[Professor Lindzen]]]: No, because the other policies would not have done much to avoid it. 
+
+[[[Albert Owen:]]] We are not going to agree on that, but I wanted to be clear of your view.
+
+[[[Professor Lindzen]]]: That is easy to show. That is the point. That is what is disturbing.
+
+[[[Albert Owen:]]] I know, but policymakers would be criticised for following that logic.
+
+[[[Professor Lindzen]]]: They may be criticised but, as you say, we will all be dead by then.
+
+[[[Albert Owen:]]] Not all of us. 
+
+[[[Professor Lindzen]]]: But the point is—
+
+[[[Albert Owen:]]] It is a serious—
+
+[[[Professor Lindzen]]]: —the issue of doing something—
+
+[[[Albert Owen:]]] This is about future generations as well.
+
+[[[Professor Lindzen]]]: If it is purely symbolic to show you did something, maybe it is something that you should be more responsible than doing.&#xa0;
+
+[[[Q112 ]]]&#xa0; 
+
+[[[Chair:]]] Just to be clear, your suggestion of bias among the authors was not about Working Group 1. It was about Working Group 3. Is that right?
+
+[[[Donna Laframboise]]]: Two.
+
+[[[Chair:]]] Two, okay. We have that clear, fine. Thank you very much for coming in. It has been a very interesting session.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;              Oral evidence: IPCC 5th Assessment Review, HC 907                            5

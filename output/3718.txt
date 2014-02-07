@@ -1,0 +1,49 @@
+&#xa0;&#xa0;
+
+[[[Written evidence from nfpSynergy ]]]
+
+[[[[CEP0002]]]]
+
+[[[&#xa0;]]]&#xa0;
+
+[[[Introduction]]]We wanted to see what the relationship was between a charity’s income and their CEO’s salary. This was to see if we could establish whether those organisations that paid their CEOs more, were the largest organisations in either total or voluntary income terms. We also wanted to find out whether there was any pattern either in organisational growth over the last five years or in CEO pay.&#xa0;We took around 50 of the UK’s best-known charities according to our awareness tracking and set our researchers to work on looking at their accounts. Here is what we found.&#xa0;
+
+[[[Some summary facts]]]&#xa0;Between 2007 and 2012:•&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The total income of our sample of 50 charities has 
+
+[[[increased by 17.7%]]]
+
+[[[ ]]](or an average increase of 3.5% per year)•&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Their voluntary income has 
+
+[[[increased by 11.6%]]]
+
+[[[ ]]](or an increase of 2.3% per year)•&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Staff costs have 
+
+[[[increased by 24.2%]]]
+
+[[[ ]]](or an average of 4.85% per year)•&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The salaries of their CEOs have 
+
+[[[increased by 18.0%]]]
+
+[[[ ]]](or an average of 3.6% per year)&#xa0;In terms of changes in CEO pay, those charities that paid their CEOs below £100k in 2007 had increased their CEO salary by an average of 38% (or £32,000 in actual money) by 2012. Those who paid their CEOs above £100k in 2007 had increased their CEO salary by 6% (or £9000) by 2012.&#xa0;
+
+[[[The relationship between total income and CEO salary]]]&#xa0;Chart 1 shows the relationship between CEO pay and total income for our sample of 50 in 2012. The broad relationship is that the higher the total income, the higher the CEO salary, i.e. bigger charities pay their CEOs more. &#xa0;A statistical analysis on this relationship shows a high correlation of 0.67 between total income and CEO pay (where the maximum possible correlation is 1, and the minimum is zero when two factors are completely unrelated). The correlation in CEO pay with total income has 95% confidence limits of 0.47 to 0.80 (so fairly broad confidence intervals). See the table below for more detail.&#xa0;Even just glancing at the data reveals that total income appears to be a key variable, but that some charities of a similar size do pay their CEOs very different amounts.&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[The relationship between voluntary]]]
+
+[[[ income]]]
+
+[[[, staff]]]
+
+[[[ costs and CEO salary]]]As well as total income, we also looked at staff costs and voluntary income as other determinants of CEO pay. The statistical analysis is below:&#xa0;&#xa0;&#xa0;RLower limitUpper limitTotal staff costs0.680.490.81Voluntary income0.550.320.72Total income0.670.470.80&#xa0;&#xa0;So, while total income has a correlation of 0.67 of CEO pay, total staff costs has a correlation of 0.68 with CEO pay and voluntary income a correlation of 0.55. &#xa0;It should be pointed out that these factors are of course interrelated. The bigger the charity in income terms, the more staff it is likely to have and the more those staff are likely to cost. The reason voluntary income has the lowest correlation with CEO pay is that for, some of the charities on the list, it may only be a small portion of total income. &#xa0;Anyway, for those interested in voluntary income and CEO pay, chart 2 shows the relationship (with one charity removed which distorted the scales)&#xa0;&#xa0;
+
+[[[Ho]]]
+
+[[[w have income and salaries increased over the last 5 years]]]
+
+[[[&#xa0;]]]If the previous set of data looked at absolute levels of CEO pay, this section looks at how they have changed over the last 5 years (2007 to 2012). &#xa0;Chart 3 shows the percentage increase in CEO pay versus the percentage increase in total income. Unlike chart 1, where the relationship was visible just by looking at the data, the relationship in chart 3 is much less clear. &#xa0;Overall, the total income of the charities in the sample has grown by 17.7% and salaries of the CEOs have grown by 18%. In other words, CEO pay has grown very closely in line with total income.&#xa0;As the pull-outs show, there are organisations who have grown substantially and whose CEO pay has hardly changed at all, while there are organisations which have hardly grown at all but their CEO pay has increased substantially. &#xa0;Chart 4 looks at the data in a different way and shows how the CEO pay has changed for each organisation in our sample. This reveals something very interesting; a £100k salary is a key issue for many boards and when they pay a CEO more than £100k for the first time, they have tended to exceed it by a fair margin in the period 2007-2012.&#xa0;Specifically, those organisations that paid their CEO less than £100k in 2007 increased their CEO salary by an average of 38% by 2012 (or a financial increase of £32,000). Those that paid their CEOs more than £100k in 2007 had a much lower increase overall - just 6% on average (or £9000). Indeed, a number of the charities with the highest paid CEOs in 2007 had 
+
+[[[reduced]]] that salary by 2012. So what appears to be happening is a rebalancing of CEO salaries based on market forces. &#xa0;Many of those who have paid their CEOs under £100k in 2007 decided by 2012 that they needed to pay them more, in some cases substantially so. At the top end of the scale, a number decided that they needed to reduce their CEO pay. We have not done an analysis to see what the impact of a change of CEO appears to have on these figures, though we do know that a number of CEO changed in our sample in the period in question.&#xa0;&#xa0;
+
+[[[Conclusion]]]We draw four conclusions:&#xa0;
+
+[[[Methodology]]]The sample of the 50ish charities includes those with the highest levels of spontaneous awareness in our Charity Awareness Monitor (CAM). All the UK’s best known charities were therefore in this sample. The reason to take this sample was in order to examine those charities which are in the scrutiny of the public eye, not those who are technically charities but receive most of their funding from statutory sources or earned income.&#xa0;We used the formal accounts lodged with the Charity Commission to find out the key data for our research (it is often not possible to find even the most recent accounts on a charity’s website, let alone the last five years). Using this data, we created a vast spreadsheet of these results. As well as CEO pay, we documented all the numbers of people in the different pay bands. As the actual pay is unknown, we assumed that the actual salary was in the middle of a pay band (so if an employee was in the band £120k - £130k we gave them a salary of £125k). We also assumed that the highest paid employee was the CEO. We know of at least one charity where this is not the case. &#xa0;We decided not to name any individual charity in the analysis in order to focus on the big picture changes, rather than what any one charity has done. &#xa0;We are happy to share the list of charities in the sample with those who are interested. There is also a more complete set of charts and the complete statistical analysis for those who like that kind of thing.&#xa0;&#xa0;November 2013&#xa0; More on our methodology in the methodology section at the end.

@@ -18,7 +18,8 @@
     "coffee": "0.0.1",
     "docco": "~0.6.3",
     "walk": "*",
-    "cheerio": "*"
+    "cheerio": "*",
+    "html-md": "*"
   },
   "license": "Open Parliament Licence"
 }

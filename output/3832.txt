@@ -1,0 +1,807 @@
+&#xa0;Health CommitteeOral evidence: Public expenditure on health and social care, HC 793Wednesday 20 November 2013Ordered by the House of Commons to be published on 20 November 2013Written evidence from witnesses:–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The King’s Fund–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Nuffield Trust–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; NHS Confederation–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Local Government AssociationWatch the meetingMembers present: Mr Stephen Dorrell (Chair); Rosie Cooper; Andrew George; Barbara Keeley; Andrew Percy; Mr Virendra Sharma; Valerie Vaz; Dr Sarah WollastonQuestions 159-238Witnesses: 
+
+[[[John Appleby]]], Chief Economist, the King’s Fund, and 
+
+[[[Anita ]]]
+
+[[[Charlesworth]]], Chief Economist, Nuffield Trust, gave evidence.  
+
+[[[Q159 ]]]&#xa0; 
+
+[[[Chair:]]] We are under a little bit of time pressure this afternoon, so we will go straight into it, if we may, but first I make you welcome. I quite often ask people to introduce themselves. I am not certain that is necessary in this case. You are familiar faces to us. I would like to go straight in, if I may, to the core question that we are seeking to address in this inquiry, which is, looking backwards—this is the less important part of the question, in a sense—where has the health service got to in response to the Nicholson challenge as we get into the second half of 2013&#x2011;14?  How much real sustainable change do you think has taken place? That is the first question. The second question is, more importantly, looking forward, either to the end of 2015 or, indeed, to the second half of the decade as well, what evidence do you think there is that necessary change is either being planned for or, better still, executed within the service? Who would like to go first?
+
+[[[John Appleby]]]: Thank you for inviting the King’s Fund and me to give evidence. On the so&#x2011;called £20 billion challenge, we have to rely on NHS England in terms of evidence for that. The other evidence I could quote is a survey we do of finance directors in foundation trusts and CCGs. It is not a statistically valid sample but it gives us some indication about things like this. You heard the evidence from Sir David Nicholson himself that, looking back, it looks as if, at a big aggregate level, the NHS has been making its £4 billion to £4.5 billion savings each year, and it looks as if it is on track this year. I would supplement that with the evidence we get from talking to finance directors, and they would confirm that, I think. I would point out that there is an issue around hospitals and what we are talking about here. If you talk to a trust and ask them about their productivity gains, they will not use those words: they will use “cost improvement programmes”. Essentially, they will look at what their projected income is and what their costs are, and whatever the gap is becomes their cost improvement programme. That is the way, down on the ground, they look at this challenge.How do you fill that gap? You may make some cost savings and you may try and get some more income. One of the issues, it seems to me, with the whole QIPP Nicholson challenge is, “What is just extra income for people? What can roll forward and, in a sense, be counted not just as a one&#x2011;off saving?” That, I think, we are a bit less clear about.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: It is important to emphasise how significant the pay policy has been in enabling the NHS to fill the gap and also there have been big reductions in administrative costs over the last two years, but administrative costs are now expected to start rising a bit again. In terms of the sustainability, they have done well over the last two years in aggregate, although there are over 40 hospital NHS trusts, mainly acute, that either were or would have been in deficit if they had not had central support. That is heading for a third of acute trusts, which are already struggling despite the help of a pay freeze and reductions in central management costs. The pay freeze cannot go on for ever. The management costs are a one&#x2011;off. Although it now looks like the NHS over the last 15 years did increase productivity, this requires a massive step increase in productivity. I think NHS England said it was about 12% of the gains so far that came from labour productivity and a quarter from the pay. So the sustainability looks really challenging as you start to get pay pressures emerging. But also the system at the moment, both this year and next, has almost nothing in it in terms of hospitals—the tariff—for service improvements. Yet, if you look at Monitor’s analysis of 2013&#x2011;14 plans, they are stating that trusts are saying that to address Keogh, the Francis review and the A and E pressures, they need significantly to increase their clinical staffing. It does feel as if we are hitting an imbalance. People have made the easy savings and they are running out. By NHS England’s admission, we are not seeing very much progress with transformative savings, and quality pressures are really starting to bite.
+
+[[[Q160 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Before we get into that in detail, can I ask a reasonably limited question around instances that you have seen? The question is how prevalent are instances of, say, things that are plainly one&#x2011;off—and the most obvious one is a land sale—so making the books balance by something that produces cash in year but does not change anything for future years?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: The central evidence is that these sort of—in the jargon— non&#x2011;recurrent savings look to be growing as a proportion of people’s savings. The big one that people seem to use is holding vacancies for a longer period, but while you are increasingly concerned about your clinical staffing that becomes a very difficult thing to do and is certainly not a sustainable productivity gain.
+
+[[[Q161 ]]]&#xa0; 
+
+[[[Chair:]]] Is it something that is clearly visible in the NHS England numbers or any numbers that either you or the King’s Fund generate?
+
+[[[John Appleby]]]: I am not sure they are clear in the overall numbers, and the reporting of these savings is an issue. There was a huge spreadsheet that NHS England used to compile from PCTs on this and it was almost totally impenetrable. I am used to looking at spreadsheets virtually every day and I just got completely lost in that. There is a significant issue about the reporting of these numbers—what lies behind the numbers, as you are pointing out. Is it recurrent? Is it non&#x2011;recurrent? How sustainable are these things? Clearly, there have been big cuts in central budgets, but you can only do that once. Whether you count that then as a saving for ever is almost philosophical. 
+
+[[[Q162 ]]]&#xa0; 
+
+[[[Chair:]]] It does not sound like a saving for ever if Anita Charlesworth is saying that the cuts in admin costs are about to reverse.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: Not fully. They were just over £5 billion in 2010&#x2011;11, down to £3.5 billion, I think, last year and going back up to about £4.2 billion. We will end this spending review spending less on admin than when we started, but it is clear that we cannot go on making those savings. Even if you eliminated admin costs completely, you would not deal with it all and you would still have a problem.
+
+[[[John Appleby]]]: To add quickly to that, the real issue is not about saving money—that is the “half&#x2011;way there,” as it were—but what you spend that money on. Presumably, we are saving admin costs not because we like to save admin costs but because we face the need to provide more hips and do more. It is about spending that money on something else. My point about the reporting, in a sense, is that we do not quite know where the money has gone.
+
+[[[Q163 ]]]&#xa0; 
+
+[[[Chair:]]] I will ask a further question and then pass it over. To look at it from the other end of the telescope, if you look at the way services are currently delivered within the health and care system, where do you think the commissioners and the managers—the management teams—should be looking for opportunities to use resources more efficiently?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: There are two pieces of work that shine a light on this. One is that Monitor published last month a piece of work that I think it commissioned from McKinsey, looking at where the productivity potential is against the £30 billion—the call for action that NHS England issued or said is the longer-term challenge. The first thing to say is that they could find potential productivity savings of between £10 billion and £18 billion. They were saying that you could not get there without one&#x2011;off savings, both in pay and big land sales, as to both of which there are questions about feasibility. Within the productivity estimates, their analysis was that most, or a bit more than half, of the potential came from doing what we currently do more efficiently—if you like, the Olympic cycling team type of analysis that says it is about shaving off a second, or in their case fractions of a second, from every little thing that you do rather than a big bang. There were opportunities, for example, from shifting care into the right settings and integration, but there is still a significant productivity prize in acute hospitals around things like average length of stay and also a big productivity potential in community health services and mental health as well. The international evidence—and I was just looking at EU15—of similar countries is that we do not have a very big acute sector by international comparisons. Our bed numbers per head are relatively low. I think there are two countries below us, one of which is Sweden, which spends much more on social care. Again, the point is that you may save money in one bit but you have to spend it elsewhere. We run our system quite hot; we have high bed occupancy rates and so on. There is also a need to be realistic. We can almost certainly get better. The McKinsey work points to the fact that we can get better, but it would be a very brave person who thought that you could get better to the scale that we are demanding—4% a year on a sustained basis. The lived experience of the NHS this year, when it is starting to get really difficult for quite a lot of people, is that we are probably getting close to the point where 4% is undoable.
+
+[[[John Appleby]]]: I agree with what Anita was saying there. As to these lists of what organisations can do—and we produce one as well—of doing more for less and not more of the same, McKinsey have, and the Audit Commission used to do that in terms of local authorities. If only the bottom 25% could perform at the level of the average, or whatever and— 
+
+[[[Chair:]]] We have made our own modest contribution to that.
+
+[[[John Appleby]]]: You can generate the numbers. Length of stay is an interesting point. All health systems have been reducing the time people spend in hospital on average—different sorts of medicine and techniques have enabled that—and you can then cost that up as a saving in a way. What is a day in hospital? We know how much that costs and can multiply it by all the thousands of patients who would be staying less. But, again, that is not really getting at what we are doing with that saving. It is only a productivity gain if we then do something useful with that. All of these lists of things to do are depressing in two ways: first, they do not really cost it out in a productivity way; and, secondly, my experience is that you can identify these things on paper, but, in reality, there are lots of barriers, local circumstances and so on that make it difficult to hit the target. As Anita was saying, in fact McKinsey cannot identify, even on paper, the full closing of the £30 billion gap that NHS England now talks about to 2020. 
+
+[[[Q164 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] Is it a published report that McKinsey have produced?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]:  Yes.
+
+[[[Q165 ]]]&#xa0; 
+
+[[[Valerie]]]
+
+[[[ ]]]
+
+[[[Vaz]]]
+
+[[[:]]] I was taken by your comment that no one seems to know where the money is, so I wondered if you could say whether it is falling within NHS England or the Department of Health. Are you really saying that no one knows where all the money is and how they can trace it?
+
+[[[John Appleby]]]: I am sure there are people who know where it all is. I did not quite mean it like that. I meant the reporting of it. For example, I think the planned saving last year was about £4 billion, so what do we mean by £4 billion? We know that a bit of it is counted as pay, in fact—a pay saving—because we have a pay freeze, so we sort of know where it is, as it were. What is less clear, in a sense, is where it has gone: that is, for instance, what did we use that saving for? There was not a lump of money that was then distributed across the NHS and so on. It is that sort of question that does not seem to be asked so well, and the focus has been on the “Shoot first, ask questions later”-type approach whereby we simply do not give the health service the money. As to cutting the tariff for hospitals, they have had a real price cut now of getting on for, I think, 8%, or will do next year. It is a real cut in the prices that hospitals get for supplying health care to commissioners. In a sense, where has the money gone? I suppose it is with the commissioners, but the question I would ask is: what have they done with it?
+
+[[[Q166 ]]]&#xa0; 
+
+[[[Valerie]]]
+
+[[[ ]]]
+
+[[[Vaz]]]
+
+[[[:]]] You talked about administration costs going up again. Is that because there has been a cut in the number of staff and they now have to be rehired? Was it part of the reorganisation? 
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: There may well be a bit of that. It is quite difficult fully to bottom what is going on with staff at the moment because all the changes to the NHS are making getting a clear picture of what is going on quite difficult. Some staff have been transferred out of the remit of the work force numbers more. But, yes, it does look like there is some rehiring—whether it is rehiring of individuals or filling of other posts. Another thing that is happening significantly is people substantially overspending on agency and bank staff. There is a problem in the system at the moment in that there are two forms of inefficiency that are being driven by the system. One is the way at the moment that people are holding back lots of money. At the beginning of the year, commissioners are telling acute providers that they are going to reduce demand and so they will not be spending the money with them. Providers have to plan on the basis of what their commissioners are telling them, and then activity is turning out to be higher than planned and so they have to fill that with agency staff. That is an inefficient way of delivering services. When year on year that happens to you, you need to look at that and say, “That is not good patient care and not a sensible way of running the system.” The other thing is the way that we do the pricing—the way we set prices. We have deficits turning up in certain types of providers at the moment. We do not really know whether those types of providers—small market town acutes—are fundamentally inefficient or whether the way we pay for care is inefficient. Everyone in the NHS says you lose money on normal maternity. Women have to have babies and it costs money to deliver those, so it can’t be sensible to price the system where everyone loses money on maternity. If you are a big teaching hospital, you make money on certain types of, say, cancer care, and so you can cross&#x2011;subsidise. If you do not offer that other service, then you are just left picking up the pieces, but you have to deliver the care. When we had quite high growth rates you could cope; these sorts of things were not ideal but they did not really bite. We need to get much better at making sure that we understand cost and that we price according to that.
+
+[[[Q167 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] I have a question about the integration of services. I do not know if it is possible to link back to what you have just been saying, but what progress has been made in integration and what needs to happen to encourage it at a faster pace? If there are issues whereby funding of social care is either a barrier or a help, if you like, it would be worth mentioning those two, because, clearly, there are issues there that are not helping, probably.
+
+[[[John Appleby]]]: Can I just clarify what you mean by integration? Integrating what with what?
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] Health and social care.
+
+[[[John Appleby]]]: It was a genuine question because it is one of those words that is used a lot now in health care. Are we talking about primary or secondary care, for example?
+
+[[[Chair:]]] David Tredinnick is not here.
+
+[[[John Appleby]]]: Okay, health and social care. I think everybody has recognised for a long time that closer working between health and social care is a must, and it does happen to an extent.
+
+[[[Q168 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] The question is to what extent.
+
+[[[John Appleby]]]: I cannot put a number on it, as it were. We know, for example, that hospitals and local authorities do talk to each other. They have joint committees on things and joint professional working and various other things. That is what I meant by “to an extent”. The extent to which it is not integrated is a big joint budget, out of which comes health and social care. Northern Ireland has gone down that route, but, looking closely at Northern Ireland, I would say that just having a joint budget does not guarantee professional working. If we really want to go for integrated health and social care services, which I think we should on quality grounds—whether it is saving or more efficient, I think we are not sure about that, to be honest—it has to be a combination of almost bottom&#x2011;up professional working with some top&#x2011;down. I do not think you can legislate for this simply by creating a budget. NHS England, the Department and the Local Government Association will be grappling with this big pooled budget in 2015&#x2011;16—nearly £4 billion—and that is meant to give a bit of a kick-start to integration. We have to wait and see what sort of plans the system comes up with then.
+
+[[[Q169 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] I will come back to that in a minute, but it is my view that it is not anything like £4 billion. It is not even the £3.8 billion. We had a question that stated it as £3.8 billion, but it is only £1.9 billion of new money, because the rest of it already exists, does it not? I will come back to that point.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: Yes. Despite all the pressures, delayed discharges have not gone up, so that is a bit of good news from the joint working. Average length of stay, which is one of the things where, in NHS numbers, you see some of the impact of joint working, also is improving. At the moment the big disappointment is that, whatever is happening across the system, however good local initiatives are and despite all the goodwill, as to avoiding emergency admissions we are not seeing that impacting at scale. One of the reasons why the system is beginning to see so much of the pressure is that people’s plans were very much that they would shift services from acute into out&#x2011;of&#x2011;hospital settings and that the out&#x2011;of&#x2011;hospital services would be a partnership between the NHS and social care. We are not seeing that activity coming down; so the acute are really struggling with that. We are also seeing disinvestment in real terms in primary care. One of the things, I imagine, is that for health and social care to work together effectively you need hospitals and social care, but, to send someone home or to avoid the admission, you need the NHS out&#x2011;of&#x2011;hospital services to work well together and to work well with social care. As people start to plan, that will be really important as well.
+
+[[[Q170 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] You talk about disinvestment in primary care. Is there any evidence that specific things were abolished or slimmed down and that that has had an impact? I only mainly know my own local area, but it did not seem sensible to me that the PCT, when we had one, closed down two walk&#x2011;in centres and a pilot of active case management, when active case management seemed to me to be the best way to try to keep people with long&#x2011;term conditions out of hospital. It seemed to be an insane way to go about efficiency savings, but that is what happened. Is there evidence that that happened more widely?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: Monitor has just done its study on walk&#x2011;in centres and we have seen quite a lot of those come to an end. Its analysis, if I remember correctly, was that the client group for that tended to be an under&#x2011;served client group—a lot of low&#x2011;income women and so on, who probably are not high users of other services so much at the moment, but less the sort of people who you would expect to be impacted, such as the frail elderly. You hear people talking about initiatives such as the locally enhanced services and directly enhanced services going, and some of that money was what people were using to support, in primary care, some of the innovation. Again, it is an area where there is so little good data and it is quite difficult, beyond organised anecdote, if I can call it that, to turn it into hard numbers.
+
+[[[Q171 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] The next question is about the integration transformation fund, to come back to the point with John Appleby, and not £4 billion but probably only the £1.9 billion of new funding. The rest of it, I have from the note, is the existing transfer between NHS and social care and things like the disabled facilities grant, reablement and carers’ breaks, which already exist. So, yes, it is a pooled budget of that size, but it is not new money. The question is about that amount of money, is that going to help, and—it is almost a leading question—is it enough? What impact is it going to make?
+
+[[[John Appleby]]]: In some sense, none of it is new money. The NHS has been transferring, as you say, up to £1 billion or so to local government anyway. That has just gone. There have been various other budgets that the NHS or the Department has managed, and then they have been reclassified and they are now over with the local authorities and so on. Once you add all these up—and there is again an extra £2 billion or so in 2015 of money that has been allocated to the NHS which will go into this pooled budget—it is £3.8 billion, but you are right to say, in a sense, that none of it is new money. Is it enough? It depends what you want to do with it. We do not know yet what the plans are. CCGs, health and wellbeing boards and so on have to come up with some plans by next April. I think it is going to vary tremendously around the country. There will be some areas that will do great things with this money and others that will not.
+
+[[[Q172 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] I am interested to hear you say that. Is that not rather depressing because is that not where we are just now with integration?
+
+[[[John Appleby]]]: Yes, of course.
+
+[[[Q173 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] Should there not be more of a blueprint?
+
+[[[John Appleby]]]: I have to say that there is a big fear on the part of the NHS that they have just waved goodbye to some of this money. There is a worry. I say it depends, crucially, on what is done with the money, but there will be an opportunity cost. It is money that, as I say, was allocated to the NHS, which is now going to be spent, in a sense by central direction, on something else and we are not quite sure what that something else is. Presumably, it is not what it is being spent on now. My question would be, what is the opportunity cost of this fund? 
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: My anxiety is that planning is happening too late for this and it is happening too late to co&#x2011;ordinate with the acute sector. This means that acute hospitals will need to deliver an efficiency saving in 2015&#x2011;16 of something in the region of 6%. If I look at last year’s cost improvement plans of foundation trusts, I think it was 3.4%, and they are declining. Let us assume that this fund is a fantastic success and in year pretty much everywhere they implement plans that are completely effective, they save significant numbers of hospital admissions and lead to a big reduction in average length of stay. What you have to do to make the money add up in year is then take all that cost out of the acute sector. Hospital costs are lumpy. They are people on fixed employment contracts—professional people in the main—and buildings. Taking money out is quite difficult. If this is going to work, first, we need to be sure, especially in areas where the acute sector is very fragile, that the plans are robust, and if you are going to hit the ground running at that speed you need to have planned very early; and then, secondly, there need to be well co&#x2011;ordinated plans with the acute sector, because, essentially, you need to know now broadly how far you are coming down and be planning in a very tightly co&#x2011;ordinated way to bring that capacity down. I do not see that. So I think we are at real risk of a very big crisis in the acute sector in that year.
+
+[[[John Appleby]]]: Just to localise this in a way, the £2 billion is about £10 million per CCG, roughly. If you want to divide up the £4 billion, you nearly double it, so it is a lot of money locally. That is very significant, just to reinforce what Anita said about what it means on the ground to local hospitals as well. 
+
+[[[Q174 ]]]&#xa0; 
+
+[[[Mr Sharma:]]] We heard the terms recently on the reconfigurations. In order to provide funds for integrated services, service reconfigurations will be required. We all accept that. Reconfigurations that lead to the closure of hospitals or remove services from hospitals—such as Ealing hospital in my constituency—are notoriously controversial with local communities and can take years to complete. The question is in two phases. First, how can reconfigurations that local health economies consider are necessary to preserve and improve the quality and breadth of services in a given area be implemented in a timely way? Secondly, will the recommendations of the Keogh review on urgent care, published last week, help to speed up the reconfiguration process more widely? They are lengthy questions and I can come back and repeat them.
+
+[[[John Appleby]]]: You are right, and this links back to where we are with productivity. The NHS does not serve biscuits at meetings any more, has low&#x2011;energy light bulbs and has done all these things. It has done that stuff and has been doing it for years, and you run out of doing that. You then start to look around at how services are provided. There is an area—I will not name it, but you could almost pick any area of the country, where—
+
+[[[Mr Sharma:]]] Pick Ealing.
+
+[[[John Appleby]]]: I won’t pick Ealing, but there are hospitals that deliver fewer than 100 births a year. That simply should not be going on, from the evidence, on safety grounds, so something has to happen there. But these are whole hospitals and the co&#x2011;ordination of managing the change, from that hospital either closing down or doing something different and so on, has always been difficult, and I am not sure that the NHS has always explained itself and the evidence properly to the public, for example. It is difficult, I think, and has become more difficult. One of the reasons for that is that in many areas we do not have a co&#x2011;ordinating body to oversee some of this stuff. We got rid of strategic health authorities. There may have been some very good reasons to get rid of SHAs, but one of the things they helped with was to co&#x2011;ordinate across an area. We now have a more fragmented system, in a sense. It is, in a way, typified by the letter that went round the system about the integration transformation fund that was signed by four different bodies. In a way it was good that it was signed by four, but it also illustrates what has happened to the system. Doing these things quickly, it seems to me, is still difficult and perhaps more difficult.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: There are a couple of things I would say. We need to be very clear as well that reconfiguration is not the same as merger. There is very little evidence that, if we have organisations that are in trouble, grouping them together does anything other than make the problem bigger and more difficult to fix. There is quite a tradition of that being a solution, so we need to be very clear that it is reconfiguration and underlying service change—not just restructuring the provider side, having restructured the commissioning side. Secondly, we do face some quite difficult tensions as well, don’t we? I should declare that I am a non&#x2011;executive director on the board of the Whittington in north London and find that, when you go out and talk to the public, the trade&#x2011;off between access and quality is quite difficult. Especially as more of our population has chronic disease, access really does matter to people, for completely understandable reasons. So it is about sorting out system-wide, which I think plays to John’s point. One of the things that is so good about the Keogh review is that it looks at this issue systemically, rather than dealing with it when it is at crisis point in an individual hospital, because there are some quite difficult challenges. The third thing is, of course, that we now have the Bournemouth and Poole decision from the Competition Commission, so, even if we all willed it, we may not legally be able to do it.
+
+[[[Chair:]]] That leads you neatly into your next question.
+
+[[[Q175 ]]]&#xa0; 
+
+[[[Mr Sharma:]]] I was tempted to put something else but will resist that. Sir David Nicholson has told the Committee that aspects of the competition framework applied to the NHS were hindering developments intended to improve patient care, and that changes in the law might be needed to make the regime work as intended.  Do you agree with that assessment?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: I have not read all the detail of the Bournemouth and Poole decision, so I could not say whether I think the Competition Commission made the right or the wrong decision. It is quite difficult to comment on that case, and that is the big one to date where competition policy has had a big impact. It is interesting that Monitor is calling in quite a lot of commissioner behaviour, and, again, it would be quite important to have a good look at what is coming out of that. There are some benefits to the improved rigour. On the point I just made about an awful lot of mergers not delivering, one of the things the Competition Commission in this process has said is, “You need to demonstrate benefit. You need to be very clear about where that benefit is coming from and you need to demonstrate that.” Given that all these reconfigurations cost in money terms and in opportunity costs—the management focus they bring—part of this process is a helpful discipline, but it will mean that the NHS will need to think about what on earth is the alternative if it is not able to do this. I am not a lawyer, but the Competition Commission in its judgment took the case under the Enterprise Act, not the Health and Social Care Act, and it took the case before the Health and Social Care Act was implemented. So there is an interesting issue about whether or not we could change it, because that is an enactment of EU competition law, and whether the genie is out of the bottle now, I don’t know, but certainly on that we cannot go back. 
+
+[[[Q176 ]]]&#xa0; 
+
+[[[Chair:]]] One of the things elected politicians have the power to do, if they choose to use it, is to change the law. I guess the question for us is whether the application of the law, wherever it originates from in this case, delivers good policy.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: Indeed. 
+
+[[[John Appleby]]]: The crucial thing, I think, is that it is the Enterprise Act, not the Health and Social Care Act. It points the finger more at foundation trusts and their basis as being considered as enterprises, so that is where you have to look for this. The other thing I would say is it is what the Competition Commission—  
+
+[[[Q177 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] So are the two Acts in conflict?
+
+[[[John Appleby]]]: In conflict, no, I do not think so. What I meant was that that is—
+
+[[[Q178 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] So in future they could have taken it under either.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: Yes, I think so.
+
+[[[John Appleby]]]: FTs are considered as enterprises and they come under the Enterprise Act, according to EU procurement law and competition law, so that is the issue. That is where the real issue lies. I do not think we should necessarily accept that the OFT, CC and, or soon to become, the—what is it called?—CMA— 
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: The merger of the two.
+
+[[[John Appleby]]]: Yes; I do not know who is looking into that merger! They have to learn their job as well, by the way, so it is not something that is committed in stone from right at the beginning. If you talk to the Competition Commission and OFT, they have to get to grips with an industry, and they are learning, I think, with the health care industry. Decisions will change over time as they learn how, in a sense, to do their job, but essentially their task is, for example, “Do the benefits of a merger, which reduces competition, outweigh the loss of competition?” They do not have to prove that competition is a benefit, by the way; that is simply a given. I would agree with Anita that it is pushing the NHS to think more deeply and harder about the cases it has to make to the public, the Competition Commission and so on, for why we should have mergers, a reconfiguration or a significant change in the way a service is provided. Frankly, it has not always been that good in the past at doing that. From that point of view, there is a benefit.
+
+[[[Q179 ]]]&#xa0; 
+
+[[[Andrew Percy:]]] We say it has all been useful and the case builds, but I have two questions on this reconfiguration issue. One, what is your assessment of the politics of all this and the political debate? We hear politicians on all sides saying, “To respond to the incredible challenge there is in the NHS we are going to have to have reconfigurations,” but the moment the reconfiguration drops on the ground, particularly if it is in a marginal constituency, it becomes incredibly political and it will not happen, or it may happen but it becomes impossible for politicians to support it. What is your assessment as to the damage that this kind of politicisation of every change in the NHS is having? Secondly, we all understand, as Virendra said, about the need for reconfigurations, but it makes me nervous because the constituency I represent is 257 square miles, spread across two different counties, and if they reconfigure services in my trust that means that people where I live have to travel 60 miles to Grimsby to access some of those services. That is not a local hospital and it then has a huge impact on access. When we talk about reconfiguration, the examples that are often presented are urban examples—okay, you may have to go from one bit of London to another or from the north of Leicester to the south of Leicester—and I am really concerned about where all this is going to end up for those of us in rural communities. I can see a situation where clinicians turn up, tell the local community that this is thoroughly the right and best thing for them do, and their services disappear 60 miles away, which then make them completely and utterly inaccessible. When we talk about this, I have not heard anybody saying, “What is the answer for people living in those rural and very isolated communities?”
+
+[[[John Appleby]]]: The first thing to say is that we should not assume that reconfiguration is about centralisation; it sometimes is, but it sometimes is not. In fact, I thought Lord Ara Darzi’s review Healthcare for London took a very interesting line. The strap&#x2011;line was something like, “Localise where possible, centralise where necessary.” The view it was taking was a sort of subsidiarity view, if I can draw that analogy.
+
+[[[Andrew Percy:]]] That has hardly been successful.
+
+[[[Chair:]]] You are not winning the argument with Mr Percy.
+
+[[[John Appleby]]]: Maybe scratch that analogy. Some services are much better provided face to face in people’s homes; other services are better provided at a GP’s surgery and so on. That is the approach that all medical health care systems have gone through and it is about trying to get that balance right. My first point would be, on reconfiguration, do not necessarily assume it is about centralisation. There is a trade&#x2011;off in bigger rural areas—of course. In a sense, for good reason, we do not have MRI scanners on the Isle of Skye, I don’t think, because we recognise that the expense of doing that is just too great, but in another sense it is also unfair because people who live there have to travel a long way. My father lives in Devon and has to travel a long way to get to hospital; I live in London where there is one on every corner virtually. There are these trade&#x2011;offs, and I do not think the NHS could completely resolve those. It has to do the best it can given the pattern of services.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: The Ara Darzi London experience is quite important because “Localise where possible, centralise where necessary” is a really important message, but, once you say that, what people see is the “centralise”; what they don’t see is the “localise”. When I look at the numbers, in terms of where the spending has gone, certainly if primary care is part of the “localise”, the money is not getting there. Understandably, if you are a member of the public, you would ask, “What does this localised better service look like? How do I judge it? How do I even see and feel that it is still there and you have not cut it from underneath me?” We have put comparatively little effort, I would argue, as a system, into describing, modelling and then showing people what the “localise” is, and then working out a way that communities can judge whether it is being delivered and holding people to account for it. In that environment, it is logical for local communities to feel great nervousness about what they are losing, when what they are supposedly gaining is so amorphous. To my mind, the thing that would make the biggest difference would be to work out what the “local” means and to provide good transparency and accountability so that people could have some confidence in that before they let go of what they feel is a loss.
+
+[[[Q180 ]]]&#xa0; 
+
+[[[Andrew Percy:]]] That is important. At my local hospital we lost all acute admissions because of safety concerns, and, in terms of that, we have had various diagnostics bought—MRI scanners, eye clinics and all the rest of that—but people do not see that, and the NHS is dreadful at making the case around it. I still come back to the point that that is fine, but when your stroke service goes—they might say, “Once you are out of the acute phase, we will take you back to your local hospital”—and you need thrombolysing and all the rest of it, and that happens 40 or 50 miles away but it used to happen at your local hospital, it is a massive loss of service.  
+
+[[[Chair:]]] It did not happen.
+
+[[[Andrew Percy:]]] It did in my case, but it has gone—or, rather, it has come to mine, but has gone from somebody else’s.
+
+[[[John Appleby]]]: There is not an easy answer to this, and I was trying to make the point that ever since the NHS came into existence it has been struggling with a historical pattern of services, and it is, on cost terms, unreasonable to provide the sort of access that somebody would get in the capital of the country. That is just how it is.
+
+[[[Q181 ]]]&#xa0; 
+
+[[[Andrew Percy:]]] You have both neatly avoided my invitation to condemn politicians for their role in this reconfiguration.
+
+[[[John Appleby]]]: We are economists.  
+
+[[[Q182 ]]]&#xa0; 
+
+[[[Andrew Percy:]]] This is my concern about over the next 18 months. Some of this stuff probably needs to happen, but we are going to see one hell of a political fight over the next few months on the ground whenever there is any proposal to reconfigure a service, so I do not know how it is possibly going to be delivered.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: I come back to my point that these are the services that really matter to local communities. I do not buy the argument that you could take the politics out of this. They really matter to people. There has to be more of a sort of deal or an informal contract. The NHS has to give politicians a better case to defend—a better&#x2011;made case and a better overall case—and then, in exchange for that, people have to be prepared to support it where possible. There are examples where that is happening, but it has to be a really good, strong case, has it not, which has to focus as much on the “localise” as the “centralise” to be a credible offer for most people?
+
+[[[John Appleby]]]: It is difficult to comment on the politics, but you have to recognise that there are going to be losers, or that people will feel some loss in some of these decisions, and there will be gains. That is a very hard thing to present to people, especially the losers. In a sense, how do you compensate them? Maybe you cannot, but you can point out that maybe their safety will improve because the system has been centralised a bit. But I recognise the dilemma and it is difficult.
+
+[[[Q183 ]]]&#xa0; 
+
+[[[Andrew Percy:]]] But explaining to Mrs Smith how she would be better treated 60 miles away rather than around the corner is an argument we cannot win often.
+
+[[[John Appleby]]]: Another solution is to put more money into the system and then you simply say, “We will pay for that access.” 
+
+[[[Q184 ]]]&#xa0; 
+
+[[[Chair:]]] But before we go too far down that road, just putting more money into a system does not make it possible to have efficient stroke units with proper staffing on every street corner, does it?
+
+[[[John Appleby]]]: No. You would have to put a hell of a lot of money in to do that. I do recognise that, but that is a potential—  
+
+[[[Chair:]]] You would have a lot of stroke specialists on the beach for quite a lot of the time.
+
+[[[Q185 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Have you made any assessment of the total cost of all the legal challenges and how much that has increased since the Health and Social Care Act, although I am interested that you say it is actually the Enterprise Act? Has there been a remorseless rise in the cost of litigation around these challenges?
+
+[[[John Appleby]]]: In Bournemouth and Poole, they quote themselves how much they have spent, and it is something like £5 million to £6 million.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: On advisers.
+
+[[[Q186 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] That is Bournemouth and Poole between them.
+
+[[[John Appleby]]]: Just Bournemouth and Poole have spent £5 million to £6 million in terms of preparing their case, advisers, legal advice and economic competition advice.
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] That is a lot of doctors. 
+
+[[[Q187 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Has anyone made an assessment nationally as to how much is being spent on legal advice for these reconfigurations?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: No.
+
+[[[John Appleby]]]: I am not aware of that.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: That data is not routinely collected so, at the moment, you would have to ask everybody, I guess with a freedom of information request, to tell you. You cannot see that in people’s accounts.
+
+[[[Q188 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] You would have to send an FOI to every single foundation trust that was thinking— 
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: That is the only way I could get it. There may be other avenues but, for me to get it, that is what I would have to do, yes.
+
+[[[John Appleby]]]: Perhaps I could also say that it is not simply money out the door to consultants. It is also the opportunity costs of managers’ time and commissioners’ time spent in meetings and so on, which does not, in a sense, appear in the accounts as, “This is what it cost us.” It is sometimes quite difficult even for organisations themselves to know quite how much they have spent on this sort of thing.
+
+[[[Q189 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] On a slightly linked issue, we have had evidence from Monitor saying that too many CCGs are putting things out to tender when in fact they could be making a judgment around integration trumping competition in patients’ best interests and avoiding that route. Have you made any assessment of the costs of these unnecessary tendering operations? Is it your view that it is a waste of money, and is there any financial evidence that we can use to persuade CCGs not to do this quite so often?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: The cost of the tendering process should be part of the decision making. It is not the only one. The issue that Monitor’s points highlight is that these are really complex decisions, such as, “Is this a service? How do we configure this service?” First of all, you have to have a really good understanding of your needs, how your service is doing at the moment, what the different options are for that service, what the marketplace looks like and the capacity of your current providers versus alternative providers. Then you need to run a procurement process. That first bit is the sort of thing that I think good commissioners would do. It is commissioning, is it not? In essence, it is the point of commissioning. If you do that well, you decide whether to run a tendering process or not and whether the potential benefits from the tendering process outweigh the costs of going through that process. The problem is the immaturity of the commissioning environment so, in essence, it is the clash between a sense that they have legally to do all this tendering to be compliant, yet, in very many cases, all that prior good deep commissioning work around these services is probably not there. If you tender a service where you have not done the prior work, you are almost certainly not going to have an effective tendering process. There is a real issue about whether there should be something of a moratorium while they say, across the system, that people ought to be spending this year and maybe next year establishing the core building blocks of being a good commissioner. At the end of that they would probably be in a position to tender. There will be some exceptions to that where there are particular local imperatives, but that is the real issue. At the moment we have a system that, if it were going to work, requires immense sophistication of commissioning at a point where the commissioning system is just trying to work out whether it has the data in the right place and knows what bills it is and it is not responsible for. It is focused on sorting out the transactional stuff. The strategic stuff feels a long way away. 
+
+[[[John Appleby]]]: I have one— 
+
+[[[Chair:]]]  Yes, quickly, because I have one eye on the clock.
+
+[[[John Appleby]]]: Very quickly, looking at Monitor and what it can do, I agree that people are learning their roles here and I feel that Monitor could be providing more advice, for example. CCGs are quite fragile organisations in many respects in terms of their capabilities, skills and so on. It is easy to see how they may react to things by saying, “We must do this,” when in fact they do not quite know. My recommendation would be that Monitor could perhaps take on more of an advisory role here, and in fact it has done. The Cooperation and Competition Panel, which it has absorbed, used to try and advertise, “Come to us first. If you think of a merger, come to us first and we can talk about it and give you some advice.” 
+
+[[[Q190 ]]]&#xa0; 
+
+[[[Chair:]]] We are going to be seeing Dr Bennett next week, so we might take that advice up with him. Can I move us on, because one of the things Anita Charlesworth just said was that maybe we should take two years to get the system moving? One of the problems that increasingly seems to be coming to the fore is the danger of developing burning platforms, particularly on the provider side, and increasing numbers of trusts—foundation and non&#x2011;foundation trusts—reporting deficits. The Committee would be interested to know your perception of where that process has got to and what the one to two&#x2011;year term looks like regarding the emerging deficits in trusts.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: My view on this is that we have a fair degree of stability, if you look at the underlying numbers—the NAO strips out all this support that was floating around the system—with slightly over 40 trusts that were in deficit by the end of 2012&#x2011;13, which is fairly similar to the 2011&#x2011;12 position. Despite all the focus on some of those, we are finding it very difficult to resolve those issues, and progress is much slower on resolution than we had thought. The big risk now is that it looks like we are going from a minority position, albeit quite a big number, to something that looks much more systemic. Monitor looked at the impact assessment of the payment system. If pay and prices turn out as it expects next year and the NHS delivers 3% efficiency rather than 4%, with no extra cost pressures from things like Francis and Keogh, 45% of acute trusts would be in deficit. That is the estimate. So we have a system now that feels as if, for an awful lot of providers, they are at a tipping point. There was a strategy development that said that deficit would be a rare thing and what we would do is send in a team, work out a local solution, put a huge amount of effort in and bring you out as a sustainable organisation. It looks like it is going to be a very common thing—we do not really know—and there is not a plan, I think, for it being a very common thing.
+
+[[[John Appleby]]]: For quarter 1 this year, I think Monitor reports that 48—mainly acute—trusts are in deficit compared with 36 in quarter 1 last year, so the numbers are creeping up. The Trust Development Authority reports 31 trusts planning a deficit by the end of this year, and that is up by five since the beginning of the year. These are still a minority, but they are a significant group. I would emphasise that this large group of foundation trusts is what Monitor will call the S&#x2011;curve. What is the surplus? What is the deficit? You have a small group making quite big surpluses and a smallish group making deficits or losses. You have a big group that is hovering by fractions of a per cent—in many cases, just above 0%. It would not take much pressure on them—for example a reduction in the prices that they get for their goods and services and so on—and you could expect that, for quite a lot to tip over into deficit. The short term at the moment does look quite grim. Monitor would say that it is not a crisis, but it would leave that “yet” sort of hanging in the air. It is very difficult. Again, talk to trusts and they will say they are feeling very big pressures, and come 2015&#x2011;16, which is not that far away now—a year and a bit—it could be, picking various metaphors, a turning point, watershed or cliff edge, because the money is not completely coming out of the system, but the pressure on the hospital sector, in particular, could be such as to tip a lot of trusts over into deficit. 
+
+[[[Q191 ]]]&#xa0; 
+
+[[[Chair:]]] Related to the ITF.
+
+[[[John Appleby]]]: Yes.
+
+[[[Q192 ]]]&#xa0; 
+
+[[[Andrew George:]]] Could I, because of time, wrap up a number of questions in one? To what extent is that pattern of increased numbers of deficits in foundation and other trusts the result of the alleged cherry-picking that has been going on of many procedures by private hospitals or private providers, particularly for elective procedures? To what extent are those substantial private alternative providers of elective surgeries and elective procedures themselves facing deficits, or are there none? The chief financial officer of the trust and its main competitor, which sits on its doorstep, got together in my own area and looked through the very complex tariff system. I do not know whether either of the two of you have looked at it, but you certainly need a long time in a darkened room with a wet towel, and you probably need your head tested at the end of it as it is the most complex system. I am not sure that many follow the tariff system and claim for every element that is available to them. To what extent do you think that it is not the tariff system that is causing the difficulty for a lot of acute trusts, but the winter pressures? Also, is the Government’s £250 million additional fund going to be sufficient to help those trusts that are under this financial pressure? I am sorry to have lumped that all together, but I am aware of time.
+
+[[[John Appleby]]]: I can give one&#x2011;word answers if you like. The first one is no. As to the second one, I cannot quite remember what the question was. The tariff was the third question, I think.
+
+[[[Q193 ]]]&#xa0; 
+
+[[[Andrew George:]]] Okay. It was about the private providers, so your answer to that is that you are not aware of it.
+
+[[[John Appleby]]]: I do not think so; I do not think that is a major issue in this. Is the tariff too complicated? Yes, it is quite complicated. The real issue with the tariff and some of the other wagglings of the price lever—for example, hospitals being paid only 30% of the tariff for emergency admissions above a certain level—is that it has hit nearly all hospitals, because we have seen a rise in emergency admissions. That has contributed. As to the £250 million, it is now £150 million on top of that apparently going in, so it is £400 million. It is probably too little too late. There is a colleague of mine— 
+
+[[[Q194 ]]]&#xa0; 
+
+[[[Chair:]]] I am sorry, but the additional £150 million had escaped me.
+
+[[[John Appleby]]]: I saw it announced in the Health Service Journal today that on top of the £250 million there is another £150 million. I have no idea where that money is coming from, by the way, but I think it is as a result of complaints by a lot of trusts, which said, “Why are you rewarding failure?” That is one way of looking at it, I guess. Anyway, that money, it seems to me, is too little too late. As a colleague of mine, Nigel Edwards, would say, “You have to start planning for winter in February.” You have to have a really long view on these things. I should point out that this is what the NHS has done for a lot of years: it has found a few hundred million at this time of the year in winter to keep things going. It is not an uncommon thing, but it does seem to go against the general thrust of what the Health and Social Care Act is about—the general movement, independence and so on—to say, “Here is a bit of extra cash to keep you going.” But I think it is too little too late.
+
+[[[Q195 ]]]&#xa0; 
+
+[[[Andrew George:]]] Do you think that the current review of the tariff&#x2011;based system can ever get the satisfactory equilibrium to drive cherry-picking out of the system—or, rather, the allegation that there is cherry-picking going on out of the system?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: Within the cherry-picking there are two things. One is that non&#x2011;NHS providers—the voluntary sector and private providers—have become a much bigger part of the delivery of care over the past five years. We have doubled the amount of the NHS budget spent with them. If they are delivering that efficiently and delivering high quality, in one sense, does that matter? In terms of cherry-picking, if it is priced rightly so that they are efficient and high quality, does it matter? I guess it might still matter if you have what is called stranded capacity—if you have capacity in the NHS that you are paying for, but are struggling to afford that higher level of activity. It is becoming quite a significant amount of money. As to the tariff system—the Committee, I think you said, has seen last year’s report and it is really important—it does not deliver efficiency. It does not change any of the financials of the NHS. It says whose job it is to drive out that efficiency. Where the tariff matters, I think, is that we set it correctly so that we price things properly to reflect the cost, but not too much. My concern at the moment is this. People spend a lot of time worrying about whether we should bundle more things up into the tariff and things like that, but we should worry a lot about whether we are setting the prices right. If we do things such as systematically underprice maternity, we will lead to people being in difficulty who might be perfectly efficient. Equally, if we overprice some bits of complex surgery, we will make people look very good financially when actually they could be very inefficient. That does not help the system overall; it means that where the problems emerge may not reflect what is underlying them. So I would like much more focus on getting the prices right.
+
+[[[Chair:]]] Can we move on? 
+
+[[[Q196 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[: ]]]As to the extra amount of money, was it £150 million? 
+
+[[[John Appleby]]]: Apparently. I saw it in a news story reported in the Health Service Journal today.
+
+[[[Q197 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] Is this on top of the £250 million that the Secretary of State announced— 
+
+[[[John Appleby]]]: Apparently, yes.
+
+[[[Q198 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] As for the winter crises that you mentioned over the past two years, do you think this £250 million has anything to do with them being in crisis because of what is happening with the NHS funding?
+
+[[[John Appleby]]]: I think it is extreme worry about what is going to happen in A and E over the winter that has prompted this.
+
+[[[Q199 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] This extra £150 million on top of the £250 million.
+
+[[[John Appleby]]]: Yes. The £250 million is about A and E, and this is also about A and E, so it is a barometer of worry.
+
+[[[Q200 ]]]&#xa0; 
+
+[[[Andrew Percy:]]] Some trusts were not allocated any money.
+
+[[[John Appleby]]]: Yes, exactly, and there have been quite a lot of complaints from trusts next door to each other where one got some money and another did not, and there was an argument about that. 
+
+[[[Q201 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] So wherever this money is coming from, do you think this is as a result, over the last two years, of the difficulties that there have been in NHS funding generally that they face?
+
+[[[John Appleby]]]: It has happened, in my experience, in the NHS virtually every year since its existence in some sense. There has always been somebody who has a back pocket somewhere—good finance people always do, as it were, and— 
+
+[[[Q202 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] But as much as this—£250 million?
+
+[[[John Appleby]]]: It is around this sort of figure, yes, and it happened, I think, the year before and the year before last. It is announced in different ways. Sometimes it is announced as an initiative; sometimes it is simply just distributed throughout the system.
+
+[[[Chair:]]] Sometimes it is not announced. We have a quick question from Andrew on allocations and then we need to move on to the second panel.
+
+[[[Q203 ]]]&#xa0; 
+
+[[[Andrew George:]]] The allocation of resources currently is a hot debating issue. Are you satisfied that the balance is right in relation to areas with deprivation against those with an older age profile, bearing in mind that the actual allocations themselves have always lagged, or, rather, the pace of change has always been incredibly slow? Do you think this is a rather pointless exercise anyway because they are not going to be moving at any great pace towards their target, are they? Or are they not?
+
+[[[John Appleby]]]: They are not. What you are referring to is the way we allocate money centrally to areas across the country. We do have the most sophisticated formula for allocating public money in the world, I think. The number of econometrician person hours that has gone into developing this very complex formula is almost unbelievable.
+
+[[[Q204 ]]]&#xa0; 
+
+[[[Chair:]]] Is “sophisticated” a synonym for complex?
+
+[[[John Appleby]]]: It is complex, but it is also sophisticated according to the meaning of the word “sophisticated”. I am not just using it as a synonym. There have been arguments going back to the mid&#x2011;1970s in local areas. When I worked in the health service, we had a standing committee in the region that would deal with arguments locally about who got how much according to the formula. It is a sort of no&#x2011;win situation, I think, and at the moment there is no real extra money to reallocate, so everything has ground to a halt in terms of any change. There are quite big differences. Is it Manchester that gets about 1.6 or 1.8 times more money than Oxford, for example? That is what the formula produces, if you like. There have been arguments about making it much simpler, and that the sophistication is a sort of over&#x2011;sophistication and it is just over-complex. So, yes, it is a bit of deprivation, mainly driven by age and population size. In fact, the extra that the sort of deprivation and other factors add over and above taking just the population and the age structure is not that much. It is a very small amount of difference. 
+
+[[[Q205 ]]]&#xa0; 
+
+[[[Dr Wollaston:]]] Can I come back on this? The other issue for rural areas, of course, is the cost of delivering services there. Sparsity is not factored in at all, and yet you can have a population of very high need because they have such an elderly health profile, which makes it very difficult for them to provide resources. Just looking at the issue of section 136s and places of safety, there is just no provision, effectively, in some rural areas, which is why they have such high use of police cells. Is that an issue that you think needs to be addressed? 
+
+[[[John Appleby]]]: It is partly an empirical matter about what the differences are in cost. For example, there is a so&#x2011;called market forces factor, which tries to take account of the different costs of labour employing people in different parts of the country. Salaries in London are higher, because it is London, and there is some compensation for the south&#x2011;east. Similarly, there may well be a case for a sort of rurality or sparsity&#x2011;type payment. All you would be doing is taking a bit more money out of London to do that, I would suggest, but that is not necessarily a bad thing. It is an empirical matter, I think.
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: Can I add one thing? An awful lot of work and energy goes into the formula, but I think, especially now, when resources are so constrained, there has been much less focus on how you implement the formula and how you make change happen. There are two things there. One of the things that happened routinely was that you got your allocation and, if you were a growth area, you were then set something called a control total, which was what bit of your allocation you were allowed to spend, which was agreed. By and large, that meant that, if you were a growth area, you had most of that differential growth taken away because someone else might need to be bailed out. Then you think, “What was the point of the allocations process?” We need to decide how we are going to do resource allocation, which is informed by good empirical work but is significantly a policy question. But then, if you do not align the rest of the system to it and work out how you are going to move out around real resources, people, buildings and so on, you end up back where we were, where people have a theoretical allocation and then the reality of their control total, which just undermines all the credibility and discipline in the system and is counter-productive.
+
+[[[John Appleby]]]: There has been some work done by two economists, Professor Matt Sutton at Manchester and Professor Nigel Rice at York, looking at the impact of the weighted capitation system going back to 1970. Their conclusion, in a nutshell, is that it has done almost nothing in terms of the central objective, which is equal opportunity of access for those in equal need, which was the starting point for the original working party, RAWP. We have had over 30 years of moving billions of pounds around the country, but, as Anita points out, you give with one hand and take with another. There is no real— 
+
+[[[Q206 ]]]&#xa0; 
+
+[[[Chair:]]] We have had 30 years when we have talked about it, but we have not actually moved the cash. That is the key point, is it not?
+
+[[[Anita ]]]
+
+[[[Charlesworth]]]: Yes.
+
+[[[Chair:]]] Okay. On that note, thank you very much for coming once again. I suspect you will be back on another occasion. Thank you.Witnesses: 
+
+[[[Matt Tee]]], Chief Operating Officer, NHS Confederation, 
+
+[[[Councillor Katie Hall]]], Chair, Community Wellbeing Board, and 
+
+[[[Andrew Webster]]], Associate Director of Health and Care Integration, Local Government Association, gave evidence.
+
+[[[Q207 ]]]&#xa0; 
+
+[[[Chair:]]] Thank you very much. Thank you for waiting patiently during the previous session. I think I am right in saying that Andrew Webster has been before but Katie Hall has not. Could I ask you very briefly to introduce yourselves in your current roles?
+
+[[[Matt Tee]]]: I am Matt Tee and I am the chief operating officer of the NHS Confederation.
+
+[[[Councillor Hall]]]: I am Katie Hall, chair of the Local Government Association’s Community Wellbeing Board.
+
+[[[Andrew Webster]]]: I am Andrew Webster, director for integrated care at the Local Government Association. 
+
+[[[Q208 ]]]&#xa0; 
+
+[[[Chair:]]] Thank you very much. I would like to begin, if I may, by going straight into the same basic question that I asked the previous panel of witnesses. In the NHS context, it tends to be referred to as the Nicholson challenge, partly because that is what we in this Committee have called it, but the efficiency challenge—the requirement to deliver care from a budget that is, at best, frozen in real terms in the NHS, and reducing in many parts of local government—is the core challenge across the health and care system. I would like to hear each of your views as to how we are getting on with that process—both where we have got to but, more importantly, what it will feel like over the next two years and looking forward into the second half of the decade.
+
+[[[Matt Tee]]]: It feels tough. I would say that 20% of our members say this is the worst financial situation they have seen in their time in the health service, and we have some very long&#x2011;serving people. So far, it feels to me that what the health service has done is the relatively easier parts of taking money out. The health service has unquestionably been helped by the effective pay freeze for the last couple of years. Experience tells us that after a pay freeze finishes, pay bounces back again to a degree. As to the changes that we have heard about already in terms of estate and one&#x2011;off money coming from that, and the slimming down of management costs, we are getting to the end point of those. It was quite telling for me that in our annual survey of our members there has been a real shift from where they think they are getting the money from in future. We have shifted from the things we have just mentioned into needing to change the way we provide services, and there is a significant shift happening in thinking around where the money will come from in the future.
+
+[[[Q209 ]]]&#xa0; 
+
+[[[Chair:]]] Is there any evidence of that happening on the ground?
+
+[[[Matt Tee]]]: No. Where we are at is people realising that they have reached the end of the road on the easier changes and the easier ways of taking out money, and that they now need to start doing the very difficult stuff. That would be where I would put it, I guess. You asked about the next two years and it feels very tough for me. There is a degree to which the NHS has always said, “This year is just about manageable, next year looks very tough and the year after is impossible.” For our members in hospitals, particularly in district general hospitals that do not provide community services, 2015&#x2011;16 looks really tough indeed. The effect of the ITF, which I am sure we will come on to talk about more, is being taken as being a very difficult period. We heard that it will require efficiencies, on average, of 6% in hospitals. For the DGHs that will be probably more than 6%, and it looks very tough indeed.
+
+[[[Councillor Hall]]]: From the local government point of view, when we presented evidence to this Committee a year ago we had a picture of real pressures and inevitable future service reductions. A year on, things are worse than they were. From our point of view, in very challenging times, we have maintained service delivery, but we really have reached the limit of the efficiencies that we can take in the services that we provide.
+
+[[[Q210 ]]]&#xa0; 
+
+[[[Chair:]]] Do you want to add to that?
+
+[[[Andrew Webster]]]: It is worth dwelling a little on what the membership are saying as well. Every year the Association of Directors of Adult Social Services does a survey of the budgetary position as perceived by their members, and, up to date, they are reporting that, of the £2.68 billion that has come out of the budget over the last three years, three quarters has come from efficiency, 7% from increasing charges and the remainder from service changes. The vast majority of the savings thus far have been delivered by being more efficient, holding down prices and restructuring the way in which the services are organised without having a substantial impact. But they are overwhelmingly saying that they see in future that they are going to have to change the model of service quite dramatically in order both to continue to meet the equivalent-and-a-bit-more saving requirement over the next three years, and the ongoing demographic pressure of about 3% per annum, which they always have to cope with. The position is that, while it has been very tough, it has been weathered, but people’s confidence that that can continue is reducing. We are also seeing public anxiety about that increasing. Three years ago the MORI surveys were showing that most people felt that older people’s care was not something that was very high on their worry list; now it is at the top of their worry list because they perceived that the systems that support those people to remain independent are under huge financial pressure and they do not see how that is going to be squared.
+
+[[[Councillor Hall]]]: That 3% a year pressure translates to £400 million a year needed just to stand still while, in fact, obviously there have been substantial cuts to the local government budget.
+
+[[[Q211 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[: ]]]We have touched already on social care. What do you think the prospects for social care are now in the current year? The LGA has mentioned increasing levels of legal challenge about service provision. How great do you think is the risk that local authorities will not be able to meet statutory obligations in connection with social care?
+
+[[[Andrew Webster]]]: The first thing to say is that legal challenge to social care entitlement is not new. It has always been in the system, and one of the reasons why lots of people in the social care sector welcome the current Care Bill and the process that led to it is that it provides a much clearer statutory footing for entitlement and for distribution of services. That being said, without the detail of that new framework being clear, whether it is deliverable or sustainable is a question that in fact nobody can answer, because we know that the current arrangements are under significant pressure and our interpretation of the legislation is that those pressures are likely to be increased by it, rather than reduced. But we have not heard yet—and we could not yet have heard—the Government’s response to that in terms of the detailed regulation and the funding of those burdens, once they are placed on the system by that new legislative requirement. The current system has been sustainable with a degree—and slightly increasing degree—of challenge, but how it will work in future once the Act comes into force in 2015&#x2011;16 we cannot yet predict.
+
+[[[Q212 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] Sarah Wollaston and I were both on the Joint Committee that scrutinised the draft version of the Care Bill, and it is fair to say that the people we heard from might have welcomed the framework, but wanted an eligibility criteria of “moderate”. I think we heard that again and again, and, if that is not likely, that reduces support for the framework, because a framework that alters everybody on to “substantial” is a different thing.
+
+[[[Councillor Hall]]]: We obviously do not know the detail of that framework yet. It is something that we wait to see and we cannot see what challenges there will be until we implement it.
+
+[[[Q213 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] Of what you already know, disregarding any new burdens—because if there are new burdens they ought to be funded—from what you know of the—  
+
+[[[Chair:]]] That is a new doctrine.
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] Indeed. I mean from what you already know about funding coming up for the current year and the following year.
+
+[[[Councillor Hall]]]: There are certain areas, on which Andrew could give more detail, where we would say we are still arguing that certain burdens are new burdens and need to be funded as such. There is not always recognition that all the things are additional new burdens that need funding because we simply cannot fund them all out of our existing budgets.
+
+[[[Q214 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] We are moving now on to integration as well as reconfiguration, and I think you have heard some of the questions and the discussion we had earlier. Could you give us your view on how you fit the two together—the integration and the reconfiguration—and make sure that that all happens, taking the local communities along with you? 
+
+[[[Matt Tee]]]: Can I kick off on that? It is a point well made and I thought the session earlier was very interesting. It seems to me that we have to be careful that by “reconfiguration” we don’t just mean closing hospitals. For me, what we have is a health service that is largely structured for dealing with the episodic care needs of the 1960s and 1970s, and what we need now is a care service that extends beyond health, which looks after the frail elderly with complex needs, people with multiple chronic conditions and so on. We know that, for a lot of those people, a hospital is not the best place for them to receive care. For me, when we talk about reconfiguration and integration, I start with the needs that we are facing in society and ask, “How do we best work with these needs?” If you are an elderly person with complex needs and you are frail, you have a range of needs that you will not personally probably recognise, as to whether it is a health need, a social care need or indeed a mental health need. For me, that is the starting point for integration. That is where we start saying we need to deal with the care needs of individuals, not with the way the system is structured at the moment and doing it for our convenience. When I talk about reconfiguration, it is part of a journey that gets us to providing care in different settings in different ways. Part of the consequence of that may be that we do not need all the hospitals we have to do all the things that they currently do. When we start the discussion from that point of view, about people’s care needs, rather than starting it from a position that says, “We have too many A and E departments and we should close some,” we start to have a better conversation about how we begin to do some of that. It is painfully difficult. If it was easy, we would have done it 30 years ago—and we have not. The Department of Health, I think laudably, has launched some pioneers in integrated care, which is a great thing. We have been trying this for 30 years, and to have some pioneers now is a great thing, but it shows how difficult it is. One of our worries would be that people begin to come up with what they think are easy solutions or quick fixes to get us to that point. Having more integrated commissioning may be part of the answer to that, but, if having all the money in one place was the answer to integration, we would have integrated physical and mental health care at the moment and we do not. It may be part of the answer, but there are more things. For me, it is really important when we are having the conversation—whether it is between health and social care, health and politics, or health and the public—that we start off with the care needs of individual people. 
+
+[[[Q215 ]]]&#xa0; 
+
+[[[Valerie ]]]
+
+[[[Vaz]]]
+
+[[[:]]] Do you think the current structure helps or hinders that conversation?
+
+[[[Matt Tee]]]: If it did not hinder it to the extent it did, we would not be having this conversation. It is not just the structures; it is almost everything about it. We have separate providers for mental health care, physical care and social care. The economies that fund those care systems are different. About half of social care is provided by the public sector, sometimes through private providers, and some of it is personally funded or insurance funded. Most of the care that takes place in a health care setting is publicly funded through an NHS England commissioning route. All those things have arisen for good historical reasons. Some of those things are no longer fit for the purpose we need them to be.
+
+[[[Councillor Hall]]]: From our point of view, the profile of integration has grown enormously over the past year. The enthusiasm for it across the country can be seen from the fact that there were more than 100 areas bidding to be pioneers and we now have the 14 that are taking place. Of course, in addition to that, there are also areas such as my own in Bath and north&#x2011;east Somerset—and I have a couple of examples I could share with you here—where there already is a certain amount of integrated work, which was happening due to individuals in the area building relationships and talking to each other over time. As Matt has said, you cannot just put in a pot of money and assume everything will follow. It can be a huge trigger to helping people rewire their services and develop them in a way that is geared around the person, rather than around the existing provision, but on its own it is not enough. Health and wellbeing boards are established in all localities now, and I think the opportunities are there to develop their capabilities so that they can really be the leaders in driving this change where you have people from local government, social services, the hospitals and from the CCGs. Everybody is talking to each other now in a far greater way than they have done, and that is happening everywhere to a different degree, obviously, but the relationships are better and in more depth than they have been.
+
+[[[Q216 ]]]&#xa0; 
+
+[[[Chair:]]] Can we push a little bit on this? We hear that and that is a very clear positive message, if we are going to deliver more joined&#x2011;up services. Sir David Nicholson said the ITF is a game changer and it requires people to work together. But, equally, we still hear health service managers looking at ITF money as “our money”. It is quite a culture shift for an NHS manager or NHS clinicians to enjoy exchanges with local government through a health and wellbeing board—I wonder how far down I can ever get these four words in the right order—“forming, norming and storming”, and I am not sure what the fourth one is, but you know what I mean. How far down that spectrum have we got?
+
+[[[Councillor Hall]]]: I know what you mean and I never get them in the right order either. There is a variety of different experience in different areas and we have—and I am going to forget our own words now—a series of ways in which we are supporting health and wellbeing boards to develop these capabilities, and we are setting out different models of where you will be as you move from being a nascent health and wellbeing board, which is not the word we use, for which apologies, to a mature and exemplar one. Different places are at a different stage with all of this, and we recognise that there are still some areas where there are tensions. But overall, I think— 
+
+[[[Andrew Webster]]]: Can I add three things to that? First, I think that the creation of clinical commissioning groups has changed that landscape considerably in that the engagement of general practitioners is now much higher in those conversations. Councillors and general practitioners are the two groups of people who persistently have to confront the people the system has failed, and they bring that drive into the system in the way that previous arrangements between managers of systems did not.Secondly, there is a strong clinical recognition, as Matt was saying, that the existing model does not work for the people it most needs to benefit. Therefore, the lead clinicians in the hospitals and in the communities are driving change. Thirdly, while it brings huge challenges, the era of austerity means that the option of spending a little more money at the margin is not available to anybody. Therefore, if there is going to be some significant change, it involves re&#x2011;engineering what we already have and what we are already spending, and that is a different type of conversation and can be a game changer. The evidence that we have is very early evidence from talking to people who are trying to implement the integration transformation fund, and that is not straightforward because all the rules are not yet clear, but people are obviously getting on with it because they want it to succeed. The evidence is that those conversations are happening in a very positive way in many parts of the country and that, given the right framework and rules, people will get to a place where they feel that they can create a genuine integrated plan.
+
+[[[Councillor Hall]]]: I have recently heard a story where a CCG is considering spending some money on gritting, because local authorities have strict criteria about where they grit—whether it is a steep hill, busy or whatever—and they are going at it with one particular approach. The CCG is thinking, “Where is it that the frail elderly have slipped in the past and the council has not covered those areas? Shall we work together and spend some of this integrated money on gritting?” It does not cost very much money to do it, but they are pushing at a different angle to try and reduce the number of people who end up with a fractured hip. So, by spending a very tiny amount of money, you reduce the number of people getting injured.
+
+[[[Q217 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] That is horrific. I understand the principles behind what you are saying, but the health service needs to do health stuff and local government needs to do that which it does. As with everything else, they are lovely warm words. We all believe in “integration”—motherhood and apple pie—but, when it comes to it, what would the reaction of the general public be if you were to say to them, “We are going to cut the budgets of local authorities to the bone, so they cannot do x, y and z, but that is okay because while we are taking money out of the health service, we will use that to grit your roads”? A public health professional who sat in the seat you are sitting in when we were doing another inquiry responded, “Some people may think that filling potholes is a public health duty.” Why don’t we just dump all the money in a pot and everybody grab a bit? I am quite sure that people who are sitting listening would not be happy with the idea that they cannot get an operation or the drugs that they need, but meanwhile health service money that they are paying via their taxes into the health service is being used to grit roads.
+
+[[[Chair:]]] Rosie, that is a fair challenge. Could Matt Tee have a say on this question and then we will move to Barbara?
+
+[[[Matt Tee]]]: I think, in terms of the integration, and particularly the conversation between local government and health, we have a paradox here. The paradox for me is that the conversation is quite difficult because we are both financially pressured. I am not wishing to have a competition about who is most financially pressured, but we are very financially pressured, which makes the conversation difficult. In many ways, if we were not financially pressured, we would not be having the conversation and it is making best use of a crisis, I guess. For me, the nature of that conversation has changed materially over the last five years. We now see a vested interest in speaking to each other and in co&#x2011;operating across boundaries. Five years ago, if you had had a hospital chief exec sitting here, they would be saying, “My only interest in local authorities is why they don’t take the people I want to discharge,” and it is now a much better conversation about a system. It is not there; there is still a way to go.You talked about ownership and about the ITF. We see difficulties in that relationship where people have a perception of ownership, either of money or services, and do not have a focus on the citizen and the service they require, and how we best join it up for their needs. For me, some of the best health and wellbeing boards are where, although they may sit within the council, they are not perceived as being owned by the local authority but are perceived as being owned by the system.
+
+[[[Q218 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] Hang on. You are still not addressing the real question. We are talking about all these nice warm words, but the reality is about how you think that taxpayers in general will feel when they see their local doctors paying to have their roads gritted? How do you think that plays when I can’t get my drugs and I can’t get my operation?
+
+[[[Andrew Percy:]]] You would have even less chance of getting your drugs or operation if five old people who had broken their hips were filling up the beds.
+
+[[[Rosie Cooper:]]] Hang on. But the priority is—  
+
+[[[Chair:]]] This is not an exchange between members of the Committee.
+
+[[[Andrew Percy:]]] But it is about reducing admissions to hospital, and they can do whatever things they think are most effective locally.
+
+[[[Matt Tee]]]: When we talk about pressure on the system, it happens in two ways and that is why it shows up in A and E departments. We have too many people coming in and we cannot discharge them fast enough. One of the ways we need to work to relieve pressure on the system is to have fewer people coming in. The gritting may be an extreme example, but that the health service has a responsibility for prevention seems to me to be absolutely true.
+
+[[[Q219 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] I absolutely do agree with the principle, but the problem I have is that we have had Councillor Hall and a public health professional both use examples where saving the health service money actually means that a job that would have been done by a local authority is going to continue to be done, but using health service money. That is the problem.
+
+[[[Andrew Webster]]]: There is an element in which that is the essence of the integration transformation fund, because the purpose of it is to protect social care and community services in a way that reduces pressure on hospitals. Clearly, that is not an easy thing to do and it involves the kinds of conversations that Matt Tee has been referring to, but there are two underlying principles that are very important to local government in it. One is that, by working together, the health service and local government will get a better deal.
+
+[[[Q220 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] So combine the budgets now.
+
+[[[Andrew Webster]]]: Yes, I was coming on to that. That should lead, over time, to a system in which the budgets are combined and more locally accountable, because that way local people would be able to hold all their local services to account for the delivery of a better service.
+
+[[[Q221 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] Just to close that off, there is a danger with that because, if you start on gritting in winter, you have to start on potholes and pavements, and then there is swimming. My local authority had free school swimming. Are you going to bring that back? Are you going to fund the school sport partnerships? Some of these things, in terms of obesity and those aspects of health, may be things you should do, but you cannot make this health money totally elastic. The question I wanted to get into was how effective the health and wellbeing boards are proving to be in engaging those across health and social care in planning local services. You talked about conversations and good relationships, but we need more than that. I do not know if you were here earlier when our Nuffield Trust panel member talked about the need for really robust plans, but, if we are talking about £1.9 billion extra funding coming across from the NHS out of £3.8 billion funding—the other £1.9 billion is the already existing amounts—that needs more than good relationships and talking to each other, does it not? At what point do you see you getting into much more robust planning and much more concrete ways of moving forward? Relationships and talking is nice, but it is not really shifting anything, is it?
+
+[[[Councillor Hall]]]: Absolutely. You need to look at the whole system. How do you start with prevention and stopping somebody coming into hospital? If somebody comes into hospital, why do they spend longer than they need to be in hospital? Then, how do you get people out of hospital? How do you do reablement services to get people out? You need to look at it throughout the whole process.
+
+[[[Q222 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] Stop at that point, because you were talking about back-filling council funding in terms of gritting, so do you then just use all the money that is meant to be used on integration in back-filling? Say, for instance, the local authority is moving its eligibility on to “substantial” or to “critical”, do you then say, “Okay, the way to keep people out of hospital is to go back to the service we had three years ago, so let’s just spend it all on care packages,” and not move on with true integration at all? The worry is that the money will just get eaten up like other transfers have been by doing things that the local authority was able to fund a couple of years ago and is not able to fund now. That is the logic of what you said, but that is not integration. Integration is not just looking at how we can keep people out of hospital, is it?
+
+[[[Councillor Hall]]]: No. We need to look at the whole system of where people are coming into the different services from and what happens to an individual person. I do not know if you have seen the excellent King’s Fund animation about joining the services up for a man called Sam, but in it they say that the services seem to come from all over the place for that individual and that he has to tell his story again and again to get the services that he wants. What we are trying to achieve by this approach—by pooling the funds and doing things together—is to end up with having fewer different people and services, and more shared information. Andrew can maybe talk in some detail about the importance of transferring data and sharing information based on national health numbers and stuff like that, which, at the moment, or in many places, have been blocks to that information. Somebody could be discharged from hospital, for example, and the care record does not follow them for a week or two or longer, or maybe not at all. We are trying to make sure that this information stays with the person. Perhaps you could explain how that could work.
+
+[[[Andrew Webster]]]: To answer directly the question about health and wellbeing boards, they are the leaders of this system, are they not? They are not themselves going to do the things that Councillor Hall was just describing to you. They are there to require that they are done and to set the framework in which they can be done.
+
+[[[Q223 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] But at the moment they are the only point where all these bodies come together.
+
+[[[Andrew Webster]]]: Indeed. The way in which they hold each other to account in that process is very important and I think is reinforced by the introduction of the integration transformation fund. As Councillor Hall was saying, some of the requirements that introduces around jointly signing off a plan—protecting the social care service, sharing information, adopting common procedures, understanding the whole system and working out how they will manage risk if things do not go as they plan—are a step above where health and wellbeing boards have been working in their early months and are a challenge to them.  We are putting a considerable amount of support into enabling them to do that and other parts of the system are also supporting their contributors to do it. We cannot sit here today and say, “Yes, there is a health and wellbeing board that has done it and here is the model,” but we can identify the places that are doing well and those that are facing challenges, and support them to learn from one another. The solutions and the leadership will be different in different places. A single national prescription would be wrong for most of the 153 localities.
+
+[[[Matt Tee]]]: We are quite worried about this. We support the principle of the integration transformation fund. Our worry is that the time when it is going to happen is coming very quickly and we do not see enough planning taking place in enough places for us to be sure of the effect that this money will have. If I can give you an example, I was in a quite challenged hospital in the home counties yesterday speaking to the director of operations there.  I said, “So talk to me about the integration transformation fund,” and he said, “I am relatively optimistic. They have at least started talking to us about it.” It feels to me as if there is the potential for a good conversation and for some good deals to be done there, but there is a real urgency about involving the right people in those conversations so that health plays the part it should play in integrated treatment, but also so that health understands what it can legitimately expect in terms of reduction in demand on the health system.
+
+[[[Q224 ]]]&#xa0; 
+
+[[[Barbara ]]]
+
+[[[Keeley]]]
+
+[[[:]]] But if you have an example of a challenged trust, how difficult is it for them to prioritise doing more than just having nice conversations, when they have other challenges and a little bit of time lapse because there is a tendency to think— 
+
+[[[Matt Tee]]]: Part of the reason I think the ITF incentivises some good behaviours is that that trust knows that it is not getting that chunk of money when the ITF comes along, so it has a real vested interest in being involved in the conversation about what that money is spent on. That, I think, is good in the system, and trusts and providers broadly are giving time in order to be part of those conversations. I feel, as Andrew said earlier, that they think it is not yet clear what the rules are, so it is not clear how the deal happens. We need a bit more urgency in that.
+
+[[[Q225 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] What happens if the trusts are not invited to that conversation? There are three or four trusts in their area and one or two are excluded from that conversation.
+
+[[[Matt Tee]]]: It would go completely against the spirit of the ITF.
+
+[[[Andrew Webster]]]: The expectation is that they are.
+
+[[[Q226 ]]]&#xa0; 
+
+[[[Chair:]]] From a local government perspective, what Matt Tee has just said chimes a little bit with what you said a moment ago, because one of the questions in my mind, listening to you talk, was, “Could you point us in the direction”—accepting that there is a variety—“of a health and wellbeing board where you feel this is a process that is working and that is delivering change on the ground?” You have said, “Well, not yet, but I can point you to one or two where there are some encouraging signs,” and in one part of the country an encouraging sign is that they have exchanged telephone numbers.
+
+[[[Councillor Hall]]]: There certainly are some localities where working together is already happening and is happening well. We have an example of some interesting work in Greenwich through their community health services, the Oxleas NHS Foundation Trust and the council’s adult social care services. There, the users and the staff access the integrated care service via a single point of contact, which is obviously much easier for the individual person concerned, and this incorporates referral pathways, which can immediately address an individual’s needs. The integrated health and social care teams provide the whole&#x2011;system response to the intermediate care and the hospital discharge, and the social care teams provide rehabilitation. It is yielding a number of positive results. We have had a reduction there in A and E admissions, in hospital admissions and care home admissions, which obviously is very important, and fewer people entering full social care.
+
+[[[Q227 ]]]&#xa0; 
+
+[[[Chair:]]] Those things, where you finished up, are the tests. That is the answer to Barbara’s point, is it not? There is no value in spending this money in hospitals if they do not need to be there. That is the whole point. The point is to remodel the system in order to reduce demand for hospital space. If you can demonstrate health economies where closer working is delivering reduced hospital admissions and quicker hospital discharges, and therefore reducing the demand for bed space, we are getting somewhere, but it does not feel as though that is happening anywhere very quickly at the moment.
+
+[[[Councillor Hall]]]: We have a number of value cases that we could share with the Committee of places that already have this.
+
+[[[Q228 ]]]&#xa0; 
+
+[[[Chair:]]] It would be useful to see evidence on the ground of real declining admissions or real accelerated discharges.
+
+[[[Councillor Hall]]]: What we really want is to keep people out of hospital who do not need to be there, because we all know that, if a frail elderly person goes to hospital, is admitted and stays there for longer, their outlook is less good. We need to do what we can to reduce the number of people going to hospital. I will ask the team to send you these value cases that we have drawn up. I think we have eight from different areas around the country where we can show that this is really effective.  
+
+[[[Chair:]]] It would be good to see a timeline showing trends in an inner local economy and also comparing that economy with other equivalent economies elsewhere in the country. Okay, thank you. 
+
+[[[Q229 ]]]&#xa0; 
+
+[[[Andrew Percy:]]] Staying on integration—this is probably a question more for Matt—do you think we will need to see mergers of hospital trusts or CCGs? Everyone talks about integration, and in my area I am very lucky that the local council has maintained social care at moderate intervention levels and is building a new intermediate care centre with 30 beds, which is brilliant, with a lot of money going in because it has made some tough political choices. But the rest of our services have been reconfigured. We have one health trust and one hospital trust, so there is the hospital trust and two different CCGs, but one of the CCGs is really two thirds in another hospital trust, so it has to decide what they want from one hospital, and the other CCG has to decide what it wants from the other two hospitals. They are all going through their own separate processes at the very moment when everybody is talking about integration, but one is doing its “healthy lives, healthy future” thing and the trust is reconfiguring services already within it. Then we have one council, fortunately, doing very good things for my constituents, because we are seeing new services coming, but it is still all a bit of a mess. So long as we have different bodies, do you think we are going to see mergers of either CCGs or acute trusts?
+
+[[[Matt Tee]]]: I do, but perhaps not for the reasons that you may think, and we can see it already. One of the responses that providers are making to the financial challenges is to look to merge places because they can reduce some of the costs that are involved in providing treatment. It is quite likely that we will begin to see more mergers driven by a need to be more efficient. In terms of CCGs, it is an interesting question and I do not think we know the answer yet. Certainly the variance in the populations that CCGs cover is quite large, and I think we do not know yet whether that is okay or whether we need to be more consistent about the size of population that CCGs cover. The one point I would make is that I do not think that merging organisations necessarily gives you better joined&#x2011;up services. I can think of hospitals that I know that have merged where they are still essentially providing different services on different sites, and other places where a collaboration between hospitals that has not required an organisational merger has led to much more joined&#x2011;up working, the ability to do different sorts of surgery on different sites and those sorts of things. It is part of an answer, but it is not “the” answer.
+
+[[[Q230 ]]]&#xa0; 
+
+[[[Chair:]]] I want to ask about the way in which the local government world experiences trusts that are getting themselves into financial difficulty. We asked the previous panel about the growing numbers of trusts that are running deficits. Does that lead to a more focused, urgent and fundamental conversation with local authority partners, or does it lead to drawing up the blinds and saying, “We have got a crisis and we are too busy to talk to you”?
+
+[[[Councillor Hall]]]: I do not have a specific knowledge of that.
+
+[[[Andrew Webster]]]: We have not asked that question directly of our members, so I hope you will bear with an impressionistic answer from me.  Having talked to some of them and been to areas where those pressures exist, I would say that it depends entirely on how the relationships were before the problem emerged. For places that have known that they have to deal with those sorts of issues and have worked together on them, the exacerbation of that pressure leads to them drawing together and seeking more radical decisions. In places where that issue has itself been a divider, it makes it worse. We have seen both examples around the country. One of the helpful things in the current guidance on the fund is that the activity has to be aggregated at the level of a health and wellbeing board so that the council can see the overall picture, and it has to say what the impact of the plan is on the acute sector. So whether it is resolving those pressures or not will be evident to the council and to all the other partners, and it has to go through a process of, “Is it a credible plan?” through a peer review by other people in local government and by the NHS.
+
+[[[Q231 ]]]&#xa0; 
+
+[[[Chair:]]] Just to interrupt you for a second, that throws local government in at the deep end, does it not? Suppose you have a hospital in deficit.  The majority of local government has not, until very recently, shown anything but a relatively superficial interest in the local health economy, but if a local authority is dealing with a trust that has developing financial pressures, how well equipped is it to play the role that it should play? The thought behind the question is not that this is undesirable—I think it is very desirable—but I wonder how well equipped the local authority is to play its part in that process.
+
+[[[Councillor Hall]]]: Because we have not asked that specific question of our members, we cannot answer.
+
+[[[Matt Tee]]]: We should not be surprised if the answer is, “Not very well.” This is very new stuff we are talking about. If we were to go back three or four years, most trusts and local authorities would not have thought that a hospital trust running a deficit was anything to do with the local authority. We are at least now in a place where we would recognise that, if you have financial difficulties in one part of the care system, it is going to impact on the other parts of the care system, and that is a much more mature conversation, I think almost everywhere, than we used to have. We were talking earlier about pooled budgets and so on, but we will, I am sure, get to a point where we have things like public sector risk pools across localities and so on, where that will be a routine part of what we do and we will not consider financial pressure in one part of the system to be owned by that part of the system. But we are still on that journey to maturity. It will be better than it would have been, but I do not think we are anywhere near there. 
+
+[[[Q232 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] I am almost a mutant in the sense that I was chair of a hospital, but a councillor for all those years, and the reality is that councillors are interested in the broad&#x2011;brush political aspects of health, but would not have a clue about the real detail ever. I put that very question to Sir David Nicholson and talked about the maturity of health and wellbeing boards. They are great at talking and there is dynamic analysis and all that—whatever you want to do—but the reality is that you do not have power to make it happen and it has to be by consensus. My original question—I am sorry Andrew is not here now—was almost based on that in that I want to see some real change. The difficulty councillors are going to have is when the hospital is in real trouble. It is not just about the social care element of it and, therefore, not just the transformational bit, but, when the hospital is perhaps going to merge or close, or departments close, with local politicians being very close to the fact that their people do not want this to happen, it will be a very difficult conversation. I am not sure you have the strength or the detailed knowledge to handle the actual mechanics of the hospital end of it. Nor do I want to see, which is the point I was really trying to make before, the transformational fund or anything like it being used, for example, to empty bins, because it is a public health hazard if the local authority cannot afford to do it. I put it to Sir David Nicholson that we are on a cliff edge and he agreed. It really is serious because that cliff edge is about forcing hospitals to fall over, change, merge or divest themselves of authority. Right now you are in a comfortable position in that the health and wellbeing board is not responsible. When that mix hits together and starts almost to solidify, I do not think that the health and wellbeing boards have the strength or the maturity to deliver on that. That is, I suppose, the comment that the Chair was making, and I fear at that point who gets control of it. Does it just collapse? 
+
+[[[Matt Tee]]]: I do not feel in a comfortable place and I do not think my members feel in a comfortable place.  I doubt whether yours do, either.
+
+[[[Councillor Hall]]]: No.
+
+[[[Matt Tee]]]: This feels like we are in a storm and the storm is only getting worse. I recognise the risk of what you say—that we end up in a place where services fail and we are looking for who is going to pick it up and make something of it. But we as health and with local government have a responsibility to see that that does not happen. One of the conversations that I think we have not had well enough, as health, is working with local authorities and political colleagues to make the case for change and to seek local political support. In a way, it is much more difficult for Members of Parliament—and candidates for Parliament—to support change, because they are not dealing with some of those questions in terms of public services day in, day out. My experience is that local councillors can quite often see—particularly because they have had to make very difficult decisions about their own public services—the necessity and the case for change, and will support that if it is put in the right way.
+
+[[[Q233 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] They are very brave councillors.The transformational fund has £3.8 billion. I was looking at some figures a fortnight ago that showed that the Government, if you like, are looking to that to grow to around £59 billion, and, of that, they believe that there can be an efficiency gain of £20 billion. On those figures, it looks like that £20 billion could go to the Treasury. If that is actually the case, what do you have to say about that?
+
+[[[Matt Tee]]]: I am not familiar with those figures.
+
+[[[Q234 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] I will happily make them available to you because I am going to write to David Nicholson about them.
+
+[[[Matt Tee]]]: It would be very good to see those figures. If you were to say to me, “Can we take £20 billion out of integrated care between health and local authorities?”, that feels like a very big chunk of money to be taking out of those services.
+
+[[[Q235 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] They will grow it from £3.8 billion, so it is joint budgets, not just out of one side. They will grow that to get £59 billion, and, of that, if you integrate divisions they could liberate— 
+
+[[[Andrew Webster]]]: There would still be a 40% deficiency.
+
+[[[Q236 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] What would you think about it going to the Treasury?
+
+[[[Matt Tee]]]: I would go to John Appleby’s point, which is, “Efficiency for what? What does the money get used for?”
+
+[[[Q237 ]]]&#xa0; 
+
+[[[Rosie Cooper:]]] If it goes back into the Treasury, you will not be using it for anything.
+
+[[[Councillor Hall]]]: We have not seen those figures either. If that is the case—if you are talking about taking another 40% of the money out—that does not sound to me sustainable, but we would very much like to see those. 
+
+[[[Andrew Webster]]]: It is probably worth making a couple of other points. Our estimation of the forward spending plans is that close to that number is going to come out whether there is an integration fund or not, so that issue is confronting local government anyway. I would very strongly echo Matt’s point: I think that bringing together the best clinical skill of the NHS with the local political skill of councils would be a significant advantage in developing and communicating these proposals.
+
+[[[Chair:]]] There is a final question on resource allocation.
+
+[[[Q238 ]]]&#xa0; 
+
+[[[Andrew George:]]] We are over time as we were last time. You were all here when I raised a question earlier about resource allocation, so I do not need to repeat that, but I would ask you, in relation to both the confederation and local government’s views on it, whether you are satisfied that the allocation is fairly based on need. Probably, more importantly, have there been any conversations about, and do you think there is a prospect of, bearing in mind your earlier discussion about integration, the harmonisation of the allocation of funds across health and social care—in other words a greater harmonisation, perhaps even coming in one pot rather than two?
+
+[[[Andrew Webster]]]: In our Rewiring Public Services document, we made it very clear that we do think there should be a single allocation to each locality for public services and that that should be based on a simpler formula, which is co&#x2011;designed by local and central Government rather than imposed by the Treasury, as currently exists. Our aspiration would be for a single pot for not only health and social care, but public services across the locality. In the very short term, the system could do with some certainty about the basis on which the allocations are going to be made, because at the moment there is uncertainty about the CCG allocation formula. There is uncertainty about the formula that will be applied to the integration transformation fund, and there are lots of local government finance directors scratching their heads wondering what number to put in next year’s budget. The sooner they know that, the more likely we are to make the right decisions and deliver the best with that money. So, in the long run, harmonisation would be good. In the short run, certainty would be helpful.
+
+[[[Matt Tee]]]: I would make three points. I agree with the certainty point absolutely; that is a very strong message from us. The second point is that, while there are a number of localities I know that think that the allocation at the moment is very unfair, I suspect, whatever you do to the allocation, you will not reduce the number of those who feel that it is very unfair. John Appleby’s point about the complexity of the system plays through to that. My third thought echoes something I said earlier, which is that, yes, we would share a general aspiration that there was more joint budgeting between different services, but, to repeat, just by having joint budgets, it does not give you joint services and does not give you integrated services. That is, I think, the difficult bit. You can create joint budgets by saying you are going to have joint budgets, but the working on the ground that makes it feel different for the person who is elderly with complex needs is more complicated and difficult to do than just putting the money together.
+
+[[[Councillor Hall]]]: A joint budget is the lever to transforming services.
+
+[[[Andrew George:]]] That is fine.   
+
+[[[Chair:]]] Thank you very much. Thank you for bearing with us in the gathering gloom on a November evening. We shall reflect on what you said and have a report, I guess, early in the new year.&#xa0;              Oral evidence: Public expenditure on health and social care, HC 793                            32

@@ -1,0 +1,2391 @@
+&#xa0;&#xa0;
+
+[[[Summary]]]: level crossing safety is not necessarily improved by the use of automatic detection and prosecution. Red light cameras cannot register what a road user has or has not seen.  Their use is grossly unfair to most if not all of the drivers trapped and it is potentially dangerous as it is being allowed to mask underlying problems.  System designers must take account of the limitations of the human being, and punitive systems should be avoided, if real progress is to be made.  The following describes briefly what has happened at Cornton Level Crossing, and a detailed study carried out by Professor Roger Watt is attached.  Several suggestions are made regarding matters the Committee might wish to pursue. &#xa0;&#xa0;&#xa0;
+
+[[[C]]]
+
+[[[ornton R]]]
+
+[[[ai]]]
+
+[[[l]]]
+
+[[[w]]]
+
+[[[ay]]]
+
+[[[ ]]]
+
+[[[L]]]
+
+[[[e]]]
+
+[[[v]]]
+
+[[[e]]]
+
+[[[l]]]
+
+[[[-]]]
+
+[[[C]]]
+
+[[[ros]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[ng: ]]]
+
+[[[t]]]
+
+[[[he]]]
+
+[[[ ]]]
+
+[[[p]]]
+
+[[[o]]]
+
+[[[s]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[b]]]
+
+[[[l]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[ro]]]
+
+[[[l]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[o]]]
+
+[[[f]]]
+
+[[[ ]]]
+
+[[[v]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[u]]]
+
+[[[a]]]
+
+[[[l ]]]
+
+[[[f]]]
+
+[[[a]]]
+
+[[[c]]]
+
+[[[t]]]
+
+[[[ors]]]&#xa0;Professor Roger Watt BA PhD FRSEDept of Psychology, University of Stirling, FK9 4LA01786 467667                 r.j.watt@stirling.ac.uk&#xa0;
+
+[[[B]]]
+
+[[[r]]]
+
+[[[i]]]
+
+[[[e]]]
+
+[[[f ]]]
+
+[[[s]]]
+
+[[[t]]]
+
+[[[a]]]
+
+[[[t]]]
+
+[[[e]]]
+
+[[[me]]]
+
+[[[n]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[o]]]
+
+[[[f ]]]
+
+[[[au]]]
+
+[[[t]]]
+
+[[[ho]]]
+
+[[[r]]]
+
+[[[ qua]]]
+
+[[[li]]]
+
+[[[fi]]]
+
+[[[c]]]
+
+[[[a]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[on]]]
+
+[[[s]]]BA Cambridge, PhD KeeleProfessor of Psychology, Stirling UniversityFellow, Royal Society of EdinburghAuthor of 2 books, Editor of 1 bookAuthor of 60+ scientific publications describing original researchExpert witness appearances in various cases arising out of RTC, advising on what driver’s could beexpected to see in the specific instance of the crash.Expert witness to Cullen Inquiry into Paddington Rail Crash. Lord Cullen stated in his final report that Ioffered the only credible account of why the train driver proceeded past a red signal.&#xa0;
+
+[[[Re]]]
+
+[[[po]]]
+
+[[[r]]]
+
+[[[t]]]
+
+[[[ C]]]
+
+[[[on]]]
+
+[[[te]]]
+
+[[[n]]]
+
+[[[t]]]The level-crossing at Cornton on the B823 gives rise to concern as it has a relatively high incidence of drivers failing to stop after the warning lights have come on. For convenience and brevity, I will refer to these as incidents. This draft report considers whether there are any visual factors that might be contributing to this issue. A brief tutorial on relevant aspects of human vision is included as an appendix&#xa0;
+
+[[[I]]]
+
+[[[n]]]
+
+[[[f]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[mation]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[v]]]
+
+[[[a]]]
+
+[[[il]]]
+
+[[[ab]]]
+
+[[[l]]]
+
+[[[e]]]This report is restricted to the information that is readily available to me. I would be very interested in speaking with any parties that have access to further useful information. Further information may, of course, modify what is said below.&#xa0;I have comprehensive records relating to all incidents recorded between July 2000 and June 20001 for northbound traffic (Stirling towards Bridge of Allan) at this site, provided by Mr Andrew Fraser. This data includes data on the “time since red” for each incident. I take this data to refer to the time after the signal changed to red that a vehicle was captured on camera. Presumably the camera operates as the car passes a point just beyond the barrier itself. I do not have the equivalent data for southbound incidents at the same site.&#xa0;I have an aerial view and Stirling Council road plan of the approach to the signal, also provided by MrAndrew Fraser.&#xa0;I have a specification of the time sequence of the signal. I also have a copy of BS EN 12368:2006 which sets standards for road signals.&#xa0;I have also made a preliminary inspection of the site including several drives through (none of which included being stopped at the northbound signal).&#xa0;&#xa0;&#xa0;
+
+[[[T]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[l]]]
+
+[[[o]]]
+
+[[[c]]]
+
+[[[u]]]
+
+[[[s]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[Fi]]]
+
+[[[g]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[1]]]
+
+[[[:]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[dia]]]
+
+[[[g]]]
+
+[[[r]]]
+
+[[[a]]]
+
+[[[m]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[ho]]]
+
+[[[w]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[r]]]
+
+[[[ou]]]
+
+[[[te ]]]
+
+[[[o]]]
+
+[[[f the]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[pp]]]
+
+[[[r]]]
+
+[[[oa]]]
+
+[[[c]]]
+
+[[[h]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[o]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[g]]]
+
+[[[na]]]
+
+[[[l]]]
+
+[[[.]]]
+
+[[[ ]]]
+
+[[[A]]]
+
+[[[ ]]]
+
+[[[d]]]
+
+[[[r]]]
+
+[[[iv]]]
+
+[[[e]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[mo]]]
+
+[[[v]]]
+
+[[[e]]]
+
+[[[s from b]]]
+
+[[[o]]]
+
+[[[tt]]]
+
+[[[o]]]
+
+[[[m]]]
+
+[[[ ]]]
+
+[[[to]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[op]]]
+
+[[[.]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[g]]]
+
+[[[na]]]
+
+[[[l]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[at t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[o]]]
+
+[[[p]]]
+
+[[[ o]]]
+
+[[[f the]]]
+
+[[[ ]]]
+
+[[[di]]]
+
+[[[a]]]
+
+[[[gr]]]
+
+[[[a]]]
+
+[[[m]]]
+
+[[[.]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[d]]]
+
+[[[o]]]
+
+[[[ts]]]
+
+[[[ m]]]
+
+[[[a]]]
+
+[[[r]]]
+
+[[[k]]]
+
+[[[ ]]]
+
+[[[p]]]
+
+[[[o]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[t]]]
+
+[[[s]]]
+
+[[[ t]]]
+
+[[[ha]]]
+
+[[[t ]]]
+
+[[[a]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[pa]]]
+
+[[[c]]]
+
+[[[e]]]
+
+[[[d]]]
+
+[[[ ]]]
+
+[[[at]]]
+
+[[[ ]]]
+
+[[[1]]]
+
+[[[0]]]
+
+[[[m]]]
+
+[[[ ]]]
+
+[[[apa]]]
+
+[[[r]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[alon]]]
+
+[[[g]]]
+
+[[[ t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[r]]]
+
+[[[ou]]]
+
+[[[te.]]]&#xa0;&#xa0;&#xa0;
+
+[[[Dr]]]
+
+[[[i]]]
+
+[[[v]]]
+
+[[[e]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[B]]]
+
+[[[eha]]]
+
+[[[vi]]]
+
+[[[ou]]]
+
+[[[r D]]]
+
+[[[a]]]
+
+[[[ta]]]There are several anomalous aspects of the pattern of incidents. Taken together, these provide a priori grounds for believing that there may be an important situational factor contributing to the occurrence of passed signals.&#xa0;1). The proportion of drivers detected passing the signals is very different for the two directions, with northbound occurrences being up to 6 times more frequent. On the assumption of equal volumes of traffic in each direction and similar types of driver, it is highly improbable that this difference arisesby chance. The alternative and easier explanation is that there is something more vulnerable about the northbound approach.&#xa0;2). The demographic distribution of drivers involved in these occurrences is also very unusual with unexpectedly high numbers of older drivers and female drivers. These groups are typically associated with more cautious driving, contrary to what would be expected if the main cause was risk-taking.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[Fi]]]
+
+[[[g]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[2]]]
+
+[[[:]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[ho]]]
+
+[[[w]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[d]]]
+
+[[[i]]]
+
+[[[st]]]
+
+[[[r]]]
+
+[[[i]]]
+
+[[[bu]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ o]]]
+
+[[[f ]]]
+
+[[[a]]]
+
+[[[g]]]
+
+[[[e]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[n]]]
+
+[[[d]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[e]]]
+
+[[[x ]]]
+
+[[[in]]]
+
+[[[v]]]
+
+[[[o]]]
+
+[[[lv]]]
+
+[[[e]]]
+
+[[[d]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[c]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[de]]]
+
+[[[d]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[nc]]]
+
+[[[i]]]
+
+[[[d]]]
+
+[[[e]]]
+
+[[[n]]]
+
+[[[ts]]]
+
+[[[ ]]]
+
+[[[at t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[cr]]]
+
+[[[o]]]
+
+[[[s]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[g]]]
+
+[[[.]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[bla]]]
+
+[[[c]]]
+
+[[[k ]]]
+
+[[[li]]]
+
+[[[n]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[ho]]]
+
+[[[w]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[age ]]]
+
+[[[di]]]
+
+[[[st]]]
+
+[[[ribu]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[ i]]]
+
+[[[n]]]
+
+[[[v]]]
+
+[[[o]]]
+
+[[[lv]]]
+
+[[[e]]]
+
+[[[me]]]
+
+[[[n]]]
+
+[[[ts]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[R]]]
+
+[[[T]]]
+
+[[[C ]]]
+
+[[[a]]]
+
+[[[cr]]]
+
+[[[o]]]
+
+[[[ss]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[UK]]]
+
+[[[ ]]]
+
+[[[(]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[m]]]
+
+[[[a]]]
+
+[[[l]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[e]]]
+
+[[[male ]]]
+
+[[[s]]]
+
+[[[pl]]]
+
+[[[i]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[7]]]
+
+[[[5]]]
+
+[[[%]]]
+
+[[[:]]]
+
+[[[2]]]
+
+[[[5]]]
+
+[[[%]]]
+
+[[[)]]]
+
+[[[.]]]&#xa0;3). The distributions of time of day of incident do not show any particular pattern. The relation to traffic density is not simple: higher traffic density reduces the proportion of drivers requiring to make a decision to stop in response to the lights (as distinct to stopping because a car in front stops at the lights). Each train movement requires one driver to decide to stop regardless of traffic density. The only effect of traffic density therefore should be when the volume is so low that no vehicles arrive at the crossing during the critical 2 or so seconds after the onset of the amber light. The data do seemto rule out the possibility that the incidents are related to points in the day when drivers might be more likely to be in a rush: rush hours and school journey times for example. 
+
+[[[              ]]]
+
+[[[Fi]]]
+
+[[[g]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[3]]]
+
+[[[:]]]
+
+[[[ ]]]
+
+[[[D]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[t]]]
+
+[[[ri]]]
+
+[[[bu]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ o]]]
+
+[[[f]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[ci]]]
+
+[[[den]]]
+
+[[[ts]]]
+
+[[[ ]]]
+
+[[[as a f]]]
+
+[[[un]]]
+
+[[[c]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ o]]]
+
+[[[f t]]]
+
+[[[i]]]
+
+[[[me ]]]
+
+[[[o]]]
+
+[[[f d]]]
+
+[[[a]]]
+
+[[[y]]]
+
+[[[ i]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[h]]]
+
+[[[a]]]
+
+[[[l]]]
+
+[[[f h]]]
+
+[[[o]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[bin]]]
+
+[[[s]]]
+
+[[[.]]]
+
+[[[ A]]]
+
+[[[nal]]]
+
+[[[y]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[s ]]]
+
+[[[o]]]
+
+[[[f th]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[d]]]
+
+[[[a]]]
+
+[[[ta]]]
+
+[[[ i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[c]]]
+
+[[[o]]]
+
+[[[mple]]]
+
+[[[x]]]
+
+[[[,]]]
+
+[[[ ]]]
+
+[[[b]]]
+
+[[[u]]]
+
+[[[t]]]
+
+[[[ i]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[doe]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[n]]]
+
+[[[o]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[ho]]]
+
+[[[w]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[n]]]
+
+[[[y]]]
+
+[[[ s]]]
+
+[[[p]]]
+
+[[[e]]]
+
+[[[ci]]]
+
+[[[f]]]
+
+[[[i]]]
+
+[[[c]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[me ]]]
+
+[[[o]]]
+
+[[[f d]]]
+
+[[[a]]]
+
+[[[y]]]
+
+[[[ ]]]
+
+[[[eff]]]
+
+[[[ec]]]
+
+[[[ts]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[u]]]
+
+[[[c]]]
+
+[[[h]]]
+
+[[[ ]]]
+
+[[[as s]]]
+
+[[[c]]]
+
+[[[hoo]]]
+
+[[[l]]]
+
+[[[ ]]]
+
+[[[j]]]
+
+[[[ou]]]
+
+[[[r]]]
+
+[[[ne]]]
+
+[[[y]]]
+
+[[[s]]]
+
+[[[.]]]&#xa0;&#xa0;&#xa0;4). The camera records for each incident when it happened with respect to the red light coming on. The distribution of incident times after the red signal is highly anomalous. The number of incidents should fall monotonically from time zero onwards, simply reflecting an increasing tendency for drivers to stop as time goes by. Instead the data show a strong (and highly reliable) increase in frequency of incident from time zero up to around 0.5sec. This pattern means that drivers that are0.5 sec away from the signal when it changes are less likely to stop than drivers that are closer. (Data for the southbound traffic at this crossing do not show this feature).
+
+[[[Fi]]]
+
+[[[g]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[4]]]
+
+[[[:]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[no]]]
+
+[[[ o]]]
+
+[[[f]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[nc]]]
+
+[[[i]]]
+
+[[[den]]]
+
+[[[ts]]]
+
+[[[ ]]]
+
+[[[as a f]]]
+
+[[[u]]]
+
+[[[n]]]
+
+[[[c]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ o]]]
+
+[[[f ]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[me ]]]
+
+[[[a]]]
+
+[[[f]]]
+
+[[[t]]]
+
+[[[e]]]
+
+[[[r]]]
+
+[[[ r]]]
+
+[[[ed]]]
+
+[[[.]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[ac]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[ha]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ cu]]]
+
+[[[rv]]]
+
+[[[e ]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[i]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[a]]]
+
+[[[l]]]
+
+[[[l]]]
+
+[[[y]]]
+
+[[[ ]]]
+
+[[[r]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[e]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[b]]]
+
+[[[e]]]
+
+[[[f]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[al]]]
+
+[[[li]]]
+
+[[[n]]]
+
+[[[g]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[h]]]
+
+[[[ig]]]
+
+[[[h]]]
+
+[[[l]]]
+
+[[[y]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[no]]]
+
+[[[mal]]]
+
+[[[ou]]]
+
+[[[s]]]
+
+[[[.]]]&#xa0;5). Given the speed of the vehicle as it triggered the camera, plus the time into the signal sequence at which it triggered the camera, it is possible to calculate where each car was at the moment theamber signal was illuminated. As with the previous point, the distribution is anomalous in that it falls off over the 50m before the signal.&#xa0;
+
+[[[Fi]]]
+
+[[[g]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[5]]]
+
+[[[:]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[ho]]]
+
+[[[w]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[w]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[c]]]
+
+[[[a]]]
+
+[[[r]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[w]]]
+
+[[[e]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[l]]]
+
+[[[a]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[v]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[o]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[ig]]]
+
+[[[na]]]
+
+[[[l]]]
+
+[[[ ]]]
+
+[[[at t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[m]]]
+
+[[[o]]]
+
+[[[me]]]
+
+[[[n]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[mb]]]
+
+[[[e]]]
+
+[[[r ]]]
+
+[[[w]]]
+
+[[[a]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[l]]]
+
+[[[l]]]
+
+[[[u]]]
+
+[[[m]]]
+
+[[[i]]]
+
+[[[na]]]
+
+[[[te]]]
+
+[[[d]]]
+
+[[[,]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[all]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[c]]]
+
+[[[i]]]
+
+[[[den]]]
+
+[[[t]]]
+
+[[[s]]]
+
+[[[.]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[hi]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[d]]]
+
+[[[i]]]
+
+[[[st]]]
+
+[[[r]]]
+
+[[[i]]]
+
+[[[bu]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ i]]]
+
+[[[s]]]
+
+[[[ ano]]]
+
+[[[mal]]]
+
+[[[ou]]]
+
+[[[s.]]]&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[An]]]
+
+[[[a]]]
+
+[[[ly]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[o]]]
+
+[[[f]]]
+
+[[[ N]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[t]]]
+
+[[[hboun]]]
+
+[[[d ]]]
+
+[[[C]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[n]]]
+
+[[[t]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[R]]]
+
+[[[oa]]]
+
+[[[d]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[g]]]
+
+[[[na]]]
+
+[[[l]]]
+
+[[[s]]]On approach to the crossing from the south (Stirling) side, the red/white barriers are visible from a considerable distance, more or less straight ahead in the field of view for a driver fixating the road directly ahead, as are the warning signs on either side of the road. However, the road alignment from a point about 150m from the signal onwards takes the driver in a considerable loop to the left before lining up with a straight approach to the crossing and signals just before the crossing itself.&#xa0;The consequence of this is that the position of the signals in the visual field swing away first to the right, where at the greatest deviation from straight ahead they are 30 degrees out in the visual field. They then swing back in the visual field rapidly towards straight ahead over the last 50m, with the left signal being close to the centre of the visual field for the last 30m or so. This is not ideal. A driver watching the left hand road edge ahead to negotiate the bend properly (which is normal visual behaviour) is only going to have the signal close to the centre of the visual field for a relatively brief duration (10m takes 1 sec and 25mph).
+
+[[[Fi]]]
+
+[[[g]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[6]]]
+
+[[[:]]]
+
+[[[ ]]]
+
+[[[T]]]
+
+[[[h]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[gr]]]
+
+[[[ap]]]
+
+[[[h]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[h]]]
+
+[[[o]]]
+
+[[[w]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[h]]]
+
+[[[o]]]
+
+[[[w]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[a]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[ou]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[to]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[p]]]
+
+[[[e]]]
+
+[[[ri]]]
+
+[[[p]]]
+
+[[[he]]]
+
+[[[r]]]
+
+[[[y]]]
+
+[[[ ]]]
+
+[[[o]]]
+
+[[[f]]]
+
+[[[ ]]]
+
+[[[vi]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ i]]]
+
+[[[mage ]]]
+
+[[[o]]]
+
+[[[f]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[l]]]
+
+[[[e]]]
+
+[[[ft ]]]
+
+[[[han]]]
+
+[[[d]]]
+
+[[[ ]]]
+
+[[[(]]]
+
+[[[nea]]]
+
+[[[r]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[de]]]
+
+[[[)]]]
+
+[[[ ]]]
+
+[[[an]]]
+
+[[[d]]]
+
+[[[ r]]]
+
+[[[ig]]]
+
+[[[h]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[han]]]
+
+[[[d]]]
+
+[[[ (]]]
+
+[[[o]]]
+
+[[[ffs]]]
+
+[[[i]]]
+
+[[[de]]]
+
+[[[)]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[ig]]]
+
+[[[nal]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[al]]]
+
+[[[l]]]
+
+[[[s]]]
+
+[[[ o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[pp]]]
+
+[[[r]]]
+
+[[[oa]]]
+
+[[[c]]]
+
+[[[h]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[o]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[g]]]
+
+[[[na]]]
+
+[[[l]]]
+
+[[[.]]]
+
+[[[ I]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[is ]]]
+
+[[[a]]]
+
+[[[ss]]]
+
+[[[u]]]
+
+[[[med t]]]
+
+[[[ha]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[ ]]]
+
+[[[d]]]
+
+[[[r]]]
+
+[[[iv]]]
+
+[[[e]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[2]]]
+
+[[[m]]]
+
+[[[ ]]]
+
+[[[from]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[kerb]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[n]]]
+
+[[[d ]]]
+
+[[[l]]]
+
+[[[oo]]]
+
+[[[k]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[g]]]
+
+[[[ ]]]
+
+[[[at a]]]
+
+[[[ ]]]
+
+[[[p]]]
+
+[[[o]]]
+
+[[[i]]]
+
+[[[n]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[1]]]
+
+[[[0]]]
+
+[[[m]]]
+
+[[[ ]]]
+
+[[[ahead]]]
+
+[[[.]]]&#xa0;Furthermore, at a distance of 40-60m away from the crossing, there is a junction to the left with a side street. This junction is accompanied by a yellow boxed road surface. A road junction, so clearly marked, can be visually demanding on approach especially if a vehicle is moving along the side street towards the junction. In such circumstances, it is prudent (and probably unavoidable) to shift the eyes to inspect the vehicle and the junction. Doing this moves the image of the signals substantiallyfurther out to the right in the visual field (maybe even to the point where colour vision doesn’t exist). So at this point in the approach to the signal, there are other competing demands on the eyes. If the eyes deal with demands in the sequence with which they will be reached (also prudent and probably unavoidable), then inspection of the approaching signal is further postponed.&#xa0;The final few metres of the approach to the signal are also not particularly useable for signal inspection. By this time, the signal has moved quite high into the visual field and the driver will be fixating the roadway across the trail tracks beyond the signal.&#xa0;&#xa0;&#xa0;There is another factor of relevance. Traffic signals achieve high light output by having a relatively narrow beam. British Standard BS EN 122368:2006 allows for 4 different beam widths: extra-wide, wide, medium wide and narrow. It is not know to me what type the signals at the crossing are, but it is notable that even the extra-wide have a beam that falls off by 60% for a viewing angle of 30 from the optical axis of the beam. It is also not known to me how the optical axes the signals are aligned with the road (in other words, in what direction they point). However, any alignment of the signal at the crossing with a highly curved road necessarily results in a weak effective signal for some of the approach to it.&#xa0;So, the existing approach to this signal does several important things. First, it keeps the signal out in the periphery of vision for some considerable time during approach whilst probably simultaneously placing the driver out of the main beam of the signal. Second, it places a prior demand on vision. The moment at which the driver has a simple straight ahead view of the signal and is not likely to be dealing with anything else is probably of the order of just a few seconds before the signal itself. It also takes the driver through lower intensity parts of the signal light beam.&#xa0;In practice the signal at the crossing is seen when at its best and not in competition with any other valid object of visual inspection for only 30 to 40 metres, corresponding to something around 3 seconds. This is not long enough. Of course, if the side street is empty, and there is no oncoming traffic, then a competent driver will manage to negotiate the bend whilst momentarily inspecting the signal with some degree of success: and presumably this is the case most of the time.&#xa0;
+
+[[[Rel]]]
+
+[[[a]]]
+
+[[[t]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[o]]]
+
+[[[ ]]]
+
+[[[d]]]
+
+[[[r]]]
+
+[[[i]]]
+
+[[[v]]]
+
+[[[e]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[b]]]
+
+[[[eha]]]
+
+[[[vi]]]
+
+[[[o]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[d]]]
+
+[[[a]]]
+
+[[[ta]]]Several anomalies above were noted in the existing data concerning the behaviour of drivers who fail to stop. The most useful of these is the analysis of where drivers involved in incidents are when the amber light comes on, which is highly anomalous.&#xa0;The shape of that curve (Figure 5) and the shape of the curve showing the eccentricity of the signal as a function of distance (Figure 6) are very similar – there is apparently a strong relationship between the eccentricity of the signal at the moment is comes on the one hand, and whether a driver thenfails to stop at the signal. This relationship is readily understood – peripheral vision is known to be very poor spatially and in terms of colour vision.&#xa0;At the point of farthest eccentricity, the task of drivers is made more difficult by the position of a side street on the left with the consequence that attention is likely to be drawn further away from the signal.&#xa0;To this line of reasoning, one only needs to add that the onset of the amber light is more salient than the amber light itself. If that onset occurs whilst the signal is in peripheral vision, then it may not be noticed at all. When the eye returns towards the signal, it is in a steady state and doesn’t attract as much attention.&#xa0;It would seem that this suggests that nearly all of the recorded incidents occurred to drivers who might have a valid reason for not noticing the signal.&#xa0;
+
+[[[C]]]
+
+[[[on]]]
+
+[[[cl]]]
+
+[[[u]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[on]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[(]]]
+
+[[[p]]]
+
+[[[r]]]
+
+[[[el]]]
+
+[[[i]]]
+
+[[[m]]]
+
+[[[i]]]
+
+[[[na]]]
+
+[[[r]]]
+
+[[[y]]]
+
+[[[)]]]This analysis points to a potential difficulty in the approach to the crossing, arising because of the highly curved road S-bend layout compounded by the siting of a left hand junction close to the apex of the curve and also quite close to the crossing itself. In these circumstances, the signal cannot always be inspected safely by a driver on approach until the last few seconds.&#xa0;&#xa0;&#xa0;&#xa0;There may be firmer conclusions that might be applicable as principles to other level crossings. For example, the anomalous features of this one might be worth exploring at other crossings. That is beyond the scope of this present report.&#xa0;
+
+[[[Mea]]]
+
+[[[s]]]
+
+[[[u]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[s]]]
+
+[[[ t]]]
+
+[[[o]]]
+
+[[[ ]]]
+
+[[[am]]]
+
+[[[el]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[a]]]
+
+[[[te]]]There a several ways in which the present position might be improved. The following are speculative suggestions.&#xa0;I would like to state this point at the outset. Driver education will have limited effect. If my analysis is correct, then the issue is that drivers do not notice the signal for good reasons that have nothing to do with inattentiveness nor with a risk-taking approach to driving. In effect, a driver education programme has to say “You may be unlucky on the approach to this signal and not be able to rely on your normal vision: please do something else to decide whether it is safe to proceed across the crossing. Furthermore, you won’t know whether you are being unlucky or not.”&#xa0;Given this, engineering solutions are more likely to succeed. There are two lines of approach.&#xa0;1). Engineer a more straight approach to the signalA full road re-alignment would be successful but presumably also very expensive. However, placing the signal further away from the crossing on a more straight section of road could achieve the same effect. A second set of lights and a barrier could be placed on the straight section of road 100m or so before the crossing, phased differently. This approach would allow the signal to be viewed in a good manner. The existing set would hold any traffic emerging from the side road or otherwise not being stopped by the earlier set.&#xa0;Repeater lights further back from the signal, warning of its up-coming state could also be used. So a set of lights 200m from the crossing could turn amber (or flash amber) to drivers who, given normal driving speed) will require to stop at the crossing ahead. Further sets at 100m and at 50m could also be installed. These could be phased with respect to the closure of the barrier at the crossing.&#xa0;2). Find some way of making the signal more conspicuous to drivers over the last 50m of approach. This is less attractive because even if drivers could be made more aware of the signal, the timescale to react is very short. However, some form of signal placed more or directly in their line of vision at this point might help. That probably means something mounted in the carriageway itself.&#xa0;
+
+[[[N]]]
+
+[[[o]]]
+
+[[[tes]]]© University of Stirling.The opinions expressed in this report are those of the author and not necessarily of his employer. They are preliminary and subject to review in the light of any further information that might be forthcoming.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[A]]]
+
+[[[p]]]
+
+[[[p]]]
+
+[[[e]]]
+
+[[[n]]]
+
+[[[d]]]
+
+[[[i]]]
+
+[[[x]]]&#xa0;
+
+[[[A]]]
+
+[[[ ]]]
+
+[[[b]]]
+
+[[[ri]]]
+
+[[[e]]]
+
+[[[f]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[u]]]
+
+[[[t]]]
+
+[[[o]]]
+
+[[[ri]]]
+
+[[[a]]]
+
+[[[l]]]
+
+[[[ ]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[l]]]
+
+[[[e]]]
+
+[[[v]]]
+
+[[[an]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[as]]]
+
+[[[pe]]]
+
+[[[c]]]
+
+[[[ts]]]
+
+[[[ o]]]
+
+[[[f h]]]
+
+[[[u]]]
+
+[[[man]]]
+
+[[[ v]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]Our vision is far from perfect. To a considerable degree, what we see is jointly determined by raw optical information arising from the scene plus our expectations of the scene. The raw optical information is of variable quality and is substantially poorer than our experience might suggest. What we see, colloquially speaking, (ie experience as vivid imagery) is much better than the blurred, noisy and continually moving trace of the world generated by the eyes. To achieve this, the brain has powerful heuristics that determine how the raw optical information should be interpreted. Most of the time this system works without difficulty: we rarely experience any adverse consequences. In situations where these heuristics are not well-suited, vision can let us down. Unfortunately, we are rarely aware of having misperceived something (until it is too late).&#xa0;Broadly speaking, there are two modes of operation for the visual system. It can be dedicated to a specific ongoing visual task, such as searching for a specific object, or tracking something moving across the scene. In this case, vision can be said to be under the control of its user. Alternatively it can be open to incoming information breaking through and taking over control of the person’s behaviour. In this case, it is under control of the scene. In practice, at any one instant a compromise is being struck between the two. The more a person is using their visual system for a specific dedicated purpose, the less likely it is to notice and react to an unexpected change (and vice versa). Moreover, the nature of our vision is that it is very difficult for us to dedicate it to more than one ongoing visual task. The main reason for this is that we habitually use the very centre of our visual field, the fovea, for dedicated visual tasks and the eyes can only point in one direction at a time. The spatial and chromatic quality of human vision deteriorates rapidly away from the fovea. As a guide, the fovea is approximately 4 times the size of the thumb at arm’s length.&#xa0;Events in the scene that break-through into awareness and action have to be relatively conspicuous. To be conspicuous, an object or event has to be considerably different from its specific surrounds and also different from our general experience. An object changing its colour or form is highly conspicuous.&#xa0;Finally, it is the case that the time to respond to an event in the visual field depends on the mannerin which it has been detected. If it is being detected because the observer has incorporated it into an ongoing visual task, then the response is faster than if it is being detected by virtue of its conspicuity in the face of other visual tasks.&#xa0;&#xa0;&#xa0;
+
+[[[V]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[l]]]
+
+[[[a]]]
+
+[[[ted to]]]
+
+[[[ ]]]
+
+[[[tr]]]
+
+[[[a]]]
+
+[[[f]]]
+
+[[[f]]]
+
+[[[i]]]
+
+[[[c]]]
+
+[[[ s]]]
+
+[[[i]]]
+
+[[[g]]]
+
+[[[na]]]
+
+[[[l]]]
+
+[[[s]]]For a road traffic signal to be effective it has to cause the driver to respond appropriately. This means that the information conveyed by the state of the signal must either be the object of dedicated user- controlled vision, or rely on being picked up and breaking through into the driver’s awareness and behaviour. The first option is possible provided that the driver knows enough about the presence and nature of the signal and is not occupied with some other visual demand. In such circumstances, a driver can monitor the state of traffic signals on approach provided nothing else has a more immediate need for visual information. The alternative is to make the signals highly conspicuous. Generally speaking luminous lights are highly conspicuous – there are very few other luminous objects.&#xa0;&#xa0;&#xa0;In practice, one relies on drivers noticing signals ahead from some distance, by making them conspicuous, and then one expects drivers to monitor the signals.&#xa0;The positioning of traffic signals is a difficult compromise between a number of different factors. A driver tends to hold their vision (technically, fixate their vision) on the road surface some 10s of metres ahead or vehicle in front (if present). For practical reasons therefore, it is not possible therefore to place signals where a driver’s fovea will naturally fall. It is important that the signal is not occluded (hidden) by anything as a driver approaches. A traffic signal using a beam of light also requires that the beam aligns as far as possible for the longest time with the trajectory of the approaching driver. Finally, signal positions have to be standardized to maximize their predictability. Typically these considerations favour placing a signal as close to the edge of the road as possible and at a standard height safely above pedestrians and other vehicles which might otherwise obscure visibility. For straight roads, this compromise is generally good. For roads with bends the compromise is not particularly good.&#xa0;Finally, there is good evidence to support the idea that people respond more readily to a change in a signal than to a steady state signal.&#xa0;October 2013&#xa0;               Hole, Graham (2006) The psychology of driving. Lawrence Erlbaum Associates, Inc. (re-printed 2009 by Psychology Press p.20 ISBN 0-8058-5978-0)&#xa0;               http://www2.psych.ubc.ca/~rensink/flicker/download/  for examples of change blindness               http://en.wikipedia.org/wiki/Motion-induced_blindness                http://www.youtube.com/watch?v=y6qgoM89ekM for an explanation of inattentional blindness               http://www.trl.co.uk/trl-news-hub/transport-news/trl-press-releases/inroads_intelligent_renewable_optical_addvisory_system.htm               http://www.visualexpert.com/Resources/roadaccidents.html&#xa0;

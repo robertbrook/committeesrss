@@ -1,0 +1,489 @@
+&#xa0;Communities and Local Government CommitteeOral evidence: Fiscal devolution to cities and city regions, HC 1018Monday 27 January 2014Ordered by the House of Commons to be published on 27 January 2014.Written evidence from witnesses:Alexandra Jones, Chief Executive, Centre for Cities Jim O’Neill, Chair, RSA City Growth Commission Professor Tony Travers, Chair, London Finance Commission &#xa0;Watch the meetingMembers present: Mr Clive Betts (Chair); Bob Blackman; Simon Danczuk; Mrs Mary Glindon; David Heyes; James Morris; Mark Pawsey; John Pugh; John Stevenson; Heather Wheeler and Chris WilliamsonQuestions [1-65]Witnesses: 
+
+[[[Alexandra Jones]]], Chief Executive, Centre for Cities, 
+
+[[[Jim O’Neill]]], Chair, RSA City Growth Commission, and 
+
+[[[Professor Tony Travers]]], Chair, London Finance Commission, gave evidence.
+
+[[[Q1 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] Welcome, everyone, to the first evidence session on fiscal devolution to cities and city regions.  Just for the sake of our records, could the witnesses say who you are and, if any, the organisation you represent?
+
+[[[Alexandra Jones]]]: I am Alexandra Jones.  I am Chief Executive of the Centre for Cities.
+
+[[[Jim O’Neill]]]: I am Jim O’Neill.  In this capacity, I am chairing the independent City Growth Commission.  
+
+[[[Professor Travers]]]: I am Tony Travers from the London School of Economics.  Last year, the London Finance Commission, which I chaired, reported.  &#xa0;
+
+[[[Q2 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] Thank you all for coming.  Members at the beginning declared our interests, which I did say at the time were pertinent to both sessions, so we will leave those on the record, as they have already been set down.  I understand we may be going to have another vote before too long, or at least some of us may be going to have another vote.  We are not doing our voting record any good at all today, but that is another thing.  If at that stage we have one, we are just going to have to suspend again, as we did for the previous session, and then come back.  Just to begin with, in terms of fiscal devolution and the potential link to economic growth, what is there to support the basic tenet that fiscal devolution will stimulate economic growth and make the country better off?
+
+[[[Professor Travers]]]: Given that you have just taken evidence in a previous session from a DCLG minister, it is probably best to start with the Department for Communities and Local Government’s own research on their estimated impact of the effect of business-rate retention.  DCLG itself undertook some research, which was then looked at by my colleague at the LSE, coincidentally, Henry Overman, and he acknowledged that the methodology they used was fine.  That research suggested that business-rate retention would increase GVA, gross value added, by a substantial number of billions of pounds.  It was quite a wide range, as I remember it, but it did conclude that business-rate retention would create incentives that would then add to overall economic activity, the logic being—and this was the logic of the business-rate retention scheme—that if councils kept at least part of the growth in the tax base, they would make decisions that would generate economic activity more quickly.  That is the straightforward answer to the question, based on the Government’s own research.  More generally, there has been a deal of academic research on the question of whether more devolved systems of government do or do not produce higher levels of economic activity, and, being academic evidence, it shows results both ways, if I am honest, or at least it is not very powerful in showing that more devolved systems of government produce necessarily higher levels of growth.  But what it also shows beyond argument is that there is no evidence that devolving systems of public finance to lower levels of government produces lower economic output, so there is no damaging impact.  Then you can move on to talk about other aspects of devolving public finance and placing decision-making power nearer those who understand the areas and the places where those decisions are made.
+
+[[[Alexandra Jones]]]: To add to that, even though, as Tony says, the academic research is a little inconclusive about whether it will definitely have a significantly beneficial impact, it does show that if you do decentralise fiscally, it needs to go hand in hand with regulatory decentralisation.  In other words, if you just pass down governance powers without financial powers, it provides neither central nor local government with the right toolkits to really support economic growth.
+
+[[[Jim O’Neill]]]: I would just add that this is one of a series of things of which the City Growth Commission is going to be doing our own examination.  We have not been going that long, and this hearing is quite early on in the Commission’s life.  We plan to devote some of our resources and get input from people for us to adopt our own view for when we plan to make a series of recommendations in October.  I would only add on top of that that our goal is to suggest interventions x, y and z, of which this could be one, which, if adopted, will improve the GVA in whatever areas we focus on from a to b, which would boost the national growth potential of the economy.  I will follow it up by saying that if you look at economic history, going back for centuries, large urban areas and the process of urbanisation have coincided with many countries having their best growth rates.  Lastly, today, some of the most successful economies in the world—I am thinking of three: Germany, China and the United States—all have a lot of cities that share in that growth and they seem to have quite a bit of devolved power, including finance.  But we plan to study it properly—as much as we can, anyway. &#xa0;
+
+[[[Q3 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] So you are going to do some particular research into that area.  
+
+[[[Jim O’Neill]]]: Yes.&#xa0;
+
+[[[Q4 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] That would be very helpful.  In terms of the potential downsides, we are looking at the devolution of property taxes; the London Finance Commission particularly looked at that and the Core Cities have picked up on it as a way forward on fiscal devolution.  Is there not a bit of a downside there, in that property taxes themselves tend to be ones that are likely to move fairly sharply with economic activity?  Property values and property income probably tend to go up more rapidly at times of growth and often fall at times of stagnation.  Would devolving property taxes not therefore put the financial base of cities at significant risk in the future?  There are great opportunities, but is there not great risk as well to them?
+
+[[[Professor Travers]]]: It is true that if you revalued regularly, which is quite a big qualification, the value base would reflect radical changes in values as they occurred—going up quite a lot of the time in England; coming down in different ways in different regions at other times.  But the truth is the answer to your question, Chairman, hangs on whether or not we revalue the base.  If the base is, as it has been, left in place and you keep the same tax rate on it, it will continue to produce broadly the same yield.  &#xa0;
+
+[[[Q5 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] That is true of council tax in the way you describe, but it is not true of stamp duty or capital gains tax, is it?
+
+[[[Professor Travers]]]: Oh, I am sorry; the other taxes.  
+
+[[[Chair:]]] Yes.  
+
+[[[Professor Travers]]]: Forgive me, yes.  Sorry, I was addressing council tax and business rates, which are broadly as I have just described.  Stamp duty is more susceptible to changes particularly in parts of the property market, or indeed radical changes in the scale of turnover in the property market from time to time, but in almost all cities it would be a minority of the income from property taxes and a minority, therefore, of all income.  Not to put too fine a point on it, most municipalities in Britain have substantial reserves and investments, and could probably manage their way through and, indeed, if these taxes were devolved to them, would learn to manage their way through cycles in the property market in the way that, as Jim O’Neill says, happens in many cities overseas.  British municipalities are actually rather good at managing their finances, and my guess is they would be able to manage the ups and downs inherent in the property market in rather the same way.  
+
+[[[Alexandra Jones]]]: I would concur with that.  If you look at US cities, there you have got far greater reliance on locally raised taxes than you would be proposing if it was just property taxes; as Tony says, that is just a proportion.  If you look at what happened during the downturn, they experienced it far more quickly but they came out of it slightly more quickly as well, and they had greater flexibility to respond to what was happening in their individual places.  There are certainly risks associated with fiscal devolution; at the same time, because property would be a small proportion and because you would be able to respond a bit more to what is really going on in your place, I would argue that you would be able to manage those risks in a way that worked for your particular area.  Given the safety net that there is likely to still be from national Government, it may be easier for you to ride out some of the storms, because you can decide what works for your area.  
+
+[[[Jim O’Neill]]]: I have nothing to add, other than the obvious.  There are downsides to anything, but, thinking of the United States in particular, the increased flexibility it gives regions and cities to respond to unexpected developments I would have thought was a major benefit.&#xa0;
+
+[[[Q6 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] Would it be slightly less risky, then, if you looked at a slightly wider basket of taxes?  You referred to the US; what about Sweden, for example?  One bit of evidence we have had in from the IPPR suggests that there should be an identification of a percentage of national income tax, which the Political and Constitutional Reform Select Committee has put forward, or even an ability to vary that at local level.  
+
+[[[Professor Travers]]]: At risk of making a very wide political point, Chairman, if you broadened the local tax base and allowed local government to control more of the income that funded it, because local authorities are not allowed to budget for a deficit in-year, it would be less likely that the UK would run substantial deficits or surpluses, to be honest.  It would simply act as a stabiliser on the UK economy, because local government cannot, like the UK Treasury, borrow to finance day-to-day spending.  If you widened substantially local and/or devolved financing and left in place, as I would strongly recommend, this “no borrowing to fund the current budget” rule, it would make it less likely that the UK would end up with the kinds of problems that we have from time to time: building up substantial Government deficits and therefore debt.  I am not having a go at a particular Government here; it has happened under Governments of all the parties over the years.  &#xa0;
+
+[[[Q7 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] All three of you to a certain extent have been talking about London and the large cities and city regions, but we should not forget that there are the counties and there are smaller cities—in particular my own city of Carlisle.  Carlisle in my view is the economic powerhouse of north Cumbria and south-west Scotland, but it is a very small place.  Should we not be looking to devolve these powers that you are suggesting to places such as Carlisle?  If not, why not?
+
+[[[Professor Travers]]]: If I just give you my personal view, I am in many ways a neo-con localist.  I believe in substantial devolution of power within England and, separately, in Wales, Scotland and Northern Ireland.  However, I am also heavily pragmatic—and these are my personal views.  Although I am very sympathetic to the Key Cities, the Core Cities, London, smaller cities who are neither key nor core nor London, and the shires, the truth is—and Greg Clarke made this point at the launch of the Centre for Cities’ new report at lunchtime today—in the end, if we ask for the same localisation or decentralisation for all of England at once, we are less likely to get it than if we ask for one or two places.  I am afraid it is a “thin end of the wedge” argument, and articulating it publicly makes it rather less likely to happen.  The truth is that there is a chance that a number of Core Cities and London might be able to get, as Greater Manchester has with its earn-back deal, a substantial change, but if we asked for this for the whole of England, all the drawbridges would go up and we would get nothing.  I am revealing all the wiring underneath my thinking here, which is that we need to take one step at a time.  If we are going to decentralise within England, we need to take one step at a time.  I am not unsympathetic to Carlisle at all.
+
+[[[Jim O’Neill]]]: I have spent most of my life as a macroeconomic forecaster, so I probably look at aspects of this a little bit differently from these two.  
+
+[[[Chair:]]] Order, order.  We will have to suspend again.                Sitting suspended for a Division in the House.               On resuming—
+
+[[[Q8 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] Jim O’Neill, I think you were just about to—
+
+[[[Jim O’Neill]]]: I was about to pontificate about macroeconomics.  I shall be brief, anyhow.  As I said, linked to the first comment I made, there seems to be a lot of evidence in history and in most successful economies that large areas of people are significant for a lot of economic growth.  As I also emphasised, we are in our early days as the Commission, but in my role as Chair and thinking about it from my own experience and being “Mr BRIC”, etc., if you look at many cities in China and India, it is the biggest areas that generate a lot of growth.  Following on from Tony’s answer, it is most obvious to me for the bigger urban areas.  Where you stop I do not know.  You have probably got some very sound reasons.&#xa0;
+
+[[[Q9 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] Can I just pick up on that?  I accept the point the bigger areas, generally speaking, are the drivers, but where you have got places—and I am taking Carlisle as the example—that are a long way from other big cities and, therefore, they themselves are effectively the engine for growth in that area, they will feel deprived and effectively excluded.
+
+[[[Jim O’Neill]]]: Again, I am not giving you a definitive answer here, but I have advised our staff that, in the process of us doing this, we need to study a couple of cases—Carlisle was not one I said, but I have specifically said a couple—of smaller cities and look at how one would think about them, even if they are not part of our base case.  
+
+[[[Alexandra Jones]]]: Some of this is about flexibility to local circumstances.  The point was made earlier that if you devolve property taxes, that will work better for some places than others.  Devolution where you have, to some degree, a menu of options could be quite an interesting way to think about this and would reflect better the different needs of different places.  That is not just based on size.  Tony’s point about the incremental reform being the most likely is very valid.  One of the things that we have found in research about why it is quite challenging to get devolution is it is because there is not really a mass movement for devolution.  For politicians looking at devolution, there is not enormous public interest in this, necessarily.  That might change in the year of the referendum in Scotland, but there is not a great deal of interest, so you do not have the political leadership required to drive through what are very well-established structures at national level—funding structures; accountability structures; and a culture where it is national politicians held to account for how things are performing at a local level.  Without that kind of mass movement, some of the bigger-scale changes, where you just push everything down, are more challenging.  Having said that, one of the things that we have looked at is the idea of tailored devolution.  I know Localis previously talked about presumed autonomy, but there is an idea there where if you can, to some degree, demonstrate certain levels of things—which is more earned autonomy—and say, “Well actually, we are ready to do this.  We are going to take this on,” you can do that at different levels.  If you have got a combined authority and potentially a leader associated, you would be in a position to manage greater fiscal devolution, potentially, than if you have got slightly less than that.  That does not have to be linked to size.  The final point I would make is that one of the issues that was discussed originally with the Wave&#xa0;2 city deals was a core package.  That was a package of measures where, regardless of what deal you got—which was individual and bespoke—there were certain freedoms that it was widely recognised would be helpful to anywhere, regardless of whether they were a city, a city region, a large city or a county.  Some of those are fairly well recognised.  Some of them are not fiscal; they are more about powers and influence, but there may be a wider set of measures—not just fiscal—that could be devolved that would not be seen as so much the thin end of the wedge and could be quite pragmatic in an era of austerity where you need to save some money.  That might be something that goes slightly beyond the remit of this Committee but is still worth looking at and would respond better to some of the needs of somewhere like Carlisle.  &#xa0;
+
+[[[Q10 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] Going back to Tony’s point about the Core Cities being the priority, effectively, is there not a danger if we are trying to rebalance the economy that the rest of the economy is larger than the Core Cities and therefore we are excluding them from your suggestions, which you believe will ultimately lead to greater economic growth?  
+
+[[[Professor Travers]]]: Groups of authorities of all kinds like to say, “We are x% of the economy”—“Scotland is”; “These cities are”; “That city is”.  That is a fair point; they do that, for perfectly sensible reasons, and, of course, non&#x2011;big&#x2011;city England is clearly a very substantial part of the England economy—I would not like to put a percentage on it; it would depend on where you drew the line as to what a big city is and what is not.  I doubt any of us, and I do not think anybody in their right mind, would suggest that concentrating on improving the performance of city economies in any sense contains within it the idea that rural or smaller city and town economies should not also function perfectly effectively and be given attention, and they will be by their own MPs and councils and by the Government of the day.  However, with the city economies, as Jim O’Neill said earlier on, in the Victorian heyday of industrial Britain, these cities grew incredibly quickly.  All of them were prosperous at once.  They may have been smoky and filled with steel mills, coal, coke and all of that, but they were all prosperous at once.  It does not have to be that one place is prosperous and therefore another cannot be.  They used all to be prosperous, and they were competitive and prosperous in the 19th century.&#xa0;
+
+[[[Q11 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] But they had similar powers then.
+
+[[[Professor Travers]]]: They had similar powers, and much more power, which is all we are asking.  This is a really good conservative argument; I am only asking for what happened in the past here, which is to get back to the kinds of powers local government used to have when it did most of public policy and the Imperial Parliament here looked after the empire and the dominions.  We are talking about something that has existed in the past in Britain and worked well.  Smaller towns and cities need not be left out from that.  The other thing I would say is there is still a very substantial amount of under-developed land in all of the older cities in England, and the rest of the UK as well, which is undoubtedly part of the solution to not building on green land.  Public policy needs to bear that in mind as well.  We can improve the economies of cities and in so doing take pressure off green land and green belts, which is another prize.  &#xa0;
+
+[[[Q12 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] Alex, just one last question for you.  If the Core Cities and London were to be given the same sorts of fiscal powers, how do you think that would affect the present economic imbalance that there is between London and those Core Cities?
+
+[[[Alexandra Jones]]]: I would imagine that what you would see is that those other cities would grow at a faster rate than they are at the moment.  In terms of balance, this is not just a zero-sum game; this is about additional growth.  Often, when you look at some of the forecasts for the UK, they are macroeconomic forecasts, and so it can look like: if Manchester grows a bit more, that means somewhere else does not have to grow so much; actually, they can go hand in hand.  Leeds, for example, could invest in the transport system that it has made a very strong economic case for investing in but for which it cannot get the money at the moment from Whitehall—it needs to keep going back, cap in hand.  If it can raise the money locally, it can invest in that, and it knows there will be economic benefits.  There will be numerous schemes like that.  I would expect that to help shift the balance.  I hope—and I think we should all hope—London continues to grow.  It is about making sure that other cities outside London can thrive as well.  Our report, which was published today and I would be very happy to share with Members of the Committee if that would be helpful, shows that there are cities, particularly in the greater South East, that are already thriving and doing well.  There are some other cities in the north of the country that are doing well—Warrington does very well, for example, and York does well.  There are some places already thriving, but London is growing much faster.  I would expect if some of those powers were devolved to the Core Cities as well as to London—and greater powers to all of them—they would grow faster.  I could not imagine a situation in which that would happen without some things happening for other cities.  Whether it is on the same scale is another issue, and may go back to Tony’s points about the practicalities of making such great change all at once.&#xa0;
+
+[[[Q13 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] I will start on a semantic note.  You have used the expressions “Core Cities” and “Key Cities”.  Cities originally were things that had letters patent from the monarch or something like that; you knew what a city was, because it either did have these letters patent or it did not.  Are you capable of pointing me in the direction of a useful definition of a core city or a key city so I can satisfy myself whether Winchester, for example, is in either one of these two categories?
+
+[[[Alexandra Jones]]]: They are to some degree self-selecting groups.  The Core Cities were set up—&#xa0;
+
+[[[Q14 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] A core city is a city that calls itself a core city.  
+
+[[[Alexandra Jones]]]: They are eight cities.  They are the eight largest cities in England outside London.  I can give you the list if that is useful.  &#xa0;
+
+[[[Q15 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] I was expecting they might have some sort of broad economic fixed features or some sort of demographic definition or they need to be of a certain size, but you are saying a core city is any city that puts its hand up and says, “I am a core city.”
+
+[[[Alexandra Jones]]]: No.
+
+[[[Professor Travers]]]: In fairness, as Alex says, the Core Cities are broadly the biggest cities and city regions outside London.  That would just about take you to what they are.  Of course, you can then say, “What is a city?”  These are ones that are not unlike—to raise another spectre from the past—those that used to be metropolitan counties and a couple of others.  That is another way of thinking of them.&#xa0;
+
+[[[Q16 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] So they are the biggest.  What is the cut-off point below which you cannot be a core city?
+
+[[[Professor Travers]]]: I am not sure they have a cut-off point.
+
+[[[Alexandra Jones]]]: They do not have a cut-off.  That is what I meant by self-selecting.  Tony is right; they are the eight biggest, broadly, outside London, but they were a group that set themselves up because they were the eight biggest.  &#xa0;
+
+[[[Q17 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] So if the ninth biggest said, “We are a core city too,” you would say, “You are not.”
+
+[[[Alexandra Jones]]]: That is a group that manages itself.  That is how it is established.  &#xa0;
+
+[[[Q18 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] It strikes me the definition is a bit like the Russell Group universities; you put yourself in that group simply by claiming to be in that group.  It does not seem to have any sort of geographic or economic meaning, does it?
+
+[[[Jim O’Neill]]]: I am not sure if this will answer your question in the future—it certainly will not today—but the first paper that we will be publishing as the City Growth Commission will define what we are concentrating on, and that will be done by the middle of February at the latest; we are aiming for 10 February.  We are not constrained by how the Core Cities have set themselves up.  We have this discussion ourselves.  &#xa0;
+
+[[[Q19 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] Fine.  An element of precision will be helpful.  You would accept, I think, that having fiscal devolution is not a necessary condition for economic growth for a core city or for anybody else.  Is it sufficient?
+
+[[[Jim O’Neill]]]: Not in my opinion.
+
+[[[Alexandra Jones]]]: No.&#xa0;
+
+[[[Q20 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] If it is not sufficient, what else is needed apart from fiscal devolution?  For example, is the decentralisation of public services or some other cultural change necessary?
+
+[[[Jim O’Neill]]]: Again, we are going to be pursuing a number of strands that we suspect might be as, if not more, critical.  I certainly think it is not sufficient.  In that regard, when I accepted this role, I only did it on the basis that we would look at what I would describe as supply-side policies, as opposed to many historical attempts, which appear to have been effectively some kind of demand subsidy, most of which do not appear to have had a great deal of success, given some of the underlying natural issues.  We are deliberately framing what we are doing and looking at what would seem like areas of interest that would, maybe even separately from devolution but certainly in the company of it, be likely to be delivered, including things like infrastructure.&#xa0;
+
+[[[Q21 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] Are we talking about infrastructure or control of infrastructure?
+
+[[[Jim O’Neill]]]: Not necessarily control, but it would seem, linked to what Alex said, an area is going to know a lot better what real infrastructure it needs than some central figure.  There are other things like technological infrastructure too, which might also be the case.  &#xa0;
+
+[[[Q22 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] What about decentralisation of public services—transport franchising, for example?
+
+[[[Jim O’Neill]]]: It would seem quite conceivable to me, yes.&#xa0;
+
+[[[Q23 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] Those would be good add-ons, would they?
+
+[[[Jim O’Neill]]]: We are going to be exploring that, with that being a possible conclusion.  &#xa0;
+
+[[[Q24 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] So it is fair to say that fiscal devolution is not either a necessary or sufficient condition of economic growth; you need to look for other factors that go with fiscal devolution to get the mix, or the recipe, that will lead to economic growth.
+
+[[[Jim O’Neill]]]: In my opinion, yes.
+
+[[[Professor Travers]]]: I was trying to make the point earlier on that there is no question that England used to be a much less centralised country than it is today, and it has now become one of the most centralised big countries in the world.  We are all trying to be careful about not trying to take too many steps at once back towards a different kind of country, but in a more advanced form of decentralisation than any of us is immediately asking for—if I can speak for the other two—it would have a profound effect on the way the country operated and lead back to the existence in cities outside London of a whole array of facilities that they once had but no longer have.  We are having to take tiny steps to move in that direction.  We all know there used to be stock exchanges and a huge merchant class and political class and all of these things, not only in one city.  We are not going to get back there in one step, but we can start to take steps that take us in that direction.  That is why it is necessary and not sufficient but you can begin to see some of the other things that would be on the necessary side to take us toward sufficient.  
+
+[[[Alexandra Jones]]]: Absolutely.  All the research we have done at Centre for Cities shows that what makes places successful is being more highly skilled; being more diverse in your industrial base, particularly if you have got lots of highly skilled, knowledge-intensive jobs; being well connected—and that is physical and digital connections—having good leadership; and having good quality of place.  Where fiscal devolution comes in is it enables you to take decisions about how you can improve some of those.  If you are not performing so well, you can ensure that your skills base responds to the demand in the local labour market, and you can ensure your infrastructure responds to where you know there is congestion at particular road points.  Fiscal devolution enables you to help put in place or deal with some of the things that we know make cities successful, which is why I would say it is necessary but not sufficient.  &#xa0;
+
+[[[Q25 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] I do not want to put words into your mouth.  You are saying that fiscal devolution is not either necessary or sufficient to achieve economic growth, but what Tony seems to be saying is that what is in aim here is not just simply economic growth; it is a whole range of other changes, cultural or whatever.  Right?  It is a good thing to have lively, vital cities.
+
+[[[Professor Travers]]]: As I say, I am slightly going beyond the original starting point both of today and of the Finance Commission that I chaired and the work that Jim’s commission is going to look at.  All I am saying is that it is partly about growth in the short term and trying to enable more growth, but it is also slightly unwinding the very centralised nature of democracy in the country, which could then lead to further steps.  They are related issues, but we are taking this first step in line with growth.  &#xa0;
+
+[[[Q26 ]]]&#xa0;&#xa0; 
+
+[[[John Pugh:]]] So your view is essentially it would be a good thing even if it did not shift GVA that much.
+
+[[[Professor Travers]]]: That is my personal view, but we are trying to look at growth today.  
+
+[[[Jim O’Neill]]]: I have a slightly different view from Tony.  Again, in my role as Chair, I see its whole purpose as being to undertake initiatives that can boost—without getting too irritatingly economist about it—the country’s growth trend.  The country’s economic performance goes around whatever its trend is.  The interventions that we are looking at, including devolution, are ones that I perceive could change the country’s growth trend.  Many economists would say today it is something in the vicinity of two; this would be one of a number of initiatives that I think, if they were done correctly, could raise the country’s growth trend to two and a half.  It would not have any influence on what happens to the country’s growth rate next year or the year after, but in terms of the long-term growth trend that the cycle will go round, this is what we would hope to conclude from our recommendations. 
+
+[[[Alexandra Jones]]]: I would suggest that you can certainly get economic growth without fiscal devolution, but, as Jim was saying and as I understand it, it would be higher with devolution.  The other point is to what level.  Going back to your question about how you define a city, there are different ways.  One is primary urban area, which is how you look at it from space, so the joined-up area from space.  One is travel-to-work areas, which is about the labour market.  There are all sorts of different ways you can do this, but if you did, say, devolve to the travel-to-work area, which is what people experience as a city, rather than the administrative boundaries, and you looked at public services as well, that is another example where if you pool things together at a level at which people live and work, and at which they need the infrastructure, it is not that you could not get the infrastructure and things working before, but you could get a more efficient and effective system where you make better use of the limited money that you have got.  In the current climate, where we need to reduce public spending, that would arguably be a very helpful thing.  &#xa0;
+
+[[[Q27 ]]]&#xa0;&#xa0; 
+
+[[[David Heyes:]]] As one of those who was caught up in the abolition of the metropolitan counties, in Greater Manchester in my case, 28 years ago—it is astonishing—one of the few pleasing outcomes at the time was the way that the 10 local authorities in Greater Manchester worked together.  They co&#x2011;operated from the start through the Association of Greater Manchester Authorities and, to my surprise, sustained that.  It grew over the years.  Through change in political leaderships locally and under different national governments, it continued.  Greater Manchester almost self-selected itself as fit for devolution, but it was almost unique.  There was some co-operation elsewhere, but not on that scale and not with that degree of success.  It really begs the question: have they all got to model themselves on Greater Manchester, or are there some criteria against which a city region’s preparedness for devolution can be assessed?  What would those criteria be?  I am not sure who to ask.  All of you.  
+
+[[[Professor Travers]]]: I have tried not to talk too much about London, but London, in a sense, is a freestanding and unique form of government within the country and, as you will know, when its government was abolished along with the six metropolitan counties in 1986, it created a vacuum, which then led—paradoxically, you might think—to an even more powerful institution being created in the vacuum that had been created.  It is one of those ironies of history.  There is a very substantial government machine in London at two levels, or spheres, and that system would be able—and certainly its leadership has said it would be able—to handle the kind of devolution that the London Finance Commission proposed.  In the other city regions, if this kind of reform were to take place, then clearly the quality of the city&#x2011;regional machinery would be hugely important to determining how far and how well it would work.  As you rightly say, the Association of Greater Manchester Authorities has been, I think it is fair to say, without upsetting the other city regions, the leading exemplar of how to get broad, sovereignty&#x2011;pooling agreement between 10 districts and, by that, create the capacity to make demands and negotiate with central Government about new powers, and the earn-back model that I referred to earlier, which has been a leader.  Other cities are now evolving—Alex and Jim will know more about this than I do—city-regional models that are allowing them to pull alongside and make equivalent arguments.  But you are right; I completely agree that the quality of the city-regional governance machinery and the way in which the individual metropolitan districts and other authorities play their part in that will be an important element in imagining devolving power to city regions if that is the level to which it is decided to deliver the devolved financial power.
+
+[[[Jim O’Neill]]]: I do not have too much to add, because it seems obvious to me.  I have a lot of experience of Greater Manchester, because I have chaired an economic advisory panel to them, so I see it in action.  Particularly from my perspective and linking it to my reoccurring theme, to be likely to have an impact and to boost the national growth rates, it has to be an area big enough and with evidence that there is the right spirit and evidence of leadership to go to.  One other thing, which is very tangential but Alex’s comments earlier got me going, is that in the context of HS2, on one level, from a macroeconomics perspective, I thought initially, “When we are obsessing about cutting national debt, is this a great thing to spend money on, from a macroeconomic perspective?”  But in the context of big urban areas, if you look at what is on the tin and how dramatic the estimated travel time is between some northern cities, there are very interesting angles to that.  I have been quoted in the media saying it is effectively like creating, for many of those places, the equivalent of a tube system.  If it was affordable and if that part of it is being administered more locally, it seems to me there are all sorts of interesting things that could come from that.
+
+[[[Alexandra Jones]]]: On the governance structures, I would agree.  Good governance should be one of the principles.  That is also about structures that enable you to take democratically accountable decisions about investing money across a local area so that, for example, you can be held accountable by Parliament, or by Whitehall accounting officers.  When I talk to civil servants about how this could work, one of the things they say is, “You have to be able to hold people to account.”  That is, locally you have to be able to hold people to account.  The Centre for Cities has argued in the past for directly elected mayors as a helpful model for doing that.  I recognise that they may not work everywhere and they are not a panacea, but they need to be democratically accountable locally and they need to be able to be held to account as a body by national Government.  &#xa0;
+
+[[[Q28 ]]]&#xa0;&#xa0; 
+
+[[[David Heyes:]]] A really basic question: how do you measure readiness, and who makes the judgment?
+
+[[[Alexandra Jones]]]: Usually it is national Government, so usually it ends up being a series of hoops.  You could argue that it probably will end up being national Government, but Greater Manchester shows how you can lead that conversation from a city level, because actually they are establishing that.&#xa0;
+
+[[[Q29 ]]]&#xa0;&#xa0; 
+
+[[[David Heyes:]]] The only criterion I am getting out of you is, “Be like Greater Manchester.”  There has got to be more to it than that.
+
+[[[Alexandra Jones]]]: There are combined authorities, for example, and they are different.  Leeds City Region is establishing one; so is Sheffield.  That is where you are working together across boundaries, primarily on transport.  That looks slightly different from the Manchester model; it is tweaked to the local circumstances, but that is about working together formally.  If you have a principle that you have got a formal mechanism for working together, you have got an accountable body to which you devolve funds and you have got a process for agreeing how you allocate investment and one that is based on evidence, you could set a series of criteria that may be drawn to some degree from and inspired by Manchester, but are not beholden to setting it up in that precise way.&#xa0;
+
+[[[Q30 ]]]&#xa0;&#xa0; 
+
+[[[David Heyes:]]] Is that criterion laid down somewhere?  It does not exist, does it? 
+
+[[[Alexandra Jones]]]: No one has laid that down, no.  To some degree, cities are trying to push and say, “If we do this, we should be able to have this,” but at the moment there is a little bit of a gap, and even in city deals, what you did not get were specifically requested governance criteria and you did not get from the city specifically, “We will set this up, and if we do this, can we have x?”  You have primarily got that in Greater Manchester.  There is some space there.  Articulation of principles—but ones that do not mean you have to look like Greater Manchester—could be very helpful in this space, provided you got real powers associated with it and it was not just, “Can you establish these governance structures?” and if you do them, you get a little bit more power.  That way lies a lot of administration and not enough incentive.  
+
+[[[Professor Travers]]]: We are definitely in England in the middle of a move from a post&#x2011;regional version of the nearest England got to devolution to something else.  This is nothing to do with the question of finance.  We are in the middle of the evolution of what looks to me like in the medium to long term a city and county regional model of devolution in England.  That is the direction I suspect we are heading.  If you look at the reforms that are about to take place in Wales, they are beginning to move off in this sort of direction, albeit in a smaller country.  To the question of how city-regional models themselves evolve, as Alex has said, there is now the possibility under legislation that was passed by the last Government to create combined authorities, and then beyond that we have seen LEPs, local economic partnerships, sort of overlaid on that.  That will sort itself out over time.  There will be a number of further iterations as to exactly what the city-regional mechanisms are—whether they have mayors or keep their existing systems of government.  All of those things are going to get decided.  With regard to the incentives—and I completely agree with Alex about this—Central Government will, by its decisions about what you can get by forming these mechanisms, incentivise their strength now.  The Greater Manchester model is undoubtedly a building block, and one that they themselves created.  They will have to be built elsewhere uniquely for those other city and/or county regions.  &#xa0;
+
+[[[Q31 ]]]&#xa0;&#xa0; 
+
+[[[James Morris:]]] I just want to focus on how this might work.  We have moved towards a system for business-rate retention, which started out as a principle that it would be a good idea for local authorities to retain business rates in order to promote growth.  What then got spat out, as it were, was something that only went a rather incremental distance to achieving that principle.  The Core Cities have said: “The current local government finance system operates a top-up and tariff scheme that might evolve to deal with this issue, and although focussed currently on business rates, has essentially created a framework through which any fiscal reform might operate.”  How would it work, Tony?
+
+[[[Professor Travers]]]: I think what the Core Cities are referring to there is the excellent Department for Communities and Local Government arrangements—excellent in the sense they are mathematically extremely clever—for dealing with a reform such as business-rate retention.  You take business rates, or half of business rates, as it turned out, previously a national Government tax, and then localise them, but when you localise them, or allow them to be retained locally—not quite the same—the base varies enormously from place to place.  Some places, like Westminster City Council, where we are sitting, have very large bases, and many other authorities have very small bases relative to their spending needs.  The tariff and top-up system was used effectively in the first year to get every authority back to the position it would have been in if there had been no reform, however with the base then retained.  You could use the same method effectively to allow any tax to be retained at any level.  You could use the same method to have income tax, value added tax, or any tax, retained at any level of government you chose.  All you would do would be to have a series of tariffs and top-ups so that in the first year nobody was either better or worse off, but then the authority would have the incentive to build up the tax base—or some of the tax base, because that is how the business-rate retention system works.  I think that is what the Core Cities were referring to.  What they are saying—I think rightly—is that in the business-rate-retention model that was set up and started in April 2013, the Government did put in place a clever way of allowing any tax reform to any level of government, and that is true.  &#xa0;
+
+[[[Q32 ]]]&#xa0;&#xa0; 
+
+[[[James Morris:]]] On the pragmatic basis that you have outlined, which is that you do not think we should go into a situation where we advocate this for the whole of England, there is not a danger that we would have two parallel streams of local&#x2011;government financing, one of which was in the context of this fiscal devolution and one of which was in the context of the rest of local government.  
+
+[[[Professor Travers]]]: No, because in year one, whichever city regions went into this new arrangement, they would get their fiscal autonomy up to the degree the Government suggested and then they would have grants taken away from them pound for pound, so they would be neither better nor worse off, and then we would see what happened, experimentally.  With luck, it would produce the higher growth that Jim is suggesting, and I believe it would.  The rest of the country would be unaffected, except, if it worked and it did generate higher growth, the remaining 88% of taxes paid in each of these city regions that were still collected by the Exchequer would also grow by this higher rate of growth, so the Exchequer would be better off as well; the rest of the country would gain if the devolution took place.  If the city region did not do as well as the national average, the rest of the country would then be protected from losing.  It works for the places that are not inside the reform.  &#xa0;
+
+[[[Q33 ]]]&#xa0;&#xa0; 
+
+[[[James Morris:]]] Has anybody got any other observations on the mechanism?
+
+[[[Jim O’Neill]]]: The key is the likelihood of contributing to higher economic growth, because that would generate much stronger tax revenues.  &#xa0;
+
+[[[Q34 ]]]&#xa0;&#xa0; 
+
+[[[James Morris:]]] Just taking that, if we accept fiscal devolution to a core city and to London, what about the distributional effects within a core city or within London?  We are talking about a complex interaction, with lots of inequalities.  How does that work?  Who decides how that distribution effect within a region is going to be sorted out?  In your report, Tony, you said in respect of London you would need to have a “formal institution for handling any distributional issues”.  What does that mean?
+
+[[[Professor Travers]]]: Going back to the questions that were asked in the previous session about equalisation, one of the interesting aspects of both the schools-finance reforms that took place under the last Government and the local-government-finance reforms that took place in 2013 under this Government is that in each case they have effectively frozen equalisation where it was at that point.  For schools reform, there has been no further iteration in terms of needs, except the pupil premium, since the DSG was introduced, and as far as local-government finance is concerned, unless there is a resetting of the system, under the new arrangements, in effect, need and resource equalisation is sort of frozen where it was in 2013.  What the London Finance Commission report suggested, and I think will be true for any other city regions, is if they went into this new world where they had fiscal autonomy, the authorities within that city region would then decide whether they wanted to carry on with the arrangements as before or introduce their own within-city-region equalisation arrangements, which they would be free to do. &#xa0;
+
+[[[Q35 ]]]&#xa0;&#xa0; 
+
+[[[James Morris:]]] Yes, but my question is: how would that work?  It gets held somewhere at a particular level of governance—say in Greater Manchester—and they then adopt a formula for the 10 districts of Manchester to take into account issues of inequality and the need for distributional impact within the core city, so we have two levels of fiscal devolution going on.
+
+[[[Professor Travers]]]: “Prototype” is not quite the word, but the Leeds City Region set up a pooling arrangement to cope with business-rate retention, and the logic of that was—rightly, in my view—that the Leeds authorities as a whole would be better off by having a pool than if they did not have a pool.  In the world we are envisaging for devolving some—though not all, by any means—taxes to city regions, those who assented to the original devolution would be able to make a decision at the same time, or subsequently, as to whether they wanted to have some form of new equalisation or no equalisation at that point.&#xa0;
+
+[[[Q36 ]]]&#xa0;&#xa0; 
+
+[[[James Morris:]]] Is the danger not that your idea of a formal institution in London would become a horse-trading institution, where Westminster City Council would be sitting there saying, “We are sitting on £1.8 billion of rates and x property taxes,” and all of it?  There is going to be political horse-trading, because everybody is going to want it to be invested in the East End.  
+
+[[[Professor Travers]]]: I know you do not mean it, but saying “horse-trading” makes it sound pejorative.  It is a political process where politicians of goodwill sit down and decide what is best for them all.  To put it crudely, if the Chancellor of the Exchequer said, “Look, I am convinced by these arguments.  This should happen here, here and here,” the politicians in those city regions would have to get together and make very important decisions, which boil down to, “Do you want more power over your financing or do you want to let the Government go on doing this?”  Under that pressure, I think they would come up with some arrangements and it would not just be that the rich places made all the money and the poor places got left behind, because the horse-trading would sort that out.  &#xa0;
+
+[[[Q37 ]]]&#xa0;&#xa0; 
+
+[[[James Morris:]]] What I am trying to get to—maybe I am being a little slow—is: if I get fiscal devolution in Greater Manchester and it comes to me, am I going to calculate a new formula for how this money gets distributed out into Trafford and wherever it might be?  How is that mechanism going to work in practical terms?  Is it a funding formula that I then come up with at a local level that determines it on the basis of an assessment of need?
+
+[[[Jim O’Neill]]]: Yes.  
+
+[[[Alexandra Jones]]]: Yes it is.  
+
+[[[Professor ]]]
+
+[[[Travers]]]: Yes it is.  No question.  Absolutely.  
+
+[[[Alexandra Jones]]]: And if you look at Greater Manchester, they have got an investment framework that enables them to make decisions about where they invest in Greater Manchester.  I am not saying that you would do it in that way, but they do have ways of making decisions across boundaries.  Yes, it would be that governance structure—a combined authority.  
+
+[[[James Morris:]]] Maybe we should not pursue this too much further.  
+
+[[[Professor Travers]]]: If I may say so, I totally agree it is a hugely important issue.  If you can imagine it in the London context—
+
+[[[Chair:]]] Can we go on to London?&#xa0;
+
+[[[Q38 ]]]&#xa0;&#xa0; 
+
+[[[Bob Blackman:]]] As we know, Tony, where London leads, the rest follow, so it might be appropriate to look at some of the political arrangements that might happen and, therefore, how they might lead on to what happens in other cities.  Your commission suggested that different organisations might take different decisions and that the arrangements “could be complex”.  Could you just outline what you mean by “complex”?  As soon as you have got complexity, people’s eyes glaze over.  
+
+[[[Professor Travers]]]: They do.  There would have to be a decision in the London context—though this also applies in Greater Manchester, so I can continue to answer the previous question.  At the point it was decided that devolving some tax-raising powers to these cities should take place, all the authorities in the city region would have to assent to it.  They would have to agree in some collective form.  The Chancellor—Alex was suggesting this—would almost certainly have to insist on that.  The Government of the day would have to say, “You will have to agree to this, O 10 authorities”—or 33 or five or six authorities, depending on where it is—“and also on the arrangements to handle everything subsequently.”  I was going to take the example of London, where there is a very uneven distribution of stamp duty.  In a sense, stamp duty is so difficult that it is a good way of understanding it.  Stamp duty, land tax, will yield by far the largest amount of yield in a small number of very affluent Inner London boroughs, but boroughs like Bexley, Havering and Croydon are not that much different from metropolitan districts in other parts of the country, or districts elsewhere.  At the point the reform took place, all the London boroughs and the Mayor would have to agree on a way of handling the resources.  They would not all come into the authorities where the money was generated; that is for sure.  At some level, there would have to be an agreement between the authorities where the money was generated and the rest of the city as to how the resources were distributed so as, in the first instance, to leave nobody better or worse off—going back to that idea—as they were in the last year of the previous system.  How the growth is shared, which both Alex and Jim have referred to, is then very important.  You want to give it to all the city—or, indeed, if you decide it, parts of the city, as Greater Manchester has done under Jim’s tutelage, to concentrate growth in some parts of the metropolitan area, with others benefiting from transport links and so on—in such a way that you maximise the economic growth and the tax yield for the whole area.  How that was decided by the authorities that assented to the reform, making an agreement with the Chancellor, would have to include some idea of what was best economically for the whole city region.  I will hand over to Jim and Alex to talk about that.&#xa0;
+
+[[[Q39 ]]]&#xa0;&#xa0; 
+
+[[[Bob Blackman:]]] Before you do, one of the key issues then is going to be how accountability works under those circumstances.  You have got this great metropolis where people are making decisions and people are carving up the money through a horse-trading arrangement and goodness knows what else.  How does the average constituent out in a London borough go, “Well, what money have we got?”  “Well, it has been decided up there and we tried to get some money, but we could not get any.”
+
+[[[Professor Travers]]]: At the risk of a cheap shot, it could not be any less obscure than it is now, could it?  It could not be any worse in terms of obscurity than it is now, because, as we heard in the earlier session, all decisions about taxation, other than council tax, are very hard to understand, and the way in which money is divvied up through formulae and the allocations of money is almost impossible to understand.  Your constituents, in a sense, just read what is going on in the press and see what is going on on the TV and radio and listen to what their MPs say and get a picture from that, whereas in this world, they would know, to some extent, that the Mayor in London and the boroughs, who are a bit nearer to them and a bit more accessible, are at the root of whatever they think the problem is.  Making those decisions a bit nearer makes them a little more accessible.  &#xa0;
+
+[[[Q40 ]]]&#xa0;&#xa0; 
+
+[[[Bob Blackman:]]] To give an example, any MP can stand up in Parliament, challenge a minister and say, “Why are you spending this money on this?  Why are you spending this money on that?”  If a London MP stands up and challenges a minister on the money, they say, “It is all devolved.  It is nothing to do with us.  It is all devolved to the Mayor and the boroughs.  Sorry, you will have to ask them that.”  There is no mechanism for doing so.  
+
+[[[Alexandra Jones]]]: Some of that is about changing the way that we hold people to account.  You could call the Mayor here and hold the Mayor to account.  If you are going to have a shift of powers, then you need to shift that responsibility there and shift to a culture where, instead of it being the Secretary of State held to account for what happens in a local area, that local area is held to account.  That is where a structure that is a combined authority or some kind of city-region arrangement does need a very clear leader; you need to be clear how you get to that leader and how that is democratically accountable.&#xa0;
+
+[[[Q41 ]]]&#xa0;&#xa0; 
+
+[[[Bob Blackman:]]] In your view, should there therefore be a grand committee of MPs for that area who hold that authority to account on behalf of the general public?
+
+[[[Alexandra Jones]]]: That could be one way of holding that area to account.  That could be very effective.  That is one of the things that we need to move towards.  That could be one way of doing it; absolutely.
+
+[[[Jim O’Neill]]]: I arrived to hear some of the previous session, and a lot of it was a bit like Swahili to me.  Presumably, one of the purposes of doing this is to boost the level of transparency.  Of course you would have to have some way of holding people to account as part of it; otherwise, where would be the evidence that it was functioning any better?  Quite what the style was is probably open to a number of different systems.  &#xa0;
+
+[[[Q42 ]]]&#xa0;&#xa0; 
+
+[[[Bob Blackman:]]] In this arrangement, how would the issue of politics come in?  In London, for example, the London councils operate co-operatively, but if a majority of councils are run by one political party rather than another, what is to stop them saying, “Right, we will carve the money up.  We get most of the money, and for the boroughs that were stupid enough to elect another party, we are very sorry, tough; you are going to get less money”?  What is to stop that?  Particularly if the Mayor is of a particular party and so is the majority of boroughs, what is to stop the unfair treatment of boroughs? 
+
+[[[Jim O’Neill]]]: Following on straight from what I said—and I may be showing great naivety here—if there is greater transparency and, to touch on Tony’s point, with it people feel more about it, it presumably would be likely to result in greater activity by voters to make sure these people are representing them.  That is part of the whole thing.
+
+[[[Professor Travers]]]: I think that is right.  There would be more direct pressure to stop—and I am not saying this has ever happened—explicitly political impacts on the allocation of resources.  The other thing is that the arrangements that would be put in place would have to include—I hesitate to use these words—not exactly qualified majority voting but something that ensured the rights of minority groups were not capable of being trampled on by substantial majorities.  There would have to be the thing that people creating democratic arrangements would love: finding ways of protecting minorities—in this case minorities of boroughs—from a political majority.  There would have to be arrangements of that kind.  That is possible by including notions of vetoes, for example.  We did touch on this in the London Finance Commission report.  There was a time, way back in 1968—a good year for the Conservatives—when all but three or four London boroughs out of 32 were controlled by the Conservative Party.  You can see that if you were the remaining Labour boroughs, you might have felt a bit uncomfortable, unless the arrangements that had been put in place had included protections.  That is a matter of almost constitution-building at the point when you are putting together the new arrangements.  I, for one, would want those to be in place.&#xa0;
+
+[[[Q43 ]]]&#xa0;&#xa0; 
+
+[[[Bob Blackman:]]] There is also the experience of the LBA and ALA, when the authorities split into two totally different camps and would not talk to one another for many years.
+
+[[[Professor Travers]]]: Yes, but in the world we are envisaging here, in the way that the combined authority is a formal legal entity, there would have to be, as it were, an adjunct to that formal legal entity—the combined authority or, in the case of London, the GLA and the boroughs—a formal legal mechanism for processing these billions of pounds and decisions about allocation.  As we have I think agreed, it might be a little complex, but it is not going to be any more complex than the existing arrangements, which are shrouded, if I may say so, in complexity and whatever the opposite of transparency is—opacity.  
+
+[[[Chair:]]] And to unravel the complexities of Greater Manchester, Simon.  &#xa0;
+
+[[[Q44 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] I am not sure I will be able to do that.  Let us be clear on this first question about Core Cities.  Why should they not have the same sort of democratic systems as London has if they are both going to get the same devolvement of fiscal responsibilities?  Why does Greater Manchester not get the same democracy that London gets?
+
+[[[Alexandra Jones]]]: We have argued at the Centre that directly elected mayors would be a very effective way to make sure that you can hold one person to account and there is visible leadership.  It depends how you do this.  If it is a system that is bottom-up—so if the decision is that places come forward with the arrangement that works best for them—then, based on the sentiment in cities around the country, many of them would not want to opt for that system.&#xa0;
+
+[[[Q45 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] So your proposal, Alexandra, is that there should be democracy with this proposal.  That is what you are saying.
+
+[[[Alexandra Jones]]]: We are in favour of directly elected mayors.  I recognise it is not a panacea; it is a system that needs a lot of checks and balances and, if it was left up to many cities, that is not the model they would choose.&#xa0;
+
+[[[Q46 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] When you say it is left up to cities, do you mean people who sit on combined authorities—councillors?  If it is left up to councillors, you mean.  You do not mean cities as in the public. 
+
+[[[Alexandra Jones]]]: I would like to think that the public are in favour of it.&#xa0;
+
+[[[Q47 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] Exactly.  But I am saying: when you say “cities”, you mean “councillors”, do you not?
+
+[[[Alexandra Jones]]]: I mean councillors in the first instance, but if you look at the results of the mayoral referenda, sadly, in my personal view, the results were a resounding “no”.  &#xa0;
+
+[[[Q48 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] Yes, but they were different.  They were not for Greater Manchester.  
+
+[[[Alexandra Jones]]]: They were not for Greater Manchester.  
+
+[[[Simon Danczuk:]]] And in Salford they were different, and in Liverpool they were different.  
+
+[[[Alexandra Jones]]]: Yes, and I would argue there were not enough powers on the table to enable that to be a fair decision.&#xa0;
+
+[[[Q49 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] But you broadly think there should be democracy with this.  What about you, Jim?
+
+[[[Jim O’Neill]]]: Definitely.  &#xa0;
+
+[[[Q50 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] So you think in terms of these changes—this devolution of fiscal responsibility—we should get rid of the combined authority and have elections of one kind or another.
+
+[[[Jim O’Neill]]]: Particularly from the angle that I keep harking back to—where I am coming from here—I am looking at all of this as a way to boost the national economy’s growth potential by helping non-London urban areas.  London does pretty well already.  &#xa0;
+
+[[[Q51 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] That might be because it has more democracy.
+
+[[[Jim O’Neill]]]: It could well be.  We—the Commission—are not trying to suggest in any of this that it is the rest of urban Britain at the expense of London, but if that is one of the reasons why London does so well, then of course, in my judgment, it follows that—&#xa0;
+
+[[[Q52 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] So you support democracy coming with this as well.  Tony?
+
+[[[Professor Travers]]]: As I hope I was suggesting earlier—this is what Alex is itching to say, I am guessing—the combined authorities are the best we have now.  
+
+[[[Alexandra Jones]]]: Yes.
+
+[[[Professor Travers]]]: As I was trying to suggest earlier, they are what has emerged after the efforts to create regional government and all of that, which has all gone away.  There is a sort of political consensus now about city regions; I do not think any of the major political parties really are against city regions.  The question is: as they evolve—and I take your point precisely—how can the democratic arrangements within them evolve to strengthen, for example to pick up the kinds of powers we are discussing here?&#xa0;
+
+[[[Q53 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] Let me come back to that, because some of what is going on, I think, Tony, is that you want this fiscal stuff passed down and then we will think about democracy.  Let me just come back to that.  Under the current system, you will remember, for example, that Greater Manchester went for a congestion charge.  They had to have a referendum for that.  That showed that the public were opposed to it.  Under your model, where the combined authority would have been in favour of it—which they were—they could introduce a new tax, so they could introduce the congestion charge.  It would have gone through, and Greater Manchester residents would have been paying the congestion charge, against the will of the public, as was shown in the referendum.  Your model allows that to have got through.  That is not good governance, is it?
+
+[[[Professor Travers]]]: The model that we outlined in the London Finance Commission report, which I absolutely accept we are suggesting could be used in other city regions, would allow the decisions about all the existing taxes that were devolved to be made within Greater Manchester or any other city region concerned.  I would say, as Alex hinted at earlier, the Government of the day, whichever party it was, that allowed a city region to pick up these powers would want to be convinced—this is something that I think even localists can accept—that the arrangements put in place locally were powerful enough and fair enough and democratic enough to be convincing.  I do think that is something central Government can reasonably do.&#xa0;
+
+[[[Q54 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] This is the problem with the proposals.  You have got a dog’s dinner of democracy.  There is nothing coming with that.  You have talked about Grand Committees, vetoes and qualified majority voting.  The democracy that is coming with this is not defined.  You have no proposals to suggest what should come with it for Core Cities.  That is a major problem in terms of your campaign.
+
+[[[Professor Travers]]]: But in fairness, we are working, in a sense, with what there is.  We are trying to argue for a more developed form of fiscal devolution, but with a system of local government that, in England, Scotland and Wales, is always being reformed at some point; it is always in the process of reform.  With the city-regional mechanisms—Alex has hinted at this, and Jim has said this too—there is the germ of a good idea in terms of more effective economic thinking, of the possibility of going to stronger new city&#x2011;wide governance arrangements over time, of aligning LEPs and city regions where they are not aligned, and all of these things, and fiscal devolution is another element in that menu.  I would not pretend it is that easy even in London.  We are working with the institutions we have got.  We are trying to do something that does not require a full-scale re-organisation of local government, but does allow some minor change in the way public finance is controlled.
+
+[[[Alexandra Jones]]]: You could argue as well even with a combined authority you can hold individual local-authority leaders to account.  If they do things, then you can vote them out.&#xa0;
+
+[[[Q55 ]]]&#xa0;&#xa0; 
+
+[[[Simon Danczuk:]]] How do you do that with a cabinet model?
+
+[[[Alexandra Jones]]]: As a local authority, you would have to do it based on which party you vote for.  You cannot hold those individuals to account, but you can—
+
+[[[Simon Danczuk:]]] There is no democratic connection there at all.  &#xa0;
+
+[[[Q56 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] Alex, you mentioned that there is no appetite for local-government reform, and, Tony, you have hinted that as well.  Would you say at present that our local government structure effectively is not fit for purpose?
+
+[[[Alexandra Jones]]]: Yes.  But we are where we are.
+
+[[[Professor Travers]]]: I am very wary about advocating further re-organisations of local government myself.
+
+[[[John Stevenson:]]] That was not the question.  
+
+[[[Professor Travers]]]: Sorry.  
+
+[[[Alexandra Jones]]]: I said we are where we are.&#xa0;
+
+[[[Q57 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] I accept that point, but do you think it is not fit for purpose now?
+
+[[[Alexandra Jones]]]: Yes, but moving to another one is challenging.  
+
+[[[Professor Travers]]]: In city regions, as a start—I am being very presumptuous here about what political party—&#xa0;
+
+[[[Q58 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] We have the structure that we have now.  Is it fit for purpose?
+
+[[[Professor Travers]]]: My personal judgment is we are not going to go back to regions ever again.  I might be wrong, and I know there are Labour politicians here who may disagree, but if we assume that, then I do think the city region and its government will have to be strengthened.  I do not think there needs to be a re-organisation of local government, but it needs to be strengthened.  &#xa0;
+
+[[[Q59 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] Sorry to interrupt.  Do you think it is not fit for purpose?
+
+[[[Professor Travers]]]: It is too black and white.  I cannot answer it; I am sorry. &#xa0;
+
+[[[Q60 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] Okay.  That is fair enough.  The final question, then, is: we have talked a lot about fiscal devolution here, but is there not a suggestion, before you can have fiscal devolution, that you need to have structural change?
+
+[[[Jim O’Neill]]]: What do you define as structural change?
+
+[[[John Stevenson:]]] Reform of local government.
+
+[[[Alexandra Jones]]]: I would agree with what I think Tony is saying here.  You would not start from here, in an ideal world, with local government, but you are here.  If you have got some of the city-regional models that you have got and some of the models that are developing, you can—and Greater Manchester is an example—start to devolve to those models.&#xa0;
+
+[[[Q61 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] But do you not think you still need to reform the structure before you can give the power?
+
+[[[Alexandra Jones]]]: To some degree.  &#xa0;
+
+[[[Q62 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] Are we not putting the cart before the horse?
+
+[[[Professor Travers]]]: The reason I would be very, very, very hesitant about saying “yes” to that entirely legitimate and interesting question is that it means that we would then have to—and I know you are not suggesting this—have a full re-organisation of city government before we could have a finance reform, and that is putting it three stages away.  We have to operate with the systems we have, remembering that all of the local authorities that we have today were put in place mostly in the 1960s and 1970s, or the subsequent ones that after reformed, in order to be self-sufficient at the time, and had they not been reformed in that way, it might be easier now to have city-regional government than it is.  If you talk about Greater Manchester, there are 10 powerful districts, each one with its own history as a town or several towns, and trying to overwhelm all of that by something else would cause such a fight-back—it is not for me to speak for the districts of Greater Manchester; I am just guessing—that that would take years, and then you would have to come back to the financing issue after that.&#xa0;
+
+[[[Q63 ]]]&#xa0;&#xa0; 
+
+[[[John Stevenson:]]] Jim, in your commission, will you be looking at structures as well?
+
+[[[Jim O’Neill]]]: I do not want to summarise things that we have not spent a lot of time discussing, but I would like to think we are not scared of being out of the box and looking at a lot of things.  Anything is on the table.&#xa0;
+
+[[[Q64 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] You have talked about various areas bidding for devolved powers—fiscal devolution—and Government deciding whether they have earned it.  Is there any role, like there was in Scotland and Wales, for the public of these areas saying “yes” in a referendum to the agreement that is reached?
+
+[[[Alexandra Jones]]]: There could be.  It is very legitimate question.  It is up for discussion.  Some of the challenges around this, which I think Tony is hinting at, are to what extent you get the structures perfect and to what extent that means that you take a very long time to make change happen, or to what extent you have some approximations, which I think city regions are.  Echoing Tony’s point again, it is quite difficult to know what is happening at the moment; it is quite difficult to unpick things at the moment, so it is not necessarily the most democratically accountable at the moment.  Do you need it to be perfect before you change that system, or do you need it to be sufficiently good that you absolutely have transparency and things work better?  Could you work with the less-than-perfect system of city regions to make progress?&#xa0;
+
+[[[Q65 ]]]&#xa0;&#xa0; 
+
+[[[Chair:]]] I am also thinking about the power of a referendum to lock in change so that a future Government cannot decide, “We do not like this devolution.  We will pull the plug and go back.”
+
+[[[Alexandra Jones]]]: That is true.  That is what happened in London.  
+
+[[[Professor Travers]]]: If you look at the London reform of 2000, the previous Government did hold a referendum where the residents of all 33 boroughs in the city voted in favour—every single one of them—amazingly, perhaps.  All I would say, though, in answer to your question, Chairman, is you would have to be jolly careful what question you asked.
+
+[[[Chair:]]] As we are finding out on other referendums that are being discussed at present.  We will leave our session there.  Thank you very much for coming and dealing in such depth with such a wide range of issues for us.  &#xa0;              Oral evidence: fiscal devolution to cities and city regions HC 1018                            2

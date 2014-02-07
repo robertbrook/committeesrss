@@ -1,0 +1,415 @@
+&#xa0;Business, Innovation and SkillsOral evidence: BUSINESS–UNIVERSITY COLLABORATION: THE FRAUNHOFER UK MODELHC 1025Tuesday 28 January 2014Ordered by the House of Commons to be published on 28 January 2014Watch the meeting Members present: Mr Adrian Bailey (Chair); Mr William Bain; Paul Blomfield; Katy Clark; Mike Crockart; Caroline Dinenage; Rebecca Harris; Ann McKechin; Mr Robin Walker&#xa0;Questions 1-51Witnesses: 
+
+[[[Professor Martin Dawson]]], Head, the Fraunhofer Centre for Applied Photonics and Research Director, the Institute of Photonics, University of Strathclyde, and 
+
+[[[Professor Graham Wren]]], Chair, Business Engagement, University of Strathclyde, gave evidence.  
+
+[[[Q1 ]]]&#xa0; 
+
+[[[Chair:]]] We are slightly early, but I do not think there is any special reason why we cannot start a little earlier.  Can I thank you both for agreeing to inform the Committee and its Inquiry today?  Just before we start our questions, for voice transcription purposes, could you introduce yourselves, starting with you, Graham? 
+
+[[[Professor Wren:]]] Good morning, I am Graham Wren from Strathclyde University. 
+
+[[[Professor Dawson:]]] Martin Dawson from Strathclyde University and Fraunhofer Centre for Applied Photonics. &#xa0;
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Chair:]]] Thanks very much.  We, of course, visited the Fraunhofer centre in Strathclyde last year.  It was very informative and enjoyable.  Can you just explain what your work is at Strathclyde for, shall we say, a wider audience? 
+
+[[[Professor Dawson:]]] My responsibility is split between my role at the University of Strathclyde and as Head of the Fraunhofer Centre for Applied Photonics, which is the first Fraunhofer centre in the UK, and my particular area of expertise is photonics. &#xa0;
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Chair:]]] Could you just outline for the non&#x2011;scientific exactly what photonics is? 
+
+[[[Professor Dawson:]]] Exactly, I was just about to do that.  This is the science and technology of light.  It is essentially analogous to electronics, but using light instead.  We are really talking about laser technology, light-emitting diode technology, displays, optical communications, the uses of optics for information and bioinstrumentation for a variety of applications, including industrial manufacturing, machining and these types of things. &#xa0;
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Chair:]]] Thanks.  Why do you think Fraunhofer chose Strathclyde? 
+
+[[[Professor Dawson:]]] That is a very good question.  I think for a number of reasons; one was the long history of interaction we have had with Fraunhofer.  My home institute in the university, which is the Institute of Photonics, had been collaborating with the Fraunhofer IAF, the semi&#x2011;conductor Fraunhofer Institute in Freiberg, since around 2003 or 2004, so we had a good working relationship with a Fraunhofer Institute in Germany.  Other aspects were really the enthusiasm with which the university followed Fraunhofer and was interested in the Fraunhofer model.  Perhaps it was the wider variety of approaches and interests in working with industry the University of Strathclyde has.  These are the sorts of things that were important. &#xa0;
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Chair:]]] Professor Wren, broadly how do you think the university benefits from having the Fraunhofer there? 
+
+[[[Professor Wren:]]] The University of Strathclyde is a technological university, and we are very interested in supporting industry and commerce generally, so we are looking for mechanisms and vehicles of engagement.  There is no one size fits all to this, so we are always looking for excellent partners to take technology into industry, and the Fraunhofer, particularly the photonics Fraunhofer, fills a gap in the market in the UK.  There is no other centre; there is no Catapult in that area that serves that.  We welcome any opportunity to work with industry and any opportunity to align our research with industrial pull, and given the long relationship that Martin described with Fraunhofer, it was a natural extension of what we do. 
+
+[[[Professor Dawson:]]] Could I add to that?  Obviously the Fraunhofer brand or name is a prestigious one.  The university is benefiting from its association with the brand, if you like.  There are specific arrangements concerning student training and how we handle things jointly between the university and the Fraunhofer centre.  There are opportunities to work jointly on projects, where the university has a particular role and the Fraunhofer has a particular role.  Through various mechanisms like that we are actually providing cash back into the university as well.  There are a variety of benefits that come through, but Fraunhofer provides an add-on to the university as another way that it can interact with industry. 
+
+[[[Chair:]]] I believe Paul Blomfield just wanted to ask a supplementary. &#xa0;
+
+[[[Q6 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I just wanted to probe a little on that point in terms of the university’s distinctive role and Fraunhofer’s distinctive role.  Can you develop that a bit more in terms of what those roles are, how they fit together, and what added benefit Fraunhofer brings to the table? 
+
+[[[Professor Dawson:]]] The primary motivation for universities is student training and generation of new knowledge, mostly through basic research.  The general metrics are different, so it is academic credit and, as I say, the formal teaching and instruction providing the framework for students—these are the primary things—although of course particularly in recent years there has been more emphasis on knowledge exchange from the university base. Fraunhofer’s metrics are all about its value to industry; we are there to work to the benefit of industrial companies and organisations.  Our role in the offering of an additional aspect of student training is linked to the university, but to provide something that is more applications-focused—and perhaps provide a bit of an extension or a different aspect to the student training experience. Fraunhofer does not directly apply for Research Council, RCUK, funding.  In principle it could hold it through subcontract, but we are not pursing the research grant route of funding that academics usually would.  Those are some of the links. 
+
+[[[Professor Wren:]]] If I may, from a university’s perspective, our sector’s main output is good graduates who go on to have an impact on the economy, focused research that helps the economy, and the way we support industry.  All three of those are enhanced by the Catapult process and by the Fraunhofer that we have.  Those graduates in that photonics area would otherwise not exist in supporting UK industry. They do their PhDs, and they will go out to SMEs. 
+
+[[[Chair:]]] Can you speak up slightly? 
+
+[[[Professor Wren:]]] Those graduates would not exist without the Fraunhofer.  We are working, as Martin will explain, with a number of SMEs already. Some of those graduates will go and work for them and become employees, so that is one of the ways that we enhance economic benefit.  The research base building up in that area is available to the UK economy. &#xa0;
+
+[[[Q7 ]]]&#xa0; 
+
+[[[Chair:]]] I was just going to come to the issue that you are moving on to, and that is basically how the university interacts with the local business community.  From my perspective, I am very anxious to drill down, because you have got a Catapult centre, you have got a Fraunhofer, and there are issues about the relationship between the two, but both have a role within the local economy and local business.  I am trying to get it clear in my mind exactly how as a university you engage with business but, secondly, what the specific roles of both the Catapult centre and the Fraunhofer are.  First of all, could you just deal with the general one of how the university engages with business locally? 
+
+[[[Professor Wren:]]] Okay.  If I may, I will do that at two levels: I will deal with generality and then deal with SMEs second.  In my opinion, there is no one size fits all to this.  There are a large number of ways that universities can engage with universities, and they all have merit.  The reason for that is there is no stereotypical industry: we have small SMEs; we have medium sized SMEs; we have large mature companies; we have companies that operate in high technology areas that are highly research intensive; and we have mature industries where research is not the norm.  There is a very complex environment that industry operates in. We try to look at industrial partners and try to model them effectively and understand the best way of working with them.  A significant part of my role is talking to industry to understand what their needs are and to translate that and look for the right model.  To give you some examples, at Strathclyde we have 14 doctoral training centres, which generate PhDs in specific areas.  As you know, we were instrumental in bringing the offshore Catapult into Glasgow, and supported that.  We host the UK Fraunhofer.  We are part of the advanced manufacturing Catapult and we host the Advanced Forming Research Centre, which has grown to a programme of £95&#xa0;million in five years, which is of great credit to the original Hauser vision.  As you know from Sheffield and other places, the manufacturing centre is working; it is very well received across the university landscape, not just at Strathclyde. Where there are gaps in the market—where there are no Catapults—we have looked to ways of filling that gap; one of them is Fraunhofer.  Another example is CMAC. The Centre for Continuous Manufacturing and Crystallisation is an £82&#xa0;million programme, so we have raised £82&#xa0;million in four years there.  There is not a Catapult in that area.  This is not part of the Advanced Manufacturing Catapult yet; it may be in the future, but is not presently.   That is sponsored by companies like AstraZeneca, GSK, and overseas companies like Novartis.  That is a model that we have created.  It is very much in the Witty model in the sense that it applies across the UK and to international companies.  It draws in other universities—so some of those funds flow to Cambridge, Warwick and Bath—to get the best expertise in to support industry.    That is another feature of some of the models.  It is not just about what we can do at Strathclyde; it is about whether we can be a portal to research for industry.  We have PNDC, which is a club in the electrical area, which has about £18 million to look at networks, the connection of distributed generation and the ageing network challenges we have.  ETP is an interesting example—the Energy Technology Partnership.  This is a club that brings together a group of research&#x2011;intensive universities to pick the best academics, so that we can bid as one for UK funding.  So, again, it is not just Strathclyde.  It is hosted by Strathclyde on behalf of other universities, but we are able to bring together different academics depending on the problem, not just who we have at Strathclyde.  One more model, if I may: we also host the global research centre for Weir’s, a £2.6&#xa0;billion UK plc company—the fluids and pump manufacturing company.  That is an interesting model, because that is a bilateral model.  We are the only partner; they are the only funder, so they fund us 100% for all the work we do and we host their global centre.  Weir is a particularly interesting challenge for the university because 99% of their activity is outside the UK.  It is a UK plc FTSE 100.  They have 180 sites, and there is only one in the UK of any size.  That is a real challenge for us in drawing together international universities and expertise through Strathclyde to serve Weir.  Without going on too much about models at Strathclyde, my message is really there is no one size fits all, and for these big companies, we embrace looking to them to see their problems and try to translate that into the UK environment. &#xa0;
+
+[[[Q8 ]]]&#xa0; 
+
+[[[Chair:]]] Do you find in the context of it not being one size fits all that some companies do not work with you, because they have their own research departments and facilities, and others virtually sort of farm it out? 
+
+[[[Professor Wren:]]] If I address the latter part of that question, if I may, do companies always engage successfully with universities?  I think there are a number of key questions there: is the company accessible to the university?  If its research is managed in, say, Taiwan or somewhere, it is more difficult to engage with them.  Localness in the UK sense is good.  The scale and experience of their history with R and D is important.  If one went today to GlaxoSmithKline, or one of these big research-intensive companies—Rolls-Royce—they have been doing this for a very long time, they understand it and they are fully engaged.  They know what they want, you can work with them and you can develop the paradigm.  If one goes to—I should not really pick on individual companies—a company that is, let us say, not so familiar with industrial research, it is a much harder game, because you are not only trying to provide them a service but teach them the whole game of why they need a service.&#xa0;
+
+[[[Q9 ]]]&#xa0; 
+
+[[[Chair:]]] I was going to say; do you promote research—a change in the company philosophy, if you like? 
+
+[[[Professor Wren:]]] We do our best, and that is particularly challenging with SMEs; that is a really difficult area. &#xa0;
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] You obviously talked about research, but I am just wondering to what level.  Obviously, when I looked at the Fraunhofer model, it is up to and presumably including prototypes.  To what extent are we engaging in manufacturing prototypes, particularly in the SME sector, where companies are not likely to have that level of in-house expertise? 
+
+[[[Professor Dawson:]]] It is probably for you to answer in terms of the university in general. 
+
+[[[Professor Wren:]]] I am happy to answer in terms of the university.  If you look at the Catapults as an example, the one that we have at Strathclyde, which is the Advanced Forming Research Centre, really acts in that TRL3 to 7 range.  &#xa0;
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] Can you just explain for the benefit of the Committee what TRL3 to 7 means? 
+
+[[[Professor Wren:]]] Technology readiness levels are a kind of scale. I believe they came out of NASA some 40 years ago, but it is something that we academics use.  Low technology readiness level, as the name implies, is really white papers and thinking, so TRL0 is an idea in the bath, if you like.  It is untested, nobody has tried it and nobody knows whether it will work.  TRL3 might be a bench-scale test: we have done something in a test tube and it looks like it might be possible, but we do not know about the economics.  By the time you get up to TRL7 you are into full-scale industrial equipment, but not productionised, so it is not in a manufacturing environment; it is a one&#x2011;off production technique, but full scale.  At Strathclyde we have full-scale equipment in AFRC where Rolls-Royce or Boeing, but also smaller suppliers, can come and test ideas and be part of the manufacturing supply chain for the bigger aerospace companies or whatever.  That, of course, is a huge boon to them.  The Sheffield Advanced Manufacturing Research Centre is a very good example as well, as are the rest of the High Value Manufacturing Catapults.  It is full-scale equipment that SMEs would not necessarily be able to afford and would not necessarily have the expertise to operate.  These centres really do support that activity.    &#xa0;
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Chair:]]] I am going to finish my questions.  You are probably the most appropriate person, Professor Dawson: why did Fraunhofer go to Strathclyde for a centre of photonics? 
+
+[[[Professor Dawson:]]] There is a very long history of photonics research at the university.  Strathclyde created I think the UK’s first chair in photonics in 1989, occupied by Professor Allister Ferguson.  Photonics as a research theme is distributed around the UK in terms of industry and the universities; there are particularly strong centres at Southampton, and there is activity at Imperial College, Cambridge and Oxford.  Southampton and the Central Belt of Scotland are known to have a particular focus in this area, so Strathclyde, Glasgow, Heriot&#x2011;Watt, St Andrew’s.  We just happened to be the one with a very applications-focused interest who were in the frame and in a position to do something about Fraunhofer.  &#xa0;
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Mike Crockart:]]] Can I ask a question on that, before we go on to the funding model?  I suppose the question is chicken and egg: were you looking to invest in photonics or were you looking to invest and photonics was sitting there as a good option? 
+
+[[[Professor Dawson:]]] From the university’s perspective?
+
+[[[Mike Crockart:]]] From Fraunhofer’s perspective.  From the university’s perspective, they just wanted money to invest in photonics. 
+
+[[[Professor Dawson:]]] I suppose there is a recognition that photonics is, at least among practitioners like me, a very important industrial area in the UK.  In a way it is a bit hidden, because it does not come under a defined theme like aerospace or automotive, or whatever the public recognises and responds to.  It is a very substantial industry, so that is part of the opportunity: understanding that this commercial or industrial need was there and we were in a position to respond to it.  I think Strathclyde as a university, as Graham has already described, has ambitions to work with industrial partners in a variety of different ways, so the timing was right to look at how we might create something that interacted with this photonics industry. &#xa0;
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Mike Crockart:]]] Professor Wren has outlined lots of different models of funding, whether it is pairing up with one particular company or looking for research funding by putting universities together.  You have talked a lot about the Fraunhofer model, but it is not entirely clear what that model consists of, particularly in terms of funding.  Could you perhaps outline a bit more what that looks like? 
+
+[[[Professor Dawson:]]] Yes, absolutely.  This is something we have tried to unpick quite carefully, because people do talk a lot about the Fraunhofer model, as you have mentioned, but if you probe them on it, they will usually say, “It is the third funding model, is it not?”  It is a third funding through collaborative work, a third through direct industrial contracts, and a third from Government to match the industrial contract funding.  That is an important element of the model, but it is just one element of the model.  There is actually a package that creates what you could call the Fraunhofer model and, as I say, we unpicked it and I can kind of run through these things, if I may. The first thing is focus.  The focus of all Fraunhofer centres and institutes is on an area of core technical competence.  It is something like microelectronics, photonics, laser technology—a defined area of enabling technology, if you like.  You can sort of think of the Fraunhofer network as almost a bolt-on to the university network.  What this focus on a core technical competence brings is a close identification with a research community; it is a technical focus, it is an area of thriving research, and things are linked together.  It also gives the Fraunhofer centre or institute relevance for the long term.  One of our big themes in the Fraunhofer Centre for Applied Photonics is laser technology.  Laser technology has been around since 1960, so we are more than 50 years on, and that technology is still vital and very relevant.  There is a sustainable research community, an active research community, that is under that theme.  Focus is the first.  The second element is integration with academia.  &#xa0;
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Chair:]]] Could I just intervene at this point?  We are really trying to get at the funding model.  The issues you are talking about are broader, which will come out in the other questions.  Please just focus on that for the moment.  
+
+[[[Professor Dawson:]]] Okay.  Absolutely I will do, but I think it is very important to understand that Fraunhofer is not just its funding model; that is a key message.  &#xa0;
+
+[[[Q16 ]]]&#xa0; 
+
+[[[Mike Crockart:]]] Can I then direct you to a particular part of what you already said about funding?  You outlined it as a third, a third, a third.  My understanding was much more of a 70:30 of private sector-public sector, so I just want to probe a bit more about the breakdown of the 70% that I was looking at as private sector.  You seem to break that in two.  Could you say a bit more about that? 
+
+[[[Professor Dawson:]]] The direct industry funding is obviously self&#x2011;defined; that is, contract work that comes directly from industry as commissioned by industry, so that is one element—a very important element—of the funding model.  In order to bring in that funding, the Fraunhofer has to be of value to the companies and it has got to be responsive, so these are generally near&#x2011;term reactive, commissioned activities that Fraunhofer is undertaking. The second strand is the sorts of funding that the TSB might provide, for example, where there is company involvement and leadership in the project, but the company wants Fraunhofer to play a particular role, so Fraunhofer is partnering.  There is a strong element of public funding in these things, in the programmes that TSB, for example, run, but the company also has to put its own resources in as part of the package.  It is a collaborative package, if you like. &#xa0;
+
+[[[Q17 ]]]&#xa0; 
+
+[[[Mike Crockart:]]] Collaborative in terms of funding, but who is giving the leadership and direction of what is being researched here? 
+
+[[[Professor Dawson:]]] It is the companies, but they are looking to do something additional to what their direct cash contract activity can encompass.  For example, if you are an SME you want to expand your area of interest—you want to demonstrate that your company’s products or activities are relevant in a new area—you might apply for Technology Strategy Board funding, and you might decide there is a role in that project for a Fraunhofer centre or institute to help you.  Then the project is put together really under the company’s leadership, but Fraunhofer has a particular role to play in supporting that. &#xa0;
+
+[[[Q18 ]]]&#xa0; 
+
+[[[Mike Crockart:]]] In layman’s terms, the direct industry funding is them trying to make their products that they are selling better, whereas the collaborative is them potentially trying to find new markets or new uses? 
+
+[[[Professor Dawson:]]] I think you could say that.  There is maybe a more strategic element around the TSB type of funding. &#xa0;
+
+[[[Q19 ]]]&#xa0; 
+
+[[[Chair:]]] In effect, what you are saying, if I understand it, is that a small business could apply to the Catapult centre for a particular funding stream to pursue research in an area, and then commission the Fraunhofer to actually carry that out.  Is that correct? 
+
+[[[Professor Dawson:]]] Do you mean the Catapult? 
+
+[[[Chair:]]] Sorry, the TSB funded stream.  A company can apply for one of the funding offers that are there.  Having got that, they can then go to the Fraunhofer to actually deliver on that.
+
+[[[Professor Dawson:]]] It does not work in sequence like that.  Essentially you put together a combined proposition in response to a funding call that the TSB announces. 
+
+[[[Chair:]]] Okay.  I am coming back to you Mike, but I think William just wanted a supplementary. &#xa0;
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Mr Bain:]]] In terms of how the University of Strathclyde’s model has been constructed, of course, Scottish Enterprise has an important role in that.  One of the issues that a former UK Science Minster has raised is where the money comes from in terms of the state support for an expansion of Fraunhofer because, of course, Regional Development Agencies no longer exist in England.  In your view has Scottish Enterprise’s role been helpful in trying to construct the Fraunhofer UK setup that is there in Strathclyde, and what lessons might there be if there was to be an expansion to other parts of the UK of Scottish Enterprise’s role? 
+
+[[[Professor Dawson:]]] I think Scottish Enterprise has played a very important role.  I do not know how broadly you want me to respond to the question.  I can talk about the funding package that is set up. 
+
+[[[Chair:]]] Fairly narrowly, because I think Paul Blomfield has got some similar questions.  
+
+[[[Professor Dawson:]]] Alright.  SE provided a measure of the core investment that has created Fraunhofer CAP and Fraunhofer in the UK.  It should be recognised that, in a sense, they have been quite generous in their funding, because they have established Fraunhofer UK; it is absolutely intended for the UK.  They also provided verification for the business plan and the fact that there was a genuine business need for a centre in the area of photonics that we created.  They provided a kind of validation of what we were trying to do and a point of reference for what we were trying to do, in addition to obviously being a financial contributor to the establishment of both Fraunhofer UK and the Fraunhofer Centre for Applied Photonics. &#xa0;
+
+[[[Q21 ]]]&#xa0; 
+
+[[[Mike Crockart:]]] Going back to the private investment and the fact that effectively 70%, on the figures we have, is being directed by industry, are there any potential issues with that?  Is this additional money or is this replacing what was potentially happening in academia before?  The point I am trying to get to is: is this stifling research for research’s sake?  Is trying to get to industry’s particular issues stifling innovation? 
+
+[[[Professor Dawson:]]] I believe just the opposite.  We were unpicking earlier that the universities have a core mission that is very different, as I stated at the beginning.  However, we do recognise that there is an increasing role for universities in knowledge exchange and business interactions, as Graham was referring to, and different models being used.  Fraunhofer is not there to compete with the universities in their core research mission and, if you like, it is positioned higher up this technology readiness level system scheme than the universities generally are.  It is additional to rather than competitive with. &#xa0;
+
+[[[Q22 ]]]&#xa0; 
+
+[[[Mike Crockart:]]] If I can turn then to the other side of the equation—we have covered where the money is coming from—Fraunhofer, of course, generates revenue from this.  What happens to that revenue?
+
+[[[Professor Dawson:]]] I am not sure if revenue is the term I would use.  Fraunhofer brings in resource to cover the operating costs of its centres and institutes according to their year-by-year agreed business plans.  What we have talked about so far, the particular company commissioned work, if you like, is the relatively near&#x2011;term industry service component of what Fraunhofer does.  The other element of the funding, which we have not really come to yet, which is Government matching of the industrial cash support—pound for pound or euro for euro—essentially enables the strategic development of a Fraunhofer institute or centre for the long term.  You wanted to come back to further details of the model later on, but one thing I have understood and learned as a centre head, similar to an institute director, is that a lot of the way in which the centre develops and operates is up to me as an individual with my responsibility to direct it.  Just as I would do in my academic half, if you like, you try to do cutting edge things and position yourself to explore emerging areas of research activity.  You need to keep the Fraunhofer centre or institute relevant for the long term by strategically positioning it, hiring in additional staff with particular expertise, and creating new capability in terms of core equipment that you might have.  This is where the matched funding contributes, so it is more on the strategic side.   &#xa0;
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Chair:]]] The bottom line is obviously you have a business model.  Does money you make get repatriated to the owner of Fraunhofer UK or does it stay locally? 
+
+[[[Professor Dawson:]]] Do you mean does money flow back to Germany? 
+
+[[[Chair:]]] Yes. 
+
+[[[Professor Dawson:]]] Not at all; no.  Fraunhofer UK Research Ltd is the operating company here in the UK.  That is a not-for-profit company registered in the United Kingdom, and all finances, all intellectual property, are all UK retained.  &#xa0;
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I just want to probe a bit further on the distinctive contributions of the Fraunhofer model and Catapult centres.  I have seen comments from Fraunhofer defensive of that model. BIS, nevertheless being warm about the Fraunhofer model, is quite protective about Catapult centres being a more distinctive way forward for the UK.  What would you describe as the distinctive difference between the two models? 
+
+[[[Professor Dawson:]]] That goes back to my list I started on before.  Could I quickly step through that?   The key difference really is that our understanding of Catapults is they are addressing broad societal, challenge&#x2011;led themes, so high-value manufacturing, offshore renewable energy—these types of things—and, of course, will draw on a wide range of technologies to address those issues.    As I said at the beginning, Fraunhofer institutes and centres are focused on a particular well&#x2011;defined core technology, and we see these things running orthogonal to each other, if you like.  As I say, Catapults surely need to draw on a wide range of technologies to meet their kind of broad challenge&#x2011;led themes.  The Fraunhofer institutes or centres are one way in which the underpinning technology requirements for those Catapults could be provided.  That is a key difference.  In general Catapults sit a little further from the university system.  As I also said, Fraunhofers have a very close relationship with a single university that has expertise in the technical area of their core competence and, although various models of Catapults are being developed, this is a distinguishing feature.  I also touched on earlier the type of leadership.  Fraunhofer centres or institutes are led by professors—people like me—with an interest in the translation of technology out of the university to industry, or the interaction and interface between industry and universities.  The types of leaders we have seen appointed to the Catapults are senior business leaders, policy makers, and so forth, who bring a different approach and perspective. Just a couple of other brief points, if I may: student training is a central part of the Fraunhofer model, so all Fraunhofer institutes and centres have a formal requirement to train students in volume.  A typical Fraunhofer institute in Germany might have 200 employees, as they would term it, of which maybe half will be PhD-type students, so that is strategically part of the mix from the beginning.  In terms of the way in which we approach this third/third/third&#x2011;type operating model, Fraunhofer is very much a from-the-ground-up approach.  The idea is Fraunhofer centres do not require too much money to get going.  They are given an initial core investment.  They have to bootstrap themselves from day one, whereas the Catapults have obviously been given a lot of investment to establish themselves.  It is interesting; I would like to know who is really feeling that there is competition between the models.  We do not believe there is at all.  It is important to recognise that Fraunhofer is here in the UK really because Lord Drayson effectively invited Fraunhofer in to help, and the kind of provenance of Fraunhofer in the UK goes back before the Hauser and other reports.  It is part of addressing the same issue about how we translate R and D and how we interface that to industrial requirements.  &#xa0;
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I certainly was not trying to counterpoise the two; I am simply trying to understand the difference, and it is interesting.  If I look at the AMRC, which I know well in Sheffield, I take your first point about breadth as opposed to focus, but the AMRC is academically led and also deeply committed to training from apprenticeship through to doctoral level. 
+
+[[[Professor Dawson:]]] The Catapult model has to establish itself, and what I would say is Fraunhofer is quite simple; its rules are known and apply to all centres.  My feeling is the Catapults will evolve differences.  The advanced manufacturing one is maybe a bit different from the others. &#xa0;
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Can I explore another area, which is how you see it moving forward in the UK, and in particular what discussions you have had with Government about the establishment of further Fraunhofer centres? 
+
+[[[Professor Dawson:]]] To really give the Fraunhofer model a proper try in the UK, we certainly ideally would establish a number of centres, not just one.  It is important for the Committee to know that essentially Fraunhofer CAP, the photonic centre, is responsible, given that it is the only centre at the moment for all of the expenses of the Fraunhofer UK organisation.  Of course, if we could expand the number of centres, the overhead costs, if you like, are divided up.  From my point of view as a centre head, it would be very nice to be able to have others to help carry those responsibilities.  Sorry, could you repeat your question? &#xa0;
+
+[[[Q27 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] It is how far you have been in discussion with—
+
+[[[Professor Dawson:]]] For other centres, yes.  There have been fairly detailed discussions with about 14 universities now.  There was a meeting in Stuttgart that Lord Drayson attended in I think 2010 at which there were 20 UK universities represented, so there is certainly a widespread interest in what this is all about. &#xa0;
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Does that extend to different models?  I am conscious that the other university in my constituency, Sheffield Hallam, has a collaboration with the Fraunhofer Institute for Surface Engineering.  That is not a Fraunhofer Institute but is a long&#x2011;established partnership with Fraunhofer.  How do you see those different models developing, and how can Fraunhofer Research UK support those different sorts of initiatives? 
+
+[[[Professor Dawson:]]] That is a very good point.  The centres and institutes have a particular place in Fraunhofer, I guess.  They are the basis of the independent legal framework—the independent centres and the technology-focused centres.  They are Fraunhofer’s main mechanism for operating, but, as you rightly say, there are other models.  We are very aware—in fact I have a slide here somewhere—of all the interactions that Fraunhofer has and has had in the UK, entirely independent of Fraunhofer UK Research being established.  I think my colleagues in Fraunhofer UK Research are in the process of getting around all those centres and letting them know that they do have a supportive legal basis now to refer to in the UK.  There are different ways of interacting with Fraunhofer, all are good, but I believe we should be pleased that we have got a legal entity here in the UK that formally establishes Fraunhofer, and it can be the interfacing and organisational home, if you like, for all of these different types of interactions.&#xa0;
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] You certainly see your role as supporting those different sorts of Fraunhofer collaborations? 
+
+[[[Professor Dawson:]]] Of course, yes.  Why wouldn’t we? &#xa0;
+
+[[[Q30 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Thanks very much.  Can I just move on to one other question—a different issue?  Fraunhofer secured €88&#xa0;million of funding from the EC for joint research projects.  I am conscious that we are disproportionately successful in the UK, because of the quality of our universities, in securing European funding for research, but I just wondered if there was anything particular we could learn from Fraunhofer’s success in that respect? 
+
+[[[Professor Dawson:]]] That is a very good question.  We have a table showing that Fraunhofer was second only to CNRS in terms of FP7 funding for a number of projects.  I suppose the clarity of the model, the well-established rules, gives it a structure that both universities and industry can relate to and can collaborate with.  Fraunhofer also works to help its partners.  TSB applications, for example, are industry led, but because we are experienced with creating that type of proposal, we can help the industry, especially SMEs, in generating their projects and proposals. 
+
+[[[Professor Wren:]]] If I may, from the perspective of the university, I think Fraunhofer offers UK universities an access to technology centres and departments to form bids that perhaps they could not form.  
+
+[[[Chair:]]] Again, can you speak up?
+
+[[[Professor Wren:]]] One of the successful ingredients of a European bid is often to have the best partners across Europe, so having a portal through Fraunhofer is another way of exploring partnerships and looking for partners, either Fraunhofers or universities that are partners with Fraunhofers. &#xa0;
+
+[[[Q31 ]]]&#xa0; 
+
+[[[Chair:]]] Given that there is a distinctly different focus for, if you like, Catapult centres and Fraunhofers but effectively we have only got one Fraunhofer at the moment, do you think the Government fully appreciates the distinctive role that Fraunhofers can play? 
+
+[[[Professor Dawson:]]] Probably not yet.  I think it is still a work in progress to explain to people exactly what role it can play.  There is genuine interest; there is recognition that Fraunhofer is a very successful and valuable network.  There is curiosity about it. 
+
+[[[Chair:]]] Yes, okay.  I think that brings it on to Robin’s question. &#xa0;
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Thank you.  I really want to follow up on Paul’s point about the potential for expansion.  Is there a five-year plan as to what you would like to see for Fraunhofer’s presence in the UK?  You talked earlier about the fact that you are there in Strathclyde, but you consider it very much a UK entity.
+
+[[[Professor Dawson:]]] Absolutely. 
+
+[[[Mr Walker:]]] Presumably at the moment people in Northern Ireland or Wales or England could be forgiven for seeing it just as a Scottish&#x2011;based investment.  I just wondered how you planned to address that over the coming years? 
+
+[[[Professor Dawson:]]] Clearly, we were able to use the fact that photonics is a theme Strathclyde University support, as well as Scottish Enterprise and so on, to create this first centre and the associated framework that comes with it.  We happen to be based in Scotland, but it has been very clear from the beginning that it is not Fraunhofer Scotland Research Ltd; it is Fraunhofer UK Research Ltd.  I think everyone involved would like to see a kind of cautious expansion. 
+
+[[[Professor Wren:]]] If I may, Martin, it is probably worth you mentioning who is on the board of Fraunhofer—which universities they come from. 
+
+[[[Chair:]]] Can you speak forwards?  
+
+[[[Professor Wren:]]] I was just reminding my colleague perhaps he would wish to mention who is on the board of Fraunhofer, so that you can see the universities engaged across the UK, and also the industrial partners and the breadth of their engagement across the UK.  
+
+[[[Professor Dawson:]]] I will come back to that, Graham.  Those of us involved in Fraunhofer UK have talked from the beginning of the possibility of trying to create two to four centres in the first five years.  What we have taken as what could be a good example to follow is Fraunhofer in the United States.  It was established in 1994—20 years ago; there are nine centres in the United States now.  It is kind of an organic growth; it does not necessarily have to be the creation of two dozen centres on day one, or anything like that.  The right theme, the right partnerships, the right industry demand—all of these things have to feed in. 
+
+[[[Mr Walker:]]] Two to four centres would be an ambition over a five-year period.
+
+[[[Professor Dawson:]]] Yes. &#xa0;
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Do you have any particular view as to how those ought to be spread around the UK, or will it simply be on the basis of which universities offer the best facilities? 
+
+[[[Professor Dawson:]]] The latter part of that.  Obviously, it would be nice to have a good geographical distribution.  It would be great to have one in Wales, a couple in England.  We will have to see how everything fits together in terms of all the elements that would need to gel in order to create the case. &#xa0;
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Mr Walker:]]] In terms of a couple of your earlier answers, you implied that it was cheaper to establish a Fraunhofer centre than it would be to establish the equivalent Catapult centre, partly because of the focus and the breadth.  However, in answer to Mr Bain, you were saying that the funding that was available from Scottish Enterprise was very valuable in setting that up.  Is there not potentially a bit of a contradiction between those two? 
+
+[[[Professor Dawson:]]] No.  Regarding Catapults, I can only talk in terms of the scale of commitment that has been made for the existing ones, so we are aware that is £10&#xa0;million a year for five years, £50&#xa0;million per centre.  Fraunhofer UK Research Ltd and Fraunhofer CAP were created with a core investment of less than £9&#xa0;million.  We believe that any new centres created would need about £5&#xa0;million to £7&#xa0;million of total investment, depending on the technology that it was focused on.  It goes back to the way in which these centres operate, which I touched on at the beginning:  essentially you have to pull it up by the bootstraps.  There is a business plan for five years that is ambitious; you draw down on this initial investment of whatever it is, £5&#xa0;million to £7&#xa0;million on a year&#x2011;by&#x2011;year basis according to your success in implementing the business plan, so it is all incentivised from day one.  You will start with a modest number of staff and build it up from there.  That is the way we see these things developing, and they have to earn their spurs, if you like, from day one. &#xa0;
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Talking about earning spurs, can you give us any specific examples of how industry, and particularly SMEs, have actually benefited? 
+
+[[[Professor Dawson:]]] You could say that Fraunhofer CAP, the photonic centre, has really been going for just over a year.  In that year we have won eight TSB projects in association with industrial partners, three European FP7 programmes, with a mix of academic and industrial partners.
+
+[[[Chair:]]] Sorry, what programmes? 
+
+[[[Professor Dawson:]]] European Framework Programme 7, which obviously just ended, but we caught the tail end of that.  We also won a number of direct industrial contracts.  We currently have funded work with 10 UK companies, most of which are SMEs. &#xa0;
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Mr Walker:]]] That is work coming in. In terms of output, are there yet products out in the market that you could attribute to research work that you have done? 
+
+[[[Professor Dawson:]]] It is too early; we have only been operating one year.  What I could point to, and what we show to visitors, is some of the university-linked background that we brought into Fraunhofer.  The Fraunhofer CAP, the photonic centre, has operational laboratories now.  It has been operating them for more than a year, and our visitors come and see the work we are doing.  It is all based on our own staff and equipment.  A good example of how things have worked is a demonstration we showed to Dr&#xa0;Cable, both at the opening event he attended in May at the RAEng and the recent visit to Strathclyde.  A prototype of a mid-infrared laser sensing and imaging system that was developed by colleagues at the University of St Andrew’s, who have subsequently become Fraunhofer employees, was commercialised by a local business, M Squared Lasers Ltd, and we are creating new capability to add on to that laser.  It has been part of an advance to show the role that we can play. &#xa0;
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Mr Bain:]]] There is a slight tension here in policy, is there not, because clearly you can see that BIS at UK level has got to have a role in sort of improving what has been a pretty poor performance in R and D in comparison with other countries but, as we have also explored earlier, this is also an important area for regional economies, and we want to see initiative coming from the regions and constituent parts of the UK.  The Government’s Technology Strategy Board oversees most of the UK Government’s innovation initiatives.  Do you think that degree of central oversight is appropriate to these types of initiatives? 
+
+[[[Professor Wren:]]] I am in danger of repeating myself here.  I do not think there is a one size fits all, but for the larger scale activities, yes.  I would say larger gives the ability to do things at scale and pace.  If one looks at some of the successes of the Catapults, one only has to go to Sheffield to see how successful AMRC has been: a new factory being built there by Rolls-Royce, industry investing, SMEs engaged, and money from many companies from overseas flooding into the UK.  In our own case at AFRC in Glasgow, I think there are something like eight Tier 1s, of which only one is UK, so £7 million has come from overseas into Glasgow there.  That ability to do things at scale and pace is really quite important I would say, and the ability to draw in other universities across the piece.  We sent projects to the manufacturers in Sheffield; they sent projects to us.  It is an integrated process.  Engineering components, big plants, are not made of forgings or machinings; they are made of things that are welded, so the Welding Institute is important.  They are made of things that are machined, so AMRC is important: forgings, materials, and so on and so forth.  It would be very difficult to do that in one location funded by one small pot of money. 
+
+[[[Professor Dawson:]]] If I could add to that, I think we are saying both local and central are needed.  A kind of central organisation like TSB gives the opportunity not only for scale, which Graham mentioned, but also to have a strategic oversight, which is very important.  We do have the opportunity to achieve things through working locally, because industry often looks locally.  Our Fraunhofer centre, for example, is developing strongly on the basis of a couple of companies that were effectively University of Strathclyde spinouts.  These companies were formed many years before, have developed and then are looking for something further that the university can effectively do for them, and Fraunhofer, as we have said, is a kind of add-on and amplifier of that university capability, if you like.  Local and UK national is very important.  
+
+[[[Professor Wren:]]] If I may, I think particularly for SMEs, that is the case, because the smaller the company, the more difficult it is to act on a national and international stage.  Having a portal where one can access the UK’s resources locally is quite important—that support mechanism. &#xa0;
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Mr Bain:]]] It is fair to say that wider connectivity, but still allowing for local initiative, is a good model.  That was pretty much what Lord Heseltine said in his report on growth in 2012.  One of his key recommendations was that BIS and the Technology Strategy Board ought to be working with the LEPs, and also the devolved administrations in Scotland, of course, also with Scottish Enterprise, in order to better connect a national strategy on research, without stifling and, indeed, by enhancing local innovation and initiative.   From your experience, would you say that the current funding models from the state are sufficiently responsive to regional strength or could they be enhanced somewhat? 
+
+[[[Professor Dawson:]]] I think that is a difficult question.  They could always be enhanced by additional resource, so TSB, for example, could expand its capability if there were more resources.  I suspect that in an organisation like TSB they may not be thinking too much about regional things; it is national programmes, national initiatives.  There is perhaps an opportunity there to connect, and maybe that is what your question is implying.  I think these regional strategies and the overall UK funding mechanisms and support that organisations like TSB can give could ideally be more joined up, and this is something I think that potentially should be looked at. &#xa0;
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Katy Clark:]]] To follow on from that, in order to maximise innovation, do you think the Government has got the balance right between money allocated to basic research, the Higher Education Innovation Fund, and the TSB that you were just referring to? 
+
+[[[Professor Dawson:]]] Yes, we have been thinking about this question.  The first point I would make, and I am a scientist in the university as well as being the Fraunhofer head, is that, of course, we would like to see more money in all of these areas, as you might expect me to say.  There is a wide consciousness in the academic community that in terms of research investment per full-time equivalent, and the commitments we make as a country, we are beginning to fall a bit behind our main competitors.  That is an area where we understand that the best settlements in the circumstances have been made through recent spending reviews and so forth, but ideally there would be more resource for the basic work, because the thing about basic work is you never know what it is going to produce.  It is very important that you maintain as much diversity as possible, and basic research will create surprises.  Having said that, in terms of balance, with the Catapult network having been created and with our ambitions to develop Fraunhofer in the UK and expand its role with other sorts of industry interfacing, there could be a need to expand the TSB’s funding.  I think that universities have positioned themselves, and Catapults and Fraunhofer, to be really requiring that in order to have their fullest impact. 
+
+[[[Professor Wren:]]] My perspective is that both are very important, and there is only one pot of money, so it is unlikely to get any bigger, and we need to keep the balance appropriate.  There is, from our industrial colleagues, a distinct desire, and one can understand why, to apply research and to take the research we have, and to quickly get it to market but, as Martin said, it is very important to keep that inquiry-based research running to generate new ideas and so on and so forth.  One thing we have learned from the excellent examples of Catapult is the ability to connect the two and show that continuous ladder or, in the term I have used, technology&#x2011;readiness level: the speed of translation of research, and the ability to apply it and engage with UK industry.  It is the mixture of pull and push, and the scale combined with the fundamentals.  It is a complex landscape, but Catapults have added enormously to that, and Fraunhofer also, we believe, adds to that speed and that ability to move things along.  They are all important, and the many reports that have been produced in the past show a gap—the so&#x2011;called valley of death that has been mentioned many times.  I think Catapults have done a very good job of trying to fill that.  &#xa0;
+
+[[[Q40 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] I am struck by your evidence in talking about your experience working with firms that have been spinout companies from your own university, and obviously you still retain close relationships with them, and that is good.  For other SMEs, I am wondering about their ability to relate to technology.  Sir Andrew Witty’s Review found that the multiplicity of TSB innovation products and initiatives were confusing to many SMEs.  I appreciate that might vary according to the sector—photonics is a very specialised sector—but there are other areas that are not specialised in which there is a much wider group of SMEs engaged.  I am just wondering, from your own experience, whether you think there is a case for trying to streamline some of this funding and these types of initiatives, so they better serve that community.  
+
+[[[Professor Dawson:]]] One way of partly addressing that at least could be an expansion of this intermediate centre sector that we have been talking about today, and as Catapults expand, hopefully as Fraunhofer expands, this provides a network that SMEs can relate to and that can help SMEs through the process of applying for TSB support.  No matter how Catapults and Fraunhofer, and other such organisations might expand, we will not cover everything, so there are bound to be sectors within the SME grouping that will not have that help and support.  I suppose under those circumstances the universities themselves that are local to those SMEs may be able to play a role and I am sure are keen to play a role; they already do in varying ways.  There is also perhaps how TSB and other organisations themselves might evolve to address those interactions and more directly support the small to medium enterprises.  
+
+[[[Professor Wren:]]] I think, if I may, having in previous lives run a number of SMEs, it is very difficult, when you have limited resource, engaging with a university and engaging with funding mechanisms, which, for various reasons, are well monitored and the engagement can be complex.  I did some research on what we do at Strathclyde, which really plays to your point; it shows you how complex it is.  These are 2013 figures: we have 23 live knowledge transfer partnerships, which are working with SMEs, and we have had 250-plus; we are not quite sure how many, because it goes back a long way into the teaching scheme.  We were number one in Scotland for that activity, and 10 in the UK; that is a fantastic UK&#x2011;wide scheme that supports SMEs locally.  We have in Scotland a system called Interface, which came out of Scottish Enterprise and provides a portal for local industry to ring up and say, “We have a problem.  Where do you go?”  We had over 500 enquiries through Interface, of which 323 were SMEs, and that led to 24 funded projects last year to support SMEs.  We mentioned some of these large centres—the one at Sheffield, the one in Nottingham, and the one we have—originally driven by large industry, but as the supply chain has come in behind that, we find it gives excellent opportunities for SMEs to gain access.  In our case, Rolls-Royce and Boeing are interested in new measurement technology.  We can run a seminar on that; we get local industry in, and we now have quite a lot of UK SMEs involved in that process, which we did not have at the start.  That is an interesting way, and they get locked into the programmes that the big guys are interested in.  As they get commercialised, they are embedded into them.
+
+[[[&#xa0;]]]
+
+[[[Q41 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] The large companies draw them in to this process by saying, “Come along and find out how you can do it.” 
+
+[[[Professor Wren:]]] Yes.  It is a technological driver.  Say I am Boeing or Rolls-Royce and I want to measure something very carefully, I need companies in the measurement field, which might be laser scanning, probes, or some kind of non&#x2011;destructive testing equipment.  We then source those from the UK economy, many of whom are local, because they tend to be smaller.  They get engaged in the programme, and they get access to where these big companies are going and, therefore, have a much better chance of commercial success.  That works quite well.We ran 75 SME research grants last year; nine SMEs used licences that we hold to further their business interests.  We did 124 pieces of consultancy for SMEs last year and, finally, there were 20 enterprise schemes.  That really plays to your point that it is a very complex landscape, but it also shows that many universities, including us, are very active in that landscape. &#xa0;
+
+[[[Q42 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] That is very helpful.  On innovation and skills, what role does a skilled workforce have in driving innovation?  We have talked before with people who are worried about skill gaps within the exiting workforce, as well as new entrants, and I am wondering to what extent the Fraunhofer model is about trying to train and retain skilled workforces within companies?  
+
+[[[Professor Wren:]]] That is a really crucial question for the UK economy.  As one looks at the power industry, everywhere one looks—nuclear new build, offshore wind, advanced manufacturing—there is a dearth of skills, both at university graduate level, PhD level and apprentices.  All of these are important.  Again, Sheffield, which is one of the more mature of the Catapult centres, has been around for longer.  They have got a full apprenticeship school; they have got lots of graduates now that have come out of programmes and gone out into industry.  In AFRC we are doing the same.  In the Centre for Continuous Manufacturing and Crystallisation, which I mentioned earlier, which is a pharmaceutical example, we have 60 PhDs running at the moment in that particular area, sponsored by GSK and AstraZeneca, and they will go back into those companies.  I think it is a very important area, and one that we can help with.  This TSB initiative of creating Catapults and the Fraunhofer centres gives the ability to create applied PhDs and engineering doctorates, etc., which then goes straight into industry and has impact. &#xa0;
+
+[[[Q43 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] Presumably it increases the ability within your staff to have a knowledge of industry if you are working, as you mentioned, with Weir and AstraZeneca.  
+
+[[[Professor Wren:]]] Absolutely. 
+
+[[[Professor Dawson:]]] Perhaps just to add to that, particularly as far as Fraunhofer goes, the five-year business plan for the photonic centre is 80 staff and students, but 30 of that 80 would be students, and by the end of this year we will already have a dozen involved.  I mentioned earlier that if we were to grow this centre or other centres that might be created to the level of Fraunhofer Institutes in Germany, we are talking about cohorts of 100-plus in these themed technology areas.  This is a very important part of what we are trying to do. &#xa0;
+
+[[[Q44 ]]]&#xa0; 
+
+[[[Ann McKechin:]]] Presumably, you may also be trying to recruit from business in terms of people who have a combination of business skills and entrepreneurship, as well as the academic.  
+
+[[[Professor Dawson:]]] Absolutely, and that kind of two-way interaction is a crucial thing.  I suppose I am in the position I am with these things today, because I spend time out in industry, and my colleague here has had a wide variety of roles, both in university and industry. &#xa0;&#xa0;
+
+[[[Q45 ]]]&#xa0; 
+
+[[[Caroline Dinenage:]]] I really want to talk about the way that the commercial impact you have is valued and the way that universities are assessed.  I wondered whether you felt that the commercial impact should have a greater weighting in university assessment, for example, through the Research Excellence Framework.
+
+[[[Professor Dawson:]]] This is a tough question, which is obviously why you have asked it.  I guess we would just be giving individual views here.  I think a key thing is we do not want to dilute in any way the core focus of the UK’s universities on student training and the generation of new knowledge.  The issue covered in recent Government reports and other things, and that lies behind your question, is whether there is a role for universities beyond that, in knowledge exchange, and of course there is.  It is potentially very difficult to provide a UK&#x2011;wide uniform assessment system as part of REF that would depend upon this commercial value of the work that universities are doing, but it could possibly be done.  I think that academics are recognising that the metrics by which their success is measured are broadening.  I think they are willing, and in many cases are enthusiastic, to embrace these additional roles, but also perhaps have this concern that they do not want to see the dilution of the core new-knowledge focus effort.  It is an issue of whether these additional criteria could be added on that do not distract from that core mission.  
+
+[[[Professor Wren:]]] It is a very difficult question, because it goes to the core of what universities are for: what are our products—what are we here for?  From a personal perspective, I would like to say yes.  I would like to see a closer relationship between what we do and our support to creating economic wealth in the economy.  As Martin alluded to, that is a very difficult thing to do, because the outputs we have are our graduates, who go on to do hopefully good and meaningful things in society and for the economy, the research we produce, and obviously the interaction with industry.  I personally would welcome a stronger relationship with industry and more metrics driven towards that area.  How one would do that and make it effective is really a very complex area, but I do not think many universities would find any problem with wanting to add value to society, because that is what we are here for.  Economic impact is a very significant part of that, particularly for a university like ours, a technological university.  I am sure Sheffield and others will be very similar.  It is about helping industry in our case.  If one looks to some of the ancient universities, they add value in different ways.  Their graduates end up in very senior roles doing different things in some circles.  It is a very complex question, but generally I would say yes.  
+
+[[[Professor Dawson:]]] One way to handle it potentially, picking up on Graham’s point there, is almost to make it an optional part of the assessment, but one that has value if a particular university chooses to embrace it.  There might not be one REF that fits all.  
+
+[[[Chair:]]] I wanted to touch on that in my final question, but can I just let Caroline come in?&#xa0;
+
+[[[Q46 ]]]&#xa0; 
+
+[[[Caroline Dinenage:]]] I also wanted to probe you a bit on how easy it is to slip in and out of an academic career to pursue business.  I know, Professor Wren, you said that you had been involved in some SMEs. In practice how easy would it be for an academic who had taken several years out in order to develop an innovative company to re-enter academia in the UK without adversely impacting their career? 
+
+[[[Professor Dawson:]]] Certainly, a fair fraction of academics have a more varied experience than is often clear.  For example, I was in the US for five years. I worked for Sharp Labs in Oxford for five years.  I had no problem moving from Sharp back into the University of Strathclyde, and the learned academies and royal societies—RAEng, RSE and so forth—all have mechanisms to support individuals to do these things.  I think it is there if you want to do it. Of course, core academic metrics are often about academic impact, impact factors and publications and so forth.  I think it may vary from field to field.  That is perhaps the way I would say it.  For photonics, which is my particular area of expertise, I do not think there is any disadvantage or major difficulty in moving back and forth, and it is just one of those fields where you can be publishing, doing state&#x2011;of&#x2011;the&#x2011;art research, but at the same time translating that research for industry and benefiting from your industrial experience.  It may vary from subject to subject, but for those of us in the applied photonics area, I do not see it as a major difficulty.
+
+[[[Professor Wren]]]: If I may speak particularly from a technological perspective—I am not sure I could comment on an arts area—I would say it is a generally good thing.  It is not necessarily easy, but it certainly brings additional knowledge to the university, and one would hope it would bring the latest thinking into industry.  One sees that promoted in bigger industries.  BAE Systems, Rolls&#x2011;Royce, etc., have relatively well&#x2011;trodden paths, where people go into university posts and come back out again.  We want to see shared posts, which is another way of doing the same thing, so an industrial person perhaps has a part&#x2011;time role in the university.  I would like to see more of that.  I think it would enhance and enrich the academic community, and it would allow a greater flow of connectivity with academia into industry.  You touch on a very important point there.&#xa0;
+
+[[[Q47 ]]]&#xa0; 
+
+[[[Caroline Dinenage:]]] Thank you for those answers.  I am now going to put you on the spot completely.  I want to know what you think are the three biggest obstacles to innovation facing the UK.  You can fight over who is going to answer that first.
+
+[[[Professor Dawson:]]] We just need to remind ourselves of the question.
+
+[[[Chair:]]] There is a prize for whoever comes up first.
+
+[[[Caroline Dinenage:]]] We will talk amongst ourselves for a minute, if you want.
+
+[[[Professor Dawson:]]] Certainly, one is what motivates academics in the broad sense.  As we were saying earlier, there is a core mission to universities.  Some people will be resistant to being pulled away from that core mission, so I am quite sure we are not fully drawing on the tremendous academic resource that we have available.  That, certainly, would be one.  A second one is the lack of business R and D spending, or its strange distribution in the UK system.  A few companies, the big pharmaceutical companies, are spending a lot, but the rest are spending relatively little.  Graham may have a different three to me, but the third one I would add is that I have now had a long enough career to see our intermediate organisations—our MOD R and D, our corporate labs, and so forth—largely disappear.  We have lost something very important there, from a student-training point of view, from the connectivity between universities and industry.  I suppose what this Fraunhofer opportunity is bringing, and what the wider Catapult initiative is bringing and ought to be tremendously welcomed, is the chance to reconstruct for today this intermediate space.  It is of crucial importance, because our international competitors have that sector still; it is still very strong.&#xa0;
+
+[[[Q48 ]]]&#xa0; 
+
+[[[Chair:]]] Can I invite Professor Wren to answer now?  We are running out of time.
+
+[[[Professor Wren:]]] To pick on something slightly different, one thing that Sir James Dyson picked up on was the cultural aspect of science and engineering—to make that a thing to do.  I was reading on this before I came, and I noticed the Chairman has an interest in steel.  I was reading Sir Monty Finniston’s report from 1980, which actually said more or less the same thing.  The problem with being an engineer is people think you are here to fix the car or the boiler or something, and it is not seen as a really value&#x2011;added piece of the economy.  We need to make science and STEM subjects something that kids aspire to do and see as a great and exciting thing to do, and show them the impact it has on the economy.  That is quite a cultural change, but one sees that in spades in other countries in Europe.  It is different.  That is one thing that consistently, through the literature, people have raised and made very important.Just to go back to Martin’s point, if I may, the landscape in the UK has changed dramatically in 40 years.  We used to have a lot of very large indigenous companies, the GECs and so on and so forth, with their own very large research centres.  Those have largely gone.  Even Rolls&#x2011;Royce has a very limited amount of indigenous research; GSK is much smaller than it was, etc.  The Catapult approach and the Fraunhofer approach is a way of replicating that, and I would strongly commend that connective tissue between the very strong fundamental research base we have in universities at low TRL and connecting it to industry through those centres, so that we can apply that research.  We need to make that visible to people, get them excited about it and connect it with industry, so people come into those centres and go back out, get enthused and see there is a route to do that.  If we do, young scientists and engineers or young kids at school will say, “I want to be part of that journey.  I can see Sir James Dyson and what he has done.  I want to really be involved in that.”  The landscape needs to be understood, and the passion and the respect and drive.  I know that is only two, but those are quite big ones.
+
+[[[Caroline Dinenage:]]] That is fine; we will let you off.  Very good, thank you.&#xa0;
+
+[[[Q49 ]]]&#xa0; 
+
+[[[Chair:]]] Can I just conclude?  It really goes back to a question raised by Katy on the balance of funding.  If I heard your opinion correctly, it was basically that it is not so much the balance; you just need more, and obviously all organisations say this.  However, Lord Heseltine put forward a thesis in recommendations that the Government accepted—at least in theory—that money should be devolved from central government to the regions for them to use to stimulate economic growth.  Indeed, some funding is at least scheduled to go to LEPs.  Now, do you feel that there is a potential role in the future for you as universities, innovating with business and through either Fraunhofers or the Catapult centre, to access some of the cash that might potentially come if you could demonstrate that you could do this effectively?  How do you think you could work with LEPs, or do you think you would be better working without LEPs, or what?  How would you see your potential for exploiting this particular approach in delivering for the UK economy?  It is a big question, but we are looking at how economic policy in the regions must develop, and universities have obviously got a role here.
+
+[[[Professor Wren:]]] Those are very difficult questions.  My first point, I suppose, is that universities are not familiar with that activity.  Do I infer correctly that you are talking about giving universities money and then asking them to use it to support the local economy?
+
+[[[Chair:]]] Well, it could go through the TSB.
+
+[[[Professor Wren:]]] You mean “apply for funding”?
+
+[[[Chair:]]] I mean, you are used to accessing Government funding.  
+
+[[[Professor Wren:]]] Absolutely.  I may have misinterpreted the question; I thought you meant that the funding would be devolved, and the universities would in some way hold the funding.
+
+[[[Chair:]]] No, not necessarily.  I think the onus would be on universities to demonstrate that, if they got the money, they could use it to maximum effect.
+
+[[[Professor Wren:]]] Right.  In my mind, it is a balance.  One needs to create large&#x2011;scale activities such as the Catapults at scale and pace to help big industry, but to create local links and grow those, you need activities there too.  There is a balance to be struck.  To me, it is about aligning objectives: so, looking at the SME community and what support they need, and asking how might we best serve that.  If there are opportunities like KTPs that have been fully utilised, would adding more to that generate more opportunities for local companies?&#xa0;
+
+[[[Q50 ]]]&#xa0; 
+
+[[[Chair:]]] Do you think it would?
+
+[[[Professor Wren:]]] The initial reaction of the university is always “more money is good”, is it not?  Actually, speaking for the UK, one should look at what the best route is.  If you want to go back in time, KTP has probably been around for 30 years.  It used to be called the Teaching Company Scheme, and it has probably been the longest&#x2011;surviving and arguably the most successful scheme the Government has promoted.  That does not meant to say it is the obvious thing to fund more.  One should do the analysis and say “Is that right?”  That would be my approach.  I do not know if you want to add to that, Martin?
+
+[[[Professor Dawson:]]] I would go back to something we discussed earlier.  The central administration of resource through things like TSB gives us an opportunity to take a UK&#x2011;wide, strategic view.  That is very important.  My experience of being involved in these things, foresighting and so on, is that as a country we do it very well in the areas of technology or science that are focused on.  We do not want to dilute that, but equally these kinds of local regions do differ from each other around the UK, and the network of SMEs and other businesses that surrounds a university differs from region to region, from university to university.  If universities were to access a measure of this support, they could use it very well.  It is a balance, but ideally you would do both things.&#xa0;
+
+[[[Q51 ]]]&#xa0; 
+
+[[[Chair:]]] Do you think more could be delivered for the regions through, if you like, the TSB route, rather than by just giving more money to LEPs?
+
+[[[Professor Dawson:]]] Potentially, yes.  If TSBs’ remit was expanded and they took regional differences and respective strengths into account, and customised calls and so forth accordingly, they could take on a good measure of that responsibility.&#xa0;
+
+[[[Chair:]]] That concludes my questions.  Does anybody else have a burning question?  Can I thank you for your contribution?  This is only the first of what I think will be a number of sessions, most of which will be scheduled for slightly later in the year, with the objective of, in effect, finding out just what the picture is, how it is delivering, and where we can best move funds to get the maximum bang for our buck in the future.  Thanks very much.  &#xa0;&#xa0;&#xa0;              Oral evidence: Business–University collaboration: The Fraunhofer UK Model, HC 1025                            21

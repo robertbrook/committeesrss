@@ -1,0 +1,25 @@
+&#xa0;
+
+[[[Written Evidence from Professor Allan ]]]
+
+[[[Brimicombe]]]
+
+[[[ ]]]
+
+[[[[CST0008]]]]
+
+[[[Domestic violence/abuse statistics]]]Table 1: Example comparison of domestic offences and domestic incidents&#xa0;&#xa0;2007/082008/092009/102010/112011/12EssexIncidents a17,82624,56822,47221,38526,876Offences b6,4327,4617,0937,1918,914Metropolitan PoliceIncidents a84,026111,738119,884121,314118,079Offences c-52,91251,68248,41646,398a  from Appendix Table 4.07 Focus on: Violent Crime and Sexual Offences 2011/12b  project data from Essex Policec  MOPAC data
+
+[[[Repeat victimisation]]]
+
+[[[ statistics]]]Table 2: Example of incidence of repeat victimisation and variation by crime type
+
+[[[Big data, joined-up ]]]
+
+[[[data ]]]
+
+[[[and evidence-based policing/crime reduction]]]
+
+[[[&#xa0;]]]November 2013&#xa0;               Domestic violence is defined as “any incident of threatening behaviour, violence or abuse (psychological, physical, sexual, financial, emotional) between adults who are or have been intimate partners or family members regardless of gender or sexuality”. The minimum has recently been lowered from 18 to 16.               e.g. annual Focus on: Violent Crime and Sexual Offences, Office of National Statistics.               Office of National Statistics (2013) Focus on: Violent Crime and Sexual Offences 2011/12. e.g. http://www.ons.gov.uk/ons/rel/crime-stats/crime-statistics/period-ending-june-2013/sty-crime-summary.html                Brimicombe, A.J.; Brimicombe, L.C and Li, Y. (2007) Improving geocoding rates in preparation for crime data analysis. International Journal of Police Science and Management 
+
+[[[9]]]: 80-92               http://www.bbc.co.uk/news/technology-22008497               Home Office Counting Rules               http://data.police.uk/about/#quality                House of Commons Committee of Public Accounts (2012) Mobile Technology in Policing, p11

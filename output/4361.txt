@@ -1,0 +1,593 @@
+&#xa0;Science and Technology CommitteeOral evidence: Government Office for Science annual review, HC 847Wednesday 4 December 2013Ordered by the House of Commons to be published on 4 December 2013.Watch the meetingMembers present: Andrew Miller (Chair); Mr David Heath; Stephen Metcalfe; Stephen Mosley; Pamela Nash; Graham Stringer; David TredinnickQuestions 1-53Witnesses: 
+
+[[[Professor Sir Mark ]]]
+
+[[[Walport]]],
+
+[[[ ]]]Chief Scientific Adviser to Her Majesty’s Government and Head of the Government Office for Science, gave evidence.  
+
+[[[Q1]]] 
+
+[[[Chair:]]] Good morning, Sir Mark. May I welcome you and particularly welcome the people involved in the Royal Society pairing scheme, many of whom are sitting at the back? I hope you find this a useful part of your time in Parliament. Sir Mark, you have been in post for a number of months now. You have started to get your feet firmly under the table. I had the privilege of listening to your lecture on Monday at the Natural History Museum, where you covered a huge amount of ground. Would you give us some specific examples of how you are doing the job differently from John Beddington; how your experience from the Wellcome Trust has impinged upon the way you carry out your role; and perhaps give us a flavour of how you are conducting the business today?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] Thank you very much indeed. First, I would like to pay tribute to my predecessor, Sir John Beddington, and say that there are some things I am not doing differently from him because he was doing them extremely well. Looking at how I am thinking about the job, I am prioritising my activity in relation to what I think is important for Government. It seems to me that Government cares about two things: the health, well-being, resilience and security of the population; and it worries about the economy.My role, as you know, is to advise on science, engineering, technology and social science with respect to Government policy. Those two areas of Government concern form a useful framework for how I think about the job. If you think about the health, well-being, resilience and security of the country, a great deal of that is provided by our infrastructure. You can divide our infrastructure into our built, engineered infrastructure and our natural infrastructure, by which I mean plant and animal health, the environment, weather, climate. That provides a framework for how I think about the job. I essentially have five priority areas. One concerns our infrastructure. If you start looking at that, one of the most important infrastructures is our energy infrastructure, because if the lights go out, not only this building but the UK plunges into darkness and things stop working. I have done a lot of work on climate and energy in relation to natural infrastructure.Science is extremely important in emergencies, and here I would like to pay particular tribute to John Beddington, because he paid a lot of attention to that. He set up the Scientific Advisory Groups in Emergencies Committee, which feeds into COBR, about which I could say more later. We are doing a lot of work on the national risk register, in order that we are best prepared not only to deal with emergencies when they happen, but as far as possible to prevent them from happening in the first place, to mitigate them, to handle them and then to clear up afterwards.On the economy, there is a very important relationship between science, engineering, and technology—for the rest of this session I will abbreviate that phrase to science—and between industry, academia and Government. So I am spending a lot of time visiting and talking to scientists working in each of those sectors, to try to join them up and provide the best policy environment for the progression of our world-leading science in the academic sector, all the way through to our world-leading science in industry. The fourth and fifth areas are a leadership role in science and engineering, and getting out there and making sure that, as far as possible, both quantitative and qualitative evidence is used effectively in Government policy making. So that is how I think about it.In terms of how I operate, the job of Government chief scientist is only made possible by the network of advice that is available and the office itself, the Government Office for Science, which is strong and has a very good team of people in it. As you know because you meet them fairly regularly, there are chief scientists in other Government Departments, and we work as a network. We have agreed that between us, we have most of the domain skills in the different areas of science, engineering and technology to be able to provide advice not only within Government Departments but across Government. So it is agreed that CSAs will use their specific domain skills across the whole of Government. For example, Robin Grimes, the chief scientific adviser at the Foreign and Commonwealth Office, is a nuclear physicist and his work is particularly useful in relation to our work with the Japanese at the stricken plant at Fukushima. His expertise is also useful in considering nuclear energy policy in the UK as a whole. We tend to do that with each of the Government scientists, using their skills across Government. That is the network of advice within Government. As you know, we have a very strong Government science and engineering network, with over 12,000 scientists, and I am working closely with them. Then I am working with scientists in academia, in the learned academies, in industry and through my work co-chairing the Council for Science and Technology with Dame Nancy Rothwell. I suppose, just to wind up the introductory remarks, another cut of the work is looking at the six themes that have emerged. I am happy to expand on any of them, but one is risk and resilience—the work on the national risk register and the national risk assessment. The second concerns energy and climate change, and the third data and analytics, which I gave a talk on in Oxford last night. The fourth concerns life course anddemography—given that all sorts of demographic issues are important for Government policy—and cities. We have a new Foresight Programme, led by Sir Alan Wilson, on future cities. There is a work stream on innovation and infrastructure, and finally, the sixth is broadly around trade and finance, with a particular city perspective and an international perspective. So that is how I am thinking about the job. 
+
+[[[Q2]]] 
+
+[[[Chair:]]] Have you come across any unpleasant shocks? For example, there have been rumours and stories in The Guardian recently about cuts in various aspects of the science budget. This Committee has identified areas of concern in respect of science—not in the Department for Business, Innovation and Skills but in other Government Departments. Have you any particular worries?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] First, as you know, part of my primary responsibility is not actually the research-based science budgets, although obviously I am concerned to make sure that our scientific infrastructure is as strong as it possibly could be. So I have a general role in terms of advocacy within Government for science and science budgets. What I am concerned about with respect to departmental science budgets is that Departments be able to get the scientific advice they need to make effective policy. I have a general concern, but not a specific responsibility or accountability for the budgets themselves.
+
+[[[Q3]]] 
+
+[[[Chair:]]] Finally, before I open this up to colleagues, you mentioned the national risk register, which we have looked at extremely closely. We are very impressed with John Beddington’s work there. The issue of anti-microbial resistance is going further up the interest scale, the concern scale. Do you think it is an issue that deserves to be on the risk register?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I think my colleague Dame Sally Davies has articulated the case very well indeed. Yes, it probably does deserve a slot on the risk register, but there are many things there. The risk register is subject to continuous review. My main concern is that it is not sufficient just to have it—it is a question of then using it to make decisions about what protections should be in place and how one should prepare and, hopefully, prevent the risks ever transpiring. 
+
+[[[Q4]]]  
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] Sir Mark, you have set out your stall with the five top priority areas. Which of those would you consider to be of the greatest importance? A tough question to start off. 
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The honest truth is that they are all important. Our infrastructure is extremely important—the country depends on it, so it is very high priority. Equally, when an emergency arises, we have to be prepared. To some extent, prioritisation at any particular time is dictated by events, and in the event that an emergency transpired, that of course would trump everything else. But I think these are all important priorities.
+
+[[[Q5]]] 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] So these are all shifting priorities? Priorities shift according to circumstances?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] Priorities always have to shift. It is one thing to have a strategy but it is another thing to know how you are going to achieve it. Strategy needs to be responsive to events.
+
+[[[Q6]]] 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] So how do your priorities relate to the Government Office for Science vision for science, and secondly—
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] They frame the Government Office for Science vision for science. I am the head of the Government Office for Science and all of this work is done in collaboration with my very close colleagues in the Government Office for Science and working with the network of chief scientists.
+
+[[[Q7]]] 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] Looking at the BIS website, it seems to provide a slightly different vision for science and engineering in government. I wondered if you have had a chance to look at that and whether you have any comments to make on the differences between your approach and its approach?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The Government Office for Science has a section in there. As you know, the whole website at the moment is undergoing a review and a refresh, and as part of that, the GO-Science element of it will be updated during the next few months. But there is no difference between the Government Office for Science view and the BIS view.
+
+[[[Q8]]] 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] You’ve had some very nice things said about you at the Wellcome Trust—talk of the swathe of discoveries brought forth by your work. How would you view success in this role? Maybe this is sort of a strange question to ask someone who has just taken up the role, but what sort of legacy would you hope to have?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I hope the legacy I would leave would be that the role of science, engineering and technology in government is ever more effectively embedded than it has been, and that Government policy, wherever possible, is informed by the best possible scientific advice. I think that wouldn’t be a bad legacy to leave, but I am not starting from a blank sheet of paper in any sense at all. If you look at the UK system of scientific advice for Government, it is probably one of the most comprehensive—if not the most comprehensive—in the world. So the UK starts in a very strong position. It would be nice to think that, wherever possible, science is one of the key lenses through which policy makers look at the world and on which they base their decisions.
+
+[[[Q9]]] 
+
+[[[Mr Heath:]]] In my reasonably recent past I have had very good reason to be grateful to Ian Boyd and to John Beddington for the advice they gave as we had a new plague or pestilence every other week to deal with. I wonder whether, in your view, you feel that Departments across Government have the capacity to deal with “events”, as you described them previously, on the basis of the advice. Do they have the capacity in terms of contingency planning and in terms of what they can bring to bear in order to face an adverse event of some kind?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] Of course, we will probably come on to this more in the next session, which is on Horizon Scanning, and Horizon Scanning is an extremely important part of activity. I am certainly satisfied that the national risk assessment is something that is owned by all Government Departments. I also think that it has been discussed both at the level of the Cabinet and at the level of the permanent secretaries’ meeting each week in the last couple of months, so this is very hot in people’s minds at the moment.There is always more work that can be done on that, and it will be done. I think in terms of the contingency planning that, yes, a great deal of contingency planning does happen. It is one of the areas that I was impressed with—something that is less visible when you are outside Government. People have sometimes asked me, “What has surprised you coming into Government?” and one of the pleasant surprises has been the number of people in and around Whitehall who work on actually defending us against all sorts of events, both natural and human-contrived. That, I would say, is very positive. Is there more that can be done with the national risk assessment? Yes, I believe there is. I have been involved in a couple of contingency exercises and I think we could do more in terms of preparing the manuals to actually help us handle them when they occur, and that work has already started. So I think that there is a lot to do.The other question is if you look forward and say, “What is the next pandemic going to be? What is the next human, animal or plant infection going to be?” I think that the UK is good at public health. I think that the evidence base for animal and plant health, as I think I have said here before, is less well developed and it is perhaps not surprising that more has been spent around the world on human health compared with animal and plant health. But I think that as the interconnections on the planet become ever faster, then of course infections can move faster than they ever moved before. So I think there that there is more that we can do in terms of collecting the evidence on that and I am working closely with Ian Boyd and DEFRA to explore how we can do this even better.
+
+[[[Q10]]] 
+
+[[[Mr Heath:]]] Do you think that there is more we could do in terms of intelligence of what is happening elsewhere, given that global dimension which is still there? Should we perhaps concentrate more of our efforts in evidence gathering, rather than commissioning direct research meta-analysis of what is already available, in order to prepare?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I don’t think it is an either/or. If you look at the world I came from, which is health, one of the things that was incredibly important in health was the development of things like the Cochrane collaboration, which took the individual pieces of evidence and produced extremely good meta-analyses. But a meta-analysis without primary evidence isn’t much use. Equally, lots of primary evidence that isn’t put together into a meta-analysis isn’t much use either. So we do, frankly, need a combination of the two of them.
+
+[[[Q11]]] 
+
+[[[Mr Heath:]]] I was just suggesting that maybe we don’t need to produce as much ourselves if there is a lot of meta-analysis out there.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] No, I don’t think that is right. That is a sort of: “Can we get all the science by freeloading on others?” I think the answer to that is quite definitely no.
+
+[[[Q12]]] 
+
+[[[Mr Heath:]]] Again, at the risk of pre-empting the next session, when we are talking about the next catastrophic event, what is it that keeps you awake at night? What are the two or three potential risks which you think really could happen and we would find very difficult to respond to?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] If you look at the national risk assessment, you will see that pandemic infection is high on that. The short answer is that one can do as much as one can to anticipate infections jumping from one species to another, but this is something of an intractable science at the moment, so that would be a major issue for the UK. Are we prepared in a general sense for pandemics without knowing the detail of what they are going to be? Yes, I think we are rather well prepared for that. Nevertheless, some infections are very nasty indeed, so that would be one example. There are all sorts of horrible things that one could imagine and what one has to do is prepare for reasonable best-case scenarios.
+
+[[[Q13]]] 
+
+[[[Mr Heath:]]] One of the most difficult things for scientists to get over to legislators and the media, and possibly on occasions even to Ministers, is risk, how you quantify risk and what it actually means. Have you any ideas on how we can communicate risk in an intelligible way which even a stupid Member of Parliament could understand?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I am giving a talk at the weekend in Baltimore at an international meeting on risk. One of the big issues is the confusion that sometimes happens. There is a whole series of terms associated with risk. There is risk, hazard, uncertainty, vulnerability and threat. If you understand risk, then you need to think about all these other things as well. One of the important confusions that happens regularly is a confusion between hazard and risk. As an illustration, each of our kitchens is full of hazards. We have very sharp knives, we have bleach and we have salt, which is actually rather dangerous if you eat too much of it. Even water, if you drink too much of it, can cause serious harm. We manage each of those hazards by controlling our exposure, so risk is the product of hazard times exposure. That is where, I think, we get into trouble all the time.As you know, I had a certain discussion with George Monbiot over neonicotinoid pesticides. The issue there was not whether neonicotinoids are hazardous to insects—they are insecticides, they are intended to be hazardous to insects—the question is an exposure one. The idea when you apply pesticides is that you expose the insects you don’t want to toxic concentrations and the plan is that you don’t expose the insects you don’t want exposed. So the real question in terms of neonicotinoids is: what is the agricultural exposure to pollinating insects such as bees and others when they are applied according to the guidance as pesticides? There, I think, is a good example of where we do need more evidence from the field.
+
+[[[Q14]]] 
+
+[[[Mr Heath:]]] Exactly. That is something that I have completely failed to get across to the public.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] We frequently find that we live in a world that is in danger of being regulated by hazards. That would be very difficult for a number of things. One has to deal with the exposure as well as the hazard. It is a difficult area of communication, I have to say.
+
+[[[Q15]]] 
+
+[[[Chair:]]] Yes, that is an interesting discussion that came up a lot when I was doing the Löfstedt inquiry a year or so back. Before we leave the issue of risk and the risk register, in our previous report on the Government’s handling of scientific advice in emergencies, we said that the Government chief scientist should be formally involved in the national risk assessment at a high level. We understood from Sir John that that had now happened. Is it the case that you are now formally involved in the final approval of the NRA?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] Yes, I see it as part of the write-around at the end. There is no question that I am formally involved. I think it will be quite a large part of my work load actually.
+
+[[[Q16]]] 
+
+[[[Stephen Mosley:]]] When we spoke to you just after you started the job in April, you said that you had not yet met the Prime Minister. Since then, how often have you met the PM?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I have had a one-to-one meeting with the Prime Minister. I have also met him through the Wednesday morning colleagues meeting, and I have seen him at other events. I have had good contact with the Prime Minister.
+
+[[[Q17]]] 
+
+[[[Stephen Mosley:]]] At the Liaison Committee earlier this year, the Prime Minister mentioned the chief scientist and said, “If…you summon the chief scientist to a Committee and ask them questions, you expect them to answer those questions accurately and, if necessary, relatively independently.” When you appeared before us when we were talking about climate change on 6 November you said that your primary job is “to provide advice to the Government…my job is not to go out there and criticise the Government”. When you come to a Select Committee such as this, how do you balance the requirement for you to be independent but not criticise the Government?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] As you know, I am a civil servant. I am a permanent secretary and bound by the civil service code, so I have to behave according to that. I am also very clear that I have to be absolutely clear about the science. The policy decisions are for policy makers. You, the elected politicians, are the policy makers.My job is to be clear on the science and transparent with that. It is not to come and say that I think this Minister is wrong in that or the Government policy is wrong here. It may be obvious from the scientific advice, if there is a discrepancy with the policy, that I might have views, but it is not my job to be directly critical.There is also the question of how to be most effective for a Government chief scientist working within the Whitehall system. I believe I can be the most effective if I am very clear in my one-to-one conversations with Ministers and when I meet the Cabinet, as I have done in the context of the national risk assessment and climate change. I need to be very clear there but I do not think I would most effective if I went on the “Today” programme or came to this room and was actively critical of Government policies.
+
+[[[Q18]]] 
+
+[[[Stephen Mosley:]]] You said that you are tied to the civil service code. Do you feel hampered by that code?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] It has not been a problem so far, no.
+
+[[[Graham Stringer:]]] One word answers devastate Committees.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I must try it more often.
+
+[[[Q19]]] 
+
+[[[Graham Stringer:]]] Can you tell us what you are doing about cities? I did not know it was one of your priorities; I am fascinated.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] We have kicked off a Foresight Programme on future cities. Given the urbanisation not only of the UK, but of the globe, and the fact that an increasing fraction of the population is living in cities, that requires thinking about what the cities of the future will look like and thinking about smart cities, which are a couple of words that are dropped together quite often. The power of information technology can provide not only resilience to cities, but in some cases risk, if cities become too dependent on particular systems. So this seems a very good topic for a Foresight project, and, indeed, we have kicked it off.The way Foresight projects work, as I think you know, is that we have a lead expert group that is brought together for a project and that helps to steer it. The lead expert chairman is Sir Alan Wilson, a distinguished mathematician and social geographer based at University College London. That project has kicked off. We are having seminars in individual cities to try to stimulate activities within cities themselves. We had a very successful seminar in Cambridge a few weeks ago, and I am going to Newcastle on Friday for a seminar. Each seminar brings together the city authorities, academia, industry and other stakeholders in the city. Certainly if the Cambridge one was anything to go by, I think they are going to be very exciting.The Foresight project commissions a series of evidence papers. In the case of the cities project, we will probably do some modelling of cities as well, and we will be working with the cities catapult. It is an interesting and important project.
+
+[[[Q20]]] 
+
+[[[Graham Stringer:]]] When will it conclude?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The project itself is aimed for about 18 months or two years, but there will be intermediate outputs. It is not going to be a single process with a flash of light and something happening at the end. I am anticipating that there will be interim outputs.
+
+[[[Q21]]] 
+
+[[[Graham Stringer:]]] Completely changing the subject, can you explain what you mean by “greater transparency in research”? That is a quote from your annual review.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] Transparency in research is about the fact that research has the best impact when it is communicated, so it is about making public-funded research in particular fully available. Let me give you some examples. In the clinical arena, the development of clinical trial registries and being much more open about clinical trials is very important. It is about making clear when they are being done, and registries are a good example of that.There are increasingly communal ways of undertaking science. I visited the James Martin school in Oxford yesterday, and some of the work they are doing there is on citizen science. Galaxy Zoo is an example of very transparent research where the public take part, although that is not applicable to all areas of research.Transparency in research is about sharing data openly—of course, we have seen all the benefits of that with genome projects in general. We have sometimes seen the consequences of what goes wrong if you do not share data openly. I think that the world of climate science is better for being more transparent over the evidence.Transparency is about publishing data openly and making it available for others to use—to text-mine and to data-mine—and, of course, data transparency is essential to maximise the integrity of the research process. Those are all different aspects of transparency.
+
+[[[Q22]]] 
+
+[[[Graham Stringer:]]] What is your view on the decision of the British Medical Journal not to publish research from tobacco companies?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I have certainly read the paper and I am aware of it. That is their policy decision. When I was at the Wellcome Trust, we did not invest in the tobacco industry as well. Tobacco is very directly associated with damage to health—the first cigarette is bad for you. I would not comment any more than that, I don’t think.
+
+[[[Q23]]] 
+
+[[[Graham Stringer:]]] So you do not want to share your view on that with the Committee? The article in The Guardian said that tobacco research may well be biased, prejudiced and not objective, but it is better for it to be out in the light, rather than in the dark.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] That is a slightly different question. It is a question of whether the research is funded by tobacco or about tobacco.
+
+[[[Q24]]] 
+
+[[[Graham Stringer:]]] Sorry, I meant funded by tobacco.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The BMJ took a view that they thought that research funded with funds from the tobacco industry might be, in and of itself, biased because of that source of funding. That is their subjective judgment, and I could understand why the editor made it, but it seems that that was the basis on which the editor made the decision, actually. So they were making a decision that they thought that, because of the source of funding, the research might be biased, and they could not therefore quite trust its integrity. That was essentially what they were saying.
+
+[[[Q25]]] 
+
+[[[Graham Stringer:]]] I understand that point, and I am sorry if I was not as clear as I should have been. The focus of the question is, given that background, is it better that the research remains in the dark rather than in the open, even if its sources of funding are of concern?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I would look at it in a slightly different way. The research that the BMJ and other reputable journals publish is published on the basis that it is peer-reviewed and deemed to be of high quality. Journals, particularly the best ones, are already very highly selective in terms of the criteria they use to publish research. They are not, as it were, deciding whether all research should be published; they are saying, “This meets the criteria for publication by the BMJ.” What they are saying is that they do not think that, as part of their review processes, research that has that particular source of funding is something they want to publish. I think one has to respect that opinion.
+
+[[[Q26]]] 
+
+[[[Stephen Metcalfe:]]] This Committee, certainly over the past three years, has taken an active interest in the way science is being taught in schools and all the things that are included in science. Some of the responses to our reports have not necessarily been that helpful—from the Government. However, I believe that the Secretary of State for Education wrote to the Council for Science and Technology, asking what could be done to improve the way A-levels are delivered. Can you share with us what changes you are proposing and looking for?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The CST has met the Secretary of State for Education on a number of occasions. We have written specifically about practicals, the examination system, continuous professional development and careers advice. I think we have had a good interaction with the Department for Education on all those. The CST is not directly involved in the design of the curriculum itself, but the advice that the CST provided has been listened to. 
+
+[[[Stephen Metcalfe:]]] Has been listened to?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]: Yes. 
+
+[[[Q27]]] 
+
+[[[Stephen Metcalfe:]]] So proposed changes will be coming forward soon? 
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] It is very difficult to attribute policy change to any single piece of advice, but I think there has been strong and consistent advice on STEM education—science, technology, engineering, mathematics—from a number of sources over the past few years. Collectively, it has all been pushing pretty much in the same direction.
+
+[[[Q28]]] 
+
+[[[Stephen Metcalfe:]]] You mentioned practicals. We did a report specifically on the teaching of practical science. Do you see that now as more of a priority? 
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] It is not that it is more of a priority; it has always been a high priority. If you talk to many scientists, doing experiments is a crucial part of scientific methodology. If you do not have experience of trying to do experiments and seeing that sometimes they are a bit messy or do not work, or learning about statistics and natural variation from the fact that if you do the same experiment 10 times, you get slightly different results each time, there is so much in terms of education around scientific method that comes from practical experience, so I think it is difficult to have good STEM training without good practical experience. 
+
+[[[Q29]]] 
+
+[[[Stephen Metcalfe:]]] I think we would all agree with that. The problem, we discovered, was that that was not necessarily what was happening, certainly at GCSE level.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] You really need to ask those questions directly to the Department for Education. Our advice has been clear. I think the Department appreciates the importance of practical science, but it is a question of embedding that in the curriculum. It is also a question of making sure that the examination system is fit for purpose. The risk in education always is that the exams are the tail that wags the whole education dog. I think that this is an active subject for discussion at the moment as to how you best examine this. 
+
+[[[Q30]]] 
+
+[[[Chair:]]] You and I shared a platform in March last year on this very subject. In fact, your speech, I found, is still on the internet; you cannot say words these days that disappear. You are sticking to those views, that hands-on, practical science ought to be part of the curriculum? There is no equivocation in your view at all?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] No. Given that you heard me say it before, I have said the same this morning.
+
+[[[Q31]]] 
+
+[[[Stephen Metcalfe:]]] And said it, hopefully, to the Secretary of State for Education as well.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The Secretary of State has been written to on this topic.
+
+[[[Stephen Metcalfe]]]: Excellent. 
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] And the letter is publicly available; it was a CST letter.
+
+[[[Q32]]] 
+
+[[[Stephen Metcalfe:]]] Recently, Ofsted reported that students were poorly prepared to take practical science at A-level because they were not doing the practical stuff. If you could change one thing, what would your priority be to improve the way practicals are taught in schools today?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] First, you would have to say what is the most important thing in education, and the most important thing in education is the quality of the teachers. There is, of course, a challenge because there is still a shortage of specialist scientific teachers. One has to start looking at the direction of change. The direction of change, if you look at entries to the STEM A-levels, is that the numbers are going up. A number of things are going in the right direction. Have they got further to go? Yes. Is there more that could be done? Yes. The advice on STEM education from the expert STEM community has been consistent. I have had an interest in this specifically since the early 2000s when I became director of the Wellcome Trust. The message has been consistent and the direction of travel is now consistent as well.
+
+[[[Q33]]] 
+
+[[[Stephen Metcalfe:]]] One final question, if I may: we published a report on the teaching of practical science in September 2011. When do you think would be a good time to revisit that subject so that change could be evidenced?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I think that you have to allow a reasonable period of time for change. One of the challenges of the education system is that if you change it too fast you cause chaos as well. I think that is more a question you should direct to the Department for Education. These things take years rather than months to change. This is a super-tanker that moves rather slowly.
+
+[[[Q34]]] 
+
+[[[Stephen Metcalfe: ]]]But as you say, the direction of travel is correct so we should be looking at it again at some point?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I hope so, but as I said, my job is to provide the advice. It is for the politicians to make the policy decisions.
+
+[[[Q35]]] 
+
+[[[Graham Stringer:]]] During the evidence session on public attitudes to climate change, you said that looking for new sources of energy was the next great challenge. I think you put it into the context of the Manhattan project and the human genome project. How would you envisage that happening? What is your vision?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I think we have to look at both the supply side and the demand side. On the supply side, part of it is not only finding or using all our technological abilities to make more efficient sources of renewable energy, for example, but being able to store that energy as well because a renewable source such as wind only blows some of the time. Therefore, to get the most out of those renewable sources we also need better ways of storing energy. We have to look at the whole cycle of how we use energy and part of that is about reducing our demand. Part of it is also about evening out our demand because our supply system is designed to deal with the peaks. If we can iron out the peaks, we do not need quite so much capacity.The agenda is very broad. It includes everything from social research—that is, how do we change our own behaviours, use bicycles more, reduce our energy demands, manage our household heating more effectively and use insulation better? There are all sorts of behavioural issues there—all the way to, at the other end, exploration of the fundamental physics—the material science—so that we have a better understanding of the basic science leading to more efficient generation of energy from solar, for example. Everywhere you look, the opportunity is for technology, science, social science and engineering to make a huge difference. The job of science is to do the research to help with what I think is the biggest challenge of our times.
+
+[[[Q36]]] 
+
+[[[Graham Stringer:]]] I don’t think many people would disagree with that, but does it imply a change in the large funding heads of Government-funded science in this country? Does it imply a shift in priorities at the very top level?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The UK is very good at the science, engineering and technology, and indeed social science, around both climate and energy. As you can imagine, I am a strong advocate for funding that in the best possible way.
+
+[[[Q37 Graham Stringer:]]] It has amused us—and the public generally, I think—to see the spats between Owen Paterson and Ed Davey about climate change. Does it provide you with particular problems, giving advice to Ministers from different in a coalition who have a different view on where the science is taking them? How do you approach that?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] In any community or group of people, there will be people sitting around the table who have different views. I do not think that this issue is about coalition politics or any other form of politics. There are different views and I am satisfied that – I had the opportunity to present the IPCC report to the whole of the Cabinet. That was a good discussion and they discussed the report for a decent period of time. I am satisfied that all the Ministers have had good scientific advice in this area and I recognise that their views differ, as any other group of views would differ. I suspect that is true in Government over almost every issue. There will be people sitting around the Cabinet table—or any other table—who, in spite of party and everything else, just have conscientious disagreements with each other.
+
+[[[Q38]]] 
+
+[[[Chair:]]] You asserted on Monday that anthropogenic climate change is unequivocal. Is that what you said to Cabinet? Some disagree.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] Yes, that message was accepted by the Cabinet. The evidence is clear. We live in one of the great democracies of the world, but the question as to whether there is anthropogenic warming of the climate is not amenable to democratic decision. You cannot vote on it and there is a right answer. You might wish it otherwise, but you simply cannot vote on it.
+
+[[[Q39]]] 
+
+[[[Stephen Mosley:]]] In January, GO-Science produced a guide called “Engaging with academics: how to further strengthen open policy making”, which was billed as a guide for policy makers. How effective has that guide been in helping policy makers engage with academia and research?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] This is a useful guide—I have it here—that builds on a piece of work that the Council for Science and Technology did a year or two ago. One can see increased effective interaction between policy makers and academia. There is further to go. The Royal Society pairing scheme and the people in this room are part of that process. It takes two to tango on this. Academics need to understand the issues of policy makers. When people are looking at policy, science is rarely the only lens through which they look. It is important that scientists understand that policy making is a bit more complicated than reading the latest paper and making a decision. Equally, it is important that policy makers understand the method and rigour of science. It is about better communication between the two communities. Is it heading in the right direction? Again, I think it is, but there is much more to be gained. As I said right at the beginning, I cannot do my job without effective interaction with the academic community. Equally, the academic community has to learn how policy makers think and how policy is made.
+
+[[[Q40]]] 
+
+[[[Stephen Mosley:]]] So if you have an academic out there doing some research that they think might be useful for Government, how do they ensure that that information is fed back up to policy makers?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] There are two things to say. First, it is very rare for a single piece of research to be the basis on which a policy decision is made. It is not a case of, “I have just produced my latest paper and—gosh!—the results are exciting and we must change policy”, because we all know that science proceeds on the basis of a number of studies showing similar things. There are questions of reproducibility. Science has to be tested and it is a sceptical process. It is rare that a single paper results in policy change, and that goes back to the earlier discussion of why meta-analysis is so important. It is about ensuring that the evidence supports the conclusions that lead to policy change. In terms of a mechanism, as the network of chief scientific advisers, we are all known and we all have e-mail addresses. It is quite easy to contact us and, frankly, all of my colleagues and I spend a huge amount of our time working in and around UK and global universities. There are plenty of opportunities for interchange.
+
+[[[Q41]]] 
+
+[[[Stephen Mosley:]]] That was going to be my next question. Your role is to give up-to-date scientific advice to Ministers and policy makers. How do you ensure that you are up to date with scientific thought and policy?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] Through engaging with the academic community, working with my chief scientist colleagues, who have specific domain expertise, and ensuring that I get out and about. I get out and about to universities both here and in the US. Recently, I had a trip to Texas and Alberta to look at unconventional oil and gas, for example. I ensure that I am out there all the time meeting people and seeing science and engineering in action so I am in the best position to provide advice. 
+
+[[[Q42]]] 
+
+[[[Stephen Mosley:]]] Is there any conflict between building links between academia and policy makers to ensure and inform evidence-based policy making, and the links that are required to ensure economic growth? 
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] No, I don’t think so at all. Universities are massive contributors, directly and indirectly, to the British GDP. There are many examples of successful developments in academia that have turned into economic benefits. I don’t think there is a conflict of interest, no. 
+
+[[[Q43]]] 
+
+[[[Chair:]]] How do you manage when there is less than a high degree of certainty about the science—for example, in the management of bovine TB?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[: ]]]I suppose a medical training is quite helpful, because in the practice of medicine you always have to make tough decisions based on sometimes incomplete evidence. When people who are very ill come into accident and emergency, you have to work out what is going on very quickly. You collect the best evidence you can, you examine the patients, you send off the right tests, you do the right X-rays, and you then make decisions on the basis of your best judgment, given the incomplete evidence. That is one of the challenges of policy making in general. Often—particularly in emergencies—you have to make decisions based on the best evidence you have, while recognising that it is incomplete. Sometimes there is an imperative to make a decision, even though in an ideal world you would say, “Let’s have another 20 years of research.” You often don’t have the privilege of being able to do that. It is a balancing act of recognising what you know and what you don’t know, and making the best judgment you can in the circumstances.
+
+[[[Q44]]] 
+
+[[[Stephen Mosley:]]] Do you think the right scientific decisions have been made on bovine TB, bearing in mind what has happened?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[: ]]]I am satisfied that the science that is known has been communicated effectively. For example, there has been good scientific meta-analysis of the research around bovine tuberculosis. There are, in truth, still a lot of uncertainties. Much research has been done and I am satisfied that the evidence has been communicated. 
+
+[[[Q45]]] 
+
+[[[Pamela Nash:]]] Sir Mark, my understanding is that there are two vacancies for the post of chief scientific adviser at the moment. 
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]: Yes.
+
+[[[Q46]]] 
+
+[[[Pamela Nash:]]] We thought we would give you some free publicity for the posts this morning. Can you tell us what type of person you are looking for and what qualities they would have? 
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[: ]]]A good chief scientist is someone who is respected as a high-quality scientist, engineer, technologist or social scientist in his or her field—so they have to be a good scientist. They have to be respected by the community, and they have to be capable of working in the thickets of Whitehall, so they need to have a certain savviness in their interactions with policy makers. It is an unusual combination of skills. 
+
+[[[Pamela Nash:]]] But there are people, such as you, who have it. 
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[: ]]]It is for others to comment on me. Certainly, working with my colleagues, I see a number of excellent chief scientific advisers. This is my way of helping with the search for the people. These are exciting opportunities because they are in the heart of Whitehall, and they offer the chance for people to maintain a foot in their own research base. Most of the posts are four days, sometimes three days, sometimes full time—it depends on the post—but they do offer a way of maintaining contact with the academic base of the person. They are, I think, interesting jobs, but it is not necessarily “one size fits all”. I do not have a religious view, as it were, on whether it is always wrong for someone to be appointed who is already within the civil service. It is the qualities of the individual that matter. A point I have made often is that it is function that matters, and variable forms can give the same function.
+
+[[[Q47]]] 
+
+[[[Pamela Nash:]]] Just so I am clear, are you involved in the recruitment of all the scientific advisers?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] Yes. There is an agreement that the Government chief scientist will be involved in the employment process.
+
+[[[Q48]]] 
+
+[[[Pamela Nash:]]] I notice that, out of the 20 current chief scientific advisers, only six are women. Has positive discrimination or any policy on this been considered in recruitment?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The answer is that it does not have positive discrimination, but I and others are well aware of the issues of diversity and we want to encourage the best people to apply from all backgrounds.
+
+[[[Q49]]] 
+
+[[[Pamela Nash:]]] Your predecessor expressed some concerns about the grading of chief scientific advisers. Do you share these concerns?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] The grading has to be sufficient in order that their voice is heard. Again, the functional point is that the voice of the chief scientist is heard effectively throughout the Department and at ministerial level. I do not think that, in a sense, there is a single right answer on grading, either, but the functional point is important.
+
+[[[Q50]]] 
+
+[[[Pamela Nash:]]] But do you think there are issues at the moment?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] No, I don’t think there are issues at the moment, actually. Scientists are everything from director up to permanent secretary, so I don’t think there is an intrinsic issue. But, again, it comes down to the savviness of the chief scientist. They have to learn how to get their voice heard most effectively.
+
+[[[Q51]]] 
+
+[[[Pamela Nash:]]] On recruitment, I am not clear what the situation is for a chief scientific adviser at the Department for Culture, Media and Sport. Could you update us on that?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] DCMS gets advice from Bernard Silverman at the Home Office at the moment, so there is some cross-Government support—as I said earlier, chief scientists do advise across Government, particularly in their domain area. I am discussing with the permanent secretary at DCMS at the moment how DCMS can get the best scientific advice. It is, as you know, a small Department, but one that I think needs good scientific advice, given the activities, which range from the telecommunications network through to sports and sports science and heritage science—it has the museums there, including the Natural History museum and Kew, which have research. So there are all sorts of reasons to think that they do need good research input.
+
+[[[Q52]]] 
+
+[[[Chair:]]] A final question on this. You indicated at the beginning that you are a civil servant and your colleagues are appointed as civil servants. Nevertheless, you accept, and indeed the Prime Minister has accepted, the importance of your advice being independent and free from interference by the system—it is scientific advice. Is there not a contradiction when somebody is trying to do two jobs: to be both a mandarin and a chief scientist? We have at least one example.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I don’t think I try to be a mandarin. I think the answer is that there is no conflict. Every permanent secretary job is slightly different, one from the other.
+
+[[[Q53]]] 
+
+[[[Chair:]]] Yes, but my point is that at least one chief scientist is doing a double job; he is not a full-time chief scientist. Isn’t that unhealthy?
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] I think the question is the extent to which chief scientists have an executive role within their Departments, and that is variable. For example, Dame Sally Davies, who is chief scientist in the Department of Health, still has responsibility for the National Institute for Health Research. So there are examples of chief scientists getting operational roles within Departments. I don’t think that does pose a conflict of interest.The most important thing to say is that I have never, in any sense, felt anyone trying to gag or restrict what I say. I have never been restrained in any way when I have gone out and spoken to the media. I don’t have people pulling at me and saying, “You can’t say this”, or “You can’t say that”, but it is a question of using one’s intelligent judgment in what one does say and where. It is about having the maximum impact.
+
+[[[Chair:]]] Thank you very much indeed. That is all the questions we have for you—in this session.
+
+[[[Sir Mark ]]]
+
+[[[Walport]]]
+
+[[[:]]] There is no escape.
+
+[[[Chair:]]] We now move seamlessly on to the second inquiry.                Oral evidence: Government Office for Science annual review, HC 847                            15

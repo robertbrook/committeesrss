@@ -1,0 +1,865 @@
+&#xa0;&#xa0;Energy and Climate Change CommitteeOral evidence: Carbon Capture and Storage, HC 742Tuesday 15 October 2013Ordered by the House of Commons to be published on Tuesday 15 October 2013Written evidence from witnesses:–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Carbon Capture and Storage Association–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Scottish Carbon Capture and Storage–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; E3G–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The Crown Estate–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; CO2Deepstore Ltd–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 2CO Energy–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Shell International Ltd–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Capture Power&#xa0;Watch the meetingMembers present: Sir Robert Smith (Chair); Dan Byles; Ian Lavery; Dr Phillip Lee; Albert Owen; Christopher Pincher; John Robertson&#xa0;Questions 1-62Witnesses: 
+
+[[[Luke Warren]]], CEO, Carbon Capture &amp; Storage Association, 
+
+[[[Professor Stuart Haszeldine]]], Director, Scottish Carbon Capture and Storage, 
+
+[[[Chris Littlecott]]], Senior Policy Adviser, E3G, and 
+
+[[[Dr Ward ]]]
+
+[[[Goldthorpe]]], Programme Manager, The Crown Estate, 
+
+[[[Sam ]]]
+
+[[[Gomersall]]], Founding Director, CO2DeepStore, 
+
+[[[Jane ]]]
+
+[[[Paxman]]], Policy and Communications Director, 2Co Energy Limited, 
+
+[[[Bill Spence]]], Vice President, Strategic Issues, Shell International Limited, 
+
+[[[Richard Simon-Lewis]]], Head of Finance, Capture Power, and 
+
+[[[Jeremy Nicholson]]], Director, Energy Intensive Users Group, gave evidence.&#xa0;
+
+[[[Chair]]]
+
+[[[:]]] Thank you very much for agreeing to come and give evidence on carbon capture and storage. For the record, starting with Mr Warren, could you introduce yourselves with your name and organisation?
+
+[[[Luke Warren]]]: Luke Warren, Chief Executive at Carbon Capture &amp; Storage Association.
+
+[[[Professor Haszeldine]]]: Professor Stuart Haszeldine, Chair of Carbon Capture and Storage at University of Edinburgh, and Director of Scottish Carbon Capture and Storage Research Group.
+
+[[[Chris Littlecott]]]: I am Chris Littlecott, Senior Policy Adviser at E3G, the independent environmental organisation. I also happen to be a colleague of Stuart’s with another hat on, but I am here as E3G today.
+
+[[[Dr ]]]
+
+[[[Goldthorpe]]]: Ward Goldthorpe, Programme Manager from The Crown Estate.&#xa0;
+
+[[[Q1 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] There are four of you and quite often you may all have a view, but if your view has been expressed already, in the interests of time, if you could just let people know that you are happy with what others have said. If I could kick off, what do you see are the benefits of the development and expansion of the CCS industry in the UK?
+
+[[[Professor Haszeldine]]]: I can do a version of that. Scientifically, it is quite clear that the world has a finite carbon budget for emitting fossil carbon to the atmosphere and ocean. The world is about halfway through that, so we have to undergo a radical decarbonisation. The UK has a plan to decarbonise by 2050. Carbon capture and storage is a key part of that decarbonisation, which takes carbon out of electricity generation. If we do it fast enough, by 2030, that enables a lot of other decarbonising actions to follow, so it is a critical first step to decarbonise. Just like many other green energy propositions, it can create new jobs and new wealth with green clean-up industries.
+
+[[[Luke Warren]]]: Last year, we relied on fossil fuels to produce around 70% of our electricity, so about 40% came from coal, 30% from gas. If we are to retain a strong role for fossil fuels in our electricity system, we are going to need to deploy CCS at scale. Also, if we start to look at industrial sectors, we have a significant number of industrial emitters of CO2, and for a number of these, CCS is really the only technology that can be deployed at scale and enable significant emission reductions, enabling sectors to reduce CO2 emissions over time. Finally, if we look at some of the analysis about various decarbonisation pathways for the UK, it is clear that if we do not have CCS as part of the energy mix, then it is likely that the long-term costs of decarbonising are going to be substantially higher than if CCS is part of that energy mix.
+
+[[[Chris Littlecott]]]: I would add from a public interest perspective that CCS is not only a necessary part of how we reduce emissions to atmosphere and how we address the stock of CO2, but it is also incredibly important to have CCS available as a political intervention, both in terms of the UK’s ability to risk-manage climate change, but also in terms of how we unlock the politics of engagement in the international sphere. Often China is given as an example of how important CCS is for their coal sector, but if you look at the US or South Africa or India, there are significant political constituencies who will need to feel comfortable that they can address energy security while addressing climate change. Having CCS available is very important for that basis. 
+
+[[[Chair]]]
+
+[[[:]]] Dr Goldthorpe?
+
+[[[Dr ]]]
+
+[[[Goldthorpe]]]: I think they have said it all.&#xa0;
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Could I then ask you another question about your evidence that there could be benefits in creating a North Sea storage market? How do you see that benefit?
+
+[[[Dr ]]]
+
+[[[Goldthorpe]]]: We see the storage potential in the North Sea like a resource. That resource at this point in time is sub-commercial; nevertheless, that resource is of sufficient magnitude to be able to provide a service not only to the UK community for decarbonisation, but to continental Europe as well.
+
+[[[Professor Haszeldine]]]: If I could amplify, just to put some numbers on that, there is a prospective calculation of 70 billion tonnes-worth of CO2 storage beneath the UK continental shelf in the North Sea, southern North Sea and Irish Sea. If all that was commercial, which it is not at the moment, that would translate into 350 years-worth of storage of CO2 at the present rate of UK emissions. So it is a giant resource that we have either for the UK or, as Ward has said, to offer to Europe to help in European decarbonisation, because that is about a quarter of the offshore storage for Europe and it is the entire amount of offshore storage comprised by the North Sea, UK, Norway, Denmark and the Netherlands. It is a lead proposition for Europe.
+
+[[[Chair]]]
+
+[[[:]]] Big potential.
+
+[[[Professor Haszeldine]]]: Very big potential indeed.&#xa0;
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Mr Warren, in your evidence you said that CCS could contribute more than 20 gigawatts of low carbon electricity by 2030. Given the pace of development to date, how optimistic are you of that?
+
+[[[Luke Warren]]]: We still think that is a realistic objective. If we look at the deployment of CCGTs in the 1990s, we deployed over 20 gigawatts of CCGTs over a 10-year period from a standing start, so it can be done, but it would require a progressive rollout, a well-planned rollout of the technology. We are not going to be able to get the supply chain in place and ready to start deploying at scale in the mid-2020s if we haven’t started to build out that supply chain now. In terms of how we deliver that, we clearly need to deliver on the current competition. We then need to develop a route to market for early follow-on projects, so we can start to leverage the experience from the first projects, roll that over into the second project and then start to deploy at scale in the early 2020s, building up to perhaps deploying 2 or perhaps 2.5 gigawatts by late 2020. It is doable, but it will require planning and it will need to be progressive. A stop-start approach to investment in CCS will not deliver 20 gigawatts in CCS in 2030, but neither will any other stop-start approach to investing in any of the other low carbon generation technologies.&#xa0;
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Just one issue of CCS: Zero Emissions Platform has said that CCS will complement the large-scale deployment of intermittent renewable energy. How flexible is plant with CCS, or at this stage is it more baseload plant?
+
+[[[Professor Haszeldine]]]: It depends on the style of CCS undertaken—the capture step. As you are probably aware, there are three main methods of capturing carbon dioxide. Arguably the most flexible of those is to use amine scrubbing or chemical scrubbing at the flue stack end, so the power plant can be turned up or down, or that capture can be turned up or down, to better match the delivery to the electricity market as required. CCS is a lot more flexible in principle than the other options available for baseload nuclear power.&#xa0;
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] I want to touch on the cost of carbon capture and storage. What potential is there for reductions in the cost of power generation from carbon capture and storage, and how quickly do you think that these costs could be achieved?
+
+[[[Luke Warren]]]: In May this year, the UK CCS Cost Reduction Task Force released its report. The conclusions are that the first projects are going to be relatively expensive, probably on a par with some other low carbon technologies. The range is probably somewhere in the order of £150 per megawatt hour to around £200 per megawatt hour. However, there is a high degree of confidence that we can bring those costs down to closer to £100 per megawatt hour by the 2020s. There are really three elements that help to deliver cost reductions. The largest proportion comes from the ability to share infrastructure, so that is transport and storage networks. That is followed by developing economies of scale and greater competition within the supply chain. That would deliver probably another 7% or so of emission reductions. Finally, there is reducing the cost of capital, so as the finance sector starts to understand the technology better, then again we would expect the cost of capital going into those projects to be lower. I would say that the Cost Reduction Task Force took a fairly conservative view on technology development, so those cost reductions are based on current technologies, but there are a number of second-generation technologies that could deliver quite significant cost reductions, but they were not looked at because there is inherently greater uncertainty about when they will actually be available to the market. 
+
+[[[Professor Haszeldine]]]: If I could add, by analogy with overseas projects outside of the UK, we also have good reason to have confidence that the cost will decrease quite rapidly during the first few projects. If we go to the Boundary Dam project in Saskatchewan, Canada, which is just completing its building right now and will be turned on to function during November for carbon capture and storage on a brown coal-fuelled power plant, the team building that estimate that the next time they do this, they will reduce the costs of the capture plant by about 30%. In addition, we can look at the Texas Clean Energy Project, which is the lead project in front of the Captain Clean Energy Project in the UK. From the first project in Texas, Texas Clean Energy Project could probably have its costs reduced by about $500 million if it was to do the second round, so that would mean we would look for a 25% reduction in the capital cost of that. Again, learning and taking the uncertainty out by building these first projects can gain some big steps down, initially.
+
+[[[Dr ]]]
+
+[[[Goldthorpe]]]: I would like to add to that that the Cost Reduction Task Force also identified a major component of cost reduction being the smart or intelligent design of transport and storage infrastructure. If we are a little smart in how we build out from the first anchor projects coming through the commercialisation programme, then we should be able to substantially reduce costs for the transport and storage infrastructure pathway. 
+
+[[[Chris Littlecott]]]: I think that is a very important point across the CCS terrain as a whole. We see increasing interest from industrial sectors looking ahead at how they can make deep reductions out to 2050. Increasingly they say, “We can go so far with efficiency and fuel switching, but ultimately we will need CCS, but we, as industrial sectors, are not of the scale to deliver that transport and storage infrastructure on our own.” The early provision of that, and particularly the early provision of storage at scale is critical for bringing down the costs for those industrial sectors and de-risking that investment. That is a public interest benefit in doing that early. I think what we found in the Cost Reduction Task Force is that the same emphasis on the geology and the geographies of where you do investment is incredibly important for bringing down the costs for power generation as well. I think that the costs of technology will come down through competition from technology suppliers and equipment manufacturers, but that will come from having a global market for CCS, and we should not expect that the UK’s efforts will fundamentally alter that technology profile. The UK’s efforts can fundamentally alter the costs associated with having the geology available and the geographies where we put that infrastructure in place.&#xa0;
+
+[[[Q6 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] With regards to the costs, there is a train of thought that perhaps the UK should wait until other countries have started developing CCS, let them expend the upfront costs, and then, when they have done that, we should enjoy the benefits of perhaps importing their new technologies. That is not something that I agree with, but it would be interesting to hear what the panel think.
+
+[[[Professor Haszeldine]]]: I think there is an answer in two parts to that. Firstly, on the capture equipment, as Chris Littlecott has just stated, we are now in the position of being a following country rather than the first leading country because there are projects emerging worldwide, so we are effectively starting to be in a following position and receiving the benefits from those first projects de-risking and driving the cost down. For example, there are several technology vendors, maybe five or six, who are obviously selling capture equipment around the world with a suitable industrial guarantee, so that worldwide evolution is already in process. The second part to my answer is that we are right to focus on capture as a high-cost step, but I go back to what my colleague Chris Littlecott said about storage as the end destination of the carbon dioxide. Ward Goldthorpe explained that quite well: we need to create certainty about the storage underneath the UK surrounding seas, and only the UK will do that. Nobody else will invest in that on our behalf, and that is likely to be one of the rate-determining, slowing-down steps. We are investigating storage at a rate that is about 100 times too slow at the moment; we need to have a literally two orders of magnitude scale-up of that investigation rate if we are to deliver CCS by mid-2020s and by 2030 at the scale we need to do it to decarbonise our electricity system.
+
+[[[Dr ]]]
+
+[[[Goldthorpe]]]: If I can build on Stuart’s comment, the technology as such utilised in the transport and storage of CO2 is at a very advanced stage. It is important that the expertise, the knowledge and the experience that has been built up in the North Sea area, which is local experience and local knowledge, is leveraged to develop transport and storage solutions for CCS in the UK, and that cannot be imported. &#xa0;
+
+[[[Q7 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] There is an interesting discussion from the written evidence the Committee has received with regard to how best to incentivise carbon capture and storage. In the panel’s view, what is the best way to incentivise CCS?
+
+[[[Luke Warren]]]: We have the competition, and I think it is absolutely critical, given the very slow progress on developing CCS so far in the UK, that we successfully deliver an ambitious outcome from that competition. We would argue, given the Coalition Government’s commitment to four projects, that two projects from the competition would be an appropriate outcome. Beyond that, for the power sector, we think largely we have the right instruments to deploy CCS in electricity market reform, if they are applied in a practical fashion. We think CfDs are investible for CCS. A package had been put in place for the first projects, and that has been assessed by projects and the finance community. They believe that could be investible against, and what we really need are for some of those arrangements to be retained for follow-on projects. Specifically, generic CfD design at the moment—it has been developed for renewables—has largely been developed for projects with high capital cost with low operating cost. CCS has a different cost structure: it has a higher capital cost and it also has a higher operating cost because of the input of fossil fuels, and the CfD has to reflect that. The Government has not yet committed to allow that to happen for projects outside of competition. If it doesn’t, then CfDs will not be investible. However, I think if there is a commitment from the Government to make EMR investible for CCS, then it can deliver. For industrial CCS, I think much more thinking needs to be done around what the policies are to enable CCS to be brought forward. There are two elements to that. How do you compensate industries for higher costs when they operate in internationally competitive markets, and how do you put in place the instruments that can support investment in infrastructure, which comes back to some of the points that Ward and others have mentioned?
+
+[[[Professor Haszeldine]]]: I just want to amplify a couple of those points from Luke that the competition or procurement process for the two lead projects is under way. That is fine, although it is very, very slow due to the amount of detail required by DECC, but I think it is important to realise that there are still three other projects in play—Captain Clean Energy Project, Don Valley Project and Teesside Low Carbon Project—and those have been parked, really, since earlier this year, maybe April or May this year, without any strong formal engagement with DECC. If we are to use the tools of the electricity market reform and if we are to use the tools of the CfD, which is a unique global mechanism and, in principle, is exactly what is needed to bring on commercial projects into the low carbon space to compete against each other, I am very, very surprised about the lack of engagement by DECC. Those projects have been cast adrift, left floating. All of those teams have been downsized, almost to the point of extinction in commercial activity, but those three projects, because they are committed to try to enter into the UK market, have still kept their projects alive, so we have a small window of opportunity, literally through the next very few months, to reactivate those projects by serious engagement from DECC, to give letters of comfort about engaging in the CfD process, about having a proper contract that will enable fuel price flexibility to be recognised and so on. If we take that chance, we are on track for CCS for 2020. If we don’t take that chance, we have the problem that we have two very interesting, expensive projects that are not going anywhere.&#xa0;
+
+[[[Q8 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Finally, in the long term, could reduced costs for carbon capture and storage mean that the CCS could be taken up without any specific Government support?
+
+[[[Professor Haszeldine]]]: Yes. I think that at least one of those projects, those so-called reserve projects, which are now not formally reserve—no, that project is still formally reserve. One of those projects at least is happy to take a CfD price and structure their project to be commercially viable without any formal capital grant from the UK Government, as long as there is visibility of that price, as long as that contract extends for 10 years or more, and as long as there is the required number of running hours, because obviously it is an income versus expenditure calculation. You need to have the income by running your power plant.
+
+[[[Chris Littlecott]]]: I wonder whether Mr Lavery was referring to not even having CfDs and only being incentivised under a carbon price. I must admit to being a sceptic about how carbon prices can drive CCS. I think the clear evidence from around the world is that CCS can be brought through to market and become an investible proposition, but only if there is a value proposition from policymakers about why that CCS project should exist. Simply imposing costs through a slowly rising carbon price over time is the wrong way around to do this. The profile and the implication on the business model is very different, and that is why we have seen enhanced oil recovery projects in the US come forward much more quickly, because they actually have revenue from selling their CO2, rather than trying to avoid future CO2. I think that would be something that the UK Government would acknowledge in how it has structured CfDs to provide revenue for CCS projects, rather than leaving them dependent on the CO2 price, but we do not yet have anything in place in the UK or in Europe to support industrial projects. There are some interesting ideas coming out, such as CCS certificates, which could play that role and bring in the lower-hanging fruit and the lower-cost, higher-value projects, but at the moment that is a vacant space and I think it is something that is sorely lacking from the DECC approach.&#xa0;
+
+[[[Q9 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Finally, if we do develop carbon capture and storage, will that be a cost to the economy? If there is a cost to the economy, how would this be quantified?
+
+[[[Luke Warren]]]: The first projects will have to be funded by a combination of capital grant and CfDs, and then over time we will move to CfDs, so there is going to be a cost imposed there. I go back to an earlier comment I made, that if you look at a lot of the decarbonisation studies of how you reduce emissions from both the power sector and industry, they show that including CCS in the mix alongside nuclear and renewables is the most cost-effective route to do that. By the 2030s, if we do not have CCS at scale in the power system, there will be a greater cost to the economy.
+
+[[[Professor Haszeldine]]]: That evidence for the UK economy is shown both in the global context by the International Energy Agency analysis, which says that undertaking CCS enables decarbonisation at 40% less cost, but also specifically for the UK by the Energy Technologies Institute’s modelling of the electricity system, which shows that developing CCS is basically a “no regrets” option. It both creates jobs and reduces costs throughout the UK economy.&#xa0;
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Dr Lee:]]] A short question about CCS. We have had numbers of Secretaries of State here, telling us that putting £1 billion in for a project is being done because we are going to be first movers and we are going to then have all this technology that we can export to benefit the British economy going forward, and yet you have just said that you are already importing technology from abroad, and the stuff that you cannot import appears to be bespoke for the North Sea, which suggests that it cannot be exported. I just wonder, in those circumstances, where are the economic benefits now of using taxpayers’ money to bring on CCS technology?
+
+[[[Dr ]]]
+
+[[[Goldthorpe]]]: If I can bring the conversation back to the storage potential in the North Sea, the Scottish Government has indicated numerous times, in an industrial or economic sense, the potential for providing a CO2 storage service to the rest of Europe is at least as large as the North Sea oil and gas industry, so that is a—&#xa0;
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Dr Lee:]]] Sure, but that is not what I am asking about. I am asking about the actual technology used to put the stuff under the ground. I understand that we have a resource, and of course, if you have taken the stuff out and they are charging people to put it back, that is simple. I get that. I am on about the technology, because there have been a number of people in front of us who have said, “Well, we are going to be able to develop CCS and sell it to the Chinese,” and I have always been of the opinion that the Chinese have a greater need for developing this technology and greater resource, so they’ll get to it first, and then the costs for that technology will diminish, which begs the question, why are we wasting our money now?
+
+[[[Dr ]]]
+
+[[[Goldthorpe]]]: Yes. CCS is not one technology; it is a vast number of technologies, and the UK has expertise in the development of technologies in all three of the value chain segments: offshore storage, transportation and carbon capture. The extent to which that can be exported—I am not an expert in that—maybe Stuart can explain.
+
+[[[Professor Haszeldine]]]: I think it is rather like any UK industrial enterprise now, whether we are building European jets or whether we are building cars. We are an open economy, so we have a blend of buying in technology components, small-scale or large-scale, from global vendors who are global companies. We do not have very many global companies ourselves to dominate that market. I see CCS as being very similar. Individual developers will pick and mix the appropriate technologies they wish to use from global suppliers, but the construction of that will be undertaken in the UK. We will also be able to develop technologies, for example, on the transport, injection, storage and monitoring for the North Sea, which we can then sell worldwide, because the North Sea is a globally-leading offshore technology institution and it provides a large export value to the UK out of northeast Scotland and eastern England. We can transfer a lot of that expertise into carbon capture and storage, and there is clearly scope to develop new carbon dioxide-specific related technologies.&#xa0;
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Dr Lee:]]] Sure, so the argument is increasingly becoming like the offshore wind argument in terms of justification. It was different previously. We were going to be first movers, and indeed we were first movers with wind, but we screwed that one. It sounds like we have screwed this one, just in terms of the technology, not in terms of the resource. 
+
+[[[Professor Haszeldine]]]: I agree with you that, let’s say, if we go back to 2005 and 2007, there was an articulated expression that if the UK could get in first, there would perhaps be a possibility of exporting whole power plants to the Chinese. I too share some scepticism about that, because I think China is a very good industrialised country and very good at making low-cost, high-volume products. But we in the UK are extremely good at inventing things, and invention is what is needed at the moment. We are going through this process of invention and refining and coupling things together for carbon capture and storage. I am sure you will have noticed that people assert that the different components are all individually proven worldwide, but the capital grant that we are spending public money on in the UK is to enable that to be joined together and operated as a real, full model for what can follow on in the future. No individual company will take that risk and we are not forcing them to take that risk by putting penalising carbon dioxide emission restrictions on them. We have failed to bite that political bullet. We have nudged companies, but clearly the big six electricity companies have to move together, so one individual company will not take that risk. The public money is to smooth out and make more palatable that risk, but as I am sure you will hear from the developers in the second evidence session, that still is a difficult proposition and that still is a very difficult sell internally within some of their companies to take that leading position.
+
+[[[Luke Warren]]]: Just to comment as well on economic benefits and touch on the issue around job retention here, we have a coal industry that still employs, directly and indirectly, around 10,000 people. Because of EU legislation, a lot of our old coal plants will be coming off the bars. CCS is really the only viable opportunity to retain those jobs and those skills in the UK economy. Also the energy-intensive industries are still a significant sector for the UK, with annual turnover of around £98 billion a year, 160,000 direct jobs and 800,000 indirect jobs. If we are going to decarbonise and retain an energy-intensive industry that is vibrant, that is growing, then CCS is going to be a very important way, but it is perhaps much harder to try to quantify exactly what those benefits are in terms of job retention. &#xa0;
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] I just want to tease out some of the barriers to CCS. 2Co Energy have stated that they believe the principal barrier is a “lack of the policy incentives with sufficient long-term certainty” that are bankable for investors. How much do you think the barriers or policy-related, rather than scientific or technical?
+
+[[[Professor Haszeldine]]]: I personally think that the policy barriers are immense in the UK, and the barriers are twofold. There is the ever-changing position of the political firmament in the UK. If we remind ourselves that the first CCS commercial proposition was put forward in 2005 to the UK Government by BP and Scottish and Southern Energy, it effectively seemed to take the Government by surprise and was parked for two years until that became CCS competition, it is clear that industry has often been ahead of Government in this respect. What industry needs continually is certainty, so they need a clear view that the UK is going to make policy and stick to it. The electricity market reform, with the combination of a higher price, a premium price for low carbon electricity, plus the penalty of a carbon tax on carbon usage, is a good type of policy, but we have to have confidence that that will last for 10 or even 20 years into the future. Why industry does not invest in the UK in these very big projects is that it appears to have more policy certainty in other parts of the world. If we can nail that policy certainty, we have the correct economic backdrop, and if we can nail the economic certainty, we can forge ahead, not just with the two projects in competition, but also with the three projects that are waiting for CfD assurance. What is needed for rollout of storage as well, to go back to Ward Goldthorpe’s point, is certainty of CO2 required by the UK. We have talked about one project, two projects, five projects. What we need to know is we are going to be disposing of hundreds of millions of tonnes of CO2 every year for the next 50 years. That will enable big industry, global industry, to invest in the UK, to get the attention of global industry. 
+
+[[[Chris Littlecott]]]: It is clear that CCS is only driven by policy. If it wasn’t for policy, we would not be doing this at all. It is very interesting to see how that policy has been shaped in different parts of the world. The UK and Europe have had a clear, overarching intent to decarbonise the economy, whereas Australia, Canada, the US and even parts of China have not had that overarching policy, but they have put in place specific policy incentives and measures that have provided a business case for specific projects. I think that is where the UK and Europe can learn a lot about how we create a context for investment, rather than just doing—&#xa0;
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] So you are saying having the very tough 2050 target is not in itself enough of an incentive?
+
+[[[Chris Littlecott]]]: It is not in itself enough. Again, that comes back to, how do you have a value proposition? I think, in the UK context, we have the situation where we have an Office of CCS—I was involved in the effort to get it created under the last Government—but DECC as a whole still seems to want to treat CCS as an option and to come forward with policies that can push the technology on to the market and then assume that carbon prices will deliver.  I am afraid that we do not see enough clarity on CCS being required as an option. As colleagues have already said, if you look at the industrial sectors that do not have technology alternatives, that would be a very different starting place for policy, to work back from 2050 and say, “Actually, if we do want to keep refineries—iron, steel, cement—in the UK, we need to come up with a value proposition on CCS. We will require CCS, and, therefore, we need the transport and storage,” rather than say, “CCS is one of a number of low carbon options in the power sector; take it if you want it,” which is where we are now. There is a disconnect between being willing to give sufficient credibility to 2030 and beyond to 2050, both in terms of what we want in the power sector but also in terms of what we want for infrastructure. &#xa0;
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] Sorry, Dr Goldthorpe, we will come to you in a second. Are you confident that if the policy incentives are there, the technological and scientific hurdles are overcomeable, if that is a word?
+
+[[[Chris Littlecott]]]: Yes.
+
+[[[&#xa0;]]]
+
+[[[Q16 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] That is not the barrier here?
+
+[[[Professor Haszeldine]]]: That is not the barrier.
+
+[[[Luke Warren]]]: To try to emphasise that point, last week the Global CCS Institute released its report. They found that there are 20 large-scale CCS projects around the world either operating or under construction today. The combined capacity of those projects is about 38 million tonnes of CO2 a year. I think that gives us a high degree of confidence that this is not a technical or scientific challenge—
+
+[[[&#xa0;]]]
+
+[[[Q17 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] It can be done. Do we want to do it?
+
+[[[Luke Warren]]]: It is about policy, implementing and executing policy.&#xa0;
+
+[[[Q18 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] Dr Goldthorpe, you wanted to speak.
+
+[[[Dr ]]]
+
+[[[Goldthorpe]]]: Yes. I would like to say that we should not undersell what the UK is doing in respect to its policy. The nexus between decarbonisation and climate policy and the delivery of lower carbon energy solutions is clearly not an easy one to manage. However, the UK is world-leading in its attempt to bring those two sets of policies together. What I would like to focus in on is that CCS is ultimately a way of removing CO2 and permanently disposing of it. It is not a power generation technology. Therefore, where I believe—we have submitted this in our evidence—there can be further policy work undertaken is on addressing those specific market failures and barriers that remove CCS as a viable or potentially cheaper option for decarbonisation. We have submitted in our evidence some of the special needs of the transport and storage parts of the chain, which are fundamentally different businesses, different areas of expertise, having different requirements to the conventional power generation business model. This is an area where we believe there is more work that can be usefully done in policy. As I say, that is about the implementation and addressing of failures and barriers, and to some extent the industry is working on this in its post Cost Reduction Task Force development groups. However, there is still additional work that can be done to support that.&#xa0;
+
+[[[Q19 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] Thank you. Just one final question. Policy is a barrier; technology and science can be resolved. What about social acceptance and public understanding? Do you think there is a potential barrier in terms of what the public are prepared to see happening in their areas? We have seen, through the shale gas debate, people get quite upset when you start pumping things underground in and around local communities.
+
+[[[Chris Littlecott]]]: I think the UK, again, has another real benefit in this respect in that we are talking about offshore storage.&#xa0;
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] Do you think that helps negate a lot of potential public concerns?
+
+[[[Chris Littlecott]]]: It does. There is always a potential for public opposition to any technology, and there will be CO2 pipelines in the UK and there will be power stations in the UK, but I think what we learned from the opposition to the Kingsnorth power station and then Hunterston in Scotland was that the UK environmental community and citizens have been able to discern between positive CCS projects that are clearly in line with decarbonisation goals, as are all of the current five projects being put forward, versus large, new, unabated coal power stations with a small amount of CCS. Those failed the test of credibility of coming forward with a CCS solution appropriate for the UK. I think we are in a much better place with the quality of the projects we have in the UK at the moment, but I would add that the policy context is all important for giving the space within which people can make judgments about whether CCS projects are good or not. The projects we have are great, but we need to see that continued clarity on how CCS fits in with decarbonisation, and I would add that engaging with industrial CCS—again, refineries, gas processing—is important also in terms of building the closeness of the relationship between local communities and CCS. The job retention benefit is really important for people. We have seen, for example, at Lacq in France they have had onshore storage from the refinery. They haven’t had any opposition to that, because local people have been brought into what that project has been seeking to do.
+
+[[[Professor Haszeldine]]]: I will add a bit more, that some of the researchers in our group in Edinburgh have undertaken a lot of social engagement, and it is quite clear, as Chris says, that framed in terms of carbon reduction and a transition to clean energy, there is actually positive support for carbon capture and storage among many communities. That contrasts with the shale gas endeavour you mentioned, where that is framed as making money, as drilling holes underneath your backyard, large companies coming in unasked. That is a very different type of proposition and should not be confused in any way. I think that the job retention and the job framing and retaining jobs in industrialised and declining industrial areas is one of the key positives that the UK can bring to developing CCS rapidly. Again I go back to the perceived lack of ambition from DECC to progress beyond the two projects in the competition. What we need to be doing is investing in these two projects and then using those as a take-off ramp to develop a series of projects, leading us up to 2020 with a view of going beyond that, so that the policy conflict in the UK Government about enabling unabated gas to be developed all over the country is entirely unhelpful, in my view. 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] Thank you. 
+
+[[[Chair]]]
+
+[[[:]]] I should remind the Committee of my entries in the Register of Members’ Interests to do with the oil and gas industry, and in particular a shareholding in Shell. &#xa0;
+
+[[[Q21 ]]]&#xa0; 
+
+[[[John Robertson:]]] Mr Littlecott, you said that DECC sees CCS as just an option. What do you mean by that? Could you expand and give me an example?
+
+[[[Chris Littlecott]]]: At the moment, we have the view that DECC will help bring a couple of projects forward, we hope, and put in place a mechanism, but that CCS is not given any sense of a clear need for it to be deployed out to 2030. This is something we have heard from the industry association over many years—that if they are going to invest and build up capacities over time in a way that builds economies of scale and reduces costs, they need to know what the destination is. It seems extremely strange to me that the Office of CCS and DECC do not want to say what that destination is. My view would be that they are scared of picking winners; they fell flat in picking a specific technology for the first competition. I think there is a very big difference between picking a technology choice and making a definitive strategic statement around picking geologies, picking geographies and saying, “We will need this technology. We will look at doing this in a coherent, system-wide manner.” That is what is lacking at the moment. I am sure Luke can add to that.
+
+[[[Luke Warren]]]: Yes. I think DECC have been very focused on trying to deliver against their 2020 EU renewable targets, and that has taken up a lot of bandwidth within the Department. It simply means that there has been less left over for CCS. The lesson there is that as we start our discussions around what replaces the 2020 framework, we need to make sure that we try to treat CCS on a more equivalent basis to the other low carbon generation forms. I think EMR is a step in the right direction in that we potentially have a mechanism that can drive investment in all of the technologies, but that is going to be absolutely pivotal in terms of being able to place CCS in a place where it can start to deliver against its potential, rather than just being kept as an option post-2020.
+
+[[[Professor Haszeldine]]]: I would like to go back to what Mr Byles talked about. We have a 2050 decarbonisation target, but that is a long way into the future. What we need industry to look at and DECC to promote are amounts of CO2 to be stored in the UK in 2025, amounts of CO2 to be stored in the UK in 2030. These are practical targets that are in the near future, in the commercial future, and that is what will enable commercial companies to become interested in something that is tangible. That is entirely lacking from DECC at the moment. For example, of the things we seem to be missing is we may convert part of a couple of power stations in the present competition to capture CCS. If those projects work, what about the rest of the power stations? Why don’t we immediately plan to clone and improve those capture equipments and use the same infrastructure to double, treble or quadruple the amount of CO2 we can take offshore from those power plants? That type of forward thinking, prediction and proactive development of CCS appears to me to be entirely lacking from the Office of CCS in its public expressions at the moment.&#xa0;
+
+[[[Q22 ]]]&#xa0; 
+
+[[[John Robertson:]]] Is it your opinion that it isn’t lacking in other areas?
+
+[[[Professor Haszeldine]]]: I see that there has been a very active engagement from DECC in promoting the renewable energy targets. That has been very successful, and I see in news reports during the past few days that Secretary of State Davey anticipates great success in funding our nuclear new build by taking a very strong and proactive interest. I would like to see similar levels of push behind carbon capture and storage. We have a very clear renewables target. We have a very clear ambition for nuclear. We have a very fuzzy carbon capture target.
+
+[[[Chris Littlecott]]]: If I could just add one point, it is that the Office of CCS is now also responsible for fossil fuel strategy. In the past year we have seen a gas generation strategy, which suddenly arrived on a weekend between DECC and the Treasury, and we now have conversations around what happens to old coal plants. Given the uncertainty around carbon pricing, will they stay on the system for longer and potentially prejudice carbon budgets? Given that the Office of CCS is the owner of that policy space, you would have hoped to see a CCS lens appear in those policy documents that helps chart a transition from current unabated generation through to CCS deployment, and I really see that as lacking.
+
+[[[John Robertson:]]] I think what you mean is you would have expected, not hoped.
+
+[[[Luke Warren]]]: I just want to comment on the remarks.
+
+[[[Chair]]]
+
+[[[:]]] Quickly.
+
+[[[Luke Warren]]]: Very quick. We mentioned the importance of having investible CfDs earlier, and I think that is one part of the pillar of making EMR a framework that can deliver CCS, but there are two other elements. There needs to be confidence that there is a market for CCS. Developers will not put tens of millions into pre-developing projects that they can enter into a competition if they don’t know that there is a demand for that product. They need to be confident there is a market, and at the moment the EMR framework does not provide any confidence in a market beyond the competition. Secondly, developers need to know how they can access that market, and again, at the moment, the allocation methodology for CCS projects has not been developed, and it is very important DECC delivers that.&#xa0;
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Chair]]]
+
+[[[:]]] Is that something that needs to be changed in the legislation in the Lords, or is it more implementing?
+
+[[[Luke Warren]]]: They have just started the piece of work on allocation methodologies for CCS and nuclear. I would hope that that will deliver that particular pillar, that visibility of how you access the market. We need to look very closely at the secondary regulations, the legislation when it comes out, and make sure it does not impose any unintended barriers to CCS projects coming forward. It has not been the centre of thinking for Government at the moment. The focus has been managing principally the transition from the RO to EMR for renewable technologies, so we need to make sure that CCS is not left behind. It is a bit of a laggard at the moment.&#xa0;
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] On the subject of EU policy incentives, which I suppose is a different way of looking at the removal of barriers, we have all touched on this elliptically. Mr Littlecott, I do not want to put words in your mouth, but I think you said that a carbon price was not necessarily the best mechanism of driving out CCS development, but an effective business case proposition is the way of achieving CCS rollout. However, Shell have said of the raft of EU mechanisms—the ETS, the EPR, the New Entrants’ Reserve 300—that none of these three policy measures have succeeded in delivering an operating CCS project in the EU. They go on to say, “A strong carbon price should be the ultimate driver”. I just wonder why you think that Shell is wrong, and perhaps if other members of the panel could say whether they think Shell is right.
+
+[[[Chris Littlecott]]]: That is a very good question. I am a member of the Advisory Council of ZEP, the European technology platform on CCS, and we have been doing in-depth modelling of how CCS might be brought through and looking at different incentives. My conclusion from looking at that work is that you need a very strong, sustained and growing carbon price, which is visible many years in advance, if you are to get CCS under way. We are talking in excess of €50 and growing. At the moment, that is clearly not on the table. I have spoken with a number of industry executives and heard various offers of parties giving away their net wealth if the carbon price is more than €15 in 2030. There is a massive disconnect there. The second problem with a carbon price-based model is that it values CCS purely on the basis of tonnes of CO2. The logic is, therefore, that you do lignite first, then hard coal. You might do CCS on gas once the carbon price is over €100 a tonne, and then you finally do industry, even if the capture of industrial CO2 is cheap or free, because it is low-hanging fruit, but because the quantities are not there, it is more costly per tonne. The logic of carbon pricing drives you down a route to deploying CCS that is linked to using the dirtiest fossil fuels first and only gets to the cleaner fuels later. As Stuart has said, we have a huge theoretical resource of CO2 storage, but at the moment it is scarce. We do not have enough. From a public interest perspective, I think the value proposition for CCS is actually defined by how you maximise the value of that scarce storage resource. From a climate stabilisation point of view, that means you should be starting with negative emissions from biomass, then industry because of the job retention and added value benefits to the economy, and then you get to gas CCS because, on a cost-per-megawatt-hour basis, you get far more bang for your buck from doing CCS on gas than you do from coal or lignite. You have half the amount of CO2 to transport and store. My response to Shell would be that having an instrument such as a CCS certificate, which is placed on fossil fuel providers, would in effect make the coal sector pay the gas sector to do CCS, which I think is potentially a rather elegant solution to this. Perhaps you might like to ask Shell about that later. I think that is where they are right to say that the current EU incentives have not delivered. The NER300 was intimately linked to the fate of the carbon price, and the ETS overall has not been sufficiently robust to deliver that. My fear is that even if we had had a more robust ETS price, we would still not be delivering because there is a mismatch between early high costs and low carbon prices, with the dim prospect of higher carbon prices in the future.
+
+[[[Professor Haszeldine]]]: I share Chris’ scepticism on just imposing a price cost, because imposing a cost encourages companies to migrate elsewhere, even if that is migrating entirely out of Europe, and it is clear that North America will have lower fuel costs because of shale gas, so we could promote a stampede for the exit doors. There are other ways of engaging with Europe, and my main point—and two subsidiary ones—is that I am not seeing the UK seriously engaging with Europe on making policy in this. We should engage with Europe much more seriously because, in a way, there is a policy lull, almost a policy vacuum, on carbon capture and storage in Europe, now that the trading scheme has failed to deliver initially. Engagement with Europe is first priority. The second thing is there are other types of action you could take. For example, mandating a decarbonisation certificate on different organisations or on different countries, with which they can purchase a share in a European carbon capture and storage project. That could be a plausible way of enabling decarbonisation directly with some trading involved. Then, of course, the tried and proven method in most industrial and commercial sectors is to introduce an emissions standard, which systematically drives down emissions, and how the emissions are driven down is up to the operators concerned, but the policy is very clear and that achieves the desired objective. All of those are possible engagements for Europe, but solving for 28 different member states is quite difficult, and that is why the UK should use its leadership in devising policy, in its regulation devising and in its competition process. It can put that into Europe as a way of trying to unblock and accelerate the European process back on track.
+
+[[[Luke Warren]]]: I still hold out hope that the ETS could one day be the main driver of decarbonisation of the European economy, but I think we have to accept the reality that that will not be for the next 10 to 15 years. What we need, then, is a policy mechanism that can bridge that transition and provide confidence that there is going to be a market for CCS and the other low carbon technologies, and to begin that deployment. Then, as the ETS starts to hopefully become more robust, the level of support that is needed can decline over time. I am quite concerned within that context that the 2030 framework that is being discussed by the Commission at the moment does not seem to explicitly recognise CCS as being a core objective for the policy framework post 2020. It is very important that the Commission more formally recognises that position and that the European Council also starts to begin a discussion about CCS being fully integrated into the post-2020 framework. There are a number of ways in which we might be able to then deploy CCS over the period from 2020. There has been some discussion around CCS certificates, which I think sound very interesting. There needs to be much more discussion about how they would operate in practice, but there may be other approaches that could be used. For example, instead of having a 2030 renewable target, maybe we could extend that out and have a 2030 sustainable energy target so that CCS can be an eligible unit for compliance alongside other renewable generation technologies. The key point is we need to fully integrate CCS into the 2030 framework discussions.&#xa0;
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] Certainly, when I was in management, I was told that hope is not a management tool. I am not sure if we should start using that term. I will just stick to this one last question, Chairman, as I appreciate that time is short. Isn’t there a risk in pursuing other options, like certificates in the CCS obligation, that you will place further obligations and burdens on the backs of particularly large emitters, and that simply will encourage them to offshore the very concern that, Professor Haszeldine, you had with a carbon price?
+
+[[[Professor Haszeldine]]]: If the European Union is secure in its ambition to try to retain climate change at less than 2°C, which is now going to be astonishingly difficult, if not impossible, then it has to take some action. There is no point in Europe saying, “We believe in a global target for limiting global change,” and doing very little about it. We have to find ways of penalising companies, nudging them in the direction we want them to go and enabling them to deliver on that. Part of the purpose of carbon capture and storage is that it can provide a lower-cost route to storing carbon compared with the cost of continuing to emit carbon, which, as we have not talked about in this debate, has unquantified and slightly unquantifiable environmental costs in terms of sea level rise, demise of fisheries, lack of food, migration of population and all those horror stories. That is the whole purpose behind CCS, and it is actually misleading to say that you can undertake a transition without some degree of discomfort. There will have to be some expenditure and some degree of discomfort. We have seen the same type of transition in areas like domestic waste or municipal waste disposal, where Europe put a tax on waste disposal, and that immediately stopped people filling up old quarries with municipal waste and created a whole set of recycling and waste disposal industries. The same analogy applies in greening our electricity and carbon use.
+
+[[[Chris Littlecott]]]: The point is a very important one, and I think this is where the European discussion, particularly around the European Parliament’s report on CCS at the moment, which is being led by Chris Davies MEP and supported by Vicky Ford, comes in. The draft ideas that they are putting forward is for a form of CCS certificate, which would be applied upstream on fossil fuel producers and importers. That is a significant change. The ETS is applied economy-wide at the moment and therefore has one carbon price that affects the power sector and industrial emitters at the same time. Although in economic theory that is lovely and efficient, in the reality of political economy that means you are having one signal that is impacting on different sectors, which you expect to decarbonise at different rates. That is a real challenge when we are thinking about how we build low carbon competitiveness, which means how we take carbon out of the economy as well as reduce costs. If you did apply a CCS certificate on a producer and importer of fossil fuels, you could start it from a very low base and have an increasing application over time, so the cost would be very thinly spread across a huge amount of fossil fuels. But that could then be channelled directly as a revenue stream into those industries. So we have to think much more creatively around how we create instruments that give that value-added proposition that you are right to flag, and not just go down the route of trying to do this by another imposition of costs.&#xa0;
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] On UK carbon capture and storage policy drivers, 2Co Energy have suggested that the CCS roadmap seems to lack pace and skill. Do you agree with that? I probably know the answer to that but just for the record. Secondly, is it realistic that we will have any operational CCS in the UK before 2020?
+
+[[[Luke Warren]]]: Looking at the CCS roadmap, there is an absence of hard numbers in there by which you can judge progress against, and I suspect that is intentional. There are some aspirations to have commercial CCS available by the 2020s, but there is not a further interpretation of what that means and what is needed to deliver that in terms of the amount of capacity that needs to be brought forward to enable CCS to be deployed on an equivalent basis to other low carbon technologies. Sorry, the second part of your question related to—
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Will we see CCS in 2020?
+
+[[[Luke Warren]]]: Yes, I still think that is achievable. Certainly I think both of the projects within the competition still believe that they can be operating before the end of this decade. There is a slight concern there that when the CCS competition was first announced the intention was to have operating CCS projects by 2016. That has now slipped by probably two years or so. I think it is very important that DECC retains momentum in the competition over the remaining phases of it in order to that we do have those first projects operating at the earliest opportunity.
+
+[[[Professor Ha]]]
+
+[[[s]]]
+
+[[[zeldine]]]: Briefly, I agree yes, the roadmap lacks pace and scale. There are no definitive timelines. There seems to be a lack of ability to hold DECC to account in terms of its delivery. I just go back to the first CCS offering in 2005, the BP project with Scottish Southern Peterhead proposed a 2009 start to the carbon capture and storage. We then went into phase 2 with the formal DECC competition, 2007 to 2011, which proposed the 2014 start. We then went into phase 3, where we are now, with the 2012 start. That originally—as Luke has said—was 2016, CO2 in the ground; in conversation with the developers, they are now talking 2018, maybe even 2020. But the rate of progress depends on the rate at which DECC drive this. DECC are spending a lot of time on detail and not a lot of time on accelerating the vision. Lastly, it is also clear to me that some of the potential developers who are presently parked—the remaining three projects—if they are commercially structured, are used to delivering projects rapidly and commercially to a tight timescale but they need the visibility of this CfD price and the running hours, and DECC to proceed rapidly through approving that CfD in principle. I would expect some of those projects could match those 2018 dates of delivery and maybe even come in sooner than that. &#xa0;
+
+[[[Q27 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Two questions to Professor Haszeldine. Scottish Carbon Capture and Storage have stated that, “The requirements to tender for funding support have been more effective at killing off projects and frustrating international project consortia” rather than encouraging people to come in with investment. Do you have any specific details on that?
+
+[[[Professor Ha]]]
+
+[[[s]]]
+
+[[[zeldine]]]: Again we go back to project No. 1 in 2005. That project offer was made to the UK with a price tag attached. The UK was unable to make any type of decision on that project for a couple of years, and eventually decided that it would rather run a competition. So rather than taking the offer and saying, “We did not expect this, let’s run with that, let’s go into partnership and develop this together,” the project was left to wither.               In the second round of the competition process, 2007 to 2011, there was a call for CCS projects; from memory, something like 12 offers were made, and that was more than expected. So the UK then decided to refine or adjust its requirement and choose a technology of carbon capture that it wanted to develop, and that immediately excluded eight of those projects. These are processes of killing off projects.              In the present action since 2012, five projects were offered in at full scale end to end projects that have public visibility, and the first one—a very ambitious and commercially structured project, 2Co Don Valley Project—was excluded without any great reasoning being expressed other than it was not perceived to be a good fit. Now we are left with the two choices of the two projects that are going forward, and those again, as has been expressed, are potentially perfectly viable projects. But the two projects that have been left to wither, the Captain Clean Energy Project and Teesside Low Carbon Projects, are again not bad projects; they have just been abandoned. So this is just a process of child neglect effectively—of leaving these projects to wither away and try to devise their own luck and their own infrastructure, which is impossible without formal engagement with the UK Government.               There is a persistent lack of ambition throughout the whole process since 2005. If we had driven this on we could quite possibly have had multiple—more than five—active CCS projects by now.
+
+[[[Chris Littlecott]]]: If we look back at where the UK was positioned at the time of the first NER300 call at European level, the UK had seven out of 13 European projects. This takes us back to Dr Lee’s question earlier about the value to the UK. The UK was the pre-eminent space in the whole of Europe for developing CCS projects. This is where the value added comes from in terms of the integration across the CCS chain and integrating with the infrastructure and being able to replicate that. That is the engineering and consulting expertise that the UK has generally already being added to by project developers willing to invest in the UK.              This current Government came in and had a very good ambition of being first choice for investment in CCS globally. I think it lasted six months before the CCS levy was withdrawn, and we rapidly saw a movement away from four projects down to two and that is still an aspiration. We have very clearly seen this killing off of projects in the UK. It comes back down to the micromanagement of procurement process rather than having the market driver that can keep those projects alive and give them something to aim for.              Just one other point on the pace and scale of the CCS roadmap: it makes a passing reference to industrial CCS and says, “Oh yes, we need to think about this and BIS will do a study.” BIS have now tendered for a study, but as we have already commented on earlier, having a clear view on what the strategic value is on delivering CCS for industrial sectors is incredibly important and I would hope that any further version of the roadmap puts that up much more clearly.&#xa0;
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Can I just ask Mr Warren a question with regards to CfDs in carbon capture and storage? You mentioned before that there were difficulties in those variations; how could CfDs better support carbon capture and storage?
+
+[[[Luke Warren]]]: The first point is that if there was a clear statement from Government that it was going to ring-fence a proportion of the allocation under the LCF for CCS projects that would provide developers with confidence that there is a market here for CCS projects. Just to touch on that point in a little bit more detail; what developers are very concerned about is whether or not the Government views the deployment of CCS as a sequential process whereby it will not start to develop the second wave of projects until the first projects are operating. If that is the case, then projects will find it very hard to justify continuing to invest in projects for the next four or five years with the hope that they can then access the market in 2020. What project developers need confidence on is that there is an allocation of CfDs available for CCS projects. They can start to develop their projects more or less in parallel to the first competition, so we have the first projects coming online and then the follow-on projects. That will be a big help in terms of being able to enable companies to continue to pre-invest in these projects to take them forward.              In terms of what is needed around CfDs, it is about putting in place or managing a transition from the arrangements for the first projects, which include, for example, fossil fuel price indexation, a risk sharing offer to the projects and then keeping some of those elements in place for these transition projects to the point that we then have fully commercial CCS projects that can operate or be operated and developed on the basis of generic CfDs at some point in the 2020s. So it is about managing that transition from the first projects to fully commercial CCS.
+
+[[[Professor Ha]]]
+
+[[[s]]]
+
+[[[zeldine]]]: If I can just expand on that. The UK has been here before with wind power. In the 1970s and 1980s the UK started manufacturing windmills but that was a punctuated manufacturer, so we rolled out a few and there was no follow-on order so the industry declined, went away, and is now totally absent. That is why we are now, many years later, trying to rebuild UK capacity. The UK had a possibility of being first in the vanguard of wind development and blew it by not having a continual support from Government for a process of follow-on projects, a continual stream of projects. Exactly the same type of risk is occurring now that we have a very likely prospect, unless something changes, of having two interesting large projects with £1 billion of public money with nothing to follow. That is a big mistake.
+
+[[[Chris Littlecott]]]: It is worth reflecting on the scale of investment we are talking about here, and going back to the Energy Act 2010, which passed the House with cross-party support, instituted a CCS levy with the intention of supporting four projects. That was slated to raise in the region of £11.5 billion over a 15-year period. That would have covered capital and operational costs. The withdrawal of that by the Treasury, and in some ways the sensible inclusion of CCS within the levy control framework and CfDs, the industry has lost the visibility on what funding is available. All that is apparently on show is the famous billion pounds of capital, not much of which seems to be available in this CSR period. DECC is trying to squeeze out a couple of projects it can keep alive with capital support, assisting the FEED studies, but there is no visibility on what is the revenue aspiration available on the Government side that they will say, “There is no pre-division of technologies, however we have a renewables target and we have a negotiation with nuclear.” So CCS comes at the bottom of that list. I think greater visibility in terms of how revenues might be divided would be very helpful. I realise that is very difficult for where DECC is at the moment, but if they cannot do that they need to find some other means of indicating a future market.
+
+[[[Professor Ha]]]
+
+[[[s]]]
+
+[[[zeldine]]]: With the levy control framework, which Luke Warren referred to, the LCF, it is quite clear that if we have £7.6 billion in 2020, to allocate it is an arithmetic calculation to work out the commitment to onshore wind and offshore wind and estimate the CfDs prices of those; it is an arithmetic exercise to include some biomass; and it is an arithmetic exercise to include an allocation for nuclear development, which is now becoming rather than less than I had originally allocated. It is clear that there is plenty of space in that levy control framework for four or five carbon capture and storage projects if the UK chooses to do so. So there is no reason to go slow.
+
+[[[Chair]]]
+
+[[[:]]] Thank you very much for the very full evidence you have given us. If there is anything you think you did not get across we certainly welcome any written submissions in follow up. We may well be in touch with any questions we think have not quite been probed enough. Thank you again.&#xa0;&#xa0;
+
+[[[Examination of Witnesses]]]&#xa0;Witnesses: 
+
+[[[Sam ]]]
+
+[[[Gomersall]]], Founding Director, CO2DeepStore, 
+
+[[[Jane ]]]
+
+[[[Paxman]]], Policy and Communications Director, 2Co Energy Limited, 
+
+[[[Bill Spence]]], Vice President, Strategic Issues, Shell International Limited, 
+
+[[[Richard Simon-Lewis]]], Head of Finance, Capture Power, and 
+
+[[[Jeremy Nicholson]]], Director, Energy Intensive Users Group, gave evidence.&#xa0;
+
+[[[Chair]]]
+
+[[[:]]] Thank you very much for coming. Sorry we are running slightly late. If we could do as with the previous panel, start on my left and introduce yourself by name and organisation.
+
+[[[Jeremy Nicholson]]]: I am Jeremy Nicholson, Director of the Energy Intensive Users Group, which represents large industrial energy consumers, some of which are direct CO2 producers, and all of whom have an indirect interest in economic decarbonisation in the power sector.
+
+[[[Jane ]]]
+
+[[[Paxman]]]: I am Jane Paxman. I am the Policy and Communications Director at 2Co Energy and we are the owners and developers of the Don Valley project in Yorkshire.
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: My name is Sam Gomersall. I am a director of CO2DeepStore, a carbon capture and storage developer, and 50% partners in the Captain Clean Energy Project along with Summit Power.
+
+[[[Richard Simon-Lewis]]]: Richard Simon-Lewis, Head of Finance Designate for Capture Power, part of the consortium developing the White Rose CCS Project in Yorkshire and Humber.
+
+[[[Bill Spence]]]: I am Bill Spence with Shell. We are leading the Peterhead carbon capture and storage project in Scotland.
+
+[[[Chair]]]
+
+[[[:]]] Thank you all for agreeing to give evidence. Because of my registered interest as a shareholder in Shell I will not be leading questions on this section. Ian, you want to open.&#xa0;
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] I will start with a very easy, simple question. How much do you estimate it will cost to build a full chain CCS project?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: On our estimate we would expect Don Valley to be competitive with the range of alternatives from other low carbon and renewable sectors that are already further down their cost reduction curve, and we are fully aware that the target we should be aiming at is for first projects in the order of £150 per megawatt hour. We will only be putting forward a project if we know that it can be competitive. We have our own estimates of how we think those costs are going to come down to get towards the £100 per megawatt hour that, for instance, the offshore wind industry has set its target at, and those reductions are going to come from both hard and soft areas, if you like.               The confidence that the supply chain will get through building the first project will lead to reductions coming through. The cost of financing on these large multi-billion pound projects is a very large part of the overall costs, and a 1% reduction of financing costs is going to lead to £10, £20 per megawatt hour simply coming off the CfD price through the greater comfort with financing. There are the technology reduction costs, as you heard on the first panel. Technology is not a barrier but there will be refinements that will come through the learning from the first projects. Then there are the benefits also from infrastructure. First projects will carry a larger cost per unit than the follow-on ones. Again, you are going to be able to see a £10-plus per megawatt hour less through piggy-backing on the back of that initial infrastructure.              So there are many well-identified slices by which you can reduce those costs down to a very competitive level.
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: I think the cost conclusion in the Cost Reduction Task Force generally makes sense. We heard earlier that early projects are going to cost more than later projects as we gain experience. Every project is clearly going to be different and, to a certain extent, it depends on the metric one uses, but there are ways to reduce costs, even on the earlier projects, by re-using existing infrastructure. In our own project we are planning to re-use an existing pipeline in order to minimise costs.               I think what will be important in the longer term and medium term for the follow-on projects is that the earliest projects create transport and storage infrastructure, which can be used by subsequent projects—it was mentioned earlier by the first panel—and we see that as being particularly important in order that subsequent follow-on projects can gain materially from the cost reductions that have been mentioned.              I also think that the earliest projects can be competitive with offshore wind and other forms of low carbon generation and in time will be competitive with other renewables such as onshore wind. 
+
+[[[Richard Simon-Lewis]]]: Just to echo the points made by other panellists, and I think made by one of the members also. There are clear parallels in relation to the trajectory of what we have seen in offshore wind in the UK. I was involved as principal at Lloyds at the time in bringing forward the funding for the first large-scale offshore wind project in the UK, Boreas, which was closed in 2009. If you look at the evolution in terms of the risk profile, the funding costs, and also the introduction of inward investment, third party equity, which we have seen very recently with the closing of the London Array Project—which is now the largest offshore wind project funded in the world—then you can see that from the start of that nascent sector, you have seen an education process, a funding community coming alongside, educating themselves in relation to the risk profile of that sector and over time the commercial terms, the funding costs, profiling down; also, the original developers are churning the original equity commitments to invest those proceeds into follow-on projects.               So the assumptions that have been made around where the cost of CCS could go to over time are soundly based in what we have seen in offshore wind in the UK. Where clearly the banks funding those projects at the time needed comfort around certain key elements—the quality and credibility of the sponsors, the technology, the stability and calibration of regulation—when all of those elements came together we basically saw activity come through.&#xa0;
+
+[[[Q30 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Mr Gomersall mentioned the Cost Reduction Task Force and their suggestions. What they are saying is that the levelised cost of CCS power generation from around about £160 per megawatt hour for projects in 2013 and the reduction in terms of 2028 would be down to £100 per megawatt hour. Is this realistic?
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: One of the main challenges with that, as has been mentioned by the panel already, is the pace at which the early projects get underway. As I read the Cost Reduction Test Task Force report, a large number at the start of that process is based upon a final investment decision in 2013. Clearly in the competition it is unlikely we are going to reach a final investment decision on competition projects until maybe 2015 or 2016, depending how the process goes. That being the case, then it looks to me to be at least, even in that process, already a 3-year delay in the timetable. I think beyond that it is achievable if the projects are progressed with DECC support, with Government support, at a pace and with commitment that is implied in the assumptions behind the report.
+
+[[[Bill Spence]]]: What you should take heart in is the credibility of the content. It involved industry, government and trade associations, so we are looking at a broad spectrum of people being put into that task force. It is not just one perspective; it is a well-balanced perspective. What is in question has already been raised: it is the pace at which we work our way down that cost group. But we certainly do feel it is a realistic outcome, that £100 per megawatt hour.&#xa0;
+
+[[[Q31 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] What would we need to do to make sure that is achieved between now and 2028?
+
+[[[Bill Spence]]]: We are seeing a number of good steps already—the competition. We would all like to see the competition move with a bit more pace, but with what we call first of a kind projects, there is an awful lot of learning. These are not routine in any way. These first of a kind projects need both capital support for the build and operating support, so we talk about the capital from the competition. We also talk about CfDs money to keep them turning. Once they are turning, these early projects have an obligation to share their learnings. It is that learning cycle that brings the next wave down the cost curve, and all of those are parts already of the UK system. The capital upfront, the CfDs to keep them running and the obligation to share—all those three together will help bring us down that cost curve.&#xa0;
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Just while you are on, Mr Spence, Shell International have stated that many of the benefits of CCS are positive externalities, and they are not fully captured by investors, so investment decisions and the initial costs are considered slightly too high. What are the positive externalities and how can they be communicated. Another point is; do you communicate these to investors?
+
+[[[Bill Spence]]]: It is primarily the CO2 in the atmosphere, and you heard from the previous panel that we are approaching the limit at which the atmosphere can hold CO2 and remain below a 2°C rise. The positive externality is not having CO2 in the atmosphere, and that clearly is not recognised in the current pricing. We are only looking at a few euros at present for a CO2 price, and so investors do not value projects like this because that externality is not recognised in the balance sheet.&#xa0;
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] I think you were all in the previous meeting, in the long term, do you think CCS can be taken up without any specific government support?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: I have to say the Don Valley Project, which has the dubious distinction of being the one full value chain project that was deselected from the competition, yes, we are making a go of it on our own trying to deliver the commercial CCS that DECC says they want to get to in the 2020s. We now have to find a way of progressing the project without access to the capital grant that was available in the competition. We need to go ahead with the CfD, hopefully enabling FID form of the CfD and early CfD. So we are optimistic—otherwise we would have packed up and gone home—that it is possible to do it with the CfD.              We are, of course, fortunate that we have access to an EEPR grant, which was total of €180 million, and that helps us through this equivalent stage where there are many tens of millions of pounds that need to be spent prior to the final investment decision. So that has been an enormous benefit to our project.
+
+[[[Richard Simon-Lewis]]]: In relation to the White Rose Project, clearly the commercialisation programme brings a number of building blocks that make the financing of these projects possible. Clearly the capital grant is very important. We heard from the previous panel about the work that is being done likely on a bespoke form of CfD for the CCS projects, the down-selected CfD projects hopefully breaking through. The sense is that we will see costs coming out of the system over time. Clearly to the extent that we can deliver right size and infrastructure on the TNS side creates a hub. Certainly if you look at the location of the White Rose Project in the Yorkshire and Humber region, what we have seen is that is a source of 19% of the UK’s emissions and with the right sized TNS infrastructure you will see costs come out of the system. What we are looking at in relation to White Rose is a right-sized pipeline and storage facility that has the ability to take up to 17 million tonnes per annum of CO2, with White Rose contributing 2 million tonnes to that.               Over time, costs should come out of the system. Supplementary funding from Europe is clearly something that is being pursued by the White Rose consortium at the moment through NER300. It is fair to say in relation to the collaboration and support that we have had from DECC in relation to moving that fairly pivotal funding source forward, the message is the dialogue with EIB, who are assessing on the Commission’s behalf White Rose’s suitability for that funding, is going well. It is a supplement. It will clearly, to the extent we are successful in securing NER, reduce the level of support that we need through the levy control framework in the CfD, but it is a supplement. I think the support from the CfD and hopefully the NER funding, together with things like economies of scale, will mean that the cost profile of these projects should come down over time.
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: On the Captain project, we are confident also that it would be possible to apply for the forward approach without the capital subsidy and without funding for FEED. Unlike the Don Valley Project we do not have the benefit of the EEPR funding for our project, and so things are a little bit harder, but we believe we can move the project forward under the EMR arrangements with the CfDs without capital subsidy, and without funding for FEED. So long as the regulatory arrangements are very clear long term and we have a long-term bankable contract under the CfD. We are engaged with DECC in discussing that at the moment. An important part to that is obviously the ability to attract overseas investment at attractive rates into the UK, and we have ongoing discussions with a third party in that regard in order to attract significant investment into the UK as part of the package. &#xa0;
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] If I can swiftly move on to industrial CCS and a number of questions for Mr Nicholson. What are the benefits of developing CCS in the industrial sector?
+
+[[[Jeremy Nicholson]]]: Right now, it is tempting to say that CCS development in industry presents nothing but costs, but that is not necessarily the view of our members. In the long run, if we are going to decarbonise and retain these industries within the UK economy and others going down the same route, it is difficult to see how this can be achieved without CCS being part of the solution. We would rather see work on that start sooner rather than later and we would rather see UK-based companies involved in early stage R&amp;D and demonstration of that plant as soon as it can be financed at reasonable cost.              One of the difficulties of course is there is not a support mechanism for industrial R&amp;D but more particularly in demonstration plants. The Committee have heard that there are all sorts of issues about the adequacy or otherwise of support for CCS demonstration in the power sector, important though that is. There is no support mechanism at all for CCS in the industrial sector, save to the extent that those direct emission costs, like the exposure to the EU Emissions Trading Scheme, albeit at a rather low price at the moment, is something that would be mitigated to some extent.               Given that our competitors outside Europe and elsewhere in highly competitive markets do not have to face these costs at all it is difficult to see how the commercial case for an energy intensive firm—for example, in the steel or cement sector, both of which have significant CO2 production, which is unavoidable from the nature of the process, and certainly chemical processes too—could be made for significant demonstration let alone industrial scale rollout of CCS.              That said, there are also spinoff benefits potentially from power sector CCS, which a number of our members are alive to. One thing is obviously the production of chemicals, for amine scrubbing and so on for post-combustion CCS and also the production of industrial gases, such as oxygen for the oxy-fuel route, quite apart from plant manufacture and so on. UK manufacturing is alive to these benefits but right at the moment in the absence of a means of making the commercial case and an inability, unlike the power sector, to pass those costs on to consumers in international markets, the commercial case for investment simply cannot be made. 
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: If I can just add very quickly, I think the early projects have a role to play by developing the transport and storage infrastructure to provide some cost certainty for subsequent industrial projects. That is one point. Another point that we have certainly struggled with DECC in this regard over the last seven years since we have proposed an industrial pilot project with very small levels of CO2 in order to get the whole system underway, but because it did not fit into the power generation bucket then the proposal fell on deaf ears. But there are opportunities out there. That particular proposal related to existing emissions they have already captured but subsequently vented, which seemed like a lost opportunity to a certain extent. That did not fit well into the DECC portfolio.
+
+[[[Richard Simon-Lewis]]]: A point I would like to echo made by other panellists is that clearly in relation to CCS and low carbon generation generally, not all megawatts are created equal. I think in relation to the support that CCS needs, the location of CCS in the UK is key. If you look at the Yorkshire Humberside region, it is an area that is very familiar to the funding community because over and through the 1990s we have seen a lot of the generation in the UK built in that area. We clearly have intensive energy users in the area. We have talked about steel. We have talked about manufacturing. In conversations that we have had with institutions such as the EIB, I think it is fair to say that they have identified that region of the UK specifically, together with Rotterdam, as the two key regions where you can develop significant CCS clusters, significant CCS infrastructure hubs.              So the importance of location in terms of a differentiator for CCS, the ability to build, right-sized T&amp;S infrastructure that you can physically connect up the power stations or energy intensive users into is clearly going to help with the fabric of both keeping the industries that are in that region there already but also attracting significant inward investment. I think the figures that have been referred to in relation to the amount of investment that could come in to the Yorkshire and Humber region, if you had a CCS cluster such as the White Rose cluster, is of the order of £11 billion. I think industry will stay and industry will come to a region where you have CCS infrastructure.
+
+[[[Jane ]]]
+
+[[[Paxman]]]: This is a very important point where people talk about the level of support that there is for CCS and so on, and the benefits that accrue to society from it. The Yorkshire and Humber region has it in terms of the inward investment that can flow from this; then there is transport infrastructure, the national grid. We are looking at whether the CO2 pipeline in the region should go along the south bank or the north bank of the Humber and the respective local authorities competed for it because they could see that, given the emissions reductions that were going to have to be made in this country, there was going to be an advantage to being within easy access of that CO2 pipeline. Rather than having had a big battle of “not in my backyard”, they were proactively trying to attract it.&#xa0;
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] To what extent can the existing industrial sectors, which already separate out the CO2, be useful for developing a wider CCS industry?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: I think it is of great importance in that there are companies and industries in the region that are active in the dialogue around the development of the transport and storage infrastructure, and 2Co is a company that is trying to use the CO2 for enhanced oil recovery in the North Sea. We are actively looking for sources of CO2, and because that EOR industry generates a revenue, you have a business driver for CCS rather than a waste disposal business on the end of the value chain. We are in a position where we expect to be able to offer people free storage, and so inherently lower per unit costs than are offered through other storage routes. That again helps the heavy industrial users who do not have the incentive to enter into CCS at the moment, if we are turning it into a commodity rather than waste. It helps change the economics of the proposal for them.
+
+[[[Jeremy Nicholson]]]: It is important to understand that the way in which CO2 is produced in industrial processes is very different from one process to another. Some can produce a relatively pure CO2 stream and there are certain processes such as fertiliser reduction or breweries, and so on, where that occurs and where it has traditionally been more economic to make use of CO2 commercially. Unfortunately the CO2 in the waste stream from blast furnaces in the steel sector and certain other industrial processes may be more problematic and expensive to deal with than a relatively pure CO2 stream.              This is the problem. There is not going to be a one size fits all technological solution to stripping the CO2 and therefore commercialising, if that is possible, CO2 as a product rather than just a waste. &#xa0;
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Ian ]]]
+
+[[[Lavery]]]
+
+[[[:]]] Has the Government been successful in incentivising CCS in the industrial sector?
+
+[[[Jeremy Nicholson]]]: Empirically you would have to say no. I do not think this is just a UK problem. This is something that is being considered right across Europe at the moment and in other parts of the world as well, so that the blame should not just be on the Government here. But it is fair to say, to put it politely, there has been more of an emphasis on power generation CCS than on the industrial side, and one can understand that. Nevertheless, if you looked at the early roadmaps and reports that came out of the Department of Energy and Climate Change when it was first funded, there was no discussion at all about carbon capture and storage in the industrial sector. If you looked at their projections for emissions, industrial emissions remain relatively flat going down a little until 2013 and they suddenly fall off a cliff. I do not know what DECC was expecting, perhaps we were all going to disappear from the UK economy and our emissions would appear on someone else’s balance sheet by then. But it was not clear that there was a support mechanism to enable that transition to happen in the same way as being discussed, however inadequately, for the power sector.               If I may mention one barrier that has been highlighted in our work. The Energy Intensive Users Group and the TUC have worked together on a number of joint initiatives looking at energy pricing, effective climate policy, and in particular decarbonisation options for the industrial sector. In 2011 we produced a report on technology innovation for energy-intensive industry in the UK, a copy of which I would be pleased to pass to the Committee.               In addition to the obvious barriers that we have talked about—policy certainty, geography and the like, availability of capital and so on, technological limitations of course—top of the list was the price of energy. Of course if you are an energy-intensive industry, if the commercial case for retaining your production is not sufficiently strong in the UK because climate policies and others are driving industrial electricity prices to uncompetitive levels, it is going to be impossible to make the case for additional expenditure on CCS on top of that.               Now the Government is addressing elements of that and it is outwith the scope of this morning’s inquiry, but I feel obliged to mention it because this was the No. 1 barrier identified in our work. Unless we have competitive electricity prices now and for the foreseeable future for energy-intensive industries, they are not going to be investing in CCS or any other form of major investment in this country. That issue needs to be resolved, separately I understand from this particular issue we are discussing this morning.&#xa0;
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] I asked the earlier panel about barriers and you have touched on this quite a lot. It seems to me you probably agree quite significantly with the earlier panel that it is principally policy rather than technology. Few of you have mentioned finance, and I would just like to tease that out a little bit more because access to finance is an obvious potential barrier yet, Ms Paxman, you are going ahead not only with access to finance but without the magic government support. How much do you think access to finance is likely to be a barrier to this as well at the moment?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: We gave a lot of early thought to it because we are a small start-up company, so obviously we did not have particularly deep pockets ourselves. We have always had in our minds the business model of having some upfront grant capital—in our case it is the EEPR grant; for some fortunate people in the UK, it will hopefully be the UK competition. We have also always seen the need for, especially in recent years, access to cheap debt of some form, be it the EIB or importantly in our case export credit agencies. We were fortunate enough to attract Samsung from Korea into the project and a Korean utility as well, so that we have triggered a certain level of Korean ownership that will enable them to negotiate export credit agency lending or government backed debt from Korea on a scale that we cannot find in the UK. That is very important to us.&#xa0;
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] So if the cards had not fallen that way, do you think access to finance would have been a sticking point?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: Yes, and it will not be easy now. There will be some commercial debt in the project of course, but it is a model that others have followed. So you will find that in the States the Japanese are involved with the HECA Project in California in the same way, the Chinese are involved in the Summit Project in Texas in the same way. It is a model that is rolling out, and of course we see it also in the nuclear industry at Hinkley Point coming through with the Chinese as well.
+
+[[[Richard Simon-Lewis]]]: In terms of understanding the mindset and the discipline that is applied by the funding community when they look at projects of this type, the reality is that the funders that would come alongside a project of this scale and complexity are classically combinations of funders. Jane has mentioned the ECAs, but in relation to the consensus building and the dialogue that we have established through White Rose with the funding community, we have been talking to the commercial banks, both the big UK banks and European banks; we have been talking to multilaterals, and we have been talking to the ECAs. I think it is fair to say that all of those institutions by and large are creatures of precedent. They like to get involved in sectors, in structures, which they are familiar with. What we see with CCS is clearly full chain. It comprises components that the structured finance banks are familiar with. We have power, we have a chemical process for the capturing and we have oil and gas in relation to the store. The banks and the ECAs that we have engaged with, specifically the EIB who have their own dedicated CCS unit, have looked at the elements of CCS and I think it is fair to say that what we have in terms of reverse inquiry and developing consensus with our community has been very encouraging. Through the process, pre-FEED process, we have managed to secure 14 letters of support from the institutions that we have engaged with. Clearly we have been assisted by the elements of our project, so if you look at project finance it is classically called “story credit”. Very good story to tell; very strong sponsor group in Alstom, Drax, BOC Linde; fantastic location, which I have talked about.              If you look at what happened in offshore wind, clearly there is a lot of scrutiny on the technology. What we have here is technology that is already working. There is Schwarze Pumpe in Germany, a 30 megawatt pilot plant—we would be delighted to get members of the Committee out to kick the tyres on that plant. But all the elements that we have walked the funding community through for White Rose have all come together with that community offering tangible support, and those banks have had to go into their credit committees to get that support and that has come through in our process.               What those institutions want to see now is deliverability. They want to see the regulation underpin. They want to see stability of dialogue from Government in relation to the overall prize. In the case of offshore wind, what drew the banks into that market and created billions of opportunity in the UK was the prize: 18 gigawatts of capacity by 2030. If you can create that type of confidence, that type of momentum around CCS, they will come through. The interest that we have had from funders has been nothing short of very impressive. 
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: I agree with the previous comments. I would just like to add that clearly attracting the interest of investors is only a part of the equation. The other part is having a bankable contract that is clearly linked to the CfDs. As a non-preferred bidder, so half outside the competition process, we are looking to develop EMR CfD arrangements. At the moment under the transitional EMR arrangements for us, as was mentioned in the previous panel, there does seem to be a certain lack of ambition inside DECC as to the engagement process in that regard, although it has to be said that we are meeting regularly with the Department and they are interested in discussing the matter.              I think at the moment it would be fair to say they are gathering information from us with regards to contractual arrangements and how the project might be financed rather than us being in a position of negotiating a CfD, which is obviously going to come some time later. Clearly the biggest challenge is the timetable because, as we understand the competition process, it may be some time before the preferred bidders get into FEED and start their negotiation of the CfDs for their own projects. If our projects have to wait until after that time before we can negotiate a CfD then that looks like several years away, and that will be a problem for our project because we probably cannot keep it alive that long.
+
+[[[Jeremy Nicholson]]]: From the perspective of Energy Intensive Users, the second barrier identified in the IUG TUC report was in fact availability of capital. Rather like with the power sector, energy-intensive industries tend to be subsidiaries of global organisations so they are competing internally for access to capital. One interesting idea that was trailed, assuming there is a support mechanism analogous to CfDs for the industrial sector, is whether there could be an enhanced role for the Green Investment Bank here, that there is a role in supporting industrial energy efficiency and there is a possibility that that could be extended.
+
+[[[Richard Simon-Lewis]]]: I talked about the multilaterals and I have mentioned the EIB but I think it is fair to say that the GIB is an institution that we clearly engaged with, we have a dialogue with the GIB in relation to CCS, in relation to our project specifically, so there is encouragement from the GIB in relation to coming alongside. CCS is a non-core sector for the GIB, but I think they have approval to come alongside CCS.&#xa0;
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] But they have not invested in any specific project yet, have they? Is that correct?
+
+[[[Richard Simon-Lewis]]]: No. There have been no projects for them to invest in. 
+
+[[[Bill Spence]]]: If we look at where the money is coming from, we tend to see it is coming from groups. We see the value of the knowledge of these first movers rather than the risk of the technology underlying it. When you look at Asia with China, Korea, Japan, clearly these are nations that are heavy producers. They need to continue producing and they know that goods in future will need to be done with low carbon.               If we look in the west, we look at the OECD nations that export energy, so Canada, Norway and Australia. Again it is in their interest to understand how CCS works to keep their energy exports relevant. They see it as the knowledge. This is where the UK is quite unique in seeing that as well, but if you can decarbonise here with CCS in the mix you are £32 billion further ahead year on year than out of the mix. So those nations that decarbonise without it will be £32 billion behind you. So you start to see nations getting this figure and putting it into the mix and keeping energy inclusive.&#xa0;
+
+[[[Q40 ]]]&#xa0; 
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] I am just conscious of time so could I just very quickly target a specific question at Ms Paxman? 2Co Energy have talked about enhanced oil recovery as being a critical value driver. To what extent do you think pursing more enhanced oil recovery opportunities in the UK are going to help push the CCS industry?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: I think it is going to help enormously, especially on the early projects where the cost issues are particularly keen. As I say, we anticipate that we will be able to offer free storage to projects, which is a slice off the costs. It is also a piece of the value chain. We envisage financing as a conventional oil and gas investment opportunity. So the conversations we have just been having about ECAs and Green Investment Bank and so on, do not apply. It is not a part of the value chain that we find there is a need to pull part of the incentive towards to help finance it. It of course extends the life of the North Sea. It will generate additional taxation revenue for the Treasury that they otherwise would not have seen, so net-net the costs are less. We take with one hand and perform the CfD but hand back in terms of the incremental oil and gas production. I think on the commercial side of things it is an important contributor to it. In terms of confidence in the storage options, I think that is another advantage in that inevitably the structures that you look at in terms of the oil and gas fields have proven geological closure because they have managed to contain the oil and gas for millions of years. There is infrastructure in place that we can adapt for use for EOR.              There is a big success story for the UK there, both with the future life of the North Sea but also for deploying the technology more widely elsewhere in the world in the offshore environment. It is a very routine operation onshore in North America, but offshore it is relatively—
+
+[[[Dan ]]]
+
+[[[Byles]]]
+
+[[[:]]] Potential win-win?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: Yes, very much a win-win.&#xa0;
+
+[[[Q41 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] I think you all heard what the previous panel, broadly speaking the academic experts, had to say about EU policy drivers and specifically a strong carbon price, and the reasons why they think it is not going to drive out a viable CCS project. I just wonder what you all think, and I suppose it is fair that we should start with Mr Spence from Shell to explain why Shell takes a very different view.
+
+[[[Bill Spence]]]: An extremely good question and thank you for that. I am going to step outside the exact remit of CCS here, and step back into the world of decarbonisation, and the steps that are involved in decarbonisation. The first step is efficiency—if you burn less your emissions are lower. When the carbon price starts it is all part of the early steps—having a carbon price, people are more efficient with their use. As that carbon price increases what we start to see is fuel switching—people will switch to a lower carbon fuel, so that we get that switch from lignite and coals to natural gas without having to do the CCS, which is still in the development stage.              So we have seen a price that has made us more efficient, it has made us switch to the lower carbon fuels, now we come to the third piece, which is the carbon capture and storage, which is in its infancy. It is in first of a kind mode. It is playing some catch-up with the other technologies. It is 20 years behind where wind and solar are. So we need additional measures, including the carbon price working in the background to give you the right decarbonisation measures you need. As I said earlier, we need the capital support like we have in the competition here. Once it is built you need that extra support to keep it operating, to keep it turning, and that is where your CfDs come in. We have the obligation once it is turning to share those learning so that the next wave is learning and become cheaper.              The carbon price is important in the background for decarbonisation and in the longer term we start to see that carbon price growing to a level where it can sustain a mature CCS business. So it will not tip it today but it is required in the background to keep the emissions down, while we bring CCS down—&#xa0;
+
+[[[Q42 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] In the commercial phase, that is when?
+
+[[[Bill Spence]]]: Yes, when it comes down to its commercial phase. But we do need the other measures until then. It is not an exclusive measure. 
+
+[[[Jane ]]]
+
+[[[Paxman]]]: The carbon price has not risen to the level people expected and it ultimately has to be the objective that we hope all low carbon and renewable energies will be supported by. But I do find it a bit interesting the way that CCS, rather than any other technology, is continually challenged on why can’t you just manage with the EU ETS? The only answer I have ever come up with myself is that CCS had the unfortunate business of coming along just at the time that the EU ETS was created. So everyone thought, “Oh, magic solution for CCS”. No other technology has been asked to get off the ground on the back of the carbon price, and I do not think it helps the cause of CCS to try to make it as a first time project to be supported by the carbon price, but I totally agree, long term has to be the objective.
+
+[[[Richard Simon-Lewis]]]: I again echo what Bill and Jane have said. In terms of support mechanisms needed to get these first projects off the ground, this nascent sector off the ground, clearly we have energy market reform, the capital grant, the CfD, which are all needed to give CCS that valuable step because clearly other market mechanisms are not going to enable the sponsors to make the capital commitments they need to make alone. So the combination of those things, hopefully with NER funding as well on a supplementary basis. But one maybe slightly lateral point in relation to the point that has just been made is clearly one of the sponsors in the White Rose Project is Drax. We have seen Drax go through a conversion process partly driven by carbon prices and the rest of it for their power station, which contributes 7% of the UK’s generation converting partially to biomass. What is exciting with the CCS project that we are developing through White Rose is the ability to go zero carbon, negative carbon, with co-firing of biomass because basically the White Rose Project is situated on the Drax site. So a slightly lateral point, but it is something that is very valuable and quite exciting.&#xa0;
+
+[[[Q43 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] We will come back to NER300 shortly, I suspect.
+
+[[[Jeremy Nicholson]]]: Briefly from the perspective of industrial energy users, we would prefer to see the market determine where the most cost effective abatement opportunities lie, but recognise that you have to have mature technologies to do that. In other words, there is no reason theoretically to expect carbon pricing, either through taxation or trading, to do anything other than produce an efficient result in the long run. However, there is a very big question as to whether the initial capital investment is ever going to be procured simply as a result of an expectation of a carbon price that may or may not prove to be politically or economically or socially tolerable in the short to medium term. This is a big issue for those of us who like carbon markets instinctively. When we are trying to compete in international markets, imposing very high carbon costs here, even if theoretically that is the right thing to do, is not going to help in terms of retaining industry and growing our economy. If we had a global solution to this, then we would be having a very difficult discussion, so in that context, some form of direct support for early stage R&amp;D, whether it is in less developed renewables, carbon capture and storage, or indeed other technologies, seems to be the way to go.              I would further make the point that the EU Emissions Trading Scheme is compromised by the plethora of other policy interventions, particularly some of the less cost-effective renewable support mechanisms, where we are abating carbon dioxide at many times the cost that would be required even under existing technologies, let alone a rollout of CCS. In a sense, the EU ETS is not being allowed to do the job it was conceived to do. The more we can move towards that point in the long run when it is allowed to do that job, the easier it is going to be for consumers as well as for investors, I suspect.&#xa0;
+
+[[[Q44 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] In the long term, there is this plan of an operating carbon market that you think will not affect energy intensive users overmuch within the short to medium term. You have said earlier on—
+
+[[[Jeremy Nicholson]]]: It will undoubtedly affect energy intensive users. The point I would make is that a market is likely to be able to discover the most cost-effective abatement options and they are likely to be less expensive than some of these other support mechanisms—for example, building tens of gigawatts of offshore wind at a cost of around £150 per megawatt hours, plus some add-on costs to do with the extension and reinforcement of the grid and balancing costs and so on. Those external costs, by the way, are not an issue for carbon capture and storage with fossil fuel plants. The grid extensions, if any, are going to be minimal and it does not have to carry the cost of its own back-up; it is there anyway. When it comes to like to like cost with gas and coal with CCS compared with some of the renewable options that are intermittent, maybe less so for biomass, I think that needs to borne in mind.&#xa0;
+
+[[[Q45 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] Earlier on, you did mention the lack of a support mechanism, I think you described it, for energy intensive users should costly burdens be rolled out on top of them. What sort of support mechanisms do you think would help energy intensive users in the short and medium term as CCS projects might be rolled out?
+
+[[[Jeremy Nicholson]]]: I suspect initially this would have to be in the form of some kind of grant assistance with a capital cost and maybe some assistance with ongoing higher operating costs. I think we would take a fairly flexible view about the precise nature of that mechanism, but one thing it cannot be is an obligation analogous to that in the power sector, where we have had the renewables obligation and the CfD feed-in tariffs, because internationally exposed industries such as steel and chemicals and so on simply cannot pass those costs on to the consumer and therefore there needs to be some other means of financing it. We are open-minded as to what the precise nature of that might be, but unless and until we have something approaching an international agreement, whether across the economy as a whole or even for particular industrial sectors, it simply will not be possible to have support mechanisms analogous to those that we have for the power sector, sadly. We need to recognise that.              One may take the view that the taxpayer or energy consumer should not be funding R&amp;D in the UK, and some people may make that case and we might prefer to see those technologies developed elsewhere, but there is a risk to the UK supply chain and the development and technology here that we miss out on opportunities. That is the first point. Secondly, of course, British business wants to be part of the solution here. We would like to see this trialled in the UK to some extent. I would simply make the point for those who say we should not be supporting it out of general taxation, they may well be right, but where does that leave the credibility of the climate change targets we have imposed upon ourselves? One can legitimately argue we should not have to incur these costs, someone else should, in which case we need to relax our carbon targets and admit that the 60% to 80% reduction in CO2 will not be achieved here unless we just persuade industry to go elsewhere. But if we want to do the opposite, if we want to retain industry, if we want to retain developed low-carbon technologies for that sort of production that can be rolled out elsewhere, I cannot see how this can be achieved without some form of public assistance with those costs, at least for the foreseeable future, until we move towards more international action on CO2 reduction.&#xa0;
+
+[[[Q46 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] On the topic of public assistance, Mr Simon-Lewis, you are one of those lucky organisations that has been put forward to receive NER assistance—I think €4.5 billion worth in its entirety. Can you tell us a little bit about your experience of the process?
+
+[[[Richard Simon-Lewis]]]: Our experience so far has been very positive. Clearly we are benefiting from an alignment of the commercialisation programme with this phase of the NER process. If you recall when the first round of NER funding came to market, there was an unfortunate mismatch in relation to the commitments required by the EU Commission relative to the commercialisation programme at that time. A couple of the projects that were shortlisted sort of fell between the cracks and nothing was funded. In the situation that we find ourselves in now, there is an absolute alignment in relation to the very tangible support that we are getting from DECC in relation to our submission. Clearly we are engaged with EIB, who are the assessor of record for the EU Commission in relation to NER funding, and I think the nature of the dialogue that we are having around due diligence for our project is going very well.It is a collaborative process. We are hoping to make good progress and to get through the next phase of NER, but I think it is fair to say the collaboration and support of DECC in realising that strip of funding at the moment is excellent. Clearly it is something that will act to taper the benefit needed under the CfD, it is a supplemental form of funding, it is something that will be additional and beneficial to our project, but we clearly need the CfD revenues as well. They have supported our submission. They were alongside us in the due diligence meetings that we are having with the EIB, and hopefully when we get to the next stage and we get a green light from the Commission, DECC will be alongside us to make sure that the shape of NER funding coming into the project is appropriate, both for the UK Government and the project itself, but so far so good, very positive. Relative to the first phase of NER, the second phase is looking pretty good.&#xa0;
+
+[[[Q47 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] Mr Spence, you are nodding your head, but I think Shell took a view previously at least that NER was not necessarily beneficial to CCS rollout. Why are you nodding your head?
+
+[[[Bill Spence]]]: We were quite instrumental in the initial conceptual design of the NER300, the whole concept of using the allowances, and we think the design was very good. Some of the issues in the execution of round 1 became quite onerous; the fund was not as big as we believed it was initially. In the design, we were expecting €30 to €40 a tonne, but it  was significantly less and the fund was smaller. The allocation of the funds became much smaller as well, so that when you took your 10% or 12% of this reduced fund it was not quite near enough to move a CCS project forward, so the conditions of the NER became quite onerous, as opposed to the initial design was that it would be able to support a dozen projects or so.&#xa0;
+
+[[[Q48 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] Finally—I appreciate time is pressing on—the question of certificates and CCS obligation. Again you heard what the previous panel had to say. I wonder whether each of you would welcome a CCS obligation and an obligation on energy users to buy certificates, essentially.
+
+[[[Bill Spence]]]: I do think it is worth looking into and I do not want to say yes or no, because it is a complex issue. We have so many other policies in play that we do need—a superficial look sounds good, but like the NER300, which sounded very good at the start and the conditions became quite onerous, I think we have to do the hard yards yet to figure out how that mechanism would work, but I think you will find as project developers here, the idea that others would move money towards us for us to move our projects ahead would be agreeable, as long as the overall framework that it worked in was not in conflict with other parts of energy policy and climate policy.
+
+[[[Jane ]]]
+
+[[[Paxman]]]: The devil will be in the detail also for the first generation of projects that the people on this panel are working on. The time it is going to take to put that in place is not going to be relevant to the financing and pace at which these projects develop.
+
+[[[Richard Simon-Lewis]]]: That is a key point. We are within touching distance of the commercialisation programme, of making a breakthrough in relation to negotiations around deliverability of these schemes and we believe the support that we will get through the capital grant, through the CfD mechanism and potentially through NER300 funding are sufficient to bring the White Rose project forward and meet the timing that we have talked about in the initial panel, so 2018, 2019.What we would not want to see at this stage is necessarily a parallel stream of activity that might have unintended consequences in taking the collective eye off the ball. We are at a point now we have the wind at our backs, momentum is there, we have traction. We are bringing the funding community with us and we are within touching distance of making a breakthrough in this process, so I think to see something complicated being overlaid on top of what already is a fairly complicated process—and we clearly want to keep to the timing and schedules that we have in front of us—it could have unintended consequences.
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: Yes, likewise for future projects moving into the 2020s it might have a role to play but, like the rest of the panel here, I agree that in the near term, we are quite close to maturing these projects either inside the competition or under the existing or emerging EMR arrangements, in order to move these first few projects forwards. If we are to get tangled up with a further round of policy and regulatory developments in the Department, it would clearly put that back some time.&#xa0;
+
+[[[Q49 ]]]&#xa0; 
+
+[[[Christopher Pincher:]]] Always a bad thing. What will the impact be? What will those consequences potentially be on the industrial sector?
+
+[[[Jeremy Nicholson]]]: There is no ideological objection to it. There is a practical series of questions as to whether it could be accommodated at a price that energy-intensive industries that are trade exposed and already having international competitiveness compromised by the cumulative effect of various UK and EU climate policies, what is the effect of another obligation being placed upon industry? Depending on its nature and if someone else was paying for it, one can imagine that being benign, but under current circumstances, I cannot see this being anything other than problematic. In the absence of any detail or proof that it would not be an additional cost burden for industry, I cannot see how this could be a tolerable way forward.&#xa0;
+
+[[[Q50 ]]]&#xa0; 
+
+[[[Albert Owen:]]] We have just heard your response to the EU policy drivers and you have touched on UK ones, but can I be more specific on the UK CCS policy drivers? 2Co Energy have suggested that the CCS roadmap seems to lack pace and scale. Do the rest of the panel agree?
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: We certainly agree, yes. Having been involved in carbon capture and storage now as a developer for the last six or seven years, having being involved with a competition process the first time around and having watched that become somewhat delayed in its implementation and eventually reach the end at which it did, which did not result in a project, from where we sit just now—which is obviously slightly outside the current competition as a non-preferred bidder—although we are not intimate with it, we do see a slippage of a similar nature happening in the current process. &#xa0;
+
+[[[Q51 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Are you optimistic that we will see an operational CCS in the UK before 2020?
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: I have my doubts, so I am seriously concerned about that. In the competition process, since I am not aware that FEED contracts have been concluded with current bidders, and that according to DECC the timetable for that process is 18 months, in the past process, there was at least six to 12 months of negotiation thereafter. It might easily be 2016 before we see a final investment decision for either of the competition projects. Since as far as I am aware those projects are going to be delivered in four years, then it would be unlikely those projects will be available by 2020.There is a possibility, somewhat oddly, that the non-competition projects, if we can mature the EMR discussions early, could progress projects in that timeframe. One of the challenges I think I mentioned earlier was whether we have to wait until the competition projects conclude a CfD before we could conclude a CfD for our projects. If so, we have to wait two years and we clearly will not make 2020 either, but if we can do that in parallel, as has been potentially suggested, then it is possible that the non-competition projects could be onstream before 2020.&#xa0;
+
+[[[Q52 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Mr Simon-Lewis, you just indicated you are running at pace here, so you do not agree with that then?
+
+[[[              ]]]
+
+[[[Richard Simon-Lewis]]]: All I can say is that I think in terms of the support that we have been getting from DECC on the NER stream of activity, it has been fantastic, and the support and the negotiations that are taking place with DECC in relation to finalising the FEED contract, they are moving in the right direction and we are getting through most of the points. Clearly, to the extent that is something that we reach a breakthrough on over the coming weeks and months, then I think there is every chance that we could see CCS coming onstream pre-2020. The support is there. It is having courage in our collective conviction and vision for CCS, both in Government and with the industrial consortia that are involved in this process. If we have shoulders to the wheel, which we are now—everyone is working 24/7 to make this happen—I have every confidence that these projects will come onstream pre-2020 if we get the breakthroughs that we all want to see over the next coming weeks and months.
+
+[[[              ]]]
+
+[[[Albert Owen:]]] I am conscious of time. Does anybody else want to add to that?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: I think I would just underline that, yes.
+
+[[[Albert Owen:]]] Sure. If I can come back to you, because we are referring to your statement. Mr Spence and Mr Nicholson, thanks.
+
+[[[Bill Spence]]]: Very briefly, we have been through a similar competition in Canada, in Alberta. It was an onerous negotiation; it was a tough negotiation with the Government of Alberta to win that bid. Having won the bid and recognising what we were doing was good for Shell and also good for Alberta and good for Canada, what we observed was the Government coming round the table, from being the judge of the competition to being our partner in an important piece of technology that needed demonstration. Once we do reach agreement I think we can see pace in this, and that is what we observed in Alberta: once the final investment decision was agreed and we were all likeminded, the pace picked up.&#xa0;
+
+[[[Q53 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Thank you. Operational CCS by 2020 in this country?
+
+[[[Bill Spence]]]: We continue to operate or negotiate in good faith, yes.
+
+[[[Albert Owen:]]] Mr Nicholson, do you want to add—
+
+[[[Jeremy Nicholson]]]: I would make one related comment to this. I do not know whether we are going to see operational CCS on a major scale in the power sector by 2020. I hope from a consumer point of view that we do. Of course there will be costs involved, but it is in our long-term interest that this option is explored, that we get costs down and that we maintain—&#xa0;
+
+[[[Q54 ]]]&#xa0; 
+
+[[[Albert Owen:]]] What is your hunch? Are we going to have it or not?
+
+[[[Jeremy Nicholson]]]: I am not a betting man, but I would have thought it is probably about 50:50 on this particular one. But rather like whether or not we are going to see an investment decision shortly on nuclear—and I hope there is a positive result there too—I think the danger is that we write other aspects of policy on the assumption this is going to happen because we want it to. This has relevance, for example, for the 2030 decarbonisation target, which I know there are strong opinions about and many of those who support CCS want to see an aggressive CO2 reduction target in power by 2030. But I would make the point you cannot do that with credibility unless there are some schemes that are either in the pipeline or preferably operational to give you confidence that that target is deliverable, affordable, without compromising security of supply. Things are happening much slower than many of us would have like on nuclear. Perhaps there is some movement there now. It is certainly happening slower than we would have liked on carbon capture and storage too, and this possibility of further delay, which none of want to see, needs nonetheless to be built into a policy when it comes to selecting possibly slightly over-ambitious targets or where we would like to be a decade or more hence.
+
+[[[Albert Owen:]]] Thank you. Ms Paxman, do you want to respond?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: I would just make one comment, which is to agree with Sam in terms of the importance of non-competition projects or the reserve competition projects being allowed to progress in parallel with the competition. Many of us have worked this space for quite some time and most of us in 2Co cut our teeth on the original Peterhead project, which was on target to be producing 2010, so I would hate to think we get to 2020 and still not have one up and running. But if we are allowed to move in parallel with the competition, which very much seems to be the case at the moment, and we very much hope that DECC maintains that momentum, there is no reason why you should not see a non-competition project operating before 2020. We were originally on target to make a final investment decision the end of this year. We have definitely slipped a couple of years, courtesy of the de-selection from the competition, but we are currently working towards making a final investment decision the end of 2015, which would entail a 2018, 2019 start-up.&#xa0;
+
+[[[Q55 ]]]&#xa0; 
+
+[[[Albert Owen:]]] I am conscious of time, so I will be very brief in my question then and hopefully the responses will be.              The Carbon Capture and Storage Association have stated it appears that CfDs have, “Not adequately considered the maturity or cost structure of CCS projects which have variable operating costs as a result of fossil fuel inputs”. How could CfDs better support CCS?
+
+[[[Richard Simon-Lewis]]]: It is a classic case of the proof of the pudding is in the eating. What we have with EMR is a level of transparency coming through in relation to the framework itself, and it is exactly the same for the CfD. I think the CfD, for a CCS project, needs to be bespoke. We are seeing a generic CfD framework at the moment, but one size does not fit all. It will work for maybe onshore wind, it will work for offshore wind, biomass possibly, but I think for CCS you need a tailored CfD. To the extent we are able to engage with the relevant teams within DECC and calibrate the CfD for where the CCS plant, through commissioning and operation, has to go, then the CfD can be made to work for CCS undeniably, but that is a separate line of negotiation that needs to happen in the FEED stage.
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: As I understand it, inside the competition, the Department outlined a contractual or a structure of sharing risks and liabilities for the CfD that was valid for the competition projects. Now we find ourselves outside the competition, potentially it appears DECC as yet have not formulated a view as to what the CfD contract terms would look like. We have suggested we should base it upon that inside of the competition and so that is the process that I think we are engaged upon just now, is to provide feedback and have some discussion about matters such as storage liability and fuel price indexation, for instance, which are key factors that early projects, whether inside or outside the competition, will need to address. At the moment, the concern is that the Department chooses to apply a more standard CfD from the renewables or some other sector that is completely inappropriate for CCS at this stage.
+
+[[[Albert Owen:]]] Anybody else, any comments?
+
+[[[Jane ]]]
+
+[[[Paxman]]]: I think DECC recognises the need for the CfD to be bespoke. They held a meeting just last week between the CCS and nuclear industries on the CfD for those industries. I was not there, but I am told that there was a good degree of commonality of interest in terms of what the projects in those two industries need to see because of the large sums of capital involved and the sort of slow-moving nature of those major projects and the amount of investment that has to be made upfront before you sign the contract. There are shared issues there and I think the combined voice will probably help the process.&#xa0;
+
+[[[Q56 ]]]&#xa0; 
+
+[[[Albert Owen:]]] Any other comments? I will move forward to final points, if I may, with regards to development of common infrastructure and how that can be supported, because CfD does not support that. Have you any ideas, because I am sure Government is listening.
+
+[[[Richard Simon-Lewis]]]: Common infrastructure in relation to TNS, it is clearly absolutely vital in bringing down and creating economies of scale. If you look at what is being proposed for the White Rose project, National Grid are looking to deliver right-sized, appropriately-sized transportation and storage, 17 million tonnes per annum. White Rose will contribute 2 million tonnes per annum into that facility and clearly the facility we hope will be right-sized designed to accommodate as hub infrastructure additional CO2 emitters, whether that be new forms of generation or existing energy intensive users. Encouraging that infrastructure to come through, the likelihood is it will have to be something that will see the strike price calibrated so that National Grid can be appropriately compensated for the work and significant investment that they are making in the TNS, in the store itself. But having storage capacity that will allow follow-on users to come in and benefit from the initial infrastructure investment I think is absolutely vital to make this work.
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: I agree with you. I am not sure the competition process has naturally driven that behaviour. I think National Grid have taken a commercial approach, as I understand it, in order to provide a pipeline size and a capacity in order to support further projects. So I am not sure it has been driven entirely by policy or by DECC, but I do support the need for the early projects to deliver additional capacity in the transport and storage infrastructure and certainly building upon that, it is important that the early projects’ storage capacity—which of course will be developed and appraised and better understood as a result of the early phase injection—if that has capacity for subsequent projects, that will be very useful.
+
+[[[Richard Simon-Lewis]]]: An important point I would like to make that I should have made previously is clearly when we have been talking with the funding community about CCS in the UK, the banks that we are talking to, with significant energy teams and oil and gas units, are not looking at the commercialisation programme as a book-end to book-end process, two selected projects that they may or may not be involved in funding. They are looking to come behind the creation of an industry in the same way that when those funders came behind Boreas in offshore wind, you had follow-on projects like LINCS and London Array. They are absolutely looking at this industry as something that will deliver or has the potential to deliver 20 gigawatts.In terms of the oversized infrastructure point, if the infrastructure was not oversized and it was basically produced just to accommodate one or two projects, that sends an unfortunate signal to the funding community. The funding community wants to see the basis, the framework for an industry coming out of the work that Government is doing.
+
+[[[Jeremy Nicholson]]]: It would send an unfortunate signal to industry as well if there was not a possibility of being part of at least those regional schemes where they could be integrated.I made some critical remarks about DECC earlier on. I just wanted to say something rather more positive related to this point, which is that as a result of some work being done on heat decarbonisation, they have extended a significant piece of work looking at industrial decarbonisation now, of which CCS ought to be a major component. This is something that the Committee may wish to quiz the Department on, because in another year or year and a half, or whenever they are going to report on this, some of these issues might be rather better explored than they have been to date. A key question that the Committee might want to ask them is, “Where is the integration between the industrial decarbonisation and the regional CO2 capture networks that we would all like to see and the work that is being done on power generation?”
+
+[[[Albert Owen:]]] You have already put that question on the record, thank you.
+
+[[[Jane ]]]
+
+[[[Paxman]]]: I just want to make a comment. Yes, if we have a clear enough signal from Government about the scale of CCS that is likely to arrive, the construction of oversized infrastructure is not, in our view, a major hurdle for the industry. The spend, for instance, on the pipeline will vary obviously project to project, but typically it is not a very large proportion of the overall spend, perhaps 10% or 15% of the overall CAPEX in the project, and the rule of thumb in the pipeline industry is that you can basically double the capacity of that pipeline by increasing the CAPEX by 20%. It is not, in the overall scheme of things, a hurdle to get over. What is needed is that clear signal, both for the funding community and for the project developers.
+
+[[[Bill Spence]]]: If I may, the specific more than the general to start with, the project that we are doing in Canada, the Quest project, that is a situation where we agreed with the Government we would oversize the pipeline; we would also put in what we call T-pieces to allow people to either take the pure CO2 out for later use in EOR or other uses or put CO2 in if they have intensive processes so that we could store on their behalf. All that was agreed and then the knock-on effect is that there is one pipeline corridor where we have the public support for that corridor, so we now have the public support, we have off-take points, input points, oversized pipelines, oversized reservoir, so the next project can benefit. If we carry that back to the UK, it is that urban planning piece, the planning piece where the hubs and clusters should be, how oversized is oversized enough, enough off-take points and the extra cost either we would agree in the early projects if that extra cost is recognised or the Government steps in to take a share of that for later sale.
+
+[[[Chair:]]] Thanks very much. If we could move on to safety, John.&#xa0;
+
+[[[Q57 ]]]&#xa0; 
+
+[[[John Robertson:]]] Shell International has stated that CO2 can successfully be captured, transported, then stored for many years without leakage. What makes you so confident?
+
+[[[Bill Spence]]]: Leakage I guess is your primary concern, is that correct?
+
+[[[John Robertson:]]] I will go into more detail, but just in general terms, that is your statement, not mine.
+
+[[[Bill Spence]]]: Yes. What we are is a company that recognises where oil and gas is trapped beneath the surface. Oil and gas is formed, it migrates its way up, captured under a ceiling of rock. For a century now, we have learned what seals and what does not seal, what is coherent and able to take the pressure differentials and what is not. What we do is choose those reservoirs able to take the pressure differential and we also find that the majority of the reservoirs are at least a kilometre deep, if not two kilometres deep, and so they will have multiple seals. Even if the first one were to breach, which is very unlikely, it would then only migrate to the next ceiling capacity. It is a century of oil and gas exploration experience in that dataset and the idea that there is more than one barrier holding this back, there will be multiple barriers all the way up and it is all part of our storage plan.&#xa0;
+
+[[[Q58 ]]]&#xa0; 
+
+[[[John Robertson:]]] The areas that you would put it in, check for seismic changes and things like that?
+
+[[[Bill Spence]]]: Yes, absolutely. That is all part of it. Where you have had historic seismic events; where you know that oil and gas is stored for a long time; where you know that there are oil and gas seeps, which are quite common as well, so there is less coherence in those.&#xa0;
+
+[[[Q59 ]]]&#xa0; 
+
+[[[John Robertson:]]] Ms Paxman, 2Co Energy said there are concerns in the industry about onerous and unpredictable liabilities on CO2 storage in saline formations in the EU. Could you maybe elaborate? Mr Gomersall, you mentioned earlier about storage liability. I get the feeling this might be one and the same thing. Perhaps you can comment as well.
+
+[[[Jane ]]]
+
+[[[Paxman]]]: The birth of this is the CCS directive that came from the EU. The UK has of course been implementing that and exactly how it is fully implemented will only come out in the negotiations for the first projects. We obviously hope that the agreements that are reached can be shared with industry so that there is a better understanding of exactly how it is being deployed. But yes, there are payments that will be required to cover possible liabilities, and it is the duration of those and sum total of those that is the outstanding potential concern. How big a concern it is, we do not know until we get down to the end of it.
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: As has already been said, the selection of a storage location is critical to its success. We as a country have a huge amount of expertise in this area because of our oil and gas industry and it is the same expertise that is required to select, appraise and develop storage facilities and locations. Under the EU ETS directive, the issue of leakage of CO2 is obviously considered. If the storage location is effectively selected and appraised, then the chances of leakage are very, very low, but clearly if there were to be a leak, the consequences will be significant in terms of emissions or cost of emissions of CO2 to the atmosphere, and therefore how that is covered by the way of financial security is a matter that the projects and the industry have yet to fully address, and as Jane has mentioned, likely to be addressed in the negotiations with DECC in the competition or subsequently outside the competition under the CfD. Clearly the store needs to have sufficient integrity to store the CO2 with subsequent barriers, as has been mentioned, and also sufficient capacity to inject the CO2 into.Unlike a capture plant or unlike a power station, it is not possible to engineer in the same sort of way a detailed design, because one cannot get access to this. It is naturally occurring features two kilometres or more underground and therefore it is about appraising what exists and understanding what the selection of the suitable location is like, rather than designing something on a blank sheet of paper, so that there is a slightly different approach to it. Nonetheless, we are well-placed as a country to deliver that because of our oil and gas expertise.&#xa0;
+
+[[[Q60 ]]]&#xa0; 
+
+[[[John Robertson:]]] We have seen already the general public’s view, particularly with the fear of fracking and the tests that were going on, which had nothing to do with it, but there was a great fear with the general public. How are you going to allay those fears that the safety aspects of what you want to do will be covered and that people can expect not to have a problem with it? You know that there is lots of groups that are going to come out of the woodwork to see you and to give you a hard time on it, yet with the lack of proof and evidence, it becomes much more difficult to convince people that everything is safe.
+
+[[[Richard Simon-Lewis]]]: Maybe it is something that we can provide in a written statement after this because it is not my area, finance is more my area. But in terms of the consultation process that is being run by National Grid in relation to its pipeline and store facility, my understanding is that the feedback that has been received through public consultation has been positive and that is an ongoing process. That is something we would be happy to come back to the Committee on and provide comfort around the nature of the consultation to bring the public with us.&#xa0;
+
+[[[Q61 ]]]&#xa0; 
+
+[[[John Robertson:]]] It is not the comfort of the Committee of course that is the problem, the problem is the general public and their comfort.
+
+[[[Jane ]]]
+
+[[[Paxman]]]: As a general statement for the project as a whole, Don Valley has not been encountering opposition. 
+
+[[[John Robertson:]]] I was going to ask that. Is CCS, shall we say, more acceptable? Fracking is a hard word and people think fracking sounds terrible so it must be, because CCS sounds a bit more cuddly.
+
+[[[Jane ]]]
+
+[[[Paxman]]]: It does depend where you are in the world as to what the concerns around CCS are. Both the White Rose project and Don Valley are in Yorkshire, a part of the country where the economy has been for decades very heavily involved in the fossil fuel power generation world. They see the life of those plants coming to an end, and without CCS that sector of the economy is going to be wiped out, so they see this as the future. Around Doncaster, it is not the most prosperous part of the country by any means—unemployment is extremely high, a heavy dependence on public sector jobs, always in the news for the wrong reasons—and this would be the biggest inward investment into the area in decades and they see it as a big opportunity. Yes, they have their concerns and yes, they are concerned about traffic, particularly during construction, and they are concerned about noise and dust, but the basic proposition there is not resistance to at all.
+
+[[[John Robertson:]]] Could I hear from Mr Gomersall?
+
+[[[Sam ]]]
+
+[[[Gomersall]]]: Yes. In the larger picture, unlike shale gas fracking, carbon capture and storage is a mitigation for climate change and therefore I think that there is a better story, if you like, a picture to be presented. It does indeed need presenting properly, but it needs wrapping up together, because the reason for capturing CO2 from power and industrial sources is in order not to release that CO2 into the atmosphere.&#xa0;
+
+[[[Q62 ]]]&#xa0; 
+
+[[[John Robertson:]]] If I can just say, this panel is much more positive than the last panel, so you obviously have good friends in DECC compared to the other panel. You do not seem to have the problems. Mr Nicholson was singing their praises a second ago. Why would this be, because there is a big difference between the two panels in that respect?
+
+[[[Richard Simon-Lewis]]]: Clearly DECC are providing vital support to our project, as I have mentioned already, in the funding that we are looking to secure from the Commission. In the process that we are going through with DECC at the moment, clearly collaboration and working through the issues that we have to work through is being done in a very constructive way against the backdrop of maybe a procurement process that is not necessarily designed for something as complex, first of a kind, as CCS. I think the work that DECC are doing in trying to move this along—in terms of we are engaged with DECC almost on a weekly basis in negotiations—the effort that has been expended by our opposite numbers in DECC is significant, and reflecting that by criticising DECC is not something I think that is warranted.
+
+[[[John Robertson:]]] We do it all the time, do not worry about it. It is our job. If you cannot criticise DECC at this stage in the process and try and make it better, then when are you going to criticise them, when it is too late? Chair.&#xa0;
+
+[[[              ]]]
+
+[[[Chair:]]] Thank you very much for your evidence and thank you for staying on. It has been very useful indeed and the offer of further written submissions would be very helpful, especially on this last question. We will be in touch if there is anything we think we have missed, but thank you again for your time.&#xa0;&#xa0;&#xa0;&#xa0;              Oral evidence: Carbon Capture and Storage, HC 742                            37

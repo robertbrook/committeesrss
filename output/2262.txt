@@ -1,0 +1,69 @@
+&#xa0;
+
+[[[&#xa0;]]]
+
+[[[Written evidence from the UK Statistics Authority]]]
+
+[[[ [OD19]]]]&#xa0;&#xa0;&#xa0;
+
+[[[STATISTICS AND OPEN DATA]]]&#xa0;Further to the Committee’s call for written evidence on Statistics and Open Data, please find attached a note prepared by the National Statistician’s Office and Office for National Statistics officials.&#xa0;The Statistics Authority remains very supportive of initiatives to further and promote Open Data. The Committee may recall that my predecessor, Sir Michael Scholar, first set this out in correspondence with the Minister for the Cabinet Office two years ago, in October 2011. The Code of Practice for Official Statistics requires that statistics should be made available in 'as much detail as is reliable and practicable, subject to legal and confidentiality constraints', constraints which protect inter alia against the disclosure of personal information as proscribed by legislation. Normally the Statistics Authority expects all data underlying official statistics to be published where this is practicable and does not put confidentiality at risk. Judgements about utility and reliability are, in our view, best largely left to users, as long as they are fully informed of the strengths and weaknesses of the data - another requirement of the Code of Practice. &#xa0;At the same time, we continue to support your view that transparency is not always or necessarily achieved merely by the publication of data. 'Data dumping' can be inimical to transparency and good government. It is the job of official statisticians, and a requirement of the Code of Practice, to produce official statistics which are understandable and readily accessible, with objective and impartial commentary. The publication of data is not enough; the user needs sound professional advice and explanation on how to interpret the data as well.These themes have been reflected in many of the more than 250 Assessment reports that the Authority has published over the past four years, covering over 1,100 statistical outputs. These have contained binding requirements to improve both the accessibility of official statistics and the quality of the written commentary and advice to the user which accompanies their release. While these relate mostly to National Statistics, which we recognise is only a subset of all the data collected and held by government departments and other public bodies, we believe that such binding requirements on producers of official statistics to improve accessibility and understanding for the user has been an important contribution to opening up data and official statistics for the public good.&#xa0;We hope this assists the Committee in its inquiry and please do not hesitate to contact me should you require anything further. &#xa0;Yours sincerely
+
+[[[&#xa0;]]]
+
+[[[Sir ]]]
+
+[[[Andrew Dilnot CBE]]]
+
+[[[&#xa0;]]]&#xa0;
+
+[[[ANNEX: ]]]
+
+[[[NOTE PREPARED BY ]]]
+
+[[[THE NATIONAL STATISTICIAN’S OFFICE AND ]]]
+
+[[[OFFICE FOR NATIONAL STATISTICS]]]&#xa0;
+
+[[[Introduction]]]&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[ONS and GSS context]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[Opening up data and statistics for use and reuse – examples and progress]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[Protecting Privacy ]]]&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[ Potential Barriers to Wider Transparency and Opening up Data]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[Annex A: Principles 5 and 8 of the Code of Practice for Official Statistics]]]&#xa0;
+
+[[[Principle 5: Confidentiality]]] - Private information about individual persons (including bodies corporate) compiled in the production of official statistics is confidential, and should be used for statistical purposes only.Practices&#xa0;
+
+[[[Principle 8: Frankness and accessibility]]] - Official statistics, accompanied by full and frank commentary, should be readily accessible to all users.Practices
+
+[[[Annex B: ]]]
+
+[[[Public Data Principles ]]]The Cabinet Office released draft Public Data Principles in 2010 which should underpin the release of data. The Principles were re-launched in the Government’s Open Data White Paper, published in June 2012 with the announcement that they have now been adopted as UK Government policy. The principles are: &#xa0;&#xa0;
+
+[[[Annex C: ]]]
+
+[[[The Open Data Five Star Scheme]]]The Open Data Five Star Scheme as published in the White Paper :&#xa0;
+
+[[[* ]]]Available on the web (in any format) with an open licence that makes it free of restriction on use or redistribution&#xa0;
+
+[[[** ]]]Available as structured data (e.g. Excel instead of an image scan of a table)&#xa0;
+
+[[[***]]] Available in an open non-proprietary format (e.g. csv or xml)&#xa0;
+
+[[[****]]] All of the above plus Uniform Resource Locators (URLs) so that people can ‘point’ to them directly, rather than just to an area on the website&#xa0;
+
+[[[*****]]] All of the above, plus a link from the data to other people’s data to provide context. &#xa0;
+
+[[[&#xa0;]]]
+
+[[[September  2013]]]&#xa0;&#xa0;  http://www.statisticsauthority.gov.uk/reports---correspondence/correspondence/letter-from-sir-michael-scholar-to-rt--hon--francis-maude---open-data---11102011.pdf http://www.cabinetoffice.gov.uk/resource-library/open-data-white-paper-unleashing-potential All ONS pre-announced publications can be accessed through www.statistics.gov.uk. ONS manages Neighbourhood Statistics (http://www.neighbourhood.statistics.gov.uk/dissemination/) to meet ongoing demands for good quality small area statistics.  Nomis is a service provided by ONS to give users free access to the most detailed and up-to-date UK labour market statistics from official sources  and Census statistics http://www.nomisweb.co.uk/ &#xa0; http://www.ons.gov.uk/ons/about-ons/what-we-do/FOI/foi-requests/government/index.html  and http://www.ons.gov.uk/ons/about-ons/publication-scheme/published-ad-hoc-data/index.html http://www.ons.gov.uk/ons/guide-method/user-guidance/prices/cpi-and-rpi/responding-to-the-open-data-agenda---an-ons-case-study--consumer-prices-index.pdf See Elliot, M., Kalra, D., Singleton, P., and Smith, D. (2012) Statistical Disclosure Control and Protecting Privacy in a Clinical Data Warehouse, The Cathie Marsh Centre for Census and Survey Research; and Willenborg, L. and de Waal, T. (1996) Statistical Disclosure Control in Practice, Springer Guidance on Privacy Impact Assessments can be found at: http://www.ico.gov.uk/upload/documents/pia_handbook_html_v2/html/3-app3.html http://www.statisticsauthority.gov.uk/assessment/code-of-practice/code-of-practice-for-official-statistics.pdf http://www.cabinetoffice.gov.uk/resource-library/open-data-white-paper-unleashing-potential 

@@ -1,0 +1,57 @@
+               Written evidence from the Met Office (WRT 003)&#xa0;&#xa0;What lessons have been learned since the severe weather experienced in the winter of 2009-10? What practical changes have been made to ensure the UK is now better equipped to deal with severe weather?
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[Summary]]]
+
+[[[&#xa0;]]]
+
+[[[High resolution forecasting: ]]]Forecasting extreme winter events can be very challenging. Increased resolution the Met Office’s forecast model means small-scale events that cause severe impacts are now better profiled at increased lead times.
+
+[[[&#xa0;]]]
+
+[[[Impacts based warnings]]]
+
+[[[: ]]]The National Severe Weather Warning Service was improved following consultation with the emergency response community and now reflects the impacts of severe weather in a simple and easy to read format.&#xa0;
+
+[[[Communication and reach]]]
+
+[[[: ]]]The Met Office has embraced social media and improved mobile app technology to ensure our forecasts and warning are more accessible and immediate to all users.
+
+[[[Seasonal forecast]]]
+
+[[[ing: ]]]We are seeing some improvement in seasonal forecasting skill following the recent upgrade to the GloSea5 model. With improved skill and increased understanding of user needs the Met Office is committed to making this important planning aid truly complementary to its short term operational services. 
+
+[[[Collaboration and partnersh]]]
+
+[[[ips]]]
+
+[[[: ]]]The Met Office has increased it collaborative and partnering work with users, other environmental service providers and with Government to maximise the value of its forecasts and warnings and to drive improvements in our science and services.  
+
+[[[High ]]]
+
+[[[Performance Computing]]]: HPC is a critical underpinning component of the Met Office’s capability in weather forecasting and climate research. The Government’s commitment, announced in the 2013 spending review, to invest in a new super computer will deliver wide-ranging socio-economic benefits including in the transport and resilience areas.
+
+[[[&#xa0;]]]
+
+[[[Introduction]]]
+
+[[[&#xa0;]]]
+
+[[[H]]]
+
+[[[igh resolution forecasting]]]
+
+[[[Impacts based warnings]]]
+
+[[[Communication and reach]]]
+
+[[[Seasonal forecast]]]
+
+[[[ing]]]
+
+[[[Collaboration and partnerships]]]
+
+[[[High Performance Computing]]]October 2013                             The ongoing service provider is expected to be announced in early 2014 at the conclusion of an open commercial tender. The Met Office has responded.&#xa0;

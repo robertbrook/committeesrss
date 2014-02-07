@@ -1,0 +1,185 @@
+&#xa0;
+
+[[[Written evidence submitted by Rodney John Allam (CCS34)]]]
+
+[[[&#xa0;]]]
+
+[[[ ]]]
+
+[[[EXECUTIVE SUMMARY]]]
+
+[[[&#xa0;]]]The UK is committed to reaching CO2 emission targets, retaining flexibility in the energy mix, retaining a stable energy system with sufficient power margin and achieving this at the lowest cost. CCS is an important component allowing maximum use of fossil fuels. Current CO2 capture technology gives 50% to 80% increase in cost of electricity (COE). This will result in less fossil fuel use and higher expensive renewable and nuclear components with high electricity costs requiring large subsidies in the future. It is timely to review CCS technologies and strategy to reduce costs and increase the contribution fossil fuels can make in future.Currently available CO2 capture technologies which can be deployed now for power generation from coal and natural gas with CO2 capture include:&#xa0;
+
+[[[For Coal]]]
+
+[[[&#xa0;]]]&#xa0;
+
+[[[For Natural Gas in Combined Cycle Gas Turbine Systems (NGCC)]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]All these processes result in increased cost of electricity of 50% to 80%, higher plant complexity and lower reliability.The NET Power system using a CO2 working fluid in a high pressure oxy-fuel process will produce electricity with 100% CO2 capture at 300 bar pressure 
+
+[[[at a lower COE than the best current technology coal and natural g]]]
+
+[[[as power stations without CO]]]
+
+[[[2]]]
+
+[[[ capture]]].NET Power are currently reviewing the potential to deploy a 50 MW thermal prototype plant on Teesside, with a large-scale commercial facility to follow, which would give the UK a worldwide leadership and a large export potential for equipment and design services.The CCS roadmap identifies a mechanism for rapid deployment by providing the financial framework required for new demonstration projects embracing new technology such as the NET Power system, which will provide much lower future electric energy costs, better fuel diversity and allow us to meet CO2 emission goals in the UK and worldwide.&#xa0;&#xa0;
+
+[[[1.  CARBON CAPTURE TECHNOLOGY FOR FOSSIL FUEL POWER GENERATION]]]
+
+[[[&#xa0;]]]
+
+[[[1.1  ]]]
+
+[[[Coal]]]
+
+[[[&#xa0;]]]Currently coal is the most widely used fossil fuel for electric power generation worldwide.  The method is almost exclusively pulverised coal combustion in steam generation boilers with condensing steam turbines. There are 3 methods for CO2 capture proposed for immediate implementation.&#xa0;
+
+[[[1.1.1]]]  
+
+[[[CO]]]
+
+[[[2]]]
+
+[[[ removal from flue gases]]]&#xa0;Amine solutions are used to scrub CO2 from the flue gas which has previously been treated with limestone slurry wash to reduce sulphur dioxide to about 10 ppm.  The amine solution is heated with low pressure steam to regenerate CO2 at near atmospheric pressure.  The steam is taken upstream of the final condensing steam turbine. The equipment required is very large, the regeneration steam lowers overall station efficiency by about 8 percentage points, capital costs are proving to be very high and CO2 removal is typically 85% to 90%.&#xa0;
+
+[[[1.1.2]]]
+
+[[[  ]]]
+
+[[[Oxy-fuel Coal Combustion]]]
+
+[[[&#xa0;]]]Powdered coal can be burned with pure oxygen diluted with recycled flue gas so that the flame temperature is about the same as air combustion.  The result is a boiler operating with low nitrogen and some excess oxygen plus impurities in the system. The flue gas comprises mainly CO2 and water.  Following cooling and water separation, the CO2 is compressed and the inert O2 and N2 are removed in a low temperature gas separation module.  The compression process results in the chemical conversion of SO2 to sulphuric acid and the nitrogen oxides to nitric acid which can be removed and dealt with cheaply and efficiently. Mercury is also removed by reaction with nitric acid.  Oxy-fuel combustors of 50 MW capacity have been tested in the UK by Doosan-Babcock.  No demonstration power station has yet been built.  Overall station efficiency is approximately the same as an amine scrub system with about 8 percentage points reduction.  Projected capital costs are about the same as an amine system.  CO2 removal is typically 90%.  The system can be used to retrofit existing power stations having sulphur flue gas scrubbers.&#xa0;
+
+[[[1.1.3  ]]]
+
+[[[Coal Gasification]]]
+
+[[[ (]]]
+
+[[[IGCC)]]]
+
+[[[&#xa0;]]]Powdered coal can be converted to a fuel gas comprising hydrogen and carbon monoxide (H2+CO) by partial oxidation using pure oxygen at a temperature of about 1450oC and pressures of 40 to 60 bar. Ash is removed, the fuel gas is cooled producing steam.  The contained CO reacts with steam over a catalyst to produce H2+CO2.  The CO2 and sulphur compounds and other impurities are selectively removed in a multi-stage solvent gas scrubbing system leaving a hydrogen stream which is diluted with steam and nitrogen and used as fuel in a gas turbine combined cycle power generation system. Gasifiers using dry coal or water-coal slurry feed  and gas purification systems are commercially available. The feature of hydrogen production and CO2 removal is well proven in commercial coal based ammonia plants.  For power generation the overall efficiency would be in the range 36% to 44%.  The plants are complex, have low availability and high capital cost.  Several plants are in operation.&#xa0;
+
+[[[1.]]]
+
+[[[2  Natural Gas]]]
+
+[[[&#xa0;]]]The natural gas fuelled combined cycle system (NGCC) uses a gas turbine with an exhaust temperature of 500oC to 600oC producing high pressure steam in a waste heat boiler for additional power production with a condensing steam turbine. Efficiencies are 57% to 60% and capital costs are low.  &#xa0;
+
+[[[1.2.1  ]]]
+
+[[[CO]]]
+
+[[[2]]]
+
+[[[ Removal from Flue Gas]]]
+
+[[[&#xa0;]]]The CO2 concentration in gas turbine exhaust is about 3%, much lower than the 12% in coal power station flue gas, but there is virtually zero SO2 and low nitrogen oxides content.  The use of amine CO2 scrubbing which requires low pressure steam reduces the efficiency of a typical current system from 58% to about 49% overall.  The amine systems will have high capital costs. They could be retrofitted to existing units.&#xa0;
+
+[[[1.2.2  ]]]
+
+[[[Hydrogen Production]]]
+
+[[[&#xa0;]]]The conversion of natural gas to hydrogen in large capacity systems with solvent scrubbing to separate CO2 is a well proven industrial operation with hundreds of systems worldwide.  It can be applied to produce fuel gas comprising hydrogen plus diluent steam and nitrogen for use in the NGCC unit. The efficiency will be in the range 44% to 48%.  Capital cost is increased by about 100%.&#xa0;
+
+[[[1.2.3  ]]]
+
+[[[Carbon Dioxide Gas Turbine]]]
+
+[[[&#xa0;]]]The air used in a conventional gas turbine as the working fluid can be replaced by CO2 when the exhaust from the steam generator is routed back to the gas turbine compressor inlet.  The natural gas fuel is burned with pure oxygen diluted with CO2 and CO2 product is removed at near atmospheric pressure from the system for compression and storage.  The projected efficiency is about 45% with about 150% increase in capital cost.&#xa0;
+
+[[[1.3]]]
+
+[[[  ]]]
+
+[[[Novel Ceramic R]]]
+
+[[[eactor Systems]]]&#xa0;These depend on the development of robust complex high temperature ceramic and metallic components.  They are in the research stage.&#xa0;
+
+[[[1.3.1]]]
+
+[[[  ]]]
+
+[[[Solid Oxide Fuel Cells]]]&#xa0;The generation of electricity from natural gas in a solid oxide fuel cell operating typically at 800oC to 1,000oC has been demonstrated and several small systems have been built.  Theoretical studies have shown the potential for integration with a gas turbine in a two stage system to give high fuel utilisation and efficiencies above 60% with CO2 capture.  These systems require very large development efforts to perfect complex ceramic/metallic cell components.  They scale linearly in cost since the capacity of individual cells will be only a few hundred kilowatts.&#xa0;
+
+[[[1.3.2]]]
+
+[[[  ]]]
+
+[[[Oxygen I]]]
+
+[[[on Transport System]]]
+
+[[[&#xa0;]]]Oxygen can be separated from compressed air by using a ceramic mixed oxide membrane system at a temperature of 800oC to 1000oC.  The membranes can be integrated with the gas turbine in an IGCC system replacing the conventional cryogenic oxygen plant.  If the permeate side of the membrane has a fuel gas present the diffusing oxygen will react and combust the fuel.  This system is equivalent to the natural gas combustor in a conventional gas turbine, but since pure oxygen is used for combustion, pure CO2 can be separated from the combustion products.  An efficiency of 49% with 100% CO2 capture has been estimated.  The problems of development of the complex high temperature combustor and heat exchange modules are severe.&#xa0;
+
+[[[1.4]]]
+
+[[[  ]]]
+
+[[[System with C]]]
+
+[[[O2 as the Working Fluid]]]
+
+[[[&#xa0;]]]The NET Power system uses CO2 as the working fluid in a high pressure low pressure ratio oxy-fuel power cycle. Natural gas is burned with pure oxygen diluted with a heated recycle CO2 stream. This produces a predominantly CO2 stream entering a power producing turbine at typically 300 bar and 1150oC.  The 30 bar exit stream at about 725oC is cooled in a heat exchanger providing heat for the recycle CO2 stream.  A large additional heat input at less than 400oC heats the recycle CO2 entering the cold end of the heat exchanger. This heat is derived from adiabatic compressors used for compressing CO2 recycle gas and air feed to the cryogenic O2 plant.  The combustors are mounted within the turbine casing as in a conventional gas turbine.  The result is a very simple low cost compact unit with 100% pure CO2 recovery available at 300 bar pressure and a current efficiency of 58%.  Natural gas will often be supplied by vaporising imported LNG.  A NET Power system integrated with LNG vaporisation would have about 64% efficiency at a capacity of 2000 MW.  A coal fuelled system would use a conventional water quenched powdered coal partial oxidation reactor with ash removal producing H2+CO fuel gas which includes CO2 hydrogen sulphide and all other impurities.  No fuel gas purification and H2S+CO2 removal is required.  This fuel gas is used in the gas turbine combustor which burns the fuel gas to CO2 and water plus oxidised impurities largely sulphur dioxide (SO2) and nitric oxide (NO).  These impurities are removed at the exit from the heat exchanger as condensed water containing H2SO4 and HNO3.  The system only requires a coal gasification and ash removal system resulting in a much lower capital cost than an IGCC system.  The efficiency with 100% CO2 recovery at 300 bar is 52%.  
+
+[[[The cost of electricity from both the natural gas and coal fuelled systems is lower than the best available current power plants without CO]]]
+
+[[[2]]]
+
+[[[ capture]]].  The NET Power system is under development by a consortium comprising 8 Rivers Capital, Toshiba, Exelon and CB&amp;I.  The system and Intellectual Property have been developed by 8 Rivers Capital who act as consortium management.  Toshiba are responsible for the turbine and combustor system, Exelon will provide the operations support, CBI are the EPC contractor.  A US Gulf coast 50 MW demonstration plant detailed design has been completed and costed by the consortium plus a study for a 300 MW production commercial system.  Development work on the system continues. A second turbine and combustor expanding from the first turbine exhaust pressure of 30 bar down to atmospheric pressure would increase the power output of a 300 MW system to 700 MW with no loss in efficiency and a 30% reduction in capital cost £/Kw. This system will allow future cheap power generation with CO2 capture using a large proportion of fossil fuelled capacity in the total supply system. The NET Power system can be retrofitted to existing coal fired units. The NET Power consortium sees benefits to siting these demonstration plants in the UK at Teeside where a site has been identified. Benefits would be faster development time and a climate in the UK geared to implementation of clean power technology now.&#xa0;
+
+[[[2.  CONTRIBUTION OF CCS TO CO2 EMISSION TARGETS]]]
+
+[[[&#xa0;]]]
+
+[[[2.1  ]]]
+
+[[[Cost]]]
+
+[[[ of Electricity (COE) and CO]]]
+
+[[[2]]]
+
+[[[ Emissions]]]
+
+[[[&#xa0;]]]All of the current methods of carbon dioxide capture from fossil fuel power generation being considered for immediate implementation have one common feature.  They all increase the cost of electricity from 50% to 80%.  They all significantly increase the complexity and hence lower the reliability and availability and increase maintenance costs.  The projected capital costs for these systems are very poorly understood because of the lack of reference operating units and the inability of contractors to guarantee costs.  The 38% efficiency of a new supercritical coal power station with 85% CO2 capture results in a CO2 emission of about 105 gm/kWhr.  An NGCC system with 48% efficiency and 85% CO2 capture emits about 60 gm CO2/kWhr.  Even with CO2 capture, emission rates are still significant from existing technology system while the NET Power gives 100% CO2 capture.&#xa0;
+
+[[[2.2  ]]]
+
+[[[Strategy for the Future]]]
+
+[[[&#xa0;]]]The need for reliable electricity supply at affordable prices with diversity of energy sources requires that fossil fuels continue to supply the bulk of our energy needs in the next few decades.  Current policy and currently available carbon capture technology outlined above, plus the need to drastically reduce CO2 emissions, will inevitably lead to a rapid phase-out of coal based plants and the introduction of a large number of NGCC stations to lower our overall CO2 emissions.  This will be complemented by wind power and nuclear systems. This scenario exposes us to price and supply uncertainty for future natural gas requirements and a large expensive wind and nuclear component in our energy mix.  Even with this scenario the UK will still emit significant CO2 and the overall cost of electricity will be high due in part to the large subsidies required for wind and nuclear.  For us to meet our CO2 emission objectives a significant fraction of new natural gas capacity will need to be built with CO2 capture.  All the currently available systems for CO2 capture still result in significant CO2 emission.  Our objectives for CO2 emission and fuel diversity can be met with these systems but only with a huge increase in the cost of electricity which will result in significant social problems and affect the competitiveness of the UK economy.  There is an urgent need for new concepts of fossil fuel based power generation with CO2 capture since the current technologies available are simply not capable of giving cheap reliable high efficiency power generation with near 100% capture of CO2 and other impurities.  As shown in Section 1.5, the use of the NET Power system for both natural gas and coal fuelled electric generation plants would result in the ability to use fossil fuels, meet our CO2 emission targets, secure freedom to switch between coal and gas and achieve much lower cost of electricity than wind or nuclear powered systems. In this scenario the incentive would be to maximise the use of fossil fuels using NET Power systems to limit electricity costs with significant social and economic benefit to the UK.  This would lead to CCS based technology applied to fossil fuelled systems being the largest portion of total power generation capacity by 2050.&#xa0;
+
+[[[3.  BENEFITS TO THE UK]]]
+
+[[[&#xa0;]]]The UK has the possibility of becoming the host country for the prototype NET Power 50 MW thermal system plus initial large-scale commercial units.  The test programme would be based on natural gas fuel plus demonstrated operation with a simulated coal based fuel gas.  A site on Teesside has been identified. Natural gas and oxygen are available as pipeline supplies together with site operation and maintenance services.  The site is in an enterprise zone.  Hosting the initial NET Power demonstration facility would provide enormous benefits to the UK.  Should the system perform as expected, the UK will be able to accelerate the deployment of low-cost power stations with full carbon capture, enabling the production of low-cost electricity while meeting all emissions targets.  Perhaps as important, hosting the initial facility will position the UK as the global centre for the development of NET Power facilities, offering engineering, design, and manufacturing opportunities, while a UK-driven enhanced oil recovery and sequestration industry, to be utilized by much of Europe, would be enabled in the North Sea. There would be opportunities for UK firms to be major worldwide suppliers of heat exchangers, compression systems, turbine components and overall system design procurement and supply services for complete power stations.  The UK would become a world leader in clean power technology.  The deployment of new power systems are large undertakings and require that governments work with industry for the deployment of the first system so that future systems can stand on their own.  Support can come in the form of grants and loan guarantees that back the technology and enable the initial facilities to be financed. The NET Power system already has the support and involvement of several industry-leading companies, and thus the opportunity is ripe for the UK Government to involve itself and aid in the deployment of this vital technology. The development of the coal based system is particularly important as this fuel currently produces such a high proportion of the total emitted CO2 worldwide. This will provide markets particularly in China, India and the US.&#xa0;
+
+[[[4.  BARRIERS TO CCS IMPLEMENTION]]]
+
+[[[&#xa0;]]]The main current barriers to the implementation of CCS technology can be divided between power generation and CO2 transportation and storage.  The high COE of fossil fuel power generation using current CO2 capture technology compared to existing systems together with reduced efficiency and up to 20% reduction in power output from a given sized boiler or gas turbine system requires a very high government subsidy to justify investment by power companies. No subsidy would be required for NET Power systems. In general, current CO2 capture technology produces CO2 at near atmospheric pressure requiring expensive compression systems delivering high pressure CO2 into pipelines.  The most attractive disposal sites are offshore in depleted gas reservoirs or for use in enhanced oil recovery.  EOR opportunities exist in the North Sea area but offshore pipelines would be extremely expensive and require that the massive investment is made well in advance of potential extra oil production benefits.  The problem arises that unless these pipelines are built no investment in the new power stations with CO2 capture will be made.  The situation can be remedied with the production of liquid CO2 for delivery by tanker to any offshore oil platform with no up-front investment except tanker charter costs.  The NET Power system is unique in producing its CO2 product at 300 bar pressure (or lower with increased overall system efficiency).  The very high internal energy of CO2 at this pressure plus the use of existing CO2 recycle compressors for additional refrigeration energy production makes it very easy for the production of ultra-high purity liquid CO2 at about 6 bar pressure for tanker transportation.  CO2 export from the first UK prototype 50Mw thermal unit on Teeside, which could produce CO2 at a rate of 8 tons/hr, would demonstrate the system in conjunction with an interested oil company.  This would significantly reduce the requirement to subsidise CO2 pipeline systems.  The problem of responsibility for CO2 storage reservoirs over multi thousand year timescales means in practice that the governments of countries surrounding the North Sea would have to take liability for monitoring and remedial action if necessary.  The social impact would be very positive for the general population who would benefit from much cheaper power with much reduced environmental impact compared to existing power either fossil fuel, wind or nuclear systems.&#xa0;
+
+[[[5.  SAFETY ISSUES]]]
+
+[[[&#xa0;]]]CO2 is an asphyxiating gas with a density about 1.5 times greater than air.  It is inert.  High pressure pipelines and production systems designed using current engineering and safety standards would eliminate any significant potential risks.  The integrity of geologic storage and structures needs careful initial analysis and long term monitoring. Companies in the United States have been pumping high-pressure CO2 into underground reservoirs for over forty years for enhanced oil recovery and have seen extremely high reliability and retention rates, with almost no issues reported.&#xa0;
+
+[[[6.  OTHER COUNTRIES EFFORTS]]]
+
+[[[&#xa0;]]]No comment.&#xa0;
+
+[[[7.  THE CURRENT ROADMAP]]]
+
+[[[&#xa0;]]]The interventions outlined in the roadmap provide an excellent pathway for the rapid deployment of a new system such as NET Power.  The challenge is to ensure that these provisions are implemented rapidly and available now in order to fund and launch development programmes.&#xa0;
+
+[[[8.  INTERNATIONAL DEPLOYMENT OF CCS]]]
+
+[[[&#xa0;]]]Rapid deployment and demonstration of new cost effective CCS systems by the UK will greatly influence worldwide plans for deployment and would position the UK at the centre of that development. The markets in China and India are vital for significantly impacting total global CO2 emissions targeting both new plants and retrofits.&#xa0;
+
+[[[9.  CONSEQUENCIES]]]
+
+[[[&#xa0;]]]Future levels of predicted world power demand are impossible to achieve without majority use of fossil fuels. If CCS is not widely adopted atmospheric CO2 levels will become unsustainable with grave risk of massive global disruption, conflicts and trauma.  We have no alternative to the successful deployment of CCS technology
+
+[[[.]]]&#xa0;September 2013&#xa0;

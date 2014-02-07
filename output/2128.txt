@@ -1,0 +1,119 @@
+&#xa0;Written evidence from the Rail Accident Investigation Branch (RAIB) (SLC 017)
+
+[[[&#xa0;]]]
+
+[[[Summary of main points: ]]]
+
+[[[&#xa0;]]]
+
+[[[Q1]]]
+
+[[[              ]]]
+
+[[[Are current safe]]]
+
+[[[ty measures at level crossings adequate?]]]RAIB investigations and recommendations: Areas of concern: means of influencing user behaviour at level crossings Areas of concern: Risk assessment at level crossingsa.&#xa0;&#xa0;&#xa0; errors made during data collection and risk assessments (eg incorrect data); b.&#xa0;&#xa0;&#xa0; inadequate consideration of local factors at individual crossings;c.&#xa0;&#xa0;&#xa0;&#xa0; competence of risk assessors and crossing inspectors;d.&#xa0;&#xa0;&#xa0; actions not being taken in response to inspection and risk assessments; e.&#xa0;&#xa0;&#xa0; insensitivity of the All Level Crossing Risk Model to certain inputs (eg sighting times); andf.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; incorrect assessment of sighting distance.Areas of concern: Assessment of local factors At passive level crossings:&#xa0;At active level crossings:Areas of concern: Design and equipmentLocating trains in long sections Lack of engineered safeguards&#xa0;&#xa0;Safety of Automatic Open Crossings (locally monitored)Conspicuity of stop lights
+
+[[[&#xa0;]]]
+
+[[[Q2]]]
+
+[[[              ]]]
+
+[[[How should they be improved?]]]Areas of RAIB recommendations related to level crossings–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; the RAIB is still awaiting final confirmation from the ORR that it considers that the actions taken are complete and sufficient; or –&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; full resolution of the issue addressed by the recommendation is dependent on the outcome of ongoing research or trials.
+
+[[[&#xa0;]]]
+
+[[[Q3]]]
+
+[[[              ]]]
+
+[[[In addition to bridges and underpasses what other cost-effective measures can be introduced to replace or improve safety at level crossings? ]]]
+
+[[[&#xa0;]]]
+
+[[[Q4]]]
+
+[[[              ]]]
+
+[[[How should expenditure on improving safety at level crossings be prioritised in relation to o]]]
+
+[[[ther demands on the rail budget? ]]]
+
+[[[&#xa0;]]]
+
+[[[Q5]]]
+
+[[[              ]]]
+
+[[[Is Network Rail giving sufficient priority to improving safety at level crossings? ]]]
+
+[[[&#xa0;]]]
+
+[[[Q6]]]
+
+[[[              ]]]
+
+[[[Is Government policy and regulatory action by the Office of Rail Regulation (ORR) in relation to safety at level crossings adequate? What more should the Governme]]]
+
+[[[nt and ORR do?]]]
+
+[[[&#xa0;]]]
+
+[[[ ]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[Q7]]]
+
+[[[              ]]]
+
+[[[How should the legislation governing level crossings be updated?]]]
+
+[[[&#xa0;]]]
+
+[[[ ]]]
+
+[[[&#xa0;]]]
+
+[[[Q8]]]
+
+[[[              ]]]
+
+[[[How should public awareness of safety at level crossings be improved? ]]]Table 1-RAIB investigations by type of level crossing (including Northern Ireland but excluding heritage and tramways)
+
+[[[Type of Level Crossing]]]
+
+[[[Mode of operation]]]
+
+[[[Numb]]]
+
+[[[er of investigations published ]]]
+
+[[[(by 1 September 2013)]]]
+
+[[[Number of investigations ongoing ]]]
+
+[[[(on 1 September 2013)]]]
+
+[[[Total]]]Automatic half barrierActive4 3
+
+[[[7]]]Automatic open (locally monitored)Active30
+
+[[[3]]]Automatic barrier (locally monitored)Active21
+
+[[[3]]]Manually controlled barrierActive31
+
+[[[4]]]Manually controlled gatesActive30
+
+[[[3]]]Footpath / bridlewayActive/passive91
+
+[[[10]]]User worked crossingActive/passive102
+
+[[[12]]]Crossings at/near stationsActive/passive10
+
+[[[1]]]Total&#xa0;358
+
+[[[43]]]&#xa0;&#xa0;Table 2 - Key areas of RAIB recommendations and the actions reported by the railway industryRefArea of recommendationIndustry responseCommentPassive level crossingsa.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;The need for review of the safety of existing arrangements at crossings where the safety of users is dependent on them hearing a train horn sounded at a ‘whistle board’ (report 10/2012, Mexico, Penzance: published June 2012).Network Rail carried out a national review to check the adequacy of the warning given to users at passive crossings.  It is also reviewing the position and adequacy of existing warning arrangements, and is developing alternative technical solutions to improve the warning given to users.  The outcome of this review is awaited.b.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;The management of sub-standard sighting at footpath crossings (report 08/2010, Fairfield, Bedwyn: published May 2010).Network Rail is carrying out trials with an audible warning device, which sounds at the crossing as trains pass the ‘whistle boards’ in each direction.The outcome of ongoing trials is awaited.c.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;Development of a standard national approach for the identification, marking and signing of the optimum decision point for pedestrians at footpath and user worked crossings (various reports including 10/2012, Mexico, Penzance: published June 2012).RSSB has been commissioned to research issues concerning the safety of pedestrians at level crossings and safety of users at user worked level crossings.  RSSB has indicated it will bring forward and publish priority matters, and in particular the findings related to ‘decision points’ of pedestrians.  The RAIB believes that RSSB’s research will provide useful intelligence to both designers and risk assessors.  It is therefore important that this work is brought to a conclusion at the earliest opportunity.d.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;The management of risk at user worked crossings with long waiting times due to absence of information to the signaller on the position of trains (report 14/2011, Sudbury: published August 2011).Network Rail has developed, and is now testing, technology to enable signallers to identify the location of a train in a long signal section.The outcome of ongoing development work and trials is awaited.Active level crossingse.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;Review of risk mitigation measures already identified in RSSB research related to the conspicuity of miniature stop lights currently used at footpath and user worked crossings (report 27/2012, Johnson’s: published December 2012).&#xa0;RAIB is awaiting information of the actions to be taken in response to this recommendationf.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;Engineering safeguards to prevent signallers raising barriers at level crossings before trains have passed clear (report 04/2011, Moreton-on-Lugg: published February 2011).As a result of this recommendation Network Rail identified 97 crossings that are fitted with protecting signals but without a sufficient engineered safeguard.  In a programme that is to be completed in February 2014, additional safety mitigation is being fitted to prevent signallers at these crossings erroneously opening the crossing to road traffic while a train is still approaching.  Having given priority to those crossings fitted with protecting signals Network Rail is now reviewing the options available for level crossings that do not have protecting signals.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;The outcome of Network Rail’s review of options for crossings without protecting signals is awaited.g.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;Assessments of the need to comply with current standards when upgrading crossings (report 04/2011, Moreton-on-Lugg: published February 2011).&#xa0;RAIB is awaiting information of the actions to be taken in response to this recommendationh.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;Provision of barriers at higher risk locally monitored automatic open crossings (reports 16/2010, Halkirk: published September 2010 and 12/2011, AOCLs: published July 2011).Halkirk level crossing, the site of an accident in which three occupants of a road vehicle were killed has been upgraded by the installation of half barriers (reference rec 3 of report 16/2010, Halkirk).Network Rail is implementing a programme to upgrade its highest risk AOCLs.  The project is looking to upgrade about 72 (including all in Scotland) out of 110 AOCL crossings in total.  The upgrade consists of adding a modular barrier system to an existing AOCL level crossing.  Prototype installations are presently being trialled.  The RAIB is keen to understand the outcome of these trials and the programme of ongoing installation.i.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;Digital red light enforcement equipment (report 12/2011, AOCLs: published July 2011).The British Transport Police, in consultation with Network Rail, has introduced a fleet of level crossing enforcement vans.  The RAIB is keen to understand the impact of this initiative on levels of road user violation.j.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;Steps to improve the brightness of road traffic signals at level crossings to improve their conspicuity in bright sunlight (Beech Hill, Dec 2012).&#xa0;The RAIB report is due to be published within the next month.Risk managementk.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;Actions to improve the accuracy and consistency of data collected at level crossings during site visits and a review of the organisational arrangements for the assessment of risk, including the appointment of dedicated level crossing managers (various reports including 14/2011, Sudbury: published Aug 2011).Improved guidance on assessing local factors, and taking account of the history of previous incidents, when assessing risk at level crossings (report 16/2010, Halkirk: published September 2010)Network Rail has reported that it has a broad programme of initiatives aimed at improving the safety of crossings, including a revision of how crossings will be risk assessed; closures of high risk crossings; the upgrade of equipment; the recruitment and training of staff dedicated to crossing safety management; and improved asset knowledge and information management.  Network Rail intends that individual managers will take full responsibility for the safety of each crossing and will develop a detailed appreciation of the safety issues at each.The RAIB supports the initiative and awaits with interest Network Rail’s evaluation of the affect on the quality of level crossing management.&#xa0;&#xa0; All information in this submission concerning RAIB reports and recommendations relate only to the UK’s mainline railways. The RAIB has also investigated a number of accidents involving level crossings on heritage railways and tramways.  Based on data provided by the RSSB’s Annual Safety Performance Report 2012-13. The All Level Crossing Risk Model (ALCRM) is a tool used by the industry that allows the level of risk to be estimated at an individual level crossing.  The ‘sighting distance’ is the distance from the crossing at which approaching trains first come into view. Passive crossings: no warning of a train’s approach is given other than by the train driver who may use the train horn.  The onus is on the road user or pedestrian to determine whether or not it is safe to cross the line.  Instructions for proper use must be provided at each location, along with other appropriate signage. Active crossings: the road vehicle or pedestrian is warned of the approach of a train through closure of gates or barriers and/or by stop lights and/or alarms. Regulation 12 of the Railways (Accident Investigation and Reporting) Regulations 2005 ORR Health and Safety Report 2013 (http://www.rail-reg.gov.uk/upload/pdf/health-safety-report-2013.pdf) In this investigation it was found that the train horn was not always audible to pedestrians at the crossing

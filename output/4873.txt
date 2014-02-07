@@ -1,0 +1,1425 @@
+&#xa0;Communities and Local Government CommitteeOral evidence: Building regulations, HC 906Monday 6 January 2014Ordered by the House of Commons to be published on 6 January 2014.Written evidence from witnesses:–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Dr Robert Judson–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Peter Morris–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Mark Pollock–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Damian Skelton–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Phil Watts–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Electrical Contractors’ Association–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Electrical Safety Council–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Certsure–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; NAPIT RegistrationWatch the meetingMembers present: Mr Clive Betts (Chair); Bob Blackman; Simon Danczuk; Mrs Mary Glindon; James Morris; Mark Pawsey; John Stevenson; Heather Wheeler; Chris WilliamsonQuestions 1–148Witness[es]: 
+
+[[[Dr Robert Judson]]], engineer, project manager and building services contractor, 
+
+[[[Peter Morris]]], electrical contractor, 
+
+[[[Mark Pollock,]]] Bailey Pollock Electrical Services, electrical contractor, 
+
+[[[Damian Skelton]]], Skelton Electrical Ltd, electrical contractor, and 
+
+[[[Phil Watts]]], lecturer, Ascot College of Electrical Studies, gave evidence.
+
+[[[Chair:]]] Good afternoon, everyone. Welcome to the first evidence session of our follow-up inquiry into building regulations on the certification of electrical installation and repairs in dwellings. Thank you all for coming today.Before we move on to taking evidence, do Committee members have any declarations of interest?
+
+[[[Mrs ]]]
+
+[[[Glindon]]]
+
+[[[:]]] I have a relative who works in the electrical industry.
+
+[[[Bob Blackman:]]] My nephew is training to become an electrician.
+
+[[[Q1 ]]]&#xa0; 
+
+[[[Chair:]]] Okay, so those declarations are on the record. It may assist witnesses appearing today, on both the first and second panels, if I clarify the background to this inquiry. When we took oral evidence on 2 September 2013, following up our earlier inquiry on building regulations, we received a number of written representations expressing serious concern about the operation of Part P. The purpose of this inquiry, therefore, is to focus on the adequacy of the operation of Part P and, if necessary, to recommend changes. Your evidence should be aimed at the operation of the system, and not specific organisations or individuals. I also make it clear that you should not refer to any case that is sub judice—that is, any case before the courts, for example, or where charges have been brought. If anyone does stray into that area, obviously I shall have to stop them. It would be inappropriate for us to hear evidence or comments about that sort of issue.Can we begin with the first panel? For our records, could you just say who you are and the organisation, if any, you are representing today, or are a member of?
+
+[[[Dr Judson:]]] I am Dr Robert Judson. I have my own electrical contracting business called Building Engineering Systems and Services—a very small organisation now.
+
+[[[Peter Morris:]]] Peter Morris, Elecinfo Ltd, electrician.
+
+[[[Mark Pollock:]]] Mark Pollock from Bailey Pollock Electrical Services. I am a sole trader.
+
+[[[Damian Skelton:]]] Damian Skelton, Skelton Electrical Ltd, electrician.
+
+[[[Phil Watts:]]] Phil Watts. I used to run an electrical contracting firm. I have been involved in lecturing with further education facilities for the last nine years, and I now run a training facility.
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Chair:]]] Thank you very much for coming. I think you are before the Committee for the first time. It is not our aim to try to trip people up or give them the third degree; as you might have seen occasionally on television with Select Committees, it is to try and find out what your views are, what your concerns are, and what evidence you have to back those up. That is what we are trying to get at—for you to have the opportunity to give us orally the evidence that you have already, at least to some extent, given in writing to us.There are five of you, so if one of you says something that the others agree with, it is not necessary to repeat it. Just saying, “I agree with that comment,” is sufficient. That will carry equal weight when we are coming to look at the balance of evidence that we receive.To begin with, you all put written evidence to us about your concerns over the operation of the electrical competent person scheme. Could you say briefly, each of you, what your main concerns are and summarise them, so we can put them on the record? 
+
+[[[Peter Morris:]]]
+
+[[[ ]]]My concern is that competent person schemes do not provide a competent person on the doorstep of the public.
+
+[[[Phil Watts:]]] I have concerns that there is a general lack of knowledge about the building regulations Part P within the general public. They are unaware of the implications of Part P and the requirements of notification; hence a lot of unqualified or unskilled traders get used to doing electrical work in the home—builders, kitchen fitters and similar trades using unskilled unqualified people who don’t test and certify the installation, and leave the installation dangerous.
+
+[[[Dr Judson:]]] My concern is twofold. One is the Part P. I believe the objective of that was to make domestic wiring safer and to stop people from electrocuting themselves who were doing electrical work and using electrical installations; and then I don’t believe that the current accreditation process achieves that objective in any shape or form. In fact, I actually believe the system that we currently have makes it less safe, because if you read the documentation it actually implies that incompetent people are allowed to carry out electrical work—it says something about what can be done by people who are not competent. The Government document, if you go to the planning portal which refers to the Part P building regulations—it actually says in there what incompetent people can do; because by implication it says that they don’t have to be competent. So I think that the system as it stands actually makes it less safe. I think the general public haven’t got a clue what it is all about. I wouldn’t criticise the accrediting organisations, because if somebody presented me with such a business opportunity I would jump at it, but in terms of achieving the objective I don’t believe it does that.
+
+[[[Mark Pollock:]]] I would agree with Peter, inasmuch as just because a company has a registered supervisor, that doesn’t mean that those are the people doing the actual installation work on a site. Customers may be misled into believing that because they are using a company that is registered or has registered electricians, they are going to have registered electricians working in their house. That might not be the case. The second thing is that I am concerned that the criteria for being registered are low. It has certainly been the case that as long as someone took a wiring regs course, they could be registered. Those can be achieved in three days. Anybody who can use an index and a green book could achieve that standard. I think that is way too low. One of the issues that disgruntles a lot of electricians who have spent three, four or five years in training and reached the top of their profession is that usually in most professions registration is symbolic of achieving the top end of that particular trade or profession. In electrics, it seems that you have to do only the minimum of exams to be called an electrician. I think that most people who are electricians, who have gone through the full qualification route, would not recognise those people.
+
+[[[Damian Skelton:]]] My issue is public awareness. In my experience, the public are not aware of Part P, what it is. They do not know what an electrician is because, as was said, the competent person schemes appear to be misrepresenting to the public what electricians are, as others have said. People can carry out electrical work and be registered as competent with the bare minimum of training, and worryingly so. The standard of work I see in my experience carried out by such people is dangerous. That is my main concern: public awareness and dangerous work being carried out by people labelled as competent.
+
+[[[Peter Morris:]]] I think the 11 letters that went to the Committee were maybe a surprise back in September. The content of those letters and much more is just common knowledge throughout the electrician and contracting industry. We have known about that for eight years; that is just general chit-chat between ourselves. The whole basis of these problems has been in the public domain right from the beginning, from when Part P was put forward to Parliament in 2004 and implemented on 1 January 2005. In 2006, the two statutory requirements to inspect and test in there—P1 and P2; one relating to test and inspection and also design—were removed by DCLG. We are one year into the great saga of Part P, where DCLG removes one of the key factors of safety, by removing that from the legislation. 
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Chair:]]] Could you explain that a bit more for us? 
+
+[[[Peter Morris:]]] In the original 2004 Part P legislation put before Parliament, there was a statutory requirement to test and inspect. All the schemes are aware of that because they complained at the time. It was implemented in 2005 and in 2006 it was removed.
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Chair:]]] Is that a requirement to test every single installation?
+
+[[[Peter Morris:]]] Yes.
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Chair:]]] So a competent person would have to test every single piece of work.
+
+[[[Peter Morris:]]] Yes. It was stated that it was a requirement in the regulations BS7671 that we use, the electricians’ bible, so it did not matter. In the electrical contracting world, a movement from statutory to advisable—I forget the exact word used—is tantamount to removing the requirement. Yes, under BS7671 it is a requirement, but it removed that statutory requirement to ensure that it happened. You move along to the monitoring that took place in 2007 and was released in 2008. That was independent monitoring by DCLG. This is mentioned in there several times. The abuse of the entry requirements was mentioned—the short courses into the trade. That was in 2007, so, now in 2014, we are sat here—at last—saying, “You should know this.” The short-course route—the two or three weeks—was originally known as the “five-day wonders”, which was a short course on the basics of the regulations, which was designed for people with experience who did not have any formal qualification, but had been doing it for 20 years or whatever, to get a regulations examination. You did a short course, then you joined a scheme and then you would be given a period of time to get that qualification in some cases. Anecdotal evidence—the industry does chit-chat—says that that is what happened.There was dissatisfaction during that period, which has grown and grown and grown. It is aimed very much at the schemes—unfairly, I think, to a degree—but the general electrical trade does not really know about the DCLG and Departments and how it works and the multitude of little committees. So there is a lot of abuse aimed at the schemes about financial things and what is going on and those sorts of things. There are other monitoring documents, but if you just take the 2008 document, it is all just sat there: the standards of authorisation. Saying about UKAS, that was going to be introduced in 2008, but it just moves back and back and back. Risk-based assessment for electricians would save the trade a lot of money. Being assessed on whether you are competent is one of the key things to the trade. If you are competent, there is no need to be assessed every year. There is a distinct financial advantage to that for the schemes in operation, but, if you are competent, you will not be competent one year and not the next. Gas is much more dangerous than electrics and they are only assessed once every five years. So the electrical is assessed every year; the more dangerous is once every five years—strange. But some of the reason behind that, I believe, is that the gas people are assessed for competence. The electrical trade is not assessed for competence. They have to meet the requirements of membership of a scheme, which is entirely different.
+
+[[[Dr Judson:]]] I really do feel strongly that, fundamentally, this goes back to the Part P building regulations. It is very easy to get bogged down in the workings of the accreditation schemes, which I am no greater lover of, but I think there is a fundamental flaw in the Part P regulations. Can I flippantly ask as a taxpayer that you find out if we’ll get the money back? Because I do think that they are that bad.I would hate to think that this Committee got bogged down in the detail of how the scheme works, rather than the fundamental question: what is it about? Is it about making the electrical industry more safe, making sure that people who do electrical work are competent to do it? If that is the objective, most of the western world has a very simple model for doing that: you cannot do electrical work unless you are a qualified and competent electrician—full stop. This is the only country in the world where we seem to want to make hard work out of something very simple.
+
+[[[Mark Pollock:]]] I understand that since a number of representations were made, a new standard came in—supposedly from April this year—for new entrants or applicants to registers. I have looked for those courses and found a couple and they take four or five weeks to complete. That is what I have found.I suppose I can speak from some experience, because I came through that route myself. In 2006, I decided to change careers. I worked in a completely different area before, which was pretty heavily regulated, so I understand regulation, inspection and so on. The regulation and inspection that I have been subject to as an electrician bears no relation to some of the inspection in my previous line of work.In 2006, I undertook one of these four-week courses, which may be different from the new style four-week course that is now around. However, when I came out of there and started working, having become accredited with one of the schemes, I discovered that I simply was not competent enough, and at that stage I decided to put myself through a full three-year college apprenticeship scheme with an NVQ, finishing with my AM2, which I have now completed. I look back and think it is quite worrying that I was in such a position to undertake work. Unlike many other trades, most electrical work is hidden, so you do not know if there is a potential danger—forgive the pun—smouldering away under the walls or under the floorboards or in the roof, because it could be there for quite a long time before a problem arises.
+
+[[[Q6 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] All five witnesses have been very critical of the competent person scheme. Are there any ways in which either the public or the trade have benefited? Is there any way at all in which it might have been a good thing?
+
+[[[Damian Skelton:]]] No.
+
+[[[Peter Morris:]]] A positive thing about the existing system is that more inspection and testing takes place than previously. Some of the certificates produced by that are of very dubious quality. I have concerns about the way in which the Part P industry has promoted this as an easy way to become an electrician—you can be an electrician in X weeks for £4,000.
+
+[[[Q7 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] So that is a benefit to some people.
+
+[[[Mark Pollock:]]]  Not if they are not an electrician.
+
+[[[Peter Morris:]]] Yes—a “domestic installer” or whatever. Having done that, they are not actually in a position to know what they are doing, but they are legally liable for the work that they do. That certification—that legal document—they are liable for that. They regard that as a piece of paper that you are supposed to fill out at the end. They do not realise that, under electricity at work regulations, they have a responsibility for the work they carry out and they have responsibility for that certificate for ever.
+
+[[[Dr Judson:]]] I would like to pick up on your point, Mr Pawsey. I do not believe that the current accreditation process has any benefits for anybody. The customer does not benefit, because he has to pay for the process. The good, qualified, competent electricians do not benefit, because they are being bundled up with people who are less competent, and the people who are not competent to do it, who have a certificate, are putting themselves at risk of causing damage, death, fire, or whatever, so I fail to see any benefit in the scheme, other than, in several accreditation organisations, it keeps people employed.
+
+[[[Damian Skelton:]]] On the point about public safety, in my experience the public are not aware of the existence of these competent person schemes. In the rare instances where they are, they are being sold someone who may or may not be an electrician. I believe very firmly that the term “electrician” should mean someone who is fully qualified; they should have spent a minimum of three years at college and they should have had assessments throughout that time. There are people out there doing electrical work who have minimal experience and barely any qualifications, but they are being sold to the public as electricians just as much as fully qualified ones are.
+
+[[[Phil Watts:]]] It is important that we do not throw the baby out with the bathwater. There are some benefits to Part P. At least we have some statutory legislation that requires certification and inspection of electrical installations. How it has been implemented is where it has gone wrong. In the nine years that I have been training electricians, I have probably passed several thousand students and apprentices. The misinformation and the lack of information and understanding of Part P and how it works and should be applied is amazing. That is within the electrical industry—we are not talking about householders; we are talking about trainee electricians.We must remember that under Part P we are talking about notification—that is, the requirement under Part P that certain works be notified. Notification obviously requires the certification to be produced. That is a good thing. The trouble is with the way the system has been implemented. The system is skewed so that small firms and single operators are penalised. A firm that has several hundred electricians needs one QS; a firm that has one electrician needs one QS. That cannot be right. A QS is a qualified supervisor.
+
+[[[Q8 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] Could I put it to you all that there may be a benefit to the public? We have a light-touch regulation system, and much of the electrical work that is done in people’s houses is relatively simple and not overtly complicated. By having a competent person scheme, we do not require masses of regulation, and the cost to the householder is therefore less. Is that a valid argument?
+
+[[[Phil Watts:]]] Can I challenge you on that? Three weeks before Christmas, I went to a friend’s house to rescue her electrical installation. She had had a new kitchen put in by a builder. I went round for a coffee, and when I walked into her kitchen, I was horrified. There were live sockets hanging off the wall, dangling on wires 6 to 10 inches long. There were cables in walls that should not be in walls. Down to the light switch, there were seven joints in cables that were just going to be plastered into the walls. None of the metal boxes that had been fitted had grommets put in, so the cables had no mechanical protection. One of the sockets had been wired up without an earth on it, so it had no CPC—there was no earth protection on it. There was a whole list of stuff. The builder had also put a toilet into an under-stairs cupboard, and the sink was 2 inches away from the fuse box.
+
+[[[Q9 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] Was that installation carried out by a firm covered by the competent person scheme?
+
+[[[Phil Watts:]]] No, it was an installation carried out by a builder. The problem is that because no new circuits were installed, it was non-notifiable work, but it was lethal. The changes to Part P that were made actually relaxed—
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] The 2012 changes? So you are suggesting that the 2012 changes made things even worse.
+
+[[[Phil Watts:]]] What I suggest is that all electrical work be done by licensed, qualified electricians. That is where we should be looking to change things.
+
+[[[Mark Pollock:]]] I was not in the industry prior to Part P; I came in when it started, so I cannot comment on what went before. However, the scheme providers provide me with a very easy-to-use platform for signing off work. That is the benefit to me and to the customer, who receives a certificate a week or two later.
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] So it is a tick-box exercise.
+
+[[[Mark Pollock:]]] Yes. It shows that the work has been done, and that it has been done by someone who is registered with one of the scheme providers. That is possibly of benefit.I agree with Phil about the changes made whereby kitchens were taken out of being deemed a special area. Even for minor works—for example, an extension to a circuit—kitchens required building regs sign-off, and taking that out was a mistake, because kitchens have products that are ever more heavily using or demanding electricity. A lot of the really poor work that we see and were discussing outside is in those areas. Kitchens, conservatories and loft conversions are often areas where you see the worst kind of cowboy-type, if I may use the term, work done. Those are people who just do not have a fundamental understanding of how to protect an electrical system.Yes, you are right that domestic wiring is relatively straightforward. Not too much thinking needs to be done about how you are going to wire it—you are using 6 mm, 2.5 mm, 1 mm or whatever it might be—but terminating that requires some small degree of skill to ensure that you are doing things in the right way. We could probably all give examples, and not just little examples—this would take us into the wee hours of the morning—of really poor work by registered companies. I have repaired poor work by companies that are registered and by those that are not. Another issue for registered electricians is that there is so little enforcement. We are paying all this money to be registered, and we follow the correct procedures, but others do not, and nothing is done about that.
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] The concept—I stress the word “concept”—of the competent person scheme seems to be ideal for members of the public, because the assumption is that a person arriving is competent to do the work. You have all been very critical of the scheme. What changes would you like to be made to the scheme to make it more suitable for both the public and the industry?
+
+[[[Dr Judson:]]] If you make a building regulations application to build an extension on your house and send the drawings off, a building inspector comes and checks that you have dug the hole deep enough for the foundations, and you cannot proceed until he has signed off the foundations. If you want to alter the drains, he comes and tests them. The problem with Part P and the way it has been approved is that we are not testing installations to see whether they are safe. We are testing electricians and giving them a licence, whereas the rest of the building industry sends a man out to check. We seem to have created a massive industry to do something that is done fairly easily under the rest of the building regulations. If the building inspection companies—you now have to pay for the building inspector when you make an application—had qualified electricians who went out and checked the installations, as has been done for many years with foundations, drains and various other bits, job done. We have created a massive industry here with inherent problems. We have just heard that competent people install defective installations.The way is not to give people a licence to do something. If you want to regulate, do what we do with the rest of the building regs: send a building inspector out to check. It is very simple, and it is what other countries do. An inspector comes round and signs off the electrical installation and the gas installation. Why we in the UK have to do something so complicated escapes me. I am not a great lover of foreign systems, but I believe we have got this wrong.
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Suppose I want to put new sockets in my home, and decide not to do it myself but to hire an electrician to do it. Do you think an inspector should have to inspect that, as opposed to the example of a brand new kitchen being put in which requires a lot of detailed work? Surely there must be a distinction.
+
+[[[Dr Judson:]]] Why has there got to be? If you want to put a new toilet in your house and 3 feet of pipe goes to the drain outside, the building inspector must come and check the drains. Why is this any different? In the rest of the western world, you cannot do work unless you are an electrician, and an inspector comes round and signs it off.
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Your evidence to us is that all electrical work, for whatever purpose, should be inspected by an independent inspector. Is that your stance?
+
+[[[Dr Judson:]]] If you want a scheme, I suggest that that is a better one. It would be nice to think that everyone who had served a three, four or five-year apprenticeship knew what they were doing, had integrity and was a craftsman, but we happen to be in a world that is not like that now.
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] We will come to that in a minute. I am interested in the changes to the scheme to make it fit for purpose.
+
+[[[Peter Morris:]]] I think the Gas Safe-style system would be best. It is based on individual competence, which the present system is not. All that happens at the moment is that one person is selected from a company, and that person is assessed. No one knows whether the other 10, 15, 20 or 30 people are competent.
+
+[[[Q16 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Taking that point, how competent does someone have to be? We have heard about five-day courses, one-month courses and three-year apprenticeships. How competent does someone have to be before they become a member of the competent person register?
+
+[[[Peter Morris:]]] There are many different variations on what that level is, and we could probably spend a lot of time saying where that should be for domestic. Yes, it used to be three-year apprenticeships. As for going from three years to three weeks, three weeks, I believe, is more a monetary value: “People will spend £4,000 doing a course; if we make it five months, because that is how long it takes to become competent, that is too much money, and they will not do it, so let’s move it to being on a time and monetary value level, rather than a specific competence level.” As Mark Pollock said, he did a four-week course, and at the end of it, he did not know what he was doing. He decided he would like to know more and did a three-year version. That would have included industrial and commercial aspects. It is not necessarily a three-year course to do just domestic, but it is certainly not just a matter of a few weeks. 
+
+[[[Q17 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Mr Pollock, do you want to comment? You probably have the most recent experience of this whole process. 
+
+[[[Mark Pollock:]]] To answer your question, to have an improved system, I personally would like to see a single point of reference for the public—so one register. There is already the DCLG competent person scheme register; that exists. However, I would like to see one register, not two, and the register should only be for what is covered by regulation. Under one of the schemes, you can be registered, but if you do not choose to pay extra money, it appears that you only do a certain type of work. That was something that I complained about, and despite them having a very robust, single-point complaints procedure, it was never investigated—certainly not with me. I would have one reference point for the public. The public have a right to know that if they are picking somebody from a register, that person is a qualified electrician. In terms of my view of what qualified is, the current available qualification is the City and Guilds 2357 with an NVQ and the AM2; that is a qualification route.   
+
+[[[Q18 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] So that is quite clear; a qualification would be on that basis.
+
+[[[Mark Pollock:]]] Yes. I think that there can be more than one scheme provider, and just one point of reference for the public—that is, one register. They have a right to know what they are getting and who is crossing their threshold. Maybe all electricians should have some form of ID that shows what level they have. If you are not going to go down the route of, say, protecting the term “electrician”, or you are not going to have a licence system for electricians, at least the public should know—have a right to know, I think, for their own safety—if they are using a large company that may have one QS and 20 or 30 guys who go out and do the work, who is crossing their threshold, or indeed, about guys who are purporting to be registered electricians but are not. My experience is that the public have not got a clue—or very, very few of them do. The last bit would be that there needs to be some sense of enforcement; otherwise, it has no teeth.
+
+[[[Damian Skelton:]]] The point I was going to touch on was enforcement. As things stand, when we see terrible work, we have very little option. We can find who did the work and try to report them to their scheme operator, who does not really want to take any notice—it is up to the customer to make that complaint—or we can try the local authority building control. They have said to me on more than one occasion that they do not carry out enforcement. The only people I have found who have been helpful in trying to track down people who are carrying out dangerous work, misleading the customer, or doing fraudulent types of things, are trading standards; they, being linked to that department in the council, have helped. However, actual enforcement when bad work is done does not exist.    
+
+[[[Phil Watts:]]] There is currently a scheme, which is operated by JIB—the electrical certification scheme—whereby electricians can apply for grading and get a membership card. That gives them an identification card that they can show to customers. I believe that a scheme along those lines, fine-tuned a little, with a bit of tweaking here and there, would benefit the electrical industry and the customers. There are various grades, so if you have, say, a 2357—the electrical apprenticeship with the NVQ—you get a certain grade. The problem with the NVQ scheme is that, if you are not in the industry—if you are an adult student looking for a career change—there is little chance of you getting an NVQ, because you have to be working in the industry to fulfil the profile of the assessment.The 2365 is an alternative scheme to that. It provides a technical certificate over a three or four-year base, but does not provide an AM2. We need to look at a combination of different qualifications and an approach to when we call an electrician qualified. As well as the 17th edition, we also need to think about inspection and testing courses, because once you have installed electrics, you are duty-bound to inspect and test them, and that is where a lot of electricians fall down. They can install it, or throw it in, and get it to work, but it does not mean it is safe, and they fall down on the inspection and testing.I think we need to look at a scheme along the lines of the ECS and fine-tune and tweak it a little bit. We should also look at what sort of qualifications we require an electrician to have to be considered qualified. Then, alongside the Part P scheme, you would have effective regulation of electrical work. We must stop the individuals who are not qualified or skilled, and are doing the work underneath the counter, as it were—quite often for cash, and often not paying tax on it; I am sure that would be interesting to the Government—and useful for their coffers—and the electrical industry. That is what we need to clamp down on.
+
+[[[Q19 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Finally, several of you have given evidence about the fact that a firm needs only one QS to sign off the work, and can then employ a whole load of electricians who are not qualified at all. Should someone arriving on the doorstep be a competent person to do the job? A simple yes or no will suffice.
+
+[[[All witnesses:]]] Yes.
+
+[[[Bob Blackman:]]] I thought that might be the case. Thank you.
+
+[[[Q20 ]]]&#xa0; 
+
+[[[James Morris:]]] I want to pick up on the point that Dr Judson was exploring about the role of building control, in terms of inspection and enforcement. That would imply a changing role for building control within local authorities. How would that be paid for?
+
+[[[Dr Judson:]]] It is a role it currently has for the rest of the building industry. You apply for building regulations—that always used to be the local authority, but now it can be a private company. You have to pay for that, because you are putting up the building. When it comes to putting the foundations in, the building inspector comes along and checks that you have dug the trench deep enough, and that he is happy with what is in the bottom. When you put drains in, they want to witness the testing. Why, when it comes to wiring a property, is that such a big problem?There is a fundamental difference between whether you are interested in making the electrical installations safe, or in giving people a licence to do electrical installations. When you get 100,000 of them, you have 100,000 people, some of whom may not do it right, whereas you could instead check 100,000 electrical installations.The building inspector will then get a relationship with the local contractors; he will know the ones that he can trust. He goes out and knows when it is a good job, and knows the ones he cannot trust. That happens with foundations, drains and whatever.
+
+[[[Q21 ]]]&#xa0; 
+
+[[[James Morris:]]] There is a distinction, isn’t there? The scheme that you describe—my colleague gave the example of a household who decided to upgrade their sockets—would fundamentally put a different kind of pressure on building control. They would have thousands of inspections to undertake, which would mean extra cost for the local authority. Mr Skelton, I think you talked earlier about having spoken to building control, which said that it did not see that as part of its role.
+
+[[[Damian Skelton:]]] They did not want to get involved in the enforcement side of things. The impression I got from them is that it was up to someone else to do that. My argument was purely from an enforcement point of view. If someone is carrying out work that is non-compliant with building or electrical regulations, that needs to be enforced, but it is not at the moment. On how that could be enforced, I cannot really comment, because I am not in a position to create a body to do that enforcement and can only repeat the suggestion made to bring in a licence scheme.
+
+[[[Q22 ]]]&#xa0; 
+
+[[[James Morris:]]] Mr Judson is arguing that we do not need to create another body; we would just get the one in control to do what it does at the moment. Is that realistic?
+
+[[[Damian Skelton:]]] I do not believe that it is.
+
+[[[Phil Watts:]]] In my experience, local building controls are already struggling. They do not have enough suitably qualified personnel to carry out such inspections. I have worked with several different councils in my locality, and they do struggle, because they do not have these suitably qualified people in the numbers required.
+
+[[[Q23 ]]]&#xa0; 
+
+[[[James Morris:]]] Is building control taking on this role not a solution? Do we need something else, or do we need to expand the resources available to building control in order, so that it can do it?
+
+[[[Phil Watts:]]] Again, I think we are approaching it from the wrong end. If we control who is doing the work; if we had suitably qualified individuals doing the work, who could inspect it, test it and install it properly; if they were checked and had continual professional development; and if we had some sort of reasonable assessment process, I think that would work, rather than top-loading it on to building control.
+
+[[[Q24 ]]]&#xa0; 
+
+[[[James Morris:]]] Has anybody else a view on building control?
+
+[[[Peter Morris:]]]
+
+[[[ ]]]Building control are generally as fed up as the trade with Part P. They now have third-party inspections, so if somebody wants to come along and do some work in their home, they can now pass them over to third-party inspections, which will be coming in probably fairly soon. The problem of the DIY-er saying, “I want to do this,” should decrease. I know that my particular scheme, NAPIT, did a lot of work with building control; it did courses and explained what was going to happen at the start of Part P. To be honest, they basically said, “We cannot do it all ourselves. We cannot control that type of technology and do not have the level of knowledge required to do electrical installation work. We cannot get involved. It is too complex.” They passed it back and said that they could not do it.
+
+[[[Dr Judson:]]] I want to pick up on the example and refer you back to this planning portal. The paragraph states: “The Building Regulations allow certain works (known as non-notifiable or minor work) to be carried out without having to notify building control or using a registered electrician.” There is a long list of such works, but I will pick up on just one, which is replacing a socket outlet. It sounds really simple, that. If you take a socket outlet on a ring main off a wall because it is broken, there will be two brown wires, two black wires—there may be red wires and whatever—and two earth wires. You only have to connect one live and one neutral and can leave four others completely unconnected. If you put it back on the wall, you have immediately created a whole range of potentially dangerous situations and have destroyed the whole integrity of the ring main, but you can go to any socket and plug things in, and they will work. You could have broken the ring main and could have created the potential for overload just by replacing that socket.
+
+[[[Q25 ]]]&#xa0; 
+
+[[[James Morris:]]] I wasn’t arguing about the nature of the technical skill or competence required to do it; it is about whether building control would have sufficient resources to come in every time that that change was made and about the costs associated with that.
+
+[[[Dr Judson:]]] They do not have sufficient resources at this point in time, because they do not do it. But there are several hundred people employed in accreditation organisations that could become building control officers. All I am pointing out to you is the flaw in a system that says, “To take off a socket, you do not need to be a qualified electrician.” That is fundamentally wrong.
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Heather Wheeler:]]] To be honest, I think you guys have answered my question. Ultimately, what you are saying is that there ought to be higher level qualifications for electricians, and they ought to be the only ones accredited and on a competence scheme. To have one qualified guy with 20 people under him is just not acceptable. I do not think that I need to ask my question, Chairman.
+
+[[[Mark Pollock:]]] That, and people who have undertaken a short course and are then called electricians. I think we are all in agreement that people who have gone down that route may have the best intentions and may be motivated to become better, but, at the point at which they finish their four-week course and are accredited by one of the schemes, I do not believe that they are competent enough to go into people’s homes and work on the electrics.
+
+[[[Heather Wheeler:]]] Mr Morris, I know that you are desperate to get involved, but I think that is it, really.
+
+[[[Q27 ]]]&#xa0; 
+
+[[[John Stevenson:]]] As you all know, the gas industry has a different set-up. By law, all gas engineers must be on the Gas Safe register. Are you suggesting that we should recommend a similar scheme for the electrical industry?
+
+[[[Dr Judson:]]] Yes.
+
+[[[Peter Morris:]]] Yes.
+
+[[[Damian Skelton:]]] Yes.
+
+[[[Q28 ]]]&#xa0; 
+
+[[[John Stevenson:]]] The follow-on from that is: who do you believe should supervise that? The gas industry has health and safety. Who should do it for the electricians?
+
+[[[Phil Watts:]]] I would suggest something along the lines of the JIB scheme, which is run by the Joint Industry Board. If you want to apply for an Electrotechnical Certification Scheme card, which is an ID card for electricians, you go to the JIB, you have to do a health and safety exam and, all told, I think it costs about £78. If you join one of the competent person schemes, that costs nearer to £500. And when you go, you send in whatever qualifications you have got and tell them about your experience and they will grade you as an electrician or an improver or a technician depending on your qualifications, experience and skills.
+
+[[[Q29 ]]]&#xa0; 
+
+[[[John Stevenson:]]] So you are suggesting that they would enforce and supervise the register.
+
+[[[Phil Watts:]]] They would provide the card system. What we need is legislation that says that non-competent, non-qualified people should not be operating within the electrical industry and anybody found doing electrical work who is not part of the scheme should be sued.
+
+[[[Q30 ]]]&#xa0; 
+
+[[[John Stevenson:]]] It is more about who would be doing the enforcing.
+
+[[[Phil Watts:]]] You guys—the Government.
+
+[[[Damian Skelton:]]] Whoever does it, their primary objective needs to be ensuring public safety. That is the primary role. You do not need huge amounts of money to do that.
+
+[[[Q31 ]]]&#xa0; 
+
+[[[John Stevenson:]]] But someone has got to take responsibility for enforcing and supervising.
+
+[[[Damian Skelton:]]] Somebody has got to take responsibility for enforcing it, yes.
+
+[[[Q32 ]]]&#xa0; 
+
+[[[John Stevenson:]]] But you are not making any particular recommendations.
+
+[[[Damian Skelton:]]] I can make recommendations all day long, but it is not my place to make those recommendations.
+
+[[[Mark Pollock:]]] I do not know the JIB or any other single body to compare. I just think that we should have a single point of reference for the public and for the public to know who it is who is crossing the threshold when they come in.
+
+[[[Q33 ]]]&#xa0; 
+
+[[[John Stevenson:]]] Fine. But if I believe I have had an incompetent electrician, who do I go to to enforce the rules and ensure that this person is dealt with appropriately?
+
+[[[Mark Pollock:]]] Well, whoever runs the scheme that I and others will be with.
+
+[[[Peter Morris:]]] It should be a Gas Safe-style system. The question about which organisation should run it is a monetary one. The schemes have shown over the last few meetings that they really do not want that. That problem is monetary and commercial. They do not want it because if you look at a pure Gas Safe-style system, that will have individual competence on the doorstep. It will have policing on a regional basis and national advertising with a set budget. It will say how much that licence will cost and how much the individual company that is running it will get paid. It is something that the existing commercial schemes do not want, because although we are talking about restrictions on legislation—
+
+[[[Q34 ]]]&#xa0; 
+
+[[[John Stevenson:]]] To be honest, I am more interested in your view. Who do you think should be doing it?
+
+[[[Peter Morris:]]] I think it should be put out to tender. If you say, “Well, which scheme?” or “Should it be Capita or should be whoever—a company?” it should be like Gas Safe: it is specified what it is, and what it is going to do. At the moment the schemes can make any regulation they want and impose it on our trade.
+
+[[[Dr Judson:]]] The JIB have been around for a long time—since I was a lad, which is a long time. They know what they are doing. They are very capable, and very competent. They have a scheme that works and I think that it would be very sensible to extend that so that all electricians who crossed your threshold had a JIB certificate. However, I think you have to, in parallel with that, pass some legislation that says, “You can’t do any electrical work in your house other than change a lamp.” I think the two together would be very effective.
+
+[[[Q35 ]]]&#xa0; 
+
+[[[Mrs ]]]
+
+[[[Glindon]]]
+
+[[[:]]] I think each of you in some way has said something about public awareness and how you would like to see that improved. So do you think that putting brand awareness to the public, like NAPIT, would aid or hinder the improvement of electrical safety?
+
+[[[Peter Morris:]]] Yes. A single brand is a good idea, like Gas Safe, or whatever name is required. I believe that name should be held by Government and then licensed or leased, or whatever, to the organisation that is running. It should not belong to a commercial company; otherwise, you are going to be in exactly the same situation. When it transitioned from Corgi to Gas Safe, Corgi was recognised at 90-odd per cent. Gas Safe is still low. If for some reason you were going to take away that licence you would have to start all over again. That name should be held by a body that is independent of that commercial body, in the same way that Gas Safe is not owned by Capita.
+
+[[[Mark Pollock:]]] I think that it would probably be helpful for the public to have a single brand to be aware of. I think most people over the years would have associated Corgi with someone who would fit their boiler, and they would look for a Corgi fitter to undertake that work. I can say, working with the public on a daily basis, that in my experience—quite a few years now—since Part P came in I can probably count on one hand the number of customers who actually knew to ask me for a certificate—either an electrical installation certificate or a building regs certificate—or had reasonably good awareness that they needed to use a registered electrician. Even they would not know where to find one. I think that the scheme providers are coming at this from the wrong angle. I have asked a few people this: “How would you go about finding, say, a plumber or a heating engineer if you wanted to put a new boiler in?” Most people have two methods. One is direct referral, so they would find out from friends or somebody they know who has had a boiler put in; or they go on to Google and a website. You look for local companies, you look at their websites, you would see which one attracted you, and then you check—are they what they say they are? You check the competent person scheme, because obviously it should be on the website if you are.The schemes seem to see themselves as the centre of the universe—that people should go there first. I don’t see that that, actually, is how it would work. Most people are going to look for a company first. I know they will say, “Yes, but you can look up”, but if you go on to one of the two registers that exist and put in your post code you will get a bunch of companies within a small radius of where you live. That does not help you in any way choosing who they are. All you know then is that they are on a scheme, whereas if you have a chance to check their website or you know someone who has worked with them you would have a better idea. The public awareness issue is really important. The figures given at the last meeting were of 14% public awareness. If after eight years only 14% of the public was aware of Part P’s existence, that is a failure—in anyone’s book. 
+
+[[[Damian Skelton:]]] In my experience, it is not even 14%.
+
+[[[Mark Pollock:]]] I could say that it is far less than 14%; 14% may have heard of something, but very few people have awareness. I think that whatever you do there needs to be something built in that requires the scheme to use funds to educate the public.
+
+[[[Dr Judson:]]] I am amazed it is as high as 14% of the public who are aware of the scheme. I think that is indicative of how effective it has been. There is an upside of that, though. If you were to change it to something different, not many people know it exists, so it wouldn’t matter if you introduced something else. I do think it is important for the public. They used to understand Corgi and there was the whole struggle when it changed to Gas Safe. It was a tragedy that it changed its name. Whatever scheme comes out of your deliberations, if in five years’ time only 14% of the population know about it, it will be another failure. I think the public need to be made aware of what they can and can’t do and whom they should go to get work done. I know a number of very good electricians who don’t work in domestic installations who do not have a clue about what Part P is. They are in the industry. A guy who has worked for me for many years—he is my sort of age—started wiring houses and general electrical contracting. He has built power stations for me. He recently rewired his house and changed the consumer unit and the electricity board turned up and would not connect it because he was not Part P accredited. Now, I would let this man build a nuclear power station. He did not know about Part P. In terms of public knowledge, I don’t think it exists. 
+
+[[[Damian Skelton:]]] How hard is it to run a simple advertising campaign? You could get an advert in the middle of “Corrie” or just before the 10 o’clock news to tell people about the importance of using a qualified electrician registered with such and such a scheme. It is not that hard to increase awareness. 
+
+[[[Peter Morris:]]] The single register that has been discussed for a long time has existed at competentperson.co.uk for a number of years. There has been so much discussion about a single register. It exists. There is nothing to reinvent. 
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Chair:]]] When the Committee first began this, I think we might have failed the 14% threshold when it came to understanding of the scheme. I won’t say which ones. I have two points. Gas Safe has been mentioned quite a few times. When we had evidence previously in our inquiry, when we looked at the regulations regarding gas safety, we saw that there is quite a lot of work done on the gas in people’s homes by incompetent unqualified people. Whatever scheme we have, there are still going to be people trying to get round it. What should happen to them? Briefly, what should be the penalties to ensure that we have a real deterrent, and who should enforce them?
+
+[[[Phil Watts:]]] Can we bring back hanging? [Laughter.]
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Chair:]]] We won’t split the Committee on that one. I am sure that will appear on Twitter.
+
+[[[Damian Skelton:]]] At the risk of sounding too authoritarian, there need to be strict sanctions and there needs to be statute in place to prosecute people who carry out dangerous work.
+
+[[[Phil Watts:]]] We license doctors and nurses. If people practise as doctors or nurses they are dealt with. There need to be similar penalties for practising as an electrician if you are not qualified, because you are dealing with safety. We keep on saying that we are only talking about domestic work in people’s houses, but surely that is one of the most dangerous areas. We install electrical installations and then we walk away and we leave that installation in the hands of the householder. They are then at liberty to do whatever they want to do with it—they can poke their fingers in left, right and centre and change things—so shouldn’t electrical safety in houses be even more strict? When we are looking at industrial commercial areas, industrial commercial buildings have often got maintenance electricians—people who are knowledgeable, skilled and qualified around you in the daytime—and the Health and Safety at Work Act and everything else prevents people from messing around with electrical installations, but we do not have that in the domestic area.
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Chair:]]] So the sanctions are disqualification, fines, and, if necessary, imprisonment?
+
+[[[Phil Watts:]]] Absolutely.
+
+[[[Damian Skelton:]]] Yes.
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Chair:]]] Enforced by whom? Who prosecutes? Who gathers the evidence?
+
+[[[Peter Morris:]]] At the moment, the Gas Safe system goes through HSE. If that was directed through trading standards, because it is more appropriate, that would be fine. There are lots of jokes about the French and the way they do it. They do not get into this, “Is it this person? We need to catch them at it, so let us keep extending the number of years that we can report dangerous work from one year, two years, three years.” They simply say, “Have you carried out electrical work? Yes or no? Have you got a licence?” And they are prosecuted for carrying out electrical work without a licence. As for a lot of the LABC route of arguing about the regulations—“Have you done this like this?” and “You should have notified before”—forget the whole lot. Just a simple, “Have you carried out electrical work? Do you have a licence?” 
+
+[[[Q40 ]]]&#xa0; 
+
+[[[Chair:]]] Just one point of clarification. Mr Judson was arguing for the building regulation route and that, basically, everyone who walks through the door should be qualified to do the work and should be part of a scheme. Are you still saying that the essence of the competent person scheme would remain for the company to have to be affiliated as a company or not?
+
+[[[Mark Pollock:]]] Individual.
+
+[[[Damian Skelton:]]] Individual.
+
+[[[Peter Morris:]]] Individual.
+
+[[[Q41 ]]]&#xa0; 
+
+[[[Chair:]]] Each individual, with no need for the company or the organisation to be registered as well.
+
+[[[Dr Judson:]]] That would be so pleasing. If individuals had to be registered as electricians, companies would not employ them unless they were registered, because they would be putting themselves at risk.
+
+[[[Mark Pollock:]]] But the public need to know who is coming through their door to install the electrical installation.
+
+[[[Peter Morris:]]] The public are paying for an electrician. They should get one.
+
+[[[Q42 ]]]&#xa0; 
+
+[[[Chair:]]] They are actually employing the company, aren’t they?
+
+[[[Peter Morris:]]] At the moment, it is based around the enterprise.
+
+[[[Damian Skelton:]]] But the company engages the service of their employee to carry out the electrical work.
+
+[[[Q43 ]]]&#xa0; 
+
+[[[Chair: ]]]Should the obligation therefore be on the company? If so, how would that work?
+
+[[[Damian Skelton:]]] Companies would need to ensure that they are employing licensed electricians. Just as there should be sanctions for the unlicensed who carry out work, there need to be sanctions for those who employ unlicensed people to carry out work.
+
+[[[Phil Watts:]]] We have the electricity at work regulations. Who enforces that? It is already in place. In the case of anybody who is actually doing work, if they are not skilled and not qualified, they are not really competent. So, as far as the electricity at work regulations are concerned, they are in contravention of that. Whether it is an individual or a company, they are in contravention of the electricity at work regs and they should be dealt with appropriately.
+
+[[[Chair:]]] Very briefly, Mr Morris, then we must move on.
+
+[[[Peter Morris:]]] As mentioned, under the electricity at work regulations, the individuals are responsible, but, at the moment, because it is registered at the company level, they think they are immune from that, when they are individually responsible for the certification of the work carried out. So they are vulnerable. They think, “I work for the company. It’ll be all right, the company’s responsible.” But they are themselves responsible. They should know that they are competent and be brought up to a competent level.
+
+[[[Chair:]]] Thank you all very much indeed for coming this afternoon. We appreciate it.Examination of WitnessesWitnesses: 
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[,]]] Electrical Contractors’ Association, 
+
+[[[Phil Buckle,]]] Electrical Safety Council,  
+
+[[[Emma Clancy,]]] Certsure and 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[,]]] NAPIT Registration, gave evidence. 
+
+[[[Q44 ]]]&#xa0; 
+
+[[[Chair:]]] Good afternoon. Thank you very much for joining us. I think that there are some familiar faces for the Committee to take evidence from again. Just for the sake of our records, could you begin by saying who you are and the organisation that you represent? 
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] I am Steve Bratt and I am the chief executive officer of the Electrical Contractors’ Association. 
+
+[[[Phil Buckle:]]] I am Philip Buckle and I am the director general of the Electrical Safety Council. 
+
+[[[Emma Clancy:]]]
+
+[[[ ]]]I am Emma Clancy, chief executive of Certsure. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] I am David Cowburn, the managing director of NAPIT Registration. 
+
+[[[Q45 ]]]&#xa0; 
+
+[[[Chair:]]] Were you all in for the beginning of the previous session where I made a statement about sub judice? 
+
+[[[Witnesses:]]] Yes.
+
+[[[Q46 ]]]&#xa0; 
+
+[[[Chair:]]] Okay. Thank you. So you heard that; obviously that applies to this panel session as well. You have obviously seen—I am sure you saw it before you came—some of the evidence on our website expressing concerns about the operation of the electrical competent person scheme, and you sat in and heard the evidence from the previous witnesses. Do you recognise any of those concerns or do you think it is just a small minority of people who have got a gripe that is personal to themselves and not really reflective of the industry as a whole? 
+
+[[[Emma Clancy:]]] I think the panel before raised a number of important issues that are of concern to them and to the industry as a whole. I think that awareness is something that we would acknowledge needs to be improved, and we have made some constructive suggestions recently as to how we may do that. I think the situation is complex. When the legislation was originally created, there was a desire to offer grandfather rights. There was also the prevalence of the DIY-er and our inability to stop the DIY stores, if you like, selling various bits of electrical equipment. So all of these various things have led to a complexity in the system that we would acknowledge and agree with the previous panellists in bringing forward. There are obviously some points that we would disagree with, in terms of the robustness of the schemes that we operate. There are some significant differences between the way that Gas Safe operates and the way that competent person schemes operate, which I think would be worth exploring in more detail if that’s relevant. So I think, yes, we agree on some points and perhaps on others not. When we conducted our own surveys in 2011 involving 4,000 contractors, 84% of them said that part P should stay and it should be strengthened, and 53% of those 4,000 contractors said that they had seen things improving. So, I think that there is a wider pool of evidence that also needs to be considered. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] I would add that as well as the things that we might agree with and disagree with, there were a number of things that were said that we may well sympathise with and certainly do sympathise with. There were comments about the regime and the structure, which are slightly outside the operation of the schemes themselves but which were worthy of exploring. I think we would recognise most of the issues that were raised today as issues that have been raised in previous consultations and previous reports. I think maybe we will get to this more as we go through the questioning. A number of the issues that have been raised have already begun to be addressed, not to a degree that our colleagues who have given evidence would see it in practice yet but to a degree that will take us forward, I am sure. 
+
+[[[Q47 ]]]&#xa0; 
+
+[[[Chair:]]] Which ones? 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] To give an example, a lot of the conversation today was about what you set as the appropriate standard or the qualification that you would require for an electrician. Now, the standard that we all work to is called an electrotechnical assessment specification. We all work to the same standard within the scheme operators. It’s been through three iterations. It is now in its 2012 version. 
+
+[[[Q48 ]]]&#xa0; 
+
+[[[Chair:]]] Are we talking about the standard for someone who is going to be a member of the competent person scheme or a standard for someone who walks through a door and does the work?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] This is the standard that covers the enterprise that would be registered by one of our schemes, which includes, then, the individuals they employ. There is an annexe within that standard that says, “the individual that you employ should have one of these qualifications”. I think there was some talk about what is the appropriate level. Certainly, reading the evidence submitted by paper, prior to tonight, lots of references were made to the national occupational standards.The standard that we now work to requires a level 3 NVQ or equivalent. That is based on the national occupational standards. When we talk about “or equivalent”, every single equivalent that is listed here is mapped against the national occupational standards. Some of the witnesses earlier mentioned having the wiring regulations qualification in there as well—it is—and that we should have inspect and test qualifications in there, as well—they are—but what we need to reflect is that it has not always been that way. There has been an uplifting of the requirements in this standard that I am referring to. We have only been imposing the latest level of standards since last year.I recognise the issues that our colleagues in the industry have got with low-level and short courses, but we have acted to address—and when I say, “we”, it is not the scheme operators; this standard is set by the Institution of Engineering and Technology, the Government, Local Authority Building Control, the sector skills councils, the awarding bodies, not just the scheme operators.Just to finish off on that, there is a requirement that people have sufficient experience—it now says, “two years”. You cannot be a five-day wonder and have two years’ experience. We have tried to address it in that manner. That is just to give you one example of an issue that we would fully recognise, but have been making progress on.
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] Just to add to what David said, that line has been drawn in the sand this year. Prior to that, you could argue that that standard was not in existence and this is not going to be applied retrospectively. So over time it will resolve the issue. However, from this year onwards, moving forward, there is a much more robust standard in place, now, for people entering the industry.
+
+[[[Q49 ]]]&#xa0; 
+
+[[[Chair:]]] So it will not be applied retrospectively. Will you explain that?
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] When Part P was introduced, a decision was taken not to have this level of qualification in place at that point, because there were clearly people working in our industry who had various levels of qualification and experience. So there were no restrictions at the level we are talking about imposed at that point. We have been pushing for an enhancement of that, to the point that, in this year, they came into effect. Anyone who came in prior to this point will have met a different standard from that that David has just described. Now, the standards will be much more robust for people entering the industry.
+
+[[[Q50 ]]]&#xa0; 
+
+[[[Chair:]]] We need to understand this, because it is quite an important point. If any person comes along now and says, “I want to register under the competent person scheme, this is my company”, would they have to ensure that every person who worked for them and did electrical work had a level 3 NVQ or equivalent?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] No. You heard reference earlier to the qualified supervisor. The qualified supervisor requirement did not use to be this high. They are what has been increased.
+
+[[[Q51 ]]]&#xa0; 
+
+[[[Chair:]]] The qualified supervisor.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Yes.
+
+[[[Q52 ]]]&#xa0; 
+
+[[[Q52]]] 
+
+[[[Chair:]]] What does “qualified supervisor” mean, precisely?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] This is the individual responsible for the electrical work carried out by—
+
+[[[Q53 ]]]&#xa0; 
+
+[[[Chair:]]] Who signs the work off, as the competent person.precisely?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Yes. And bear in mind there can be more than one—
+
+[[[Q54 ]]]&#xa0; 
+
+[[[Chair:]]] So the person who actually does the work need not be qualified at all.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] The person who carries out the work must be competent.
+
+[[[Chair:]]] No. I shall just ask the question again.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] There is a problem with the word, “qualification”.
+
+[[[Q55 ]]]&#xa0; 
+
+[[[Chair:]]] The person who does the work need not have any qualification at all.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] That is correct. They have to be found to be competent by some other means, potentially.
+
+[[[Q56 ]]]&#xa0; 
+
+[[[Chair:]]] Right. Okay. So we are talking here about qualifications for the people who are a competent person under the scheme, who actually sign the work off.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Yes.
+
+[[[Emma Clancy:]]] Yes, who are legally responsible. The QS is legally responsible for the work they sign off.
+
+[[[Q57 ]]]&#xa0; 
+
+[[[Chair:]]] So we make sure—we are talking about that issue, not about the issue of the qualifications of the people who actually do the work. There is no requirement to have any qualification at all, under any of the schemes.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] There is a requirement to be competent.
+
+[[[Q58 ]]]&#xa0; 
+
+[[[Chair:]]] I don’t know who will judge competence, if the person has not got qualifications. I do not know who does that.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] I say that particularly because there is not even a requirement for the qualified supervisor to have a qualification. They must be competent.
+
+[[[Q59 ]]]&#xa0; 
+
+[[[Chair:]]] The person who does the work need not even be competent by law.
+
+[[[Phil Buckle:]]] They must be competent.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] An example was given earlier by one of the witnesses about work that could be done by someone who was not competent, but that would be someone working outside the schemes and on a type of electrical work—
+
+[[[Q60 ]]]&#xa0; 
+
+[[[Chair:]]] The only person who must be competent is the person who signs the work off legally. Is that so?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Legally, yes.
+
+[[[Q61 ]]]&#xa0; 
+
+[[[Chair:]]] So the person who does the work doesn’t even have to pass a test of competency.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] In theory, yes.
+
+[[[Q62 ]]]&#xa0; 
+
+[[[Chair:]]] In theory and in practice.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] In practice, more than 80%—
+
+[[[Q63 ]]]&#xa0; 
+
+[[[Chair:]]] I am just saying that those people do not have to be competent. Some may well be, but they do not have to be.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Yes.
+
+[[[Q64 ]]]&#xa0; 
+
+[[[Chair:]]] How many complaints a year do you get about your schemes?
+
+[[[Phil Buckle:]]] Through the DCLG review, I have the facts to hand. For all of the eight competent person scheme operators who run electrical installation activities, the number of complaints measured as a proportion of the number of notifications—that is, jobs done—was less than 1% for the period between 1 November 2012 and 31 March 2013.
+
+[[[Q65 ]]]&#xa0; 
+
+[[[Chair:]]] How many is that?
+
+[[[Phil Buckle:]]] Well, 79% of complaints were settled. I do not know the actual number.
+
+[[[Q66 ]]]&#xa0; 
+
+[[[Chair:]]] Could you give us a note about that please.
+
+[[[Phil Buckle:]]] We can provide that. Of those complaints, 79% were settled in favour of the complainant or by mutual agreement, so the number of complaints is very small given the number of notifications per annum.
+
+[[[Emma Clancy:]]] I can provide the figures now if that aids thinking. There are around 500 consumer complaints a year for over 1 million jobs notified.
+
+[[[Q67 ]]]&#xa0; 
+
+[[[Chair:]]] Do you have complaints about cowboys in the industry? Do you have concerns about that?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] If by cowboys you mean people who are acting outside the registration scheme incompetently, we have great concerns. To a degree, a lot of the evidence submitted to you focuses perhaps too much on the registration schemes when there is an issue about the work being done by the totally unregistered, which DCLG estimated at over 20,000 contractors. How do we persuade the industry to go along with registration when understanding by the public and the industry is poor, which we accept.
+
+[[[Q68 ]]]&#xa0; 
+
+[[[Chair:]]] Have you any concerns about cowboys within the scheme—registered cowboys?
+
+[[[Emma Clancy:]]] We have confidence in the assessment processes that we operate and our contractors.
+
+[[[Phil Buckle:]]] It must be remembered that the acid test is the on-site assessment that scheme operators undertake. None of the firms that submit to becoming registered with a competent person scheme can just do work without any review of that work activity. The qualified supervisor or supervisors—there can be more than one in a company—must provide the information relevant to lists of jobs undertaken for the assessor to review that work on a random or selective basis. I think Emma or David are probably better qualified to talk about that than I am.
+
+[[[Chair:]]] Okay, we will move on to that.
+
+[[[Q69 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] In terms of the registers you are responsible for, how many people have been excluded from the register over the last 12 months?              
+
+[[[Emma Clancy:]]] Around 10% of people leave the scheme a year.
+
+[[[Q70 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] So these are members of the scheme who leave. They could be retiring or going on to another job.
+
+[[[Emma Clancy:]]] Yes.
+
+[[[Q71 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] You specifically have excluded them because they are not competent to do the job.
+
+[[[Emma Clancy:]]] No, 10% leave and that could be for a range of reasons.
+
+[[[Q72 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] So how many have been excluded for not being competent?
+
+[[[Emma Clancy:]]] Around two and a bit percent of that 10%.
+
+[[[Q73 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Sorry, is that 2% of the membership or 2% of 10%?
+
+[[[Emma Clancy:]]] It is 2% of 10%.
+
+[[[Q74 ]]]&#xa0; 
+
+[[[Chair:]]] Right. So it is 0.2%.
+
+[[[Emma Clancy:]]] Can I describe the process a bit to put that into context? Of the people who apply to us—
+
+[[[Q75 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] I am not talking about people who apply. I am talking about existing members who are excluded because their work is not up to the required standard. There is a difference between people applying and people who are already members of the scheme but are found to be incompetent after they have been through the assessment process. That is the first thing I am looking at.
+
+[[[Emma Clancy:]]] Okay.
+
+[[[Q76 ]]]&#xa0; 
+
+[[[Chair:]]] But you can, by all means, describe the assessment process.
+
+[[[Emma Clancy:]]] Only in the context that getting on to the scheme is difficult in the first place. Exclusions happen as part of that. Only 43% of people who write in to us or make an application proceed through the system to an actual visit and inspection. They then go through a rigorous half-day assessment by our competent people, who look at the work that they undertake. At that point we have around an 83% pass mark. The idea is that the system itself makes it very clear from the beginning what we expect from people, and there is some self-selection before they get to that point. Once they are registered with us, we support and guarantee their work. So they should be good, and we would expect them to stay with us. Yes, if a consumer complaint comes in, or if we have concerns about their work—which could be raised by the contractors—we address it and look at it, and people are thrown off the register for those reasons.Back to the consumers having confidence about who turns up at their door, it is better that the process is the bit up front so that we can be confident about the people who are on the register. That is the point I wanted to make.
+
+[[[Bob Blackman:]]] I understand that.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Exclusion is only one sanction, and it is important within the processes to recognise that, where we have evidence of non-compliance, there are other things that happen. You might increase the amount of inspection, or you might bring the assessments forward. We sometimes do customer services to find out whether it is an isolated problem or more widespread. We can set improvement actions, and they might be sent on training courses or be required to employ different and better resources. We have probationary membership that requires reassessment. We have conditional registration, which requires them to jump through hoops to remain on the register, and they may be suspended for a period of time before coming back onto the register. Although you are right to ask about exclusion, and exclusion does happen, it is often in the best interest of the consumer for improvement actions, other monitoring and other sanctions to take place so that, if there is faulty work, it is rectified and that the improvements are accepted by the enterprise so that they go back into the marketplace working competently within a scheme, rather than working incompetently outside a scheme.
+
+[[[Q77 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Mr Bratt?
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] We don’t actually run a scheme. We are stakeholders within the sector of schemes. The figures that Emma has quoted are relevant.
+
+[[[Q78 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Mr Buckle?
+
+[[[Phil Buckle:]]] I have similar views to those expressed by Mr Bratt.
+
+[[[Q79 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Fine. What checks have you undertaken to ensure that people applying for registration have not been excluded by another scheme?
+
+[[[Emma Clancy:]]] This is a new condition of authorisation brought in by DCLG, and it is effective from June. Scheme operators are obliged to share that information, and indeed there is a system in place to ensure that we do that. So it is something that has happened in the past on a fairly informal basis, and it is one of the things that have been improved. As I have said, it comes into effect from June. That process is in place, so we will share and check. We ask at the moment, but the process will be further tightened by the new procedures.
+
+[[[Q80 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] You ask, but do you verify in any way, shape or form at the moment?
+
+[[[Emma Clancy:]]] Yes, we do.
+
+[[[Q81 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] How do you do that?
+
+[[[Emma Clancy:]]] Just by calls.
+
+[[[Q82 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Calls to whom?
+
+[[[Emma Clancy:]]] To each other across the six schemes.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] There is a database in place now that we can each access individually to see the movement of enterprises between schemes and whether there is any history. If someone makes a claim on their application form, we can verify it on the database. Emma is quite right that, in the past, we had to do that informally.
+
+[[[Q83 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Are you aware of any prosecutions taking place for non-compliance? Has any work gone so badly wrong that prosecutions have taken place as a result of that work not being up to standard?
+
+[[[Emma Clancy:]]] I am aware of three in the past year.
+
+[[[Q84 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] And were they registered competent persons on your register?
+
+[[[Emma Clancy:]]] I am not sure. At least two were on our register, but I am not sure about the third. They are the individual prosecutions of which I am aware in the industry. We also have around 99 contractors on our wall of shame for misusing our logo. Again, it is a public-facing website, so we are saying to people, “Don’t use these people for these reasons because they are claiming to be represented by a scheme when they are not.” We take steps to try to promote that information, too.
+
+[[[Q85 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Finally, I think you said that 43% of applicants to the register are not successful. Is that correct?
+
+[[[Emma Clancy:]]] When people call up, we say, “These are the things that you need to show us, and this is the standard that you need to make,” and they choose not to progress, or they go through a telephone interview and we turn them down at that point because we think that they are going to fail the assessment process, which would be disappointing for all parties.
+
+[[[Q86 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] And the pass mark is about 83% for those who go through the whole process?
+
+[[[Emma Clancy:]]] Correct.
+
+[[[Q87 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] And do we know what happens to the 17% who fail?
+
+[[[Emma Clancy:]]] Sometimes they come back. We want them to join; we want them to be part of the system. We will say, “You need to get more jobs in this area, or you need to do this or that.” So they come back sometimes. Other times they don’t or they go to a different scheme.
+
+[[[Q88 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Presumably, that 17% could go off and work for a firm that has a qualified, competent person, but they are not qualified themselves. They can go off and do electrical work in the industry.
+
+[[[Emma Clancy:]]] But they are competent.
+
+[[[Q89 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Are they competent? How do you know? You have said they are not competent because you have turned them down. 
+
+[[[Emma Clancy:]]] Because, in the analogy, the QS is legally responsible for ensuring that the people doing the work they are signing off are competent. We talk about the driving test. Our belief is very clearly that you need the qualifications—of course you do—but you also need the work experience and you need that to be judged in a practical environment, looking at the work that you are doing. That is where the competence part of the jigsaw comes in and that is the primary concern of the scheme operators. The training is set by the national occupational qualification and that has been increased. Like the driving test, you would not want to get behind the wheel of a car if you had only read the book. We are the driving test part of the jigsaw.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Could I chip in with the other issue? It is a genuine concern that if a contractor who fails to get through the process has the opportunity to trade perfectly legally, with no registration whatsoever, having failed their assessment, in theory by informing Building Control of their work, but in practice, because of the lack of enforcement in that area, they can just trade perfectly legally. 
+
+[[[Q90 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] I am told that it is very easy to find on the internet adverts for courses claiming that they can train you as an electrician in five weeks. Is five weeks long enough to learn to become a competent person?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Not always. The criteria are set and five weeks for someone with some experience might be enough. Mr Morris earlier said that he can’t easily nail it down to a number of weeks or months. It is key to recognise that training alone is not the criterion we set for someone to be registered. It is training, practice, doing the job; it is us inspecting the work they do, asking them technical questions when our assessors are with them. The exams they have passed may be to do with the practice of carrying out electrical work, but there is also a requirement that they must each pass a test to understand the wiring regulations, the British Standard that they must understand. It gets criticised because it is not difficult to pass, but the very act of having to undertake the exam makes them read, study and understand those regulations. We also require things on the business that is being registered that could not possibly be covered by training: insurance, holding test equipment, calibrating test equipment, filling in paperwork, having a complaints system.
+
+[[[Q91 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] Those aren’t covered on the course?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Well, they wouldn’t be delivered purely by being qualified, because they apply to the enterprise not the individual. Some of these training courses will of course help individuals to understand those requirements. It depends how they are structured. They key to us is that, after achieving whatever training or qualifications they have got, they come to us to be assessed. No matter what they have got in their background, they have to be assessed. 
+
+[[[Q92 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] So you would argue that those advertisements are very misleading. If there is an impression out there that you can achieve a qualification from scratch to become an electrician in five weeks, it is completely misleading and wrong for any organisation to make such a claim.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] It is misleading to say that it would guarantee registration. But bear in mind that you can be an electrician, you can carry out electrical work, without being registered. People will often trade on the back of having done a training course. “I have been Part P trained” does not mean that they have come into one of our organisations.
+
+[[[Q93 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] Are those the five-day wonders that we heard about earlier?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Both those and perhaps five-day plus and five-month plus. 
+
+[[[Q94 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] All of the witnesses, do your companies provide training courses?
+
+[[[Emma Clancy:]]] Certsure provides training courses under licence from City and Guilds and EAL. 
+
+[[[Phil Buckle:]]] No, we are consumer-facing. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] We are not training providers per se.
+
+[[[Q95 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] Does that make up a large part of your work? No. May I just ask about levels of competency? Is it right that the level of competency to work in an industrial environment should be higher than in a domestic environment? What is your view on that?
+
+[[[Emma Clancy:]]] It is about appropriateness. For example, for our predominantly commercial scheme known as the approved contractor, it is a whole-day assessment. The assessment takes into account the nature of the work that you are doing. 
+
+[[[Q96 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] How would you know that somebody who is only approved to work in a domestic environment is not working on commercial installations? 
+
+[[[Emma Clancy:]]] We would know whether we had assessed them for that. We would not know whether they were doing that work. What is important from our point of view is that we are only listing for what we have assessed people to be competent to deliver. 
+
+[[[Q97 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] How would a system prevent somebody who is only accredited for domestic work from moving over to commercial work without carrying out any further training? Are there any controls on that? 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] It is not regulated. Only the domestic sector is regulated.
+
+[[[Emma Clancy:]]] It is only in the domestic sector that it is regulated. Outside of that, it is not. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] On a voluntary level, though, the specification that I talked about earlier that covers the domestic sector also covers the commercial sector. You asked about levels, and I am not an expert in education but level 3 is an understood level of qualification. Both for domestic and for industrial work, they are level 3 qualifications. One is a certificate and the other is a diploma, but they are both set at level 3, which means able to work unsupervised. 
+
+[[[Q98 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] Right, but you did say that there is no regulation at all in respect of commercial installations. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] You have to meet the Electricity at Work Regulations, but there is no scheme or measure of competence or registration. 
+
+[[[Emma Clancy:]]] There is a voluntary scheme, which is long established and much respected. 
+
+[[[Phil Buckle:]]] So if you expanded your business activity, which firms might legitimately wish to do, you would fall under the Electricity at Work Regulations for that industrial or commercial work. If a firm were to err and cause a problem for the client, the Health and Safety Executive would take enforcement action.
+
+[[[Q99 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] Okay, so the regulation in respect of commercial has got a lot more beef than in respect of domestic installations. 
+
+[[[Phil Buckle:]]] In terms of it being a statutory regulation made under the health and safety at work Act, yes. 
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] In addition, our fellow witnesses referred a lot to the JIB and the ECS card, in particular. There are, I believe, more than 110,000 ECS cards in existence, and the industry at a commercial level to some extent regulates itself. Responsible employers will always choose an ECS card holder, because as an enterprise it is a good way of demonstrating that the individual employee is competent. It is extensively used in the commercial sector also because it has connections to health and safety passport schemes, which are widely used in the construction industry. 
+
+[[[Q100 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Pawsey]]]
+
+[[[:]]] As a question off the top of my head, why cannot some of the regulation that applies in the commercial sector simply be morphed over to the domestic sector? 
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] It could be. I believe that there are agreements in place already for it to operate voluntarily to qualified supervisor level. It is possible for that to happen. I believe that the JIB has made a response as part of the submission for evidence, although that has not appeared on the website for some unknown reason. It would probably make a similar point. 
+
+[[[Q101 ]]]&#xa0; 
+
+[[[Heather Wheeler:]]] I am fascinated, Ms Clancy and Mr Cowburn, because you are very proud of the authorities that you run and the professionalism that you give people competency tests for, so what are you doing about publicly decrying the adverts for five-day and five-week training? Are you taking them to the Advertising Standards Authority? What are you doing about that? 
+
+[[[Emma Clancy:]]] We are, in some ways, the driving test part of the business rather than the qualifications part. As our network of colleagues are represented on different boards, we do talk about training courses and about raising standards. That is exactly why the improvements that David mentioned earlier have happened, because the industry works together to do exactly that. We work very hard with trading standards to make sure that when people are displaying the logo wrongly in terms of the schemes, that is addressed. We all provide expert witnesses in various cases to support that. Most positively, we talk about the good reasons why you should use a competent person in your home to have electrical work done. The charity talks very clearly about the wider safety issue, and then we talk about the wisdom of choosing a qualified, competent person to have electrical work done in your home, because of the guarantees that it brings and the safety confidence that you can have as a result. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] One of the main things that we have done is to try to exclude such training from delivering people into our hands. By setting the standards that say you must have two years’ experience and a qualification that is equivalent to the national occupational standards, it cannot be delivered in that way. We cannot stop people falsely advertising what their training courses can deliver, but we can stop them being the mechanism for coming into a scheme—and that is what we seek to do.
+
+[[[Emma Clancy:]]] Stop them being registered.
+
+[[[Q102 ]]]&#xa0; 
+
+[[[Heather Wheeler:]]] If you see them being advertised in local newspapers, you don’t think it is your duty to get hold of the editor and get an editorial piece—a puff piece—about “Fine, these are really interesting five-week courses, but you are not going to be a qualified electrician afterwards, and you will not get registered: there are 10 other hoops you have got to go through”? Don’t you think it is your duty to do that?
+
+[[[Emma Clancy:]]] We help people when they call us, but no, I don’t think it is our duty to do that. I think it is our duty to publicise broad safety messages. It is our duty to uphold the competencies in the scheme. We can influence the training agenda, but they are allowed to operate and exist. That comes back to the previous comments about some of the complexities. I feel more passionately about DIY sheds selling things that they should not; but I cannot do much about that, I am afraid. What I can do is say to people why they should not ask their dad to do something along those lines.
+
+[[[Heather Wheeler:]]] Fair enough. I will remember not to ask my dad.
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] As the trade association we recently submitted our responses to BIS as part of an evidence collection they made, looking at the apprenticeship and training framework for our industry. We have as part of that process suggested this whole area of training needs tightening; there needs to be some standard applied; there needs to be some marque that contractors can look for to know they are going to get good advice. I end up writing letters back to people who quote to me endless lists of courses they have taken, and now they cannot get a job. They cannot get an ECS card from the JIB, etc. We need something done about that, and we have started that process through BIS.
+
+[[[Heather Wheeler:]]] Thank you very much.
+
+[[[Q103 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Just to clarify one small point—I may have missed it. You said that 0.2% had been excluded. What is that in numbers as opposed to percentages?
+
+[[[Emma Clancy:]]] It was 2.5%. No, 2%, I hope.
+
+[[[Simon Danczuk:]]] Two per cent. of 10½%, wasn’t it?
+
+[[[Emma Clancy:]]] No, 2% of the 10%.
+
+[[[Q104 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] What is that in numbers?
+
+[[[Emma Clancy:]]] I’ll have to let you know that. I don’t know that off the top of my head. Maybe my colleague may.
+
+[[[Q105 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] A hundred? Fifty?
+
+[[[Emma Clancy:]]] We have 36,000 on the roll currently, so I will just have to do the maths in my head.
+
+[[[Q106 ]]]&#xa0; 
+
+[[[Chair:]]] It is quite a lot.
+
+[[[Emma Clancy:]]] Yes.
+
+[[[Q107 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] A broader question for all the panel: would it be reasonable to conclude that the problems that this inquiry has revealed cannot really be addressed by the scheme operators?
+
+[[[Emma Clancy:]]] I think many of the problems that have been identified, both in this session and previous sessions, are being addressed by the changes in the conditions of authorisation. We have talked already about the sharing of data to stop people scheme-hopping. There is increased UKAS accreditation for all the schemes. The DCLG have increased their supervision and increased their oversight and addressed many of the issues that the Select Committee—
+
+[[[Q108 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] So your answer is that you think the scheme operators can address all the problems.
+
+[[[Emma Clancy:]]] It is work in progress. Some of the complexities are challenging.
+
+[[[Q109 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] When will the work be concluded, if it is work in progress?
+
+[[[Emma Clancy:]]] For the changes to the conditions of authorisation—
+
+[[[Q110 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] For all the problems to be sorted out.
+
+[[[Emma Clancy:]]] I didn’t say all of them can be sorted out. I was pointing to the progress that is being made, and particularly referencing the DCLG changes in the conditions of authorisation, which are being implemented in June 2015.
+
+[[[Q111 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Do other members of the panel think the scheme operators are capable of sorting these problems out—it is all going in the right direction, and we shouldn’t worry about it?
+
+[[[Emma Clancy:]]] I don’t think we said that.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] You should worry about it. We should all be worried about it; but we all have a part to play, so to suggest that we don’t have a role is incorrect—to suggest that we are the only ones that have a role is also incorrect. We have heard a number of things from a number of witnesses, many of which we agree with. Some of those things are concerned with regulation, so, to give you a good example, a lot of work is not notifiable under the current regulations—in fact, more so than was the case two years ago. If we are trying to publicise to consumers exactly what should happen in the electrical industry, we have really complicated it, because you can either be notifiable or non-notifiable; notifiable in England but not in Wales, or the other way round; if notifiable, you can comply through competent persons, through building control, through being qualified. So, globally, we have created a complicated message—
+
+[[[Simon Danczuk:]]] A mess.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] A complicated message, which we all recognise makes it difficult to give clean, easy consumer messages. If you were to ask me to fix that, one thing I would say—
+
+[[[Q112 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] That is just one of the problems, isn’t it? Out of many. Phil, Steve, you have an interest in this, do you not?
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] Yes, and I concur with David: some of the things that may be in our own control, we can deal with; some of the things we are partners with others, so we contribute to and I believe that we can deal with; and some things are out of our control. One of the things that we need some help in resolving is the issue of enforcement. We heard earlier, and have heard again, that we tried to provide a carrot, but ultimately there has to be some form of stick. Where our industry differs from some of the others is that there is very limited enforcement. We talked about the gas industry, for example, with health and safety to enforce—just not being Gas Safe-registered is an offence and will be acted upon. Not being in the scheme is unlikely to result in any kind of censure, unless you have done something seriously wrong. The enforcement end of things needs some work—that is outside our control, but we would happily work to resolve that and to create a framework that would be effective.
+
+[[[Simon Danczuk:]]] Phil?
+
+[[[Phil Buckle:]]] I think it is about the messaging and, as was outlined by my colleagues, the difficulties in talking to consumers about Part P are well rehearsed and well known. That is why, from an Electrical Safety Council point of view, we have moved into messaging to consumers about using a registered electrician or choosing a registered competent person, rather than saying Part P—come away from that name and talk to the consumers about how they can benefit through choosing a register. We have run a number of campaigns over the past year or so and, importantly, we have talked to the consumer about avoiding dodgy geezers. We have engaged with the consumer about the risks of using a non-registered person and shown the negative side of that in quite hard-hitting ways. We have funded four campaigns, which have been focused around that whole area of making sure that people understand that they need to use a competent, qualified electrician—
+
+[[[Q113 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Those campaigns have had a massive impact.
+
+[[[Phil Buckle:]]] They have been seen or heard by consumers more than 200 million times over the past year, which is quite an impact.
+
+[[[Q114 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] You think the public are well aware of how the system works and who they should and should not get.
+
+[[[Phil Buckle:]]] Well, if I compare our position with the Gas Safe register that was mentioned—I have to declare an interest there, because I am a trustee of the Gas Safe Charity—it is about 45% awareness using a Gas Safe-registered operative.
+
+[[[Simon Danczuk:]]] What is yours running at? What is it for electricians?
+
+[[[Phil Buckle:]]] When we were talking purely about Part P, it was about 14%, but when we talked to the consumer about using a trained or registered electrician—
+
+[[[Simon Danczuk:]]] You mean a qualified electrician.
+
+[[[Phil Buckle:]]] Trained, competent, qualified—those terms that are used—it is running at about 50%.
+
+[[[Q115 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Of course the public would understand that they should use an experienced electrician—that is an obvious question to ask the public, isn’t it? Of course they would say yes. I am surprised that it is not more than 50% to be quite honest. They would not say, “I would rather use an inexperienced or unqualified electrician,” would they?Let me move on, because you bring me to an important point. I have only been an MP for three and a half years, but in all the time that I have served on this Select Committee—for a majority of that time—I have never seen less co-operation and less desire to try to get solutions to a particular problem than I have seen with regard to this particular issue. Do you not agree that the only losers out all of this are consumers? They are the people who are losing out in terms of the lack of regulation, organisation or co-operation that exists within this sector and industry. It is the consumer that is losing out. Would you agree, Steve? Just a yes or no would be great.
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] No.
+
+[[[Q116 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] You don’t agree. The consumer is all right—
+
+[[[Steve ]]]
+
+[[[Bratt]]]
+
+[[[:]]] I didn’t say that.
+
+[[[Q117 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Phil, what do you think? Do you think everything is okay, Emma?
+
+[[[Emma Clancy:]]] I want to expand on the answer, rather than being driven to give a yes or no.
+
+[[[Simon Danczuk:]]] The only people losing out are the consumers. What do you think?
+
+[[[Emma Clancy:]]] There are 1 million jobs notified every year but, because of the presence of competent person schemes, they are done by competent people, who are backed by insurance-backed warranties and have organisations that they can call, so if something is wrong we go and fix it. Only this afternoon, I was dealing with an old lady who had wrongly—
+
+[[[Q118 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Emma, I do not want to hear about the old lady. I am speaking about consumers, and they are losing out. You don’t agree that they are losing out?
+
+[[[Emma Clancy:]]] I don’t agree with you, no.
+
+[[[Q119 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] So everything is fine.
+
+[[[Emma Clancy:]]] No, I did not say that everything was fine. I said that there are things that we can improve on, but I do not believe that the scheme is losing out.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] I have to note that you changed your question as you came along from “Are consumers losing out?” to “We do or don’t agree with you that they are or aren’t.” It is grey. Some consumers are losing out, but most consumers are benefiting because the people who are registered are accountable in a way that they could not be held to account if we did not have a scheme, which was the case prior to Part P.
+
+[[[Q120 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Let me finish what I was asking. Do you agree that there is too much competition between scheme operators, and that that is what is delaying progress and reducing the chances of driving up standards?
+
+[[[Phil Buckle:]]] With respect, standards are increasing and my colleagues have outlined that fact in the last half an hour or so. If I could just lean on my previous experience of being involved with the development of those standards, when we started this in 2004-05, it was clear that we had to allow a route in for all of those people who were doing electrical work as an adjunct to their daily activities, such as gas engineers and garage door fitters. Over this period of time, we have increased the requirements for the qualified supervisor so that they are more robust and more demanding. In terms of the consumer benefiting, I would also say that we have increased awareness and, as I mentioned with those stats, it is around the understanding of there being a law. We do not talk about Part P, because it is a letter—
+
+[[[Q121 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] So are you saying that competition between the operators is driving up standards?
+
+[[[Emma Clancy:]]] The Select Committee previously raised—
+
+[[[Q122 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Is that what you are saying, Phil?
+
+[[[Phil Buckle:]]] I am saying that the collaboration between the competent person scheme operators within the relevant forms is helping increase the standard and making sure that there is a level of competency. In the previous meetings, I think we had a disagreement about the registers. We are all working hard to resolve those problems and make sure that we have an identifiable mark and a register that the consumer can refer to. That will make my life easier within the Electrical Safety Council, talking to the consumer, because I will have one point of reference in the not-too-distant future.
+
+[[[Q123 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Any other contributions on competition?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] It is incumbent on us all to recognise that there are both positives and negatives in competition and it is therefore vital that we make sure that the negatives are cancelled out and the positives exploited.
+
+[[[Q124 ]]]&#xa0; 
+
+[[[Mrs ]]]
+
+[[[Glindon]]]
+
+[[[:]]] What effect have the changes made to Part P in 2012 had on the operation of the electrical competent person schemes?
+
+[[[Phil Buckle:]]] The 2012 changes? I think we all feel that it is too soon to say, because DCLG agreed when they introduced and implemented the changes that they would review them within a two-year period. We are not far into that period. The Electrical Safety Council held an industry summit that all colleagues around the table and a number of electricians came along to. The then Minister, Don Foster, did commit to making sure that there was a review of the changes to make sure that the change to the notification requirements and the introduction of a third-party certifier route had not diluted standards or meant that there was a mass exodus of registered firms away from the scheme because they were using some cottage industry third-party certifier to do the work for them. We need a little bit more time to give you a comprehensive answer to that, but we are certainly monitoring that ourselves and working with DCLG to make sure that things are not detrimental to the consumer.
+
+[[[Q125 ]]]&#xa0; 
+
+[[[Mrs ]]]
+
+[[[Glindon]]]
+
+[[[:]]] UKAS is not permitted to compile a list of common complaints and failings. Would you be happy to see a requirement written into the DCLG conditions of authorisation to allow UKAS to compile and report such a list?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] In fact, we have all signed a waiver to allow UKAS to report to DCLG.
+
+[[[Emma Clancy:]]] So yes.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] It is already in place.
+
+[[[Q126 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Scheme operators have to ensure that their members notify all completed work to the scheme and forward a certificate of building regulations complaints to customers. Given that only the contractor is aware of installation work undertaken, how can we be sure that that is being monitored effectively?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] We do several things to try to check that. For instance, when we audit a company, we will look at their work records and compare things like orders, invoices and diaries with the actual work that they have notified, and we will look at their electrical certificates that they keep copies of to make sure that everything stacks up. Because our systems of reporting will identify contractors whose notification patterns change, or are particularly low or particularly high, our assessor can go in with a degree of intelligence about what to assess and what to audit to try and ensure that people really are complying with the building regulations and notifying the work that they should. So we do check it. 
+
+[[[Q127 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] So you are comfortable that everything is being reported as it should be. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] Not everything can ever be reported as it should be. What I am comfortable with is that we have carried out, to the best of our abilities, testing of that system, and that we act when we find that that is not the case. 
+
+[[[Q128 ]]]&#xa0; 
+
+[[[Simon ]]]
+
+[[[Danczuk]]]
+
+[[[:]]] Kev Lee, an electrician, told the Committee in an evidence submission: “The scheme operators only see the contractor once a year. They collect the member’s money once a year BEFORE the inspection is carried out. It’s all over within half an hour and we carry on regardless”.
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] I can honestly say that we have never come across a half-an-hour inspection. I honestly have not, and we have had complaints about them and investigated them. 
+
+[[[Q129 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] It takes an hour. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] It takes half a day. 
+
+[[[Q130 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] Other than that, what about the other points? He is lying? He’s gone to the trouble of submitting this, but he is not telling the truth? 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] The comments that he has made are that he gets assessed once a year for half a day, which is absolutely correct, and that he pays prior to that taking place, which is absolutely correct. I think those were the only two points, weren’t they?
+
+[[[Q131 ]]]&#xa0; 
+
+[[[Simon Danczuk:]]] The NAPIT has suggested giving local authorities greater powers, such as the ability to issue on-the-spot fines for failure to comply with Part P. Is everybody in agreement that that is the right way forward? 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] It is a suggestion that was made by a sub-committee of the competent persons forum that all the scheme operators sat on, and not just for the electrical sector either. 
+
+[[[Q132 ]]]&#xa0; 
+
+[[[Chair:]]] I have one point on something NAPIT gave in evidence. The situation is that where you have a company that is part of the competent person scheme, the owner or manager of the company is deemed to be a competent person to certify all the work that is carried out by that company. The company gets checked by SOs once a year for half a day. They might be employing 200 people in that company, who may have varying degrees of qualification, and that one person is supposed to certify all that work. Is that realistic? I think NAPIT is saying that you are not happy, and you want to see a change to the rules in that regard. What you have given in evidence to us is that you do “not agree with the Qualified Supervisor model, requiring only one person within an enterprise to meet the required standard”, and you have called for the removal of the phrase “adequately supervised”. Will you say briefly what that means, and does everybody else agree with it?
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] The reason that we lobby for that, or have lobbied for that, is that we genuinely believe that it is important that the person who comes to the doorstep is competent, which is a phrase that you have heard already today. That can be achieved by various models, but the model that we are trying to promote is one where the evaluation of competence within a company goes beyond that of the qualified supervisor. The responsibility for employing competent individuals is correctly phrased in the specification and it does not have to be that we assess every individual in a company every year. There is a balance to be made there. We believe you can cycle through employees at random, making sure that you have covered a sufficient sample to measure whether the employer is employing competent people beyond the qualified supervisors. Test that supervision is working—I suppose that is what I am saying. 
+
+[[[Q133 ]]]&#xa0; 
+
+[[[Chair:]]] So you are saying that the individual who does the work has to have some test of competency to be employed by that company, which is not the case now? 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] The standard says they should be competent and/or supervised. We think they should be competent and supervised. 
+
+[[[Q134 ]]]&#xa0; 
+
+[[[Chair:]]] Does everyone else agree with that? 
+
+[[[Emma Clancy:]]] I do not disagree, but could I make a couple of additional points in terms of context? 
+
+[[[Q135 ]]]&#xa0; 
+
+[[[Chair:]]] Well, if you don’t disagree, do you agree? 
+
+[[[Emma Clancy:]]] I do agree, but the QS system is not quite as it is being described at the moment, and in weighing up the pros and cons we need to be clear about that. You described a situation where there may be hundreds of people and one QS. That is not the case, and that would not happen. The number of QSs is decided, as part of the process, carefully and against measured criteria. So you could have a two-man band that operates in different parts of London who couldn’t possibly check each other’s work. That firm would need two quality supervisors. There would not be just one, even though it was a two-man band; they would need two. 
+
+[[[Q136 ]]]&#xa0; 
+
+[[[Chair:]]] So people could actually sign off the work under the scheme?
+
+[[[Emma Clancy:]]] Yes.
+
+[[[Q137 ]]]&#xa0; 
+
+[[[Chair:]]] What is the maximum number of employees who could be covered by one QS?
+
+[[[Emma Clancy:]]] There is no maximum number, but the system requires adequate supervision, so it would be dictated by that. 
+
+[[[Q138 ]]]&#xa0; 
+
+[[[Chair:]]] So what does that mean? As a scheme operator, do you determine that, or do you leave it to the company?
+
+[[[Emma Clancy:]]] Our assessors determine that. 
+
+[[[Q139 ]]]&#xa0; 
+
+[[[Chair:]]] Therefore, they must have some guidelines. 
+
+[[[Emma Clancy:]]] Indeed they do.
+
+[[[Q140 ]]]&#xa0; 
+
+[[[Chair:]]] What are the guidelines?
+
+[[[Emma Clancy:]]] It is their judgment. They look at the work, the geographical spread, the complexity of the work—
+
+[[[Q141 ]]]&#xa0; 
+
+[[[Chair:]]] What is the maximum number?
+
+[[[Emma Clancy:]]] I cannot give you a maximum number.
+
+[[[Q142 ]]]&#xa0; 
+
+[[[Chair:]]] Could you give me a number in writing?  
+
+[[[Emma Clancy:]]] I can outline to you the criteria that we consider. Yes, of course. I am very happy to do that. 
+
+[[[Q143 ]]]&#xa0; 
+
+[[[Chair:]]] Could you tell me the maximum number in any company that is a member of your organisation?  
+
+[[[Emma Clancy:]]] Yes, I can definitely do that. Of course I can describe that. 
+
+[[[Q144 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Since our original inquiry, progress seems to be being made on moving to a single register. When are we going to see the single register? 
+
+[[[Emma Clancy:]]] Indeed, progress has been made. We have listened very carefully to the concerns of the Committee and have decided that we can create one register underpinning a mark that we believe it will be easy for consumers to identify. That will apply across all the scheme operators that exist currently, not just NAPIT and what exists now but also the six or so other scheme operators. We have a meeting with the Minister next week—we want to talk to him to make sure it has his blessing as a way forward—and then we will move as swiftly as possible. At that point, we will find a way to either take down or reference the existing two registers into the new site. 
+
+[[[Q145 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] So, assuming the Minister gives his blessing next week, when will we see it in operation? 
+
+[[[Emma Clancy:]]] I do not see any reason why it could not be within the next six months. 
+
+[[[Q146 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] Why is it going to take six months? The standards are there. You have to agree a set of common standards, presumably, but why six months? Why not next month?
+
+[[[Emma Clancy:]]] I would hope it would be quicker than that, but obviously, as we have said before, it is not just about a list of names. It is about making sure that we are representing people correctly, and that we have dealt with all the data issues associated with that. I am just giving us a little bit of time to do the proper job. 
+
+[[[David ]]]
+
+[[[Cowburn]]]
+
+[[[:]]] That would include registering the mark itself. We need to protect that mark so we can act legally if it is misused. 
+
+[[[Q147 ]]]&#xa0; 
+
+[[[Bob Blackman:]]] So are we going to see a quality mark first, followed by the merging of registers, or is this all going to be one proper register, so I as a consumer and other consumers out there can look and say, “Yes, all these people are competent persons according to one register and one set of criteria, not two different sets”?
+
+[[[Emma Clancy:]]] It would be a register based around the competent person scheme requirements and the one that you have requested, but with a— [Interruption.] 
+
+[[[Q148 ]]]&#xa0; 
+
+[[[Chair:]]] Saved by the bell. Thank you all very much for coming to give us evidence once again on this very important issue. That brings us to the end of the public proceedings.              Oral evidence: Building Regulations, HC 906                            36

@@ -1,0 +1,213 @@
+&#xa0;
+
+[[[Written evidence submitted by ]]]
+
+[[[BCS, The Chartered Institute for IT]]]
+
+[[[ (WSC084)]]]&#xa0;There is a wealth of research demonstrating the value of diversity to UK businesses, especially increasing the number of women operating on boards.  However, progress increasing the participation of women (particularly in IT) is slow.&#xa0;Our recommendations cover:&#xa0;We know that women choose IT as a profession less often than men, and that women leave the profession for other careers. We would like to see this change, as there are exceptionally good opportunities for women to flourish in IT environments. BCS believes that the UK IT sector would be strengthened by innovation and profit benefits which diversity in the workplace brings.&#xa0;Today’s job market is very competitive; IT is both the enabler of savings and the engine of growth, and people with skills and experience in IT are likely to be more in demand than people with other skill sets. IT is integral to every business process, and IT teams interact with business teams, working together in exciting and dynamic environments to transform companies. Careers in IT can be varied, stimulating and flexible. 
+
+[[[&#xa0;]]]However, it seems that for many women IT isn’t regarded as a great place to work.  WISE, formerly the UKRC for Women in SET, has published the following &#xa0;The IT industry directly contributes 8% (£75 billion) to the UK’s total GVA.The scope of the value of IT to the UK economy transcends the IT sector alone, with around 40% of the IT workforce employed in other industries, benefiting business through increased efficiency provided by new technology. The McKinsey Reports; Women Matter (2007), and Women Matter 2 (2010), outline the benefits in ROI, profit and share-price when boards and senior management teams include diverse members.  Work by Cedric Herring, University of Illinois, in a paper titled; ‘Does Diversity Pay? Race, Gender, and the Business Case for Diversity’, examines the impact of racial and gender diversity on business performance. He makes a business case for diversity, arguing that a diverse workforce produces better results and offers a direct ROI.  His research, as with that of McKinsey, promises larger profit and greater earnings. Additionally, the law firm Reed Smith launched a report in partnership with Winmark showing how global companies could get the best ROI from gender diversity. The "Gender Balancing: It's Good Business" report surveyed a range of FTSE100, FTSE250 and leading firms to determine UK businesses’ level of commitment to gender diversity and practical initiatives.  The report found, as with the others cited here, that overall business effectiveness and profit was enhanced when women were included in every level of enterprise.
+
+[[[&#xa0;]]]We have consulted with a number of industry stakeholders who all testify to the value of diversity in the industry:Creating a diverse workforce at Thomson Reuters is a critical component of our vision and advances the focus on collaboration and innovation by bringing more women onto our technology teams. We are currently working on a program that we are calling, “from college to career”, which will build bridges from colleges to active careers at Thomson Reuters. Part of this initiative is the commitment to recruit and develop future female technology leaders. By creating more diverse teams we add another innovation dimension advancing future solutions and adding new perspectives and ideas.
+
+[[[Jane Moran, CIO, Thomson Reuters]]]&#xa0;The leak of women into STEM starts in school and we see girls are not encouraged or properly advised of the richness of a career in IT, and the industry needs a style makeover to move on from the “geeky” back office image it still has. We tend to describe our roles in a very technical way expecting use of “cyber security” will be a major draw – and it is a turn off instead. The use of gaming, fun technology and more retail linked brands is much more helpful. Google, Amazon and e-bay don’t have the same problems the more traditional B to B service companies experience in attracting girls.
+
+[[[Ann Brown, Senior Vice President HR, Capgemini UK]]]
+
+[[[&#xa0;]]]There aren’t any simple problems or challenges left.&#xa0; Almost everything we do is beyond the capacity and capabilities of the individual.&#xa0; We depend entirely on the expanse of talent we can muster by bringing teams together, and like it or not, there are some things that men and women do equally well, and there are a set of things that one does better than the other.&#xa0; If you don’t build teams with a balance of men and women, you’re building teams with unnecessary limitations.&#xa0;In Visa Europe we try and create these balanced teams.&#xa0; Starting in our Visa Apprentice programme and lasting as long as necessary, we provide accelerated development and support programmes and specifically for or female members of staff, to try and accelerate the slow but inevitable rebalancing of men and women in all roles in business and technology. 
+
+[[[Steve Chambers, CIO, VISA]]]
+
+[[[&#xa0;]]]Women are an integral and important part of our Global IT team at BG Group. BG Group believes that we will deliver better and more sustainable results if we have a culture where different perspectives are encouraged and considered. To achieve this, we aim to build a workforce that is diverse – in ethnicity, gender, background and approach.
+
+[[[Angus McCallum, CIO, BG Group]]]
+
+[[[&#xa0;]]]Women are leading key areas of our business from central technology services to strategy to content and are instrumental in our progress as an organisation. We believe that businesses which better reflect society, in all its diversity, will be more successful in the long-term.
+
+[[[Selwyn Castleden, IS Direct]]]
+
+[[[or Sky]]]
+
+[[[ ]]]
+
+[[[Network Services, BskyB]]]
+
+[[[&#xa0;]]]Creating an inclusive workplace is something that IBM has always set out to achieve. Diverse teams energise and challenge each other to deliver strong business results and innovative ideas which is why IBM in the UK and Ireland continues to employee people from all lifestyles and backgrounds. It makes perfect business sense and is essential to the way we work and the way we operate our business.
+
+[[[David Stokes, IBM UK and Ireland General Manager]]]&#xa0;At Deloitte our business thrives on the many and varied talents of our people. The ability to attract, retain and advance talented women is an important part of this. We have set objectives to improve the representation of women in senior roles to ensure women have every opportunity to develop and progress. We recognise and highly value the qualities female leaders can bring to the business and are working within firm and the wider market to foster these strengths.
+
+[[[Rebecca George OBE, Partner Public Sector Health, Deloitte LLP]]]
+
+[[[&#xa0;]]]
+
+[[[4]]]
+
+[[[              ]]]
+
+[[[C]]]
+
+[[[auses]]]
+
+[[[ for the ]]]
+
+[[[A]]]
+
+[[[bsence of ]]]
+
+[[[W]]]
+
+[[[omen in IT]]]
+
+[[[ and Best Practice ]]]Research shows several themes which inhibit girls and younger women to pursue careers in the IT industry and cause them to migrate away from technology roles:  
+
+[[[4.1]]]
+
+[[[ ]]]
+
+[[[Cultures in]]]
+
+[[[ the]]]
+
+[[[ ]]]
+
+[[[IT ]]]
+
+[[[S]]]
+
+[[[ector ]]]
+
+[[[W]]]
+
+[[[orkforce]]]4.1.1               A 2005 study conducted for Intellect and the DTI concluded that women were leaving the industry because they felt undervalued, found their management unsupportive, did not feel included in the male dominated industry, and felt the long hours culture was uncomfortable for them;4.1.2               Women act differently from men in the workplace. Women sell themselves differently in interviews and performance appraisals.  In predominantly male environments, if men are not aware of these differences, women miss out on networking, mentoring and promotion opportunities. Everywoman (www.everywoman.com) is an excellent example of an organisation providing advice, networking resources and connections to help women address the issues often faced by women in traditionally male dominated environments;  4.1.3&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Many women report that there is an 'old boys’ network' culture creating an impenetrable glass ceiling. One recent statistic states that 58% of US male CEOs in the 500 largest companies are over 6ft tall, whilst only 14% of the population are over that height, suggesting deep rooted bias in the selection of top executives;4.1.4&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Many words and phrases crop up in research and interviews, including glass ceiling, glass cliff, macho/aggressive and bullying culture, lack of recognition, having to work extra hard to prove themselves, long hours culture, old-boys club.  If these reflect industry norms which impact the retention of women, they need to be addressed in order to stem the decline in women in the industry; 4.1.5&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Women will be discriminated against even when the employer has policies which aim to do the right thing.  Gender Schemas, also known as unconscious bias, are socialised into the populace from birth, and define the assumptions by which individuals are judged.  This is particularly important when recruitment, promotion and performance assessment decisions are made.  
+
+[[[4.]]]
+
+[[[2]]]
+
+[[[ ]]]
+
+[[[Image of Women in IT in the Media ]]]4.2.1              The UK Government has invested in research into the roles that TV and the media play in gender stereotyping and their effect on STEM career decisions; 4.2.2              ‘Media coverage of science, particularly television programmes, is a key place where young peoples’ perceptions of STEM and its relationship with society are formed…the images young people see presented on television are generally thought to have some influence on the choices some students make about their future careers;’ ‘4.2.3              In the UK the numbers of women opting for IT studies at university continues to fall.  We believe that without adequate positive representation in the media young women will not choose careers in our industry, despite the good work done by earlier programmes such as Computer Clubs for Girls (CC4G);4.2.4              A relatively recent example of the power of media representations is the upswing in the take-up of Forensic Science courses by young women (women now represent two thirds of UK students on Forensic Science courses).  This has been largely attributed to the portrayal of a female forensic pathologist in the BBC TV production Silent Witness.
+
+[[[4.]]]
+
+[[[3]]]
+
+[[[ ]]]
+
+[[[Lack of Role Models ]]]4.3.1              The lack of visible role models allows gender and industry stereotypes to persist, to reinforce the ‘nerdy’ image of the IT or technical professionals. That these perceptions persist sustains the lack of attraction of the IT sector for young females. It is simply not a career default choice. Schools and HEIs find it difficult to challenge the stereotypes and offer girls an image of an exciting career in IT and technology.  Equally, if women already embarked on IT careers cannot see equality of opportunity and subsequent equality of reward in female role models, they will opt for other industries where opportunities for advancement are visible.4.3.2&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Many organisations have built education outreach programmes, selecting and training women to go into schools to present on the benefits of women in IT. BCS has been involved with a programme started by Deloitte and Atos and we are aware of other industry based schemes with the same motivations.  However, these schemes are voluntary, not incentivised or rewarded, and funding is usually time bounded;4.3.3&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Other Ambassador schemes have had some success.  Research cites prominent scientists, media personalities and teachers among the people who influence career choice, beyond members of the immediate family. The government funded scheme, science and engineering ambassadors (SEAs) was established in 2000.  It increases the number of individuals in early career stages coming into contact with youngsters through schools science clubs, to talk about their work.  SEAs were established in recognition of the fact that few teachers have experience of working in industry, research or higher education.  Of those that do have relevant experience, by definition it will be limited and will date quickly, especially in fast moving areas such as IT;4.3.4&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The Everywoman organisation is helping to address this through Leadership Academies; one day seminars for women in disciplines such as Technology, Engineering, Manufacturing, or Transport to boost their knowledge and be inspired by leading female figures as role models.
+
+[[[4.]]]
+
+[[[4]]]
+
+[[[ ]]]
+
+[[[Recruitment Po]]]
+
+[[[licies ]]]
+
+[[[ ]]]4.4.1              Where gendered names are removed from CVs in repeated trials and research, employers select males and females equally, based on the merits of skills;4.4.2              Research suggests that using female appropriate recruitment advertising will benefit targets for employing women and conversely that where advertising is not positively constructed to be attractive to women, fewer women apply;4.4.3&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Where employers do not sufficiently train managers in techniques for advertising and interviewing women, gender imbalances proliferate;4.4.4&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Lack of unconscious bias training for hiring managers sets opinion in favour of the controlling group, which at this time in our sector is overwhelmingly male. However, uptake and implementation of this type of education is sporadic and inconsistent;  4.4.5&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The IT industry requires many business skills, and recruiting graduates with business skills and MBA qualifications can be beneficial where there are declining numbers of graduates from pure ICT courses.  Anecdotally many individuals come to IT roles from different starting points.  The appeal of technology and the opportunities available may not be apparent when studying, but is greater when experienced in the workplace.4.4.6&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Dissemination of best practice on recruitment policies to make IT employers the companies of choice for women is essential to ensure that the industry acquires the skills at both graduate and skilled practitioner levels.  Guides are available from the UK Resource Centre for Women in SET to encourage good recruitment practice; however, incentive, uptake and implementation are sporadic, unmonitored, and inconsistent;    4.4.7&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Advertising a company’s WLB and Flexibility options can make a difference and it is known that CISCO, IBM UK and others regularly do so;4.4.8&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Training in unconscious bias has been undertaken by all BCS Boards and Committees.  This training is available from organisations such as WISE and is being rolled out in some of the large technology companies.  IBM UK was one of the first to include this training for senior management.
+
+[[[4.]]]
+
+[[[5]]]
+
+[[[ ]]]
+
+[[[Career Paths, Retention and ]]]
+
+[[[Lack of O]]]
+
+[[[pportunities for ]]]
+
+[[[F]]]
+
+[[[lexible ]]]
+
+[[[W]]]
+
+[[[orking]]]4.5.1                            ‘Women are likely to be underrepresented within higher level (skilled/paid) ITEC occupations both compared to males and in terms of overall female employment in ITEC.’  Female representation appears more focussed towards lower level ITEC occupations in the UK than in other EU states’; 4.5.2                            This is also reflected by the 22% IT Gender Pay Gap, where fewer women are earning in higher salary bands and therefore a greater gap overall. Corporate culture and practice may offer more challenging opportunities to males.  There is an assumption that women are less ambitious than men, and a belief that where salaries are used as a success indicator, women are disadvantaged because of the gender pay gap in the IT sector;   4.5.3                            A Gender Pay Audit was created during the last administration and some private sector companies completed it, although the take-up was very limited.  One company which was willing to mention this practice was HSBC;4.5.4              Women who experience blocked opportunities at senior levels, and perceive unfair selection criteria for executive and senior posts may act on their perceptions and leave the industry, which appears anecdotally to be the case;4.5.5              Different modes of working are appropriate for different life stages for both men and women.  This has been recognised by successive administrations and is not just related to STEM roles.  We know that there are issues within the IT industry but believe that these will be beneficially impacted by current programmes to enhance flexible working across all industries and we will therefore not detail them here;4.5.6              The UKRC for SET held a very large repository of documentation and training on recruitment, mentoring and retention for women in STEM careers.  This might still be available from the WISE CIC. WISE also has a broad curriculum and series of materials for supporting organisations wishing to do more with women in STEM careers and supports females 'from classroom to boardroom'.
+
+[[[4.]]]
+
+[[[6]]]
+
+[[[ ]]]
+
+[[[C]]]
+
+[[[ultures in ]]]
+
+[[[Education and Training]]]We are aware that other respondents to this inquiry will cover this in detail and we believe that the issues are sufficiently known for us to not repeat them here. 
+
+[[[&#xa0;]]]BCS aspires to deliver best practice for diversity in the IT sector.  We recommend the following actions be undertaken to boost the number of women entering and staying in the STEM sectors, and in particular, within IT:  
+
+[[[5.1 ]]]
+
+[[[Quotas]]]The argument against quotas has been fierce, and resides around the desire for a meritocracy, and a desire that women succeed by right of their ability.  However, this pre-supposes that the current state of affairs represents a meritocracy, and that the industry will make progress through voluntary actions.  Progress, however, continues to be slow and we therefore recommend that:
+
+[[[&#xa0;]]]5.1.1&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The debate should be reopened on setting quotas for women in STEM in academia and industry sectors.  This would include implementation of monitoring and targets in all organisations on the uptake of women into senior management and executive and non-executive positions;5.1.2&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; This debate should include consultation on legislation regarding the percentage of women on company boards, like countries, compelling state owned and listed private companies to appoint women to at least 30% of boardroom positions with severe penalties for those who do not conform;
+
+[[[5.2]]]
+
+[[[ ]]]
+
+[[[Use C]]]
+
+[[[urrent ]]]
+
+[[[R]]]
+
+[[[esources]]]5.2.1              Too often we re-invent the wheel.  There are existing organisations, with good understanding and relevant skill sets, which can undertake key tasks associated with increasing the number of women in the STEM workforce.  These organisations could be supported with relatively minimal government funding to implement these recommendations.  Organisations such as UKRC (which became WISE, and which was one of the founders of the Athena Swan initiative) and Everywoman are excellent examples.  They covers 
+
+[[[all]]] of STEM and the business world as well as academia, not just the engineering discipline which the current government appears to favour. Their missions are to support women and girls 'from the classroom to the boardroom' and to offer end to end solutions for aspiring female leaders and these assets can undoubtedly support this renewed interest in driving gender diversity for the benefit of UK PLC;5.2.2&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; No further research is required.  There is an array of research from the UK and globally which articulates the issues and makes appropriate recommendations.  We need to get on and take the most pragmatic approaches to fixing the problem.
+
+[[[5.3]]]
+
+[[[ ]]]
+
+[[[Media and Imag]]]
+
+[[[e]]]Support should be given to tackle the media issues and could include:5.3.1&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; A campaign to feature articles and stories on women in IT;5.3.2&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Campaigns to enhance the number of high profile women in IT in the media to provide role models;   5.3.3&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Work with TV production organisations on the inclusion of positive female IT role models in TV drama.  
+
+[[[5.4]]]
+
+[[[ ]]]
+
+[[[Role Models]]]We make the following recommendations:5.4.1&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Implement a consistent programme to help teachers and other influential adults provide realistic and appropriate information and details of IT role models in order to take young people beyond being users of IT;5.4.2&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Rolling out programmes to help develop an understanding of the skills and attributes that make a good IT practitioners and tools to nurture those skills is important.  E.g. the campaign of “a girl like me” portrays different IT roles at differing levels of seniority, ensuring that girls can envisage becoming an IT practitioner;5.4.3&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Provide support for liaison between industry and schools/colleges to reinforce positive role models of women in IT, with provision of a training course for role models who go into schools.
+
+[[[5.5]]]
+
+[[[ ]]]
+
+[[[Funding ]]]
+
+[[[A]]]
+
+[[[cross ]]]
+
+[[[A]]]
+
+[[[dminis]]]
+
+[[[t]]]
+
+[[[rations]]]5.5.1              Any support which is offered must be established and funded for the long term.  Successive administrations create good and valuable initiatives, which are then quashed by subsequent ones.  Support for the long term should transcend the party political system and be established for 15 years minimum with contingencies for changes in government.&#xa0;
+
+[[[5.6]]]
+
+[[[ ]]]
+
+[[[Recruitment ]]]
+
+[[[and ]]]
+
+[[[Gender Pay Gap]]]We believe the following recommendations should be implemented:5.6.1&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Removal of gender specific items by recruiters and all STEM and non-STEM employers before oversight by hiring managers; CVs should have the names removed; 5.6.2&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Use of best practice by industry, including annual monitoring of industry figures for graduate and experienced hires. Capgemini is a good example of monitoring and have told us that they recruit around 400 people each year with less than 2 years experience in work (entry talent grades). Around 180 of these are apprentices and women make up&#xa0;around 20% of this population, but only 17% of applicants;5.6.3&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Encouraging education modules on unconscious bias and its implications for recruitment and retention in all STEM industries;5.6.4&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Mandated gender based pay audits in all private sector companies. The public sector is covered in this respect by the Gender Duty legislation.  
+
+[[[5.7 ]]]
+
+[[[Careers and Retention]]]5.7.1              Permanent links should be encouraged between employers and careers advice providers;5.7.2&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Government should offer employers mentoring support to show the value of mentoring to women and showcase best practice;5.7.3&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Best practice on recruitment, retention and unconscious bias should be collected and disseminated;5.7.4&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Regular annual monitoring is required to track progress in the take-up of executive, non-executive and senior management positions for women in the industry. This should also track leavers from senior positions.  WISE undertakes to produce such statistics on girls and women in STEM on an annual basis. However, the organisation receives no government funding and is currently out-looking just over a year of working on reserve capital before it will fold. 
+
+[[[5.8 ]]]
+
+[[[Industry Commitment]]]5.8.1              Commitment is required from key industry players across the IT sector, supported by appropriate incentives (not necessarily monetary);  5.8.2&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Fragmentation within the STEM/gender supporting organisations must be addressed and organisations brought together to derive cross industry benefit from best practice;5.8.3&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Commitment from industry is required to provide broad based training on unconscious bias particularly regarding the selection and assessment of men and women in the industry.  Provision and take-up of this education should be monitored;5.8.4&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Commitment from industry to provide education and training regarding; the benefits of flexible working, gender pay gap, acceptable and appropriate cultures, unconscious bias, and diverse recruitment and promotion candidate lists. &#xa0;September 2013&#xa0; BCS is governed by a Royal Charter which defines our purpose: to promote the study and practice of Computing and to advance knowledge and education for the benefit of the public. We bring together over 70,000 industry, academics, practitioners and government to share knowledge, promote new thinking, inform the design of new curricula, shape public policy and inform the public.&#xa0;As a professional body, BCS represents its members and the IT Profession as a whole on issues of importance, and liaises with other professional bodies, the government, industry and academics to initiate and inform debate on IT strategic issues. We also deliver a range of professional development tools for practitioners UK Statistics 2012, Women in Science, Technology, Engineering and Mathematics: from Classroom to Boardroom according to e-skills’ Technology Insights 2012 from ONS Labour Force Survey 2011 4 quarter average Management by Chuck Williams (7th edition 2012) Work on Gender Schemas by Virginia Valian (Valian, V. (1998). ‘Why so slow? The advancement of women’. Cambridge, MA: M.I.T. Press.) Invisible Witness  Representations of women scientists, engineers and technologists on UK Terrestrial Television’, Richard Holliman The now disbanded UKRC for Women in SET undertook research with the Cardiff University School of Journalism and investigated how the media portrayed women in science, engineering and technology.  They reported in 2007.   Based on research conducted in 2006 by eSkills (‘Women in ITEC International Comparative Research Phase1’, Intellect, November 2007)

@@ -1,0 +1,1507 @@
+&#xa0;Business, Innovation and Skills CommitteeOral evidence: Extractive Industries Sector, HC 832-iiTuesday 26 November 2013Ordered by the House of Commons to be published on 26 November 2013.Witnesses including written evidence where submitted:At 9.45am:&#xa0;At 10.30am&#xa0;Watch the meetingMembers present: Mr Adrian Bailey (Chair); Mr William Bain; Mr Brian Binley; Paul Blomfield; Katy Clark; Mike Crockart; Caroline Dinenage; Ann McKechin; Mr Robin Walker; Nadhim ZahawiQuestions 122-269Witness: 
+
+[[[David Lawton]]], Director of Markets, Financial Conduct Authority, gave evidence.
+
+[[[Chair:]]] Good morning and thank you for agreeing to answer our questions today. We know who you are but, just for voice transcription purposes, if you could, just introduce yourself.
+
+[[[David Lawton]]]: Of course, Chairman. Good morning, my name is David Lawton and I am the Director of Markets at the Financial Conduct Authority. &#xa0;
+
+[[[Q122 ]]]&#xa0; 
+
+[[[Chair:]]] Thanks very much. A couple of fairly general questions to open with. Can you explain to the Committee the difference between headquartering and listing?
+
+[[[David Lawton]]]: A company that is headquartered in the UK typically would be formed under the UK Companies Act. That is a piece of legislation that deals with a company’s constitution and how it operates. Listing is a generic term; we might get on to talking about some of the nuances of what it means a bit later, but essentially it is about access to capital markets. People typically talk about “a UK&#x2011;listed company” as being a company that has access to capital markets via being traded on a UK exchange.&#xa0;
+
+[[[Q123 ]]]&#xa0; 
+
+[[[Chair:]]] How significant would you say the LSE is compared with other listing platforms?
+
+[[[David Lawton]]]: It is by far the dominant UK listed platform. There are four exchanges that, under the FCA’s rules, are able to operate a listed market, and the LSE accounts for the vast majority of listed securities that are traded.&#xa0;
+
+[[[Q124 ]]]&#xa0; 
+
+[[[Chair:]]] What makes it so dominant, do you think?
+
+[[[David Lawton]]]: It is partly a question of history: historically, it was the only UK market for trading securities and therefore has benefited from that legacy of history. Secondly, the nature of markets is that liquidity begets liquidity—they are network&#x2011;type arrangements—and issuers and investors are attracted to marketplaces where there is market depth.&#xa0;
+
+[[[Q125 ]]]&#xa0; 
+
+[[[Chair:]]] What does a company have to do to be listed here in London, on the FTSE and the AIM?
+
+[[[David Lawton]]]: This might be a moment just to describe a little bit more carefully what “listed” means. Strictly speaking, the Official List is a list of securities that meet certain criteria set by us. Separately, exchanges offer marketplaces for the trading of securities. As we have talked about already, the LSE offers the largest market for the trading of listed securities. AIM is a junior market operated by the LSE and, in fact, is for unlisted securities, so securities that are traded on AIM are not on the Official List.  In order to be listed, an issuer would have to take a number of steps. The first is, typically, it would have to appoint some advisers to work with it to prepare it to go through the process. If an issuer wanted to be on the premium segment of the Official List—I can talk a bit more about what that means in due course—it would also have to appoint a sponsor, typically an investment bank, to co&#x2011;ordinate the process. It would have to produce a prospectus, which sets out details about the company, its business plan, its revenue expectations and so on, in order to provide investors with all the information that they need to make an informed assessment about the pricing of the security, and then it would need to apply to us for admission to the List and satisfy the admission criteria. In parallel, it would also need to apply to an exchange to be admitted to trading.&#xa0;
+
+[[[Q126 ]]]&#xa0; 
+
+[[[Chair:]]] Just going back to your comments about AIM, if it is not listed—forgive my layman’s ignorance on this—how can its shares be traded? How would would-be investors know how to trade with them or know that they are there to be traded?
+
+[[[David Lawton]]]: Exchanges offer different types of market. There are the listed markets that we have talked about, which obviously have strong symbiosis with the Official List that we run but, under European legislation exchanges are also able to operate junior markets in unlisted but still transferrable securities. It is the nature of the securities that makes them tradeable, but they are not on our Official List.
+
+[[[Chair:]]] I still do not understand from what you have said how somebody knows that they can trade that company’s stock.
+
+[[[David Lawton]]]: AIM has its own rules that govern the admission of securities to that market, and there are rules for issuers as well as for the trading. The structure of those rules actually more broadly mirrors the structure of the listing regime, but the details are set by the London Stock Exchange.&#xa0;
+
+[[[Q127 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Good morning, Mr Lawton. I would like to ask you a couple of factual questions regarding the listing of ENRC. I am not going to ask you about the investigation currently under way, because obviously that would be improper, but it would be helpful for this Committee to have a number of factual questions answered. Could you confirm who was the sponsor for ENRC when they were listed? 
+
+[[[David Lawton]]]: I am afraid I do not have that information to hand, but it will have had a sponsor. I can certainly let the Committee know.&#xa0;
+
+[[[Q128 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] You can confirm that. Thank you very much. Can you confirm whether it is your intention at the FCA to review the process of how this company was listed, given the nature of the allegations that are currently before it?
+
+[[[David Lawton]]]: We have had an extensive dialogue with investors and other market participants over the last couple of years looking at the lessons that we can learn from the experiences of a number of companies admitted to the List. We have published a package of policy proposals to change the regime to strengthen in particular the protections offered to minority shareholders, including: requiring companies that have a controlling shareholder to have a separate vote of the minority shareholders for the independent directors; requiring such companies to enter into a shareholder agreement with the major shareholders, with sanctions if it is not properly kept; and changing the rules for delisting a company. I would say that we have already reviewed that process and proposed a package, which we put out for consultation three or four weeks ago, to strengthen the regime in those respects.&#xa0;
+
+[[[Q129 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] On the issue of delisting, can you tell the Committee today why ENRC was allowed to delist, given it is under a Serious Fraud Office investigation at the moment?
+
+[[[David Lawton]]]: The shareholders voted for a delisting. There is no connection between the ability of the SFO to pursue its enquiries and whether or not a company is on the list.&#xa0;
+
+[[[Q130 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] You have no powers currently to in any way stop that company going through that process during an investigation.
+
+[[[David Lawton]]]: The shareholders have voted to accept the deal that is on the table, which included delisting, and the SFO investigation is separate from that.&#xa0;
+
+[[[Q131 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Could you, just for the purposes of today, confirm if your proposals on delisting, which you have just referred to, would change that situation in any way?
+
+[[[David Lawton]]]: To be clear, the current requirement is that 75% of the shareholders vote in favour of a proposal to delist. Our proposal is that the minority shareholders, as a class, also have to vote in favour. As it happens, with the vote in respect of ENRC, the minority shareholders as a class did vote in favour of a delisting.&#xa0;
+
+[[[Q132 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] The proposals would not affect this particular situation occurring.
+
+[[[David Lawton]]]: It would give the minority shareholders as a class a separate say. As it happened in relation to this particular vote, the minority shareholders as a class did vote in favour of the delisting.&#xa0;
+
+[[[Q133 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I wish to follow on on the purchase of ENRC and its listing. ENRC listed in December 2007 and immediately went into the FTSE&#xa0;100. Just three months earlier, auditors Herbert Smith compiled a report on the company detailing what appears to have been systematic fraud. Did you see that report?
+
+[[[David Lawton]]]: I am afraid I cannot confirm—&#xa0;
+
+[[[Q134 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I would like you to confirm it, Mr Lawton. You will write to us and confirm it or otherwise. 
+
+[[[David Lawton]]]: Of course. What I meant, Mr&#xa0;Binley, is I am not aware whether we did or not, but I will certainly confirm. &#xa0;
+
+[[[Q135 ]]]&#xa0; 
+
+[[[Mr Binley:]]] You are not aware of it—an issue of that importance? Somebody comes in, goes straight into the FTSE on your say-so, and you were not aware that, three months before, a serious report was written questioning their operating systems in terms of fraudulent behaviour. You were not aware of that?
+
+[[[David Lawton]]]: In order to become a premium listed company, companies have to comply with our admission criteria, which include confirmation from the sponsor that a company meets our rules and, on a forward&#x2011;looking basis, is capable of meeting the rules. &#xa0;
+
+[[[Q136 ]]]&#xa0; 
+
+[[[Mr Binley:]]] You are saying, Mr Lawton, that if a respected auditor had made a report three months before this company was listed, you would take no notice of that report.
+
+[[[David Lawton]]]: No, I am not saying that. It is an important feature of our regime that companies that are listed are not doing so in a way that enables the UK financial system to be used for a purpose connected to financial crime. It is one of our statutory objectives to make sure that that does not happen. All that type of information needs to be assessed, both by the FCA and by the sponsor, to make sure that a company applying for admission to the Official List, particularly a premium listed company, meets those criteria. What I am just saying specifically in relation to your question, and I certainly will of course confirm for the Committee, is that I am afraid I am not aware of the Herbert Smith report personally.&#xa0;
+
+[[[Q137 ]]]&#xa0; 
+
+[[[Mr Binley:]]] You are the protector of the probity of our Stock Exchange, are you not? That is your role. You protect investors from companies that would use our structures to defraud people. Right? That is your prime role.
+
+[[[David Lawton]]]: Absolutely, it is certainly—&#xa0;
+
+[[[Q138 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Thank you; that is okay. Yet you missed this important report and allowed this to go ahead without question, did you not? 
+
+[[[David Lawton]]]: I will come back to the Committee about whether or not we—&#xa0;
+
+[[[Q139 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I believe you did, so let us proceed on this basis. If that is the case, would you be desperately sorry about that? Would you apologise for it? Would you think that you had not done your job? Would you even consider resigning in view of the fact that these people got through your net?
+
+[[[David Lawton]]]: At this point in relation to the SFO questions, that is still a matter that is under investigation at this stage.&#xa0;
+
+[[[Q140 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Letting them on to the List is not a matter that is still under investigation. You took a step to agree to their listing, did you not?
+
+[[[David Lawton]]]: It was certainly the case—
+
+[[[Mr Binley:]]] You took that step.
+
+[[[David Lawton]]]: Yes.&#xa0;
+
+[[[Q141 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Knowing what you know now, do you not have one scintilla of concern for people who might have invested in this company to their detriment?
+
+[[[David Lawton]]]: It is certainly the case—
+
+[[[Mr Binley:]]] It is a very simple question. It is either yes or no. 
+
+[[[Chair:]]] Can you just let him answer? 
+
+[[[David Lawton]]]: It is certainly the case that it is important investors have confidence in the integrity of the marketplace. It is also the case that there is nothing in the FCA regime that ensures that investors never see the value of their investments fall. Ultimately, investors have to make—&#xa0;
+
+[[[Q142 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I did not say that. That is not what I said. I said “protect investors from wrongdoing”, and it appears that we are seeing considerable wrongdoing and you did not do your job, did you, Mr Lawton? 
+
+[[[David Lawton]]]: In relation to the SFO investigation, we will have to wait and see how that concludes. In relation to the admission to the List, in relation to your direct question, it certainly was the case that the FCA, confirmed by attestation from sponsors, felt that this company met the admission criteria.
+
+[[[Chair:]]] We are going to talk about the issue of sponsors in one moment. Can I bring in Ann McKechin on broader issues? &#xa0;
+
+[[[Q143 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Just on one final point: when you confirm to us the name of the sponsor, can you provide us, given that this company is now delisted, with a copy of the report that the sponsors provided to you in relation to that company?
+
+[[[David Lawton]]]: If that is something that I can do, I will certainly satisfy the Committee on that.
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] I think it will be very important to the Committee to examine that report.
+
+[[[David Lawton]]]: I just need to make sure that there are no confidentiality concerns about that but, subject to that, yes, of course.&#xa0;
+
+[[[Q144 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Thank you, Mr Lawton. That is very helpful. Can I just go on to more general questions? You mentioned in your written evidence that mineral companies have slightly modified admission criteria—in fact, considerably less than for companies that are not in this sector. Could you run through why there are different premium criteria for these companies?
+
+[[[David Lawton]]]: Yes indeed. It is largely due to the technical nature of the industry. It is certainly not the case that the different criteria imply a lesser standard. For the premium listed company, a normal company would need to have what is called a three&#x2011;year track record, in other words be able to demonstrate three years of ongoing business, properly audited. In relation to mineral companies, the thing that investors particularly focus on is an independent expert’s report on the reserves and mineral assets that they have access to, so that takes the place of the three&#x2011;year track record. The other criterion that applies to a normal company is that you have to have control of the business. In relation to the mineral sector, a typical business practice might be to have co&#x2011;investments or production&#x2011;sharing arrangements. Therefore, for that type of company, we do not insist that you have control of your business, but we simply insist that you have a range of such investments. Those two differences really just reflect the technical nature of the minerals sector.&#xa0;
+
+[[[Q145 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Is the report from the sponsor any different for a mineral company from what it would be for a non&#x2011;mineral company?
+
+[[[David Lawton]]]: No.&#xa0;
+
+[[[Q146 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] If you are entering into co&#x2011;partnership with other partners as alliances, surely that might necessitate further investigation and a more thorough investigation to ensure that the company’s activities are such that they are not going to bring the listing into disrepute.
+
+[[[David Lawton]]]: There are two important steps in relation to this admission process. The first is that the prospectus that we talked about earlier clearly has to disclose all the relevant information about the company and its investment prospects, including the details of any production&#x2011;sharing arrangements and so on. Regarding the sponsor’s due diligence, when I said that the sponsor’s report is the same, the attestations that they make and the questions they answer are the same but, of course, in relation to a particular company’s circumstances, the amount of due diligence and the areas that need to be probed in order to be able to reach those attestations may be different.&#xa0;
+
+[[[Q147 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] The sponsor is presumably paid a fee to carry out the due diligence and essentially vouch for a company. How do you tackle the inevitable conflict of interest if the investment company is also in effect an agent for the company concerned?
+
+[[[David Lawton]]]: Sponsors really have two sets of responsibilities. Under our regime, they are supervised by us and authorised by us to perform the sponsor activity, and we do quite a lot of supervision of the sponsor activity in relation to those firms. Where we feel that the sponsor is not acting in accordance with what we want, then we have the ability to take action including discipline. The second responsibility is the one that you have just mentioned, which is facing off to the issuer. Sponsors have that dual responsibility. &#xa0;
+
+[[[Q148 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Has any company faced discipline?
+
+[[[David Lawton]]]: Yes.&#xa0;
+
+[[[Q149 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Have any companies been barred from being sponsors?
+
+[[[David Lawton]]]: The new Financial Services and Markets Act, which came into effect in April of this year, has strengthened our ability to both restrict the range of areas where a sponsor could offer services, if we felt that was necessary, but also to suspend a sponsor’s activity and ultimately take them off the list.
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Which you had not had previously.
+
+[[[David Lawton]]]: Which we did not have previously; that is right. &#xa0;
+
+[[[Q150 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Have you considered the argument for insisting that sponsors be independent from the applicant companies themselves, particularly if much of their activity is actually outwith the UK, so it is not within a jurisdiction in which it would be easy for you to find out all the relevant evidence? This is a concern about mineral companies where a lot of their activity is not within the UK jurisdiction. 
+
+[[[David Lawton]]]: Having a sponsor based in the UK actually is of real benefit in that circumstance because, on a day-to-day basis, most of our dialogue in relation to an issuer actually in fact is with the sponsor. Having a sponsor firm that has a close relationship with the issuer that it is representing is actually helpful for us in terms of ensuring that the issuer complies with the regime. Regarding the financing aspect, which you have talked about, a sponsor does need to be paid somehow, and having the issuer pay for it would be no different from having the issuer pay for the audit.&#xa0;
+
+[[[Q151 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Can I just ask what legal liability the sponsor has for the veracity of the listing particulars and the details that they publish? Are they legally liable for telling the truth, the whole truth and nothing but the truth?
+
+[[[David Lawton]]]: They are certainly liable to us under our regimes. In other words, as I was mentioning a few moments ago, if sponsor confirmations turn out to have been inaccurate or produced in a sloppy way, that would bring them under the purview of our discipline. I must admit I do not know whether they are able to be pursued through the courts by a third party. &#xa0;
+
+[[[Q152 ]]]&#xa0; 
+
+[[[Mr Walker:]]] There is also the question not only of accuracy but of inclusivity— including all the facts rather than just stating some which are true.
+
+[[[David Lawton]]]: Yes. The main document that issuers use to come to market is the prospectus. The directors of the company take responsibility for the prospectus and they are liable for its contents. If there is something that is misleading in a prospectus, then third parties do have the ability to take the directors to court for redress in that respect.&#xa0;
+
+[[[Q153 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Mr Lawton, there was an intriguing remark in your written evidence. You said, “Our review of an application for listing focuses on ensuring the applicant meets the admission criteria and is therefore eligible for listing. We do not consider whether it is suitable for listing.” I think most people would find that rather surprising, so why not?
+
+[[[David Lawton]]]: Those two terms are perhaps terms of art in the listing space. What I am trying to say there is that the criteria for admission to the List are objective and objectively verifiable. What we are not doing is making any comment on a company’s business model. For example, if an issuer came to us saying, “We’re a widget&#x2011;maker,” we make no comments on whether widget&#x2011;making is a good business to be in, nor are we making any comment, as we were saying in response to Mr Binley, about whether this is an investment that will make money for investors. The focus of our regime is to ensure that issuers make accurate disclosures about themselves in order to enable investors to take a view about whether they want to consider it as an investable proposition.&#xa0;
+
+[[[Q154 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] At present, no one actually makes that decision about whether they are suitable for listing in the sense that you have interpreted it. You make that decision about eligibility and that is it; once you have done it, they are on the List. 
+
+[[[David Lawton]]]: Yes.&#xa0;
+
+[[[Q155 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] What checks are you making against what criteria? You talked about objective criteria but, in terms of additional information that may be available about a company or allegations that have been made about a company and its practices, which may not strictly fall within a financial prospectus, what other investigations would you normally make?
+
+[[[David Lawton]]]: The objective criteria are the ones we have touched on a little bit already, so for a premium listed company, a three&#x2011;year track record, 12 months’ working capital and so on, and appointing a sponsor. More broadly, at the point of admission—again this comes back to what we were talking about with Mr&#xa0;Binley—we would want to investigate whether a company’s listing, particularly in relation to financial crime, would serve the purpose of using the UK financial system for financial crime. That is in our statutory objectives and that does entail us doing some broader analysis of the company.&#xa0;
+
+[[[Q156 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Presumably, as you said, you are in close contact with company sponsors. If someone made an allegation about a dodgy deal a company may have done a few years ago, for example, presumably you would be in contact with the sponsor about whether or not that allegation could be satisfactorily answered, if it was in the public domain.
+
+[[[David Lawton]]]: That is typically the sort of detailed conversation we would get into. In the context of the structure of our regime, sponsors have a critical role in selecting and promoting, or sponsoring—that is where the word comes from—companies for admission to the List. It is clearly an important part of their job and their reputation going forward that they bring companies to the List that they feel comfortable satisfy the criteria.&#xa0;
+
+[[[Q157 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Just one very quick final question: you mentioned that your new rules allow you to suspend and discipline sponsors of companies have only come into force with effect from this April. Does this affect sponsor reports that were submitted prior to that date? Does it apply retrospectively or does it only apply to new listings from April?
+
+[[[David Lawton]]]: It would only apply to sponsor activities since April, yes.&#xa0;
+
+[[[Q158 ]]]&#xa0; 
+
+[[[Chair:]]] Could you just make clear if there have been any examples where you have said that an applicant company does meet all the criteria from a financial point of view and then the listing authorities turn them down?
+
+[[[David Lawton]]]: We do have that power in practice.
+
+[[[Chair:]]] No, I am asking if it has happened.
+
+[[[David Lawton]]]: It has happened but, in practice, what tends to happen is that applicants withdraw before we make a final determination. When they take a view that we are likely to turn that application down, typically they withdraw their application.
+
+[[[Chair:]]] I am talking about you accepting their application or saying that it meets the appropriate criteria, but the UK listing authority then deciding to turn it down.
+
+[[[David Lawton]]]: In that circumstance, we would say it had not met the criteria, so actually the two questions are the same question. Going back to what we talked about, if people are particularly interested, for example, in this concern about financial crime, a statutory objective of ours is to protect and enhance the integrity of the UK financial system. The legislation defines that in part as taking into account the use of the financial system to further financial crime, so that becomes part of our overall assessment.&#xa0;
+
+[[[Q159 ]]]&#xa0; 
+
+[[[Chair:]]] I understand that it is normal for a company being listed to have over 25% of its shares available for the open market. Now, in some cases, including ENRC, they have been listed without having that requirement. Can you explain why an exception was made for companies like this?
+
+[[[David Lawton]]]: The basic rule is that there need to be sufficient shares in public hands for there to be a liquid secondary market, so that the trading of the shares subsequently works on a satisfactory basis. The European listing legislation sets 25% as the basic indicator of sufficient liquidity in the secondary market, but it does give us the ability to have a lower threshold where we are satisfied that there are sufficient shares in public hands for there to be sufficient liquidity. In a small number of cases with very large companies, we have assessed that that liquidity criterion would be satisfied with free floats of somewhat less than 25%. &#xa0;
+
+[[[Q160 ]]]&#xa0; 
+
+[[[Chair:]]] The logic of what you have just said would seem to imply that, if a company is of a certain size, there are likely to be enough shares on the free market not to apply that 25% criterion. Is that a rough and ready rule?
+
+[[[David Lawton]]]: Yes, but it only happens relatively rarely. Another aspect to think about is that, for very large companies coming to market for the first time, there can often be a capacity question. The market can only absorb a certain amount of new capital raising at any one point.&#xa0;
+
+[[[Q161 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I am confused, Mr Lawton, and I need your help, because your stated aim is to protect the shareholders from companies that use “corrupt or unethical methods”. That is so, is it not?
+
+[[[David Lawton]]]: It is certainly the case that a key part of our objective to protect and enhance the market integrity of the UK financial system has to take into account its use for financial crime.
+
+[[[Mr Binley:]]] One of the stated aims of the FCA is, and I will say it again, to protect shareholders from companies that use “corrupt and unethical methods”.
+
+[[[David Lawton]]]: There is a distinction between financial crime—we have been talking about some aspects of that—and broader questions about how companies act and behave. For example, we are essentially a capital markets regulator in performing this function. We are not a broader regulator of companies. Companies’ interaction with, say, competition law, tax law or employment rules lies outside the capital markets regime. They are quite properly matters for other authorities. If by “unethical”, you meant issues in relation to those sorts of things—&#xa0;
+
+[[[Q162 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I am using your words, not my words. I wonder what your words mean when you say that the shareholders need to be protected, and it is your aim, from companies that use “corrupt or unethical methods”. These are your words, not my words. May I go on to give you some further words? You also say in your submission to this body, “We are not the agency best placed to address concerns which ultimately amount to, for example, suspected fraud or corruption.” In the case of ENRC, they were right under your nose. An auditor had produced the report. I just wonder at what level you see your role as protecting shareholders from, and I repeat again, “corrupt or unethical methods”. What do you do to protect the shareholder from those corrupt or unethical methods?
+
+[[[David Lawton]]]: The authority that is charged with pursuing allegations of fraud or corruption in the UK is the Serious Fraud Office. It is not the FCA. Clearly, if we had found or were to find, in the course of our work, information that suggested something that the SFO would need to investigate, we would hand it over to the SFO.&#xa0;
+
+[[[Q163 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Let me get this straight. It is not really your aim to protect shareholders from companies that use corrupt or unethical methods but, if occasionally something drifts across your desk, you might or might not take action. Is that a fair summing&#x2011;up of where you see your position?
+
+[[[David Lawton]]]: No. I would see our position as being to protect and enhance the integrity of the UK’s financial system. That means taking steps to ensure that it is not used to further purposes that are related to financial crime. In relation to shareholder protection, our key goal is to ensure that companies disclose the appropriate information about their activities to ensure that investors have the information that they need to form a view about the prospects for that company and, secondly, in our broader oversight of financial market trading, to make sure that the trading of those companies’ securities happens in a fair and orderly way.
+
+[[[Mr Binley: ]]]Just one final one. &#xa0;
+
+[[[Q164 ]]]&#xa0; 
+
+[[[Chair:]]] Brian, I need to come in with another one in the context of this. I think you have had a fair whack. Mr Lawton, how can you respond to Professor Franks of the London Business School, who is reported as saying that the UK is “too liberal about welcoming companies from countries with less transparency” and that you have “too much faith that companies would be transformed through a London listing”?
+
+[[[David Lawton]]]: I would say two things in response to the Professor’s comments. The first is that the UK regime makes no distinction, in terms of its rules, between companies depending on where they come from. In other words, we apply a similar regime to all. The premium listing regime has significant standards over and above the European minimum. We are already setting standards over and above other European marketplaces. Secondly, I would say, and it is plain in relation to the package that we have consulted on in terms of strengthening minority shareholder rights, that there are some areas where the regime does need to be strengthened, taking account of the experience of the last three or four years.&#xa0;
+
+[[[Q165 ]]]&#xa0; 
+
+[[[Chair:]]] Do you agree from those comments that you should be tightening up the free float rules?
+
+[[[David Lawton]]]: The free float is a red herring when it comes to these concerns about shareholder protections, and we have been debating this quite extensively with investors. Minority shareholders would be minority shareholders with a free float of 25%, 30% or 40%. It is about the protections that they enjoy, whatever the free float, in those circumstances where the controlling shareholder particularly might be taking actions that might be to their disadvantage.&#xa0;
+
+[[[Q166 ]]]&#xa0; 
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] Mr Lawton, in your submission you went into some detail about the size of the extractive sector in terms of the companies that are listed in the UK. Across the board, more and more companies appear to be listing here. Why do you think that is, from the perspective of the listing authority?
+
+[[[David Lawton]]]: Actually, the number of listed companies has been on a slight decline over the last 10&#xa0;years or so, but I think the nature of markets, particularly capital markets, is such that people seek out deep and broad capital markets. In particular, companies coming to market are attracted to locations that not only have capital but also have a range of advisory and analytical services to assist them to come to market. That has been built up in the UK over a long period of time. We are clearly not the only financial centre with those sorts of strengths, but they do tend to build on one another over time.&#xa0;
+
+[[[Q167 ]]]&#xa0; 
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] You talk also in your submission about a “commodities super&#x2011;cycle”. Can you explain what that concept is, please?
+
+[[[David Lawton]]]: That just means, if you look over the last 10 years or so, there has been a big upswing in the prices of commodities, so oil, metals and so on, partly related to the growth of emerging markets like China. That means that companies in the extractive sector have grown in value. As part of that, some of them have wanted to come and tap public capital markets. &#xa0;
+
+[[[Q168 ]]]&#xa0; 
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] Obviously many extractive companies are very large and very complex in their structure. Can you explain a little bit more about how a company can be listed in more than one country at the same time?
+
+[[[David Lawton]]]: Typically, a company will list in its home market but, if it wants to broaden the base of investors that have an opportunity to invest in it and perhaps seek a larger pool of capital, it might seek to list in another location. That is a trend that is less prevalent these days, because it is now a bit easier for investors to invest in markets elsewhere than their home market. The number of companies with multiple listings is shrinking, but there is no regulatory barrier to that.&#xa0;
+
+[[[Q169 ]]]&#xa0; 
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] If a company is listed in several jurisdictions, by whose rules do they have to abide?
+
+[[[David Lawton]]]: They would have to satisfy the capital markets rules in each jurisdiction in which they access capital markets, so all of them.&#xa0;
+
+[[[Q170 ]]]&#xa0; 
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] If the rules differ or go off in different directions, would they abide differently in different countries?
+
+[[[David Lawton]]]: Yes. Typically, the rules would not be conflicting; they would be in layers. A company, as a matter of practice, would satisfy the capital markets rules of the most stringent jurisdiction.&#xa0;
+
+[[[Q171 ]]]&#xa0; 
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] Quickly, because I know you have already touched on this, could you just outline what the difference is between a primary and a secondary listing, please?
+
+[[[David Lawton]]]: Secondary listing was the term that we used to use when companies wanted a second listing, i.e. non&#x2011;UK companies. We changed the regime about five years or so ago and opened up that category to UK companies and renamed it standard listing. A standard listing is one that embodies the European legislative criteria in relation to prospectuses, disclosures and so on. A premium listing adds some additional requirements on top of that. For the issuer, there is a need to have a three&#x2011;year track record, to be able to say that you have enough working capital to survive at least 12&#xa0;months of activity, and you also have to appoint a sponsor. On an ongoing basis, a premium&#x2011;listed issuer also has to offer shareholders additional rights to have votes over important transactions such as major acquisitions or transactions with related parties.
+
+[[[Chair:]]] Can I bring in Brian Binley now?&#xa0;
+
+[[[Q172 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Again, Mr Chairman. You must be getting really fed up with me, Mr Lawton. Is it fair to say that the role of the regulator carries with it greater promise than the regulator is able to fulfil?
+
+[[[David Lawton]]]: In relation to capital markets, it is important to recognise that there are a number of other actors on the stage. We have talked about company law; we have not talked about but I will mention the Financial Reporting Council, which are the owners of the UK’s corporate governance code. We also have a Takeover Panel, which deals with takeovers. The FCA is a capital markets regulator, but it is not the only capital markets regulator. In that sense, sometimes people talk to us about issues that actually are more in the purview of these other actors.&#xa0;
+
+[[[Q173 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I thought it might be helpful for you to get that on the record. Let us proceed. Can I ask how much it costs to list a company on the FTSE or AIM?
+
+[[[David Lawton]]]: I will come back to what I said earlier. AIM is an unlisted market. FTSE is an index, so actually “FTSE&#x2011;listed company” is not a term that exists. In order to be a company on the Official List, we would charge a fee. The maximum fee we would charge for the largest and most complex listings is £50,000. Most transactions are less than that. The bulk of an issuer’s costs in coming to market is really around preparing the prospectus and marketing itself and its securities. &#xa0;
+
+[[[Q174 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Would you be surprised or were you surprised to learn that a company had said that “complying with the conditions for its London listing exceeded £200&#xa0;million”?
+
+[[[David Lawton]]]: The process of preparing the documents is an expensive process. There is a lot of material that a company has to disclose to the marketplace in order to have access to the market. As we talked about earlier, the directors take responsibility for a prospectus, so, if you were a director, you would of course want to make sure that it was prepared with the appropriate diligence, and that does require assistance from a range of advisers.&#xa0;
+
+[[[Q175 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Is there anything that you can do to lessen that? I am forever wanting to lessen costs on business, because I think that the bureaucratic cost on business is unproductive. Is there any way you can lessen that cost, with your other colleagues who are regulators too?
+
+[[[David Lawton]]]: From a regulatory point of view, the thing to focus on is what it is you are requiring companies to prepare and disclose. The things that are required to be prepared and disclosed have been built up through policy development and legislation over many years. Most of them are now hard&#x2011;wired into European legislation. European legislation does typically provide streamlined requirements for smaller and medium&#x2011;sized enterprises. That is always something that is a debate in policy-making circles. &#xa0;
+
+[[[Q176 ]]]&#xa0; 
+
+[[[Mr Binley:]]] You said that “Reducing the burden of legislation without careful consideration will not necessarily make a financial centre more attractive”. That seems to me to be saying two things at the same time. What did you actually mean by that? Give us an example of what you meant. 
+
+[[[David Lawton]]]: Let us go back to the listings regime. We have talked about the fact that, on the Official List, there are two categories. There is a standard category, which is aligned to the basic European legislation and, therefore, is very similar to what you would find applies in other European jurisdictions; but we have taken, in consultation with an agreement with the market participants over a period of time, the decision to have a premium category over and above the standard category, which imposes additional requirements. That would be an example of where the marketplace itself—issuers, investors and advisers—have said, “Here is a market segment for which we want to have additional regulatory criteria, because we think that would be of benefit.”&#xa0;
+
+[[[Chair:]]] Can we finish with Robin Walker on corporate governance?
+
+[[[Q177 ]]]&#xa0; 
+
+[[[Mr Walker:]]] I wanted to come on to the EITI and the UK joining up to that, specifically the comment that creating a “publicly available register of the beneficial owners of the corporate entity” is required under the EITI. What do you feel are the advantages of a register of beneficial owners and what might be the costs or disadvantages?
+
+[[[David Lawton]]]: It is not something the FCA has given a huge amount of thought to. Obviously, for UK companies already, under the Companies Act, there is a requirement to have a shareholders’ register available. Under the capital markets regime, we have what is known as a major shareholders’ disclosure requirement, so every time somebody acquires more than 3% of a company, they have to disclose that to the marketplace. There are already significant elements that require disclosure under the UK regime. I imagine that what is being perhaps got at in your comment is whether there are other owners behind the owners who disclose. From a capital markets perspective, historically, what we have focused on is who has control and making sure that the marketplace understands how much of a company somebody owns, so as to enable it to be ready for potential takeover bids and so on, so valuation questions.&#xa0;
+
+[[[Q178 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Given the number of intermediaries that exist and the different ways of owning shares, is it actually not very difficult to establish what real stakes people have behind the scenes? Is there anything that a regulator can do to increase that transparency?
+
+[[[David Lawton]]]: We and the Takeover Panel already have concert party arrangements. If two seemingly unrelated shareholders in fact are acting in tandem, that already engages some of our rules.&#xa0;
+
+[[[Q179 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Professor Kay recommended in his review that “the Government should explore the most cost&#x2011;effective means for individual investors to hold shares directly on an electronic register”. Is that something that is being looked at and would that help to meet the requirements of the EITI for a register of beneficial ownership?
+
+[[[David Lawton]]]: That debate is probably more driven by individual private shareholders, the use of nominee accounts, the ability to have access to corporate events and so on. I do not think, on the basis of what you have described there, that is central to the EITI concerns. The EITI is, as I understand it, going to be adopted in Europe through a combination of changes to the accounting regulations and the transparency directive. It will become something that European companies and companies that access European capital markets will have to adhere to from their side—obviously there is a country side, but from the company side—in due course.&#xa0;
+
+[[[Q180 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Obviously, the UK has signed up to EITI separately from that European process, and so that is something that we ought to be looking maybe to lead the way on. In terms of those directives, obviously they are going to require changes in reporting and particularly breaking down turnover by country and information that was not necessarily previously required to be disclosed. What steps do you take as the regulator to ensure companies are aware of their responsibilities?
+
+[[[David Lawton]]]: When that legislation takes effect, we will be working with the Government to embed it in the UK rules. Typically, European legislation is implemented through a combination of changes to law and complementary changes to the FCA rules. We will have a consultation process, which will be the prime means of alerting companies and others to these obligations.&#xa0;
+
+[[[Q181 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Do you think that could have a beneficial effect for some of the NGOs that have been campaigning for this type of information to be published—people like Publish What You Pay—in terms of the tax that companies pay in different jurisdictions? It actually meets some of their requirements. I think they recommended the UK should work with “other countries [to] to take speedy and effective action to curtail profit shifting and the use of tax secrecy jurisdictions”. Do you think that new reporting approach can make a real difference there?
+
+[[[David Lawton]]]: Possibly, but that is not really for me to comment on because, as we talked about earlier, tax matters are outside our remit.&#xa0;
+
+[[[Q182 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Finally, I just want to pick up on a written submission. We have written submissions from a large number of organisations, as I am sure you are aware, but the one from Christian Aid had a heading “Greater transparency and accountability: UK a global leader”. Is that something that you think is important, given the prevalence of extractive industries listing in the UK—that we should aspire to be a leader in transparency?
+
+[[[David Lawton]]]: From an FCA perspective, going back to what we were talking about earlier on about what our objectives drive us towards, it is important that capital markets are transparent and that investors and issuers have confidence in them. Transparency about a broader range of companies’ activities really lies outside the FCA’s remit. It may be that the Christian Aid submission might have been talking about some of those other aspects.&#xa0;
+
+[[[Q183 ]]]&#xa0; 
+
+[[[Chair:]]] Would you not agree that the title of your organisation, the Financial Conduct Authority, if you like gives a legitimate reason for outsiders to expect you to have jurisdiction over areas that you disclaim any right to have jurisdiction on, things like transparency of taxes and issues like that? 
+
+[[[David Lawton]]]: Really, the things that we have jurisdiction over do not particularly flow from the name; they flow from the legislation under which we operate. &#xa0;
+
+[[[Q184 ]]]&#xa0; 
+
+[[[Chair:]]] That could be right; it could be that the name is wrong and perhaps you do not really do what is on the tin. Arising from the comments that you have made today, it would seem that there is either a case for changing the name to make it more definitive in the rights and responsibilities you have or perhaps an extension of those rights and responsibilities to match up with the aspirations of the name. Would you agree that is reasonable?
+
+[[[David Lawton]]]: I am not responsible for setting the name.
+
+[[[Chair:]]] I quite appreciate that, but I would welcome your opinion.
+
+[[[David Lawton]]]: The important point I would want to leave the Committee with is that we are a capital markets regulator. We are not a companies regulator. There are a number of things that are of concern to you about company behaviour, which have some bearing on our capital markets regulatory objectives, and we have talked particularly about financial crime. There are a number of other things that have no bearing on it directly, and it is important that the Committee is clear that we are not a companies regulator.
+
+[[[Chair:]]] I think I know the answer to the next question, but I am still going to ask Paul&#xa0;Blomfield to ask it.&#xa0;
+
+[[[Q185 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I think you have almost answered it in your comment a moment ago, but I wanted to follow up on Robin Walker’s concerns about some of the issues that have been raised with us by NGOs. The World Development Movement, for example, has argued strongly to us that “The UK Government must regulate UK financial institutions to drastically reduce their financing of fossil fuel projects around the world”. Have you given any consideration to those concerns?
+
+[[[David Lawton]]]: From a listings point of view, you mean? No.&#xa0;
+
+[[[Q186 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I am guessing your answer to the follow&#x2011;up to that. They would argue that the UK is missing out on the chance to build a thriving renewables sector, as has been achieved by other countries, through regulatory intervention. Do you not think you have any role there?
+
+[[[David Lawton]]]: Could you be a bit more specific about what type of regulatory intervention you have in mind?&#xa0;
+
+[[[Q187 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] The World Development Movement has argued that a regulatory intervention that discourages financial institutions from financing fossil fuel developments and looks towards the renewable sector has worked elsewhere.
+
+[[[David Lawton]]]: That really is a broader question about a combination of energy policy and development. Using either capital markets regulation or indeed regulation of financial services firms to achieve those aims, driven from the initiative of the FCA, would be outside our statutory remit.
+
+[[[Paul Blomfield:]]] I thought you would probably say that, but I thought I would explore it anyway.
+
+[[[Chair:]]] So did I. That actually concludes our questioning. Can I thank you very much for your answers to what was, I think it is fair to say, some fairly robust questioning? I will say what I say to a lot of panellists: often, we realise on reading the transcript that there are further questions that we would like to ask, and we will write to you and would be grateful for a reply, if we feel that that is necessary. Equally, if, on reflection, you feel that you would like to add to any answer that you have given today, we would welcome those comments. Thank you very much. 
+
+[[[Mr Binley:]]] Can I just say you did promise to come back to me on the issue I raised?
+
+[[[David Lawton]]]: Indeed, there were two things on which I promised to come back. Thank you.&#xa0;&#xa0;
+
+[[[Examination of Witnesses]]]Witnesses: 
+
+[[[Tara Hopkins]]], Head of UK and EU Government Affairs, Rio Tinto plc,
+
+[[[ Charles ]]]
+
+[[[Watenphul]]], Director of Corporate Affairs, Glencore Xstrata, and
+
+[[[ Ed Daniels]]], Chairman of Shell UK Limited, Shell International Limited, gave evidence.&#xa0;&#xa0;
+
+[[[Chair:]]] Good morning and thank you for agreeing to answer our questions. I apologise for being slightly late starting, but obviously we needed to explore some things with the previous witness in some detail. I do warn that we may have to go over our scheduled time here, if we feel there are issues that need further exploration. Could I just ask you to introduce yourselves first for voice transcription purposes, starting with you, Charles?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Sure. Good morning. Charles Watenphul, Director of Corporate Affairs at Glencore.
+
+[[[Ed Daniels]]]: Good morning. My name is Ed Daniels. I am the Chairman of Shell UK.
+
+[[[Tara Hopkins]]]: Good morning. My name is Tara Hopkins, Chief Adviser for External Affairs at Rio Tinto.&#xa0;
+
+[[[Q188 ]]]&#xa0; 
+
+[[[Chair:]]] Thank you. We have a lot of questions. Some will be person&#x2011;specific, but that does not preclude anybody else, if they have a comment, from adding it; equally, do not feel that you all have to answer every question if they are general questions and you do not feel that there is really anything that you can add to or subtract from what another speaker has said. My first question is to you, Charles. You wrote to us and said, “The extractive sector is not merely a collection of mines and oil fields. It is instead a complex global industry that connects resources with customers through a network of transport, supply and logistics.” The industry may be global, but would you say it is mobile?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Absolutely.&#xa0;
+
+[[[Q189 ]]]&#xa0; 
+
+[[[Chair:]]] How do you justify saying that?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Part of what we do at Glencore is ensure that the commodities that are needed at the places that need them most get there. It involves the extraction of the commodity itself, but also the transportation to the customers that ultimately turn them into the products that you and I know on a daily basis, be it a car or a bicycle.&#xa0;
+
+[[[Q190 ]]]&#xa0; 
+
+[[[Chair:]]] You summarised, and again I am quoting, “Mining’s contribution to the global economy is becoming more significant.” How would you recommend that the UK best position itself to benefit from this?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: You have to look at the expertise in place in the UK at the moment. The extractives industry as a whole in the UK, in terms of actual operations, has been declining, as we know, but the expertise from the ancillary services that have been born from that, be it advisory capacity, are at least to our benefit at Glencore on the exploration and production side. We utilise a great number of companies based in Aberdeen in Scotland that advise us on those activities that we have in exploration and production. Continuing to build the skill set to ensure that not only the UK can benefit but also countries abroad that have resources that the wider world needs to continue to develop will be key.&#xa0;
+
+[[[Q191 ]]]&#xa0; 
+
+[[[Chair:]]] Given the fact that we have fewer extractive industries, or perhaps not the capacity and the range of extractive industries that historically this country had, do you see any, shall we say, deficiencies in terms of skills or professional capacity?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: From a Glencore perspective, no.
+
+[[[Ed Daniels]]]: I would perhaps build a little bit on Charles’ reply. There is a vibrant science and technology base here in the UK, with some of the best universities in the world doing research, both in mineral extraction and in the oil and gas sector, so we rely very heavily here not only for the research and development components within universities, but also for attracting skills and talent. Certainly, in the oil and gas sector, in the energy sector, we do see a shortfall in skills. There is a challenge right the way through the education system, starting even at junior schools in encouraging children to study science, all the way through to universities, when engineers appear at the end of their training and decide to become bankers or consultants, rather than practising their trade. We have a challenge there as well.
+
+[[[Chair:]]] Tara, would you agree with that?
+
+[[[Tara Hopkins]]]: Yes, absolutely. From a Rio Tinto perspective, there is a huge amount of excellence in the skills base here in the UK for our particular industry, for mining. We try to draw on that as much as we possibly can. We have partnerships with universities here, and we have had them for years and years—Camborne School of Mines, Imperial College and Nottingham University. We do try to invest in that skills base, because we do recognise that there is a centre of excellence here in the UK that you do not get in other places.&#xa0;
+
+[[[Q192 ]]]&#xa0; 
+
+[[[Chair:]]] Okay, so we seem to suit Glencore but not the others. Do you see the industry growing? I am now talking about the extractive industries in general growing or contracting. I think probably a one&#x2011;word answer or a very short answer would do on this. I will start with you on this, Tara. 
+
+[[[Tara Hopkins]]]: We see it growing. We see a huge amount of opportunity in our industry going forward.
+
+[[[Ed Daniels]]]: Globally, growing.
+
+[[[&#xa0;]]]
+
+[[[Q193 ]]]&#xa0; 
+
+[[[Chair:]]] Globally, growing, but not here; is that the implication of what you are saying?
+
+[[[Ed Daniels]]]: In energy, more stable here than growing.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Globally, growing, but also ensuring that the UK’s skill set has can grow with it.&#xa0;
+
+[[[Q194 ]]]&#xa0; 
+
+[[[Chair:]]] We met last week with companies that extract, and we had a fairly clear message there that the UK lacked an extractives strategy. Would you agree with that and, if you do agree, how do you think it affects you? I will start with you, Tara.
+
+[[[Tara Hopkins]]]: In terms of a UK strategy, given Rio Tinto only has one quite small operation here in Scotland, it does not impact us. I would say, however, that the more global look at the extractive industry from a UK perspective would be very much welcomed by a company like Rio Tinto. A lot of other countries that we are working in have got a mineral strategy, which does help us to have a clear vision of what a government is trying to achieve through its energy and mineral extractors—across the entire board. We would welcome that.
+
+[[[Ed Daniels]]]: I have one problem with the premise of the question. I am not convinced that a single extractives strategy, lumping together mineral extraction and oil and gas, is necessarily the right direction. There are some quite big differences between the sectors. The recent Wood review here in the UK on the UK continental shelf is a good, positive step forward to have a framework. What is absolutely fundamental for us is long&#x2011;term stable regulation, long&#x2011;term stable transparency around tax regimes, because the kind of investments that we all make, frankly, are very long&#x2011;term investments, going 10, 20, 30 or 40 years. Fluctuating regulations and fluctuating tax regimes cause us enormous problems in making decisions on investments.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: To follow on from Tara’s point, our footprint in the UK is limited to a relatively small zinc/lead smelter, called Britannia, down in Kent. 
+
+[[[Chair:]]] Sorry, can you speak up? Some of us are getting old and hard of hearing.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: My apologies. Our operations in the UK are limited to one operation, Britannia, down in Kent, which is a zinc/lead smelter but, again, the expertise that has come out and the skill set that we have utilised, even before we went public, that is based here in the UK is second to none. Through some of the operations that we have globally, we have been able to export that skill set abroad. Again, it is about supporting that going forward. &#xa0;
+
+[[[Q195 ]]]&#xa0; 
+
+[[[Chair:]]] I want to bring in Robin in a second—he has a supplementary—but before I do so, I have a couple of supplementaries. First of all, could you say if you operate in any country where there is such a strategy? I think some of you mentioned one in passing. Secondly, if so, how does that affect the way that you operate? Lastly, do you think there is just too much weight being put on the significance of that? I will start with you, Charles. 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: It is an interesting point you raise, Mr Chairman. From a Glencore perspective, and even more widely from an extractive point of view, all of us operate according to the rules and regulations in the countries where we operate, first and foremost, but that is supported by a more global approach that we have through our code of conduct and values. Leading on from what Mr Daniels said, we are of the view that regulation for the sake of it is not welcome. We put in our submission that it is something that ultimately we should continue to consult on. If there is a clear objective case, a proven case, for putting it through, then that is something we should look at.&#xa0;
+
+[[[Q196 ]]]&#xa0; 
+
+[[[Chair:]]] I was going to say you have defined it in terms of regulation. A strategy would have a much broader approach.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Absolutely. There are a number of countries that do have strategies. One example that could help support that in a number of areas would be the EITI, which the UK has recently signed up to. That should be applauded. All of us here are supporters of EITI, Glencore included.
+
+[[[Chair:]]] We will be going into that in a moment.
+
+[[[Ed Daniels]]]: I am not completely convinced that governments are the best creators of strategy overall. It is important to recognise that the free market has done an awful lot of things well. Clearly there is a compact between government/regulators, civil society and corporations that we need to get right. That triangle needs to work efficiently and effectively. There is a minimum amount of regulation that is absolutely necessary to get things right, but I completely agree with Charles; I do not think we need to heap on regulation and assume that governments will always have the right answer strategically on energy policy.
+
+[[[Tara Hopkins]]]: If I may just talk about mineral strategy specifically, because we do work in a number of countries that have a specific mineral strategy, we do find it helpful. It does give clarity to what that country and what that government is trying to achieve, where it wants to source its raw materials, what it wants to do with its raw materials, where it wants to export its raw material. Those types of guidelines are helpful. Building on the points around additional regulation, of course most companies would like to see clear regulation and not over&#x2011;burdensome regulation. However, a clear set of guidelines is always helpful.&#xa0;
+
+[[[Q197 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Just a very brief declaration of interest: apart from what I have already declared, I should point out that I worked with Mr&#xa0;Watenphul in a previous career at Finsbury. I wanted to follow on from these questions about government strategy with one area where there is a government strategy in the UK, particularly for the mining sector: exports. Mr Watenphul mentioned exports. There is a specific UKTI strategy paper, and I had a constituency business, Joy Mining Machinery, in Westminster yesterday. I was slightly disappointed to find out that they did not know about that UKTI paper. I will just ask the question to the two mining companies represented here: are you aware of that UKTI strategy and have you engaged with UKTI, in terms of their potential support for UK businesses?
+
+[[[Tara Hopkins]]]: We are aware of it and we were very much involved with UKTI—this is the large book, yes? We were very much involved. In fact, most of the photographs are Rio Tinto photographs in the book. We were really happy to be part of that process. What it helps us with is looking at the UK from the procurement and supply chain perspective. What is the benefit to the UK in terms of supporting international companies that are based out of London? That is where we really felt there was a value.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I am aware of it, like Tara has just said. The points that she has just made in terms of how it can help support UK industry overseas with specific relation to the extractive industry are clear.&#xa0;
+
+[[[Q198 ]]]&#xa0; 
+
+[[[Nadhim ]]]
+
+[[[Zahawi]]]
+
+[[[:]]] Mr Daniels, you mentioned the compact between government regulators, the community and the corporations. Can all three panellists give us an example of where that has worked well, but also where it has gone wrong for you, why, and the lessons around that? We will start with you, Mr Daniels. 
+
+[[[Ed Daniels]]]: There is an example in mind of where it can go wrong. For example on the transparency initiative, we certainly felt that our voice was not particularly well heard around some very specific challenges that we have. The practicality is we are absolutely supportive of publishing our revenues and taxation in countries around the world, and it is available on our website if you wish to see it. The reality is that we operate in lots of different countries, in two of which I know for certain it is against the law of that country for us to publish the tax receipts in that particular nation. I struggle to put individuals in our company in the invidious position of having to break the law here or break the law in the country that they are operating in. There are some nuances where a better dialogue between regulator and company could have avoided that particular pitfall in regulation.              Having said that, in contrast to that, if I look at the Wood review of the development of the UK Continental Shelf, that has been a great example of where the regulator and government have engaged with industry, but also engaged with broader civil society, to understand how we can best extract the resources that we have left in the North Sea to the economic benefit of this nation. Those are two examples that I can think of.
+
+[[[Tara Hopkins]]]: I will use the same country for the two examples. In Australia, where Rio Tinto have the vast majority of our operations, particularly our iron ore operations, the compact between government, NGOs, indigenous people and the communities in which we operate—it is a resource&#x2011;rich nation and has been extracting for a long time—means there is an incredibly strong relationship between all of those groups. That has been really successful for the country in the economic development of the country. Equally, where things have gone wrong in the past and are now being righted are around looking at where the industry maybe did not communicate well enough about its broad economic contribution, and the government of the day then was looking at additional super&#x2011;profits tax on some of the industry. That was where there was a failure of communication between two parts of that compact.&#xa0;
+
+[[[Q199 ]]]&#xa0; 
+
+[[[Nadhim ]]]
+
+[[[Zahawi]]]
+
+[[[:]]] You did not like being taxed more.
+
+[[[Tara Hopkins]]]: We like being taxed. We pay our tax. 
+
+[[[Nadhim ]]]
+
+[[[Zahawi]]]
+
+[[[:]]] But not more.
+
+[[[Tara Hopkins]]]: Not a super&#x2011;profits tax, no. &#xa0;
+
+[[[Q200 ]]]&#xa0; 
+
+[[[Nadhim ]]]
+
+[[[Zahawi]]]
+
+[[[:]]] I did not understand where it has gone wrong. 
+
+[[[Tara Hopkins]]]: Where we had the issue was that we have been paying a lot of tax, in Australia particularly. Last year we paid over 7&#xa0;billion in tax in Australia. Where we had gone wrong, from both sides of the compact, was that we had not been communicating well enough where we were paying our taxes, where the taxes were going and those types of things.
+
+[[[Ed Daniels]]]: For any company that is making an investment, a very long&#x2011;term investment—decisions you make to invest in the Brent field in the UK North Sea are of 40 years duration—you have to make assumptions on capital costs up front, the running expenditures, etc., and the taxation regime that you are in. If you are changing the rules of the game partway through, that leads to a complete lack of confidence in the industry and a collapse of investment. If you look at the record in the UK, when the tax rate was done in the North Sea in 2011, you could directly follow the reduction in investment in the North Sea. It is a dangerous game to play in such a long&#x2011;term industry such as ours.
+
+[[[Nadhim ]]]
+
+[[[Zahawi]]]
+
+[[[:]]] That is a fair point to make. Charles, do you want to come in?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Mr Zahawi, I would just add to that that the extractors do invest for the long term. These are multiple decades in certain cases. We have a huge global footprint invested in many countries around the world. The challenges come depending on the jurisdiction, the infrastructure that is there and a whole host of other factors. One of the great challenges we faced of late was recently we had a mine nationalised in Bolivia. That in itself is something that we as extractors need to be mindful of. We have invested a considerable sum of money and, again, it is a different form of changing the rules of the game but, in itself, that is a big game changer for us.&#xa0;
+
+[[[Q201 ]]]&#xa0; 
+
+[[[Nadhim ]]]
+
+[[[Zahawi]]]
+
+[[[:]]] Where has it gone right?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I suppose a good example of where it has gone right, as I see it, is our investments in Africa. We have invested billions on the ground there, whether it be in South Africa, the DRC, Zambia and elsewhere. You can see the development that comes from not only your operations but also the communities that surround those operations: the taxes that are being paid; the investments that are being made on the ground. It is a very clear difference that you can see, having gone through a six&#x2011;month journey.
+
+[[[Nadhim ]]]
+
+[[[Zahawi]]]
+
+[[[:]]] If we asked those communities, those stakeholders in that compact, they would agree with you.&#xa0;
+
+[[[Q202 ]]]&#xa0; 
+
+[[[Chair:]]] We will be coming on to community impact in a moment; could we just leave it at that? In summary, I am a little bit surprised, because what I am getting back does not really reflect or is not consistent with some of the comments earlier. I asked about a UK strategy. Now, my experience of all governments is that they are very good at creating strategies; what they are not very good at is implementing them. You have mentioned one or two issues that I would have thought would have been avoidable with a clear&#x2011;cut government strategy. Ed Daniels, you mentioned the taxation in the North Sea. Had the Government had a clear&#x2011;cut extractive industries strategy, that might well have been avoided. However, given the fact that obviously taxation priorities, skills and investment priorities, planning law and investment in industry all impact hugely on your capacity to deliver, do you not think there is a case for a coherent Government position on this, because then the regulation might actually reflect the Government’s strategic priority?
+
+[[[Ed Daniels]]]: I agree with you. What is wrestling in my mind is that the word “strategy” is such a broad term that it can mean everything from a very high&#x2011;level framework, which I think is absolutely necessary, all the way down to some quite detailed tactics. My concern is we need to keep it at the high&#x2011;level framework, which I think is where the Wood review is headed and we are supportive of. I am concerned that, if we get down into micromanagement, we end up with a misallocation of resources and capital, and time and effort.&#xa0;
+
+[[[Q203 ]]]&#xa0; 
+
+[[[Chair:]]] Would that summarise your position, the other two speakers?
+
+[[[Tara Hopkins]]]: As I said at the beginning, we would welcome that, and we do welcome a very clear&#x2011;cut strategy around minerals and mineral extracts in the countries where we operate.&#xa0;
+
+[[[Q204 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] You all have a premium listing on the London Stock Exchange but, as you stated to us already, you have varying levels of production here in the United Kingdom. Do you consider yourselves to be a British company? Mr Watenphul, would you like to go first?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Thank you very much. It is an interesting question. We are a Swiss company. We were founded in Switzerland almost 40 years ago. We are, of the three companies on the panel, the most recent to have listed, only two and a half years ago. By way of background, why was it that we chose London? It is an important point that I would like to get across to the Committee and Mr Chairman. Fundamentally, when we came to decide to do an IPO, we could have listed anywhere in the world. We chose the London market for three key reasons. First of all, London is home to the global natural diversified resource companies. We came here because this is where our peer group is listed. I look at Tara and major extractors such as Anglo American, BHP&#xa0;Billiton, etc.
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] It is critical mass of companies.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Absolutely. The second point is London has, arguably, an investor base that understands the companies that are listed from the extractors better than anyone else. It has a huge pool of capital that is available to companies such as ours that list. Ultimately, it is down to the investors to see if they want to invest. The third point is a premium listing in London, especially on the FTSE&#xa0;100, which we are all part of, provides London investors with the benefit of, from our perspective, the first&#x2011;rate regulation and corporate governance that can be found here today. 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Thank you. You have actually answered my second question as well—what the factors were in making that decision. Mr Daniels.
+
+[[[Ed Daniels]]]: I think I have a pretty similar answer. Marcus Samuel started his shell&#x2011;importing business in 1897 in the East End of London so, in that regard, we have a long historic relationship here. In the early 1900s, we conjoined with a Dutch company to make us Anglo&#x2011;Dutch and then, subsequent to that, we have also listed on the New York Stock Exchange, so we have three listings around the world. When you interview people around the world, actually Shell is a brand that plays quite well locally. If you interview people in America, they think it is an American company and so on. Although we have very strong and deep roots here—it is our primary listing here in London—we are a global player, as you would expect. There is, in our view, an ecosystem of support companies around us here. There is the depth and breadth of the capital markets. The people who really understand the extractors from an analyst perspective are here. I would make one point, though. It is a strong and stable regulatory regime but, of course, we have to be careful that it remains a competitive regulatory regime. If it goes completely out of kilter, such that the regulations here cause us untold difficulties to operate and other regimes allow us to operate more freely around the world, in the developed world, of course that puts quite a challenge upon us.&#xa0;
+
+[[[Q205 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Could I just ask you a supplementary, Mr&#xa0;Daniels? You have pointed out that you are actually listed in three different countries. Could you explain precisely how that works in terms of regulation, access to capital and share prices? 
+
+[[[Ed Daniels]]]: I would declare that I am not an expert in this field, but we want to get, as your previous witness mentioned, the ability to have the depth of the capital markets in those main markets, in London and in the US mainly. The Amsterdam listing is largely for reasons of history. Exactly how that works in terms of the movements of the share price is obviously they all work off the same primary data—the business performance of the amalgamated accounts of the Royal Dutch Shell Group.
+
+[[[Tara Hopkins]]]: From a Rio Tinto perspective, we have been headquartered and based out of London for the last 140 years. We consider ourselves to be a British–Australian international mining company. In fact, the name Rio Tinto tells it all, because the original investors in the company were British investors who invested in a mine in Spain called Rio Tinto. That has always been at the heart of Rio Tinto. We merged with CRA in Australia in 1995 and became a British–Australian mining company. I am quite happy to talk about the benefits of that, if you would like me to. 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] You would reflect the comments of the other two members of the panel?
+
+[[[Tara Hopkins]]]: Pretty much so, yes.&#xa0;
+
+[[[Q206 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I was interested, Mr Daniels, in your comment that we must be careful—these are not your exact words, but I hope I summarise it correctly; if I do not, you will correct me—not to become more over&#x2011;regulated in relation to other markets. I notice that Charles’s company has just become listed in Johannesburg. I&#xa0;just wonder how much you think about the import of regulation as opposed to the size and number of regulatory structures. Very often, what is a bit of a nuisance to you is often to your workers a protection. I just wonder whether you take all of those factors into account. I assume you do. 
+
+[[[Ed Daniels]]]: I think we take our responsibility of being the largest company in Europe and the largest company in the FTSE extremely seriously. People watch us, what we do and our policies and practices. We have a statement of general business principles about our ethics and our approach to business that transcends legislation and oftentimes would be more stringent than the regulations would apply. We take that extremely seriously.&#xa0;
+
+[[[Q207 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I am grateful for that. Thank you; that clarifies it for me. I now want to come on to Mr Watenphul. With regard to the listing in Johannesburg—I think we are going to have the privilege of going to South Africa to look at these matters—I understand that that listing is a recent one. Would you tell me why you did it and would you explain by whose rules you actually operate, because there is a bit of schizophrenia in relation to this, is there not? 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Absolutely, Mr Binley. Just for the record, if you are going to Johannesburg, I would like to extend to the Committee an invitation to visit any of our operations in South Africa. 
+
+[[[Mr Binley:]]] Can I say I hope I have not messed up the Chairman’s press release?
+
+[[[Chair:]]] Again, can you speak up? 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I was just saying, Mr Chairman, that I would be happy to extend an invitation to the Committee, if you are going to South Africa, to Johannesburg, to visit any of our operations in South Africa whilst you are there.
+
+[[[Chair:]]] That has been noted.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: We took the decision to list in Johannesburg. It was a thorough process we went through, Mr Binley. There were two key reasons why we decided to list on the JSE. First of all, our footprint in Africa as a continent, as a whole, is growing. Africa is a very important part of the world for Glencore. Secondly, we have sizeable operations in South Africa itself, and the listing was seen as a good way of deepening and strengthening relationships with that part of the world.&#xa0;
+
+[[[Q208 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Then I will get back to my question: by whose rules do you operate?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: We operate by the rules that govern companies that are listed on the JSE but also, just to follow on from Mr Daniels’ point, it comes back to something I raised earlier, which is that we also have our code of conduct and values, which we also have to abide by from a global perspective. In a nutshell, that would be it. &#xa0;
+
+[[[Q209 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Are there any contradictions between those two listings that might impact adversely upon this country?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: No, I do not believe so. We have to operate by the rules governing a FTSE&#xa0;100 listed company, as we would do a JSE&#x2011;listed secondary company. &#xa0;
+
+[[[Q210 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I am grateful for that. Can I ask you how much it cost to list in Johannesburg, in both advisers and in terms of fees?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I am afraid I do not have those figures to hand. The cost was not something we looked at. Again, it comes to what was right for the company. It was right for us to deepen our relations with South Africa through the operations that we have there, and Africa is a growing continent for us. 
+
+[[[Mr Binley:]]] I am perfectly happy with that response. You made that earlier.
+
+[[[Chair:]]] It would be helpful if you could just provide us with the details.&#xa0;
+
+[[[Q211 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I was about to say that. If you were in here earlier, you would have heard this question of fees arising. We just want to make some comparisons and your experience would be very helpful. 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Our fees are actually disclosed in the JSE circular, which is publicly available, so I would be happy to send that to Mr Stam, if he is the right person to send it to.&#xa0;
+
+[[[Q212 ]]]&#xa0; 
+
+[[[Mr Binley:]]] That is very kind. I understand you only listed on the London Stock Exchange on 24&#xa0;May 2011. What challenges did you have to overcome in order to list here in the UK? Help us, because we want to make it more effective to list. What challenges did you overcome? What made you angry? Where did you say, “Bloody people, I wish they’d straighten this out”?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: It was not a question of what made us angry. First and foremost, we were proud to be listing on the London Stock Exchange, to become a member of the FTSE&#xa0;100 and to actually get fast&#x2011;track entry into the FTSE 100. When a company such as ours and the scale that we are decides to list somewhere, you have to look at the rules and regulations. We could have listed anywhere; we chose the London market for the reasons that I have outlined to Ms&#xa0;McKechin. It is not really for me to say what made us angry. We are just proud to be here.&#xa0;
+
+[[[Q213 ]]]&#xa0; 
+
+[[[Mr Binley:]]] The whole thing went through perfectly happily, you were not concerned about any point whatsoever and you were delighted with the way our regulations met the needs of your company?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Any IPO of a company of our size is arguably the most public forum a corporate can take, when it comes to lists. You have to produce prospectuses; you have to have all the data verified. If you are a major company that has huge operations globally, that takes a lot of work, so there is work involved, but ultimately it comes back to we are proud to be here.
+
+[[[Mr Binley:]]] We are delighted to have you.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Thank you very much.
+
+[[[Mr Binley:]]] Can I just complete my questions? Again, I apologise for coming back to you. No, I have misread my question. So we can have that relationship, how much did it cost to list in the UK in terms of both advisers and fees? 
+
+[[[Chair:]]] I think we have done that. Robin Walker, you wanted to come in.&#xa0;
+
+[[[Q214 ]]]&#xa0; 
+
+[[[Mr Walker:]]] I just wanted to come in. We spoke about the fact that Glencore listed in May 2011, I think you said. In June 2011, the Daily Mail reported that the EIB had frozen Glencore loans, on the basis of concerns raised by various NGOs. Can you explain what was the follow&#x2011;on from that and was there any read&#x2011;across to your London listing and by the UK regulator and the UK market to that action taken by the EIB?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Can you just clarify what you mean by “follow&#x2011;on”?&#xa0;
+
+[[[Q215 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Were UK listing regulators concerned about the fact that the EIB was seen to have taken action in that case against the company?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: As far as I am aware, no, but that is a matter that we are in the process of coming to a conclusion on with the EIB.&#xa0;
+
+[[[Q216 ]]]&#xa0; 
+
+[[[Mr Walker:]]] You cannot say much about it.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: No, not really. We have made our position publicly clear on a number of occasions. We are working through it with the EIB and we hope to come to a conclusion soon. &#xa0;
+
+[[[Q217 ]]]&#xa0; 
+
+[[[Mr Walker:]]] That was a couple of years ago.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: That is correct.&#xa0;
+
+[[[Q218 ]]]&#xa0; 
+
+[[[Mr Walker:]]] That is something you are still working through.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Yes.&#xa0;
+
+[[[Q219 ]]]&#xa0; 
+
+[[[Chair:]]] Just to clarify, before we move on, when you listed, did you have any problems in convincing the FCA, given the fact that I think it is fair to say there had been adverse publicity about Glencore?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Ultimately, we are on the FTSE&#xa0;100.
+
+[[[Chair:]]] That was not my question. That is self&#x2011;evident. 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: The discussions that we had with parties such as the FCA are between the company and the FCA. You have to go through a whole due diligence process when you list. You have to basically show warts and all as a corporate. You have to publish prospectuses. You have to go through the necessary regulatory procedures and to provide the information that people require.&#xa0;
+
+[[[Q220 ]]]&#xa0; 
+
+[[[Chair:]]] We know all of that. I am not sure if you were here for the previous session. One of the lines of questioning was, in effect, whether the FCA had adequate powers to do that or motivation to do it. The question I am asking you is: did they probe you on any other issues?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: They did a thorough review of our business, but nothing specific.
+
+[[[Chair:]]] A thorough review, but nothing specific. That is a bit of an oxymoron.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Sorry. A thorough review of the prospectus, so, yes, we were put under the spotlight.
+
+[[[Chair:]]] You were put under the spotlight but cleared, effectively.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: We are here today.&#xa0;
+
+[[[Q221 ]]]&#xa0; 
+
+[[[Chair:]]] Did you feel that getting listed gave you, if you like, the stamp of respectability?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Again, it comes back to the three points, Mr Chairman. It is not about the stamp of respectability; it is why we chose to list on the London market. The expertise that can be found here, the knowledge base with regard to the extractives industry, the huge pool of capital—arguably London is the financial centre. Also, there is the corporate governance that investors can take heart from.&#xa0;
+
+[[[Q222 ]]]&#xa0; 
+
+[[[Chair:]]] Surely if corporate governance was an issue, you would have accepted that listing, in effect, was an indication that your levels of corporate governance are adequate. In effect, you interpret it like that. In other words, it was a stamp of respectability. 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: From the UK market and from investors who decided to invest in us.&#xa0;
+
+[[[Q223 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I just wonder: you said that you were asked some questions that you needed to answer, which were perhaps important questions from the perspective of listing. We have already heard from the FCA that, in fact, their processes are not as credible as many of us would like to see them. I see the gentleman behind you keeps prompting you, which is slightly disconcerting when I am asking a question. Thank you, sir; I am grateful. Can I ask what other bodies other than the FCA were involved in the process of looking into your track record?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: The bodies, the advisers, that we had to use were listed in our prospectus. For example, Deloitte is our auditor.&#xa0;
+
+[[[Q224 ]]]&#xa0; 
+
+[[[Mr Binley:]]] Any other official bodies of any kind whatsoever? Your own auditors obviously, who are going to be nice to you. I have been in business for a long time and I have rarely seen an auditor that was not nice to the company that paid them, quite frankly. So, there are your own auditors; any other body?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: As far as I am aware, no. &#xa0;
+
+[[[Q225 ]]]&#xa0; 
+
+[[[Mr Binley:]]] We have already intimated that we are concerned about companies that get a FTSE listing that have not been properly checked out or have not been properly looked into. I want to know which bodies looked into your company to ensure that you were a fit and proper company to be listed and gain the cloak of respectability that we have already mentioned.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: As I just said, Mr Binley, we were going a thorough review by the FCA at the time.&#xa0;
+
+[[[Q226 ]]]&#xa0; 
+
+[[[Mr Binley:]]] We have heard that the FCA does not give thorough reviews. That is the point I am making. What other bodies did? 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I can only revert back to the process that we went through in the listing back in 2011.
+
+[[[Mr Binley:]]] No other bodies other than the FCA, in terms of your credibility.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: As far as I am aware, no.&#xa0;
+
+[[[Q227 ]]]&#xa0; 
+
+[[[Ann ]]]
+
+[[[McKechin]]]
+
+[[[:]]] Could you just confirm to us who was your sponsor company when you were listed? You require a company to sponsor you for listing.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: We had Citi and Morgan Stanley.&#xa0;
+
+[[[Q228 ]]]&#xa0; 
+
+[[[Katy Clark:]]] This is a question primarily, in the first instance, to Shell, but then I will broaden it out. In your written submission, you quoted that 83% of your spending in the UK went to local companies last year. Could you maybe go into that in a bit more detail and tell us what kind of spending you are referring to, where that goes, and what kinds of companies and organisations would benefit as a result of that?
+
+[[[Ed Daniels]]]: We obviously have extensive operations in the UK. We have 6,500 employees and probably three or four times that in terms of contractors who work for us. I will give you some practical examples. If you take our North Sea operations, a lot of our maintenance activities would be contracted out. A lot of the services in and around repairs, etc., would be contracted out. For example, I visited our Gannet oil rig a month or so ago. We had a massive floating hotel alongside it where 300 workers are shot&#x2011;blasting, painting and repairing the Gannet oil platform, as an example on the upstream side. On our downstream side, for example, there is our extensive retail network; we have 20% market share, with 1,100 sites in the UK. Many of our retail sites would be owned by small businesses that franchise our brand, for example to sell gasoline and other of our products. There are other examples as well. For example, we use specialist engineering consultancies to do designs of activity that would be built overseas. For example, some of the design work for our installations in Iraq was done in West London. If I think of our Pearl GTL facility in Qatar, a huge amount of design activity would be done here in the UK. For a lot of the activity that we perform in the UK, we try to get local content. In addition to that, for our overseas operations, we bring work here to the UK, because of the depth and breadth of the technical expertise here.&#xa0;
+
+[[[Q229 ]]]&#xa0; 
+
+[[[Katy Clark:]]] You have touched on one of the points that I was going to ask about, which is to what extent it is the small companies or to what extent it is the big players that you always use. You have mentioned specialist engineering. How large would you have to be to work with you and what is the geographical spread like?
+
+[[[Ed Daniels]]]: The majority of spend, I suspect—although I would have to get you detailed answers—would be in Scotland, because the majority of our big operations are in the North Sea. I do not know the exact answer, but my suspicion is we tend to be with larger companies rather than smaller ones, simply for the scale of activity that we have. There would be relatively few smaller companies that are able to do that. I would, however, say that we do spend and worry about enterprise and invest in enterprise in the UK. For example, last Thursday night I hosted the final of our LiveWIRE competition. We have been running this for 30 years. We ask for young people aged between 18 and 30 to come forward with business ideas in a sort of competition. They win £10,000 funding for that, so we do take small business seriously. It is just that there are not that many small businesses that we can use practically in our operations.&#xa0;
+
+[[[Q230 ]]]&#xa0; 
+
+[[[Katy Clark:]]] Is that something that you are aware of and that you have tried to do something about, so that smaller players get an opportunity, or is that something that you do not think is practical?
+
+[[[Ed Daniels]]]: We are very much aware of making sure that we do our utmost to be a responsible player here in the UK, which includes of course doing business with small companies.&#xa0;
+
+[[[Q231 ]]]&#xa0; 
+
+[[[Katy Clark:]]] In terms of your UK operations and your presence, to what extent is it UK nationals that you employ or to what extent do you bring people in from outside? I suppose one of the issues that we are interested in is our skills base and whether you are actually able to take on people. 
+
+[[[Ed Daniels]]]: We have, as I said, about 6,500 employees here in the UK. In Shell we very much aim, in every country in which we operate, to cover the entire workforce with local people. That does not always happen, and there would be several people here in the UK who are foreign nationals working because of a particular skill gap or a particular shortage. In addition to that, we have quite an active expatriation programme. For example, right now today there are 2,000 British nationals who work for Shell who are working overseas for us in various projects or various activities. We like bringing foreign nationals here to train them and give them the experience of working in one of our larger operations. You will find a significant diversity of employees in Aberdeen, for example, and in our headquarters in London, who are picking up experiences and will then take that back to their host countries. I would say one thing: we are concerned about the whole debate around visas and immigration, because it is critical for our business. It is critical for the development of skills for this country and the development of skills for other countries around the world that we can have free flow of employees and bring students in as well, and young graduates who are British but also from other nationalities, to help maintain this vibrant environment that we aim to have.&#xa0;
+
+[[[Q232 ]]]&#xa0; 
+
+[[[Katy Clark:]]] You will be aware the Committee has taken up issues to do with student visas. Are there particular countries that you have problems with, if you are trying to bring in staff from particular parts of the world, or is it a general problem that you have?
+
+[[[Ed Daniels]]]: I am not going to pick on particular countries here and now. I will have to write to you on that, because I think it would be wrong of me to conjecture on that point.&#xa0;
+
+[[[Q233 ]]]&#xa0; 
+
+[[[Katy Clark:]]] That would be fine. If any of you feel that would be a useful issue to raise, we would be delighted to hear from you. A more general question to all of you: Robert Fenton from the Mining Association of the UK told us “foreign investment has kept the industry alive” and that, without foreign&#x2011;owned companies investing here, there would be no extractive industry in the UK. Do you agree with that? 
+
+[[[Ed Daniels]]]: I certainly do not agree with that. We produce 12% of UK oil and gas. We process about 30% of UK oil. We are a very significant player, with 30 rigs, 30 offshore installations, in addition to that. We are a very significant player here. If I count the other British&#x2011;listed companies in the North Sea, there is quite a significant proportion, and of course we have our global operations. In oil and gas specifically, I would refute that.&#xa0;
+
+[[[Q234 ]]]&#xa0; 
+
+[[[Katy Clark:]]] What do you think he was referring to? Do you think he was trying to get at something in particular? 
+
+[[[Ed Daniels]]]: My suspicion is—no, I am not going to conjecture on what he thought he was saying. I will leave him to clarify that.
+
+[[[Katy Clark:]]] You would not like to speculate. Have any of the other witnesses got anything to say on that particular point about foreign investment?
+
+[[[Tara Hopkins]]]: We only have one, as I said, small operation in Lochaber up in Scotland, an aluminium smelter and a hydro facility to power it. We do not have vast operations here, so we do not have a good vision of what is going on with the rest of the broader industry.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I would agree with Ms Hopkins. We, again, only have one operation here in the UK.&#xa0;
+
+[[[Q235 ]]]&#xa0; 
+
+[[[Katy Clark:]]] Witnesses that we have taken evidence from have also described the high importance they put both on the upstream and the downstream supply chains, specifically here in the UK. Could you elaborate on your engagement with UK companies and how your business impacts on the UK?
+
+[[[Tara Hopkins]]]: I am very happy to do that. Building on Mr Daniels’ point, we do use British SMEs in our supply chain, in our international operations. Examples of that would be in Mongolia, where Rio Tinto has a copper project. It is an absolutely extraordinary copper project. It just started to export a few months ago. The waste facility down in the south Gobi Desert, where we have the project, was manufactured by a company in Sheffield that is an SME. What we have heard from the mine manager down there is not only was it very well put in, but also the support services that that company has given to us are second to none. There are lots of those examples replicated across our international operations. &#xa0;
+
+[[[Q236 ]]]&#xa0; 
+
+[[[Katy Clark:]]] I will not ask you to put a specific percentage, but would you be able to give us a rough indication of what kind of proportion it might be of SMEs that are British?
+
+[[[Tara Hopkins]]]: We have not done that calculation. What I would say in terms of Rio&#xa0;Tinto’s economic contribution to the UK is we do look at SMEs and larger businesses. In the UK last year we spent somewhere around £730&#xa0;million spent in the UK supply chain, but we do not cut the data in that way. We could do if it is helpful for the Committee.&#xa0;
+
+[[[Q237 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Ms&#xa0;Hopkins, you offered us some encouraging words in your written submission that the UK will continue to be a centre for the mining and metals industry. What are the positive factors that you see contributing to that and what are the risks on the negative side? I think Mr Daniels mentioned earlier over&#x2011;regulation might be one of them, but are there any other risks that you see to the UK’s position at the centre of the industry? 
+
+[[[Tara Hopkins]]]: We definitely view the UK—London, but more broadly the UK—as a centre of excellence, both in terms of London as a place to list, and there have been lots of conversations about that earlier on, but also more broadly in the skill sets, not just in the mining industry per se, but in an understanding of our industry. Banking and financial services here in London have a very deep understanding of our industry, because of the legacy and the heritage behind it. Similarly, analysts here have a world&#x2011;class understanding of our industry and, therefore, shareholders have a huge amount of knowledge at their fingertips when they are investing in companies like Rio Tinto; and the legal professional services, as well. Again, we have cut some of that data, so you can see the type of contribution that we make and what we buy in from London.               More broadly, in terms of procurement and supply chain, I gave the example of Mongolia but we have got that across the board. Regarding large companies, I think we mentioned in our submission that Cummins up in the Midlands produce a huge amount of the engines for Komatsu trucks. You have all seen those huge trucks with wheels the size of the building here. They are Japanese trucks and their engines are coming from the Midlands. All of the international mining companies are using, I am sure, Komatsu trucks. 
+
+[[[Mr Walker:]]] As a Midlands MP, it is particularly pleasing to hear you say that.
+
+[[[Tara Hopkins]]]: That is great. Finally, where we do see the potential for further investment is around education and is around ensuring that, where there is a centre of excellence in academia around our area, it is nurtured and fostered.&#xa0;
+
+[[[Q238 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Can I just ask one very specific point on that? Rio&#xa0;Tinto is a company with businesses all over the Commonwealth, particularly Australia and Southern Africa. BHP is in a similar situation. Have those two companies looked at the opportunity for Commonwealth scholarships in terms of the mining and metals sector?
+
+[[[Tara Hopkins]]]: We do a number of scholarships and we are very involved in the Chevening scholarship programme from the Foreign Office. We invest in scholars up in Dundee University, who are looking very specifically at minerals policy and minerals law. Yes, we do try to draw on the experience and the academic base from across the Commonwealth, from where Rio Tinto has its operations. We invest in universities in Australia; we invest in universities in the US, in Canada and also here in the UK. What we try to do is look at where the niche expertise is. Where that needs to be invested in, that is what we want to do.
+
+[[[Mr Walker:]]] Do any of the other companies want to comment on that area?
+
+[[[Ed Daniels]]]: I have mentioned before already the depth of skills and R and D, and that is certainly something we need to maintain and continue to see as an important area. Skills we have touched on. There are a couple of things I would just mention. The support from Her Majesty’s Government, not only for the approach that happens here in the UK but support on foreign trade, is a helpful relationship for us. We seek and are pleased with the level of support that we get from government when we are doing work overseas or bidding for work overseas. Also, the UK is pretty vibrant in terms of think-tanks, whether in policy or political matters, just in terms of shaping regulations. There is quite a vibrant atmosphere that we try to tap into to understand the latest thinking. 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I was just going to expand on what Ms&#xa0;Hopkins and Mr&#xa0;Daniels said. Again, it comes back to the skill set that can be found here, with the knowledge base of extractives, both in the UK but also taken out and utilised more globally, that is second to none. If I were to focus specifically in terms of education, which is obviously key in bringing through the next generation of extractive professionals, BRM, our operation in Kent, has several apprenticeships, some of whom have actually gone and spent 12 weeks’ paid vacation work doing placements in places like Australia. It is providing not only the classroom experience, but then taking these apprentices out and putting them in the operations themselves to see them day to day.&#xa0;
+
+[[[Q239 ]]]&#xa0; 
+
+[[[Mike ]]]
+
+[[[Crockart]]]
+
+[[[:]]] In the interests of transparency, I will declare that my wife provides consultancy support for Rio Tinto Alcan’s interests in Scotland. I am sure Ms&#xa0;Hopkins has got a very good briefing on me. I am a little confused by the way that, as companies, you seem to flip from one side to the other, saying, “The worst thing possible would be over&#x2011;burdensome regulation,” and yet at the same time talk about the strong corporate governance being the gold standard of listings and the benefits that that brings. On the one side, Mr Daniels, you talked earlier on about taxation reporting being a potential problem because of the way in which you are being forced to do something that might be illegal in one country or another. Equally, in Rio&#xa0;Tinto’s evidence submission, you talk about the extra mile that you go and the recognition that PwC has given you in what you do in your tax reporting. Which is it? Is it over&#x2011;burdensome or is it actually a benefit to you?
+
+[[[Ed Daniels]]]: My point would be that it is about level playing fields. If you have a dramatically different regulatory regime in, say, the United States from where we are here, and we are a very significant operator in the European continent but also in the Americas, it just causes a lot of problems. Of course we need to be regulated. Of course it is important; as I mentioned before, the compact between government regulators, companies and civil society is critical. If you get a dislocation between different parts of the world, then it becomes troublesome for us.&#xa0;
+
+[[[Q240 ]]]&#xa0; 
+
+[[[Mike ]]]
+
+[[[Crockart]]]
+
+[[[:]]] Before I ask the other two to come in, how do you get a gold standard and a level playing field?
+
+[[[Ed Daniels]]]: Over time, the UK has developed a very strong regulatory regime, such that all of us on this panel sought and have been listed here. If you look, it has historically tracked very closely with the regulatory regime going on in the US. For example, if you take Dodd–Frank, the implementation of that Act and the transparency components of Dodd–Frank, it is very similar to the transparency initiative and the transparency directive that have come in here. My plea would be that, as has happened in the past, regulators keep a watchful eye on any significant dislocations.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Mr Crockart, the point I would raise is that high standards of corporate governance do not necessarily affect the competitiveness of a particular location, but it is again being mindful of putting regulation in for regulation’s sake, where the cost burden is that much greater and ultimately ensuring that locations such as this—&#xa0;
+
+[[[Q241 ]]]&#xa0; 
+
+[[[Mike ]]]
+
+[[[Crockart]]]
+
+[[[:]]] You have given evidence that you chose to list in London because of the gold standard in regulations and the benefit that that would bring to your company. You cannot then complain about the extra cost that that regulation brings.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I am not complaining about it. I am merely just highlighting that regulation for regulation’s sake is something that people need to take into account, be it governments here or elsewhere, when looking to impose it. That is all. 
+
+[[[Tara Hopkins]]]: I very much take the point of Mr Daniels about a level playing field. Particularly in our industry, it is really important that minimum standards are being recognised and implemented across the industry, but there is equally a place for companies to choose to take a leadership position on certain issues, because over time that brings everyone up. That is the role of ICMM, which I know spoke to the Committee last week. There is a group of mining and metals companies that are members of the International Council on Mining and Metals. Their role is to look at where we should be taking a leadership position. Rio Tinto has chosen to do that around transparency but, equally on the level playing field, having lots of different initiatives or regulation around transparency is not helpful and is not going to meet the endgame, which is anti&#x2011;corruption. Where it is possible, we would like to see clarity in that regulation, whether it is US, UK, EU or across the board.
+
+[[[Ed Daniels]]]: Perhaps I would add one further point. The popular conception can be that Shell’s biggest competitor is BP, for example. The reality is we are competing with of course BP, Exxon, Chevron and other international oil companies of that ilk, but we are also competing with Petrobras in Brazil, which is a state entity, and with PetroChina in China, which is clearly a state entity. We see real advantages of having a gold standard of regulation and being able to declare ourselves a well regulated company with the highest possible principles and ethical approach, but let us not pretend that it is not quite a challenging competitive environment. In order to stay ahead, we have to have, in my view, a level playing field of regulation.&#xa0;
+
+[[[Q242 ]]]&#xa0; 
+
+[[[Mr Walker:]]] We heard last week from Mining on Top, which represents a number of the smaller companies in the industry. They said that the Government needs to keep an open mind when listening to extractive companies. That sort of implies that perhaps it has not had or it has not been listening. Do you feel, from your perspective as representatives of some of the biggest companies out there, that the Government is listening? Is it hearing the views of the industry?
+
+[[[Ed Daniels]]]: Sorry, I seem to be always jumping in. I think I have referred already to the example of the Wood review in the North Sea, in terms of taking a back&#x2011;to&#x2011;basics approach. That is good and we would highly support that. The support that we get in terms of some of our activities overseas and in terms of trade feels great. The tax thing in the North Sea 2011 was not so great. By and large, we are positive, but an encouragement for long&#x2011;term stable policy and long&#x2011;term stable taxation would be my plea.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Again, it comes back to our footprint from an operational perspective, which is very small, but one example of perhaps the UK Government listening is it recent signing&#x2011;up to the membership of EITI, which specifically focuses on the extractive industry. 
+
+[[[Mr Walker:]]] That is where you feel it was listening.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: It is an example of where Government has been shown not to throw its weight behind, I would say, but support this initiative, which is specifically focussed on the extractives.&#xa0;
+
+[[[Q243 ]]]&#xa0; 
+
+[[[Mr Walker:]]] That is an interesting case in point, because the UK launched the EITI some years ago, almost a decade ago, and signed up relatively recently. In the gap in between, were your companies encouraging the UK Government to actually sign up to it?
+
+[[[Ed Daniels]]]: We were a founder signatory. We are on the board of EITI, and we have always seen it as something that is important for our industry and have advocated it ever since its formation.
+
+[[[Tara Hopkins]]]: Same—Rio Tinto was one of the earliest supporters of EITI and, while we do not have that many operations here in the UK, we very much support and were supportive of the road to the UK, the US, Australia and other lots of other countries deciding to implement EITI. If I may, on the role of the UK Government in terms of listening to British&#x2011;based international mining companies, we do feel like we get the right level of support, and I do think that what the Government is thinking is in terms of what international mining companies can do in terms of opening up that supply chain for British companies, SMEs and larger companies. In the last few years, there has really been a focus on that, which we have found to be hugely helpful.&#xa0;
+
+[[[Q244 ]]]&#xa0; 
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] This is for Charles, please. You wrote that at Glencore you “have an open&#x2011;door policy towards outside stakeholders who have a legitimate interest”. I wondered if you could explain in greater detail what that actually means in practice, please.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: As an extractive industry, along with other industries, we welcome engagement from stakeholders in general. Glencore especially welcomes the scrutiny that that can bring, but I would caveat that by saying that the engagement should be one of a constructive nature ultimately. It should be seen to enact change for the positive on the ground, from an operational perspective, but also, given the impact that we have from a community perspective as an industry, if there is constructive dialogue to be had with outside stakeholders to improve that as well, that should be welcomed. A very good example would be down in South Africa. We have been working for a number of years with an NGO there called Reaction. They are helping advise us on the mitigation of HIV/AIDS in South Africa and, in the last few years, eight clinics have been built. Those eight clinics can help service around a million people. That is a substantial impact that can be made on the ground. Again, it comes back to constructive engagement. &#xa0;
+
+[[[Q245 ]]]&#xa0; 
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] You have spoken about how you engage with NGOs. Are there ways that you actually engage with local issues and local communities?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Absolutely. That is a fundamental part of what we do.
+
+[[[Caroline ]]]
+
+[[[Dinenage]]]
+
+[[[:]]] Give me an example of how you would engage.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: We have community liaison officers at all our major operations in countries where we operate. It is ensuring that the policies that are set out at the board and centrally in Switzerland are put and enacted across the group globally. Ensuring that you have good communications with your community and relationships is vital. It is part of your licence to operate from a social perspective, as well as an operational perspective.&#xa0;
+
+[[[Q246 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Mr Watenphul, I wonder if I could follow up on Caroline’s point and your answer. In Glencore’s written submission, you said, “Extractive companies have a distinct opportunity to render assistance to communities and governments in poorer countries.” You went on to say, “At Glencore we constantly strive to find new ways to improve how we manage our health, safety and environmental practices [to the] well&#x2011;being of the communities in which we operate.” Can I talk to you about Mufulira, a town in the Zambian copper belt, with which you will be familiar? I am sure you would point me to the investment you have made in schools, hospitals and HIV programmes there, but you will also probably be familiar with a report in the Daily Mail a couple of years ago, which talked about the other face of Glencore mining that investors never see. I quote from them: “A vast factory that spews choking clouds of sulphurous gas over a town the size of Oxford. Toxic rain has withered plant life, the air tastes of rotten eggs, and locals report chronic breathing difficulties.” The Mail went on to comment that “the notion of such an industrial carbuncle being tolerated in the UK for five minutes, let alone years, would be scandalous”. That is a consequence of the Mopani Copper Mines, your company there. What is your reaction to that in terms of the environmental and social mission that you describe?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: It is a very important point you raise and, actually, we as a company, in April last year, were asked to take part in another evidence session that the DFID Select Committee hosted. Our Chairman from Mopani and our global head of tax both came to the Committee, and they also took the Members from that Committee down to Mopani to see for themselves the operation. It is important to note Mopani is an operation that was built in 1937. Glencore acquired control of Mopani in 2000 during the privatisation process, and it was absolutely clear, when we took over the operation of the asset, that the emission of SO2 into the atmosphere was something that had to be fixed incredibly quickly. We would have liked to have done it sooner but, unfortunately, we were not able to do the necessary work that we had to do, because we had to keep running the plant at full operation. What we have done since then is we have basically been demolishing a house and rebuilding it with the people still living in it. I understand that the Daily Mail is aware of this, as are our other key stakeholders. Actually, by the first quarter of next year, the SO2 capture will be 97%, which will be a world&#x2011;class standard, and that is 15 months ahead of schedule. Absolutely at the time, yes, the SO2 emissions were a major issue—and still are until next quarter, Q1 2014—but we are going in and we are investing in dealing with these legacy issues and fixing them on the ground.&#xa0;
+
+[[[Q247 ]]]&#xa0; 
+
+[[[Chair:]]] Can I just come in on that point? If my memory serves me right, the timescale for this, was it 2002 that you took—?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: 2000.&#xa0;
+
+[[[Q248 ]]]&#xa0; 
+
+[[[Chair:]]] I understand that at the moment you are in effect undertaking a big leap in emissions reductions that will be completed by the end of this year, if my memory serves me right. Hitherto, it was something like 45%, but is now going up to 97%.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: It is a little more than that, Mr Chairman.
+
+[[[Chair:]]] Could you give me the exact figures?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: The original deadline was to increase SO2 emissions capture from 50%, from more than 50%, to 97%. That is a world&#x2011;class standard. The deadline for doing that was the end of this year, 2013. Unfortunately, that deadline has now been pushed back to Q1 next year for reasons out of our control, but we are confident of meeting that new deadline.&#xa0;
+
+[[[Q249 ]]]&#xa0; 
+
+[[[Chair:]]] Why has it taken you so long to do the first 45%, when you can do the second in a relatively short period of time?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: You do not just do it all in one go. You have to phase the implementation of the SO2 emissions capture. It comes back to a point I raised earlier: could we have shut that plant and done it quicker? Yes, we could have done. What would that have meant? That would have meant that around 17,000 people would have been out of work. Roughly one in eight people are reliant on a worker at our operations in Zambia. Broadening that out, almost 200,000 people depend on the operation. We had to keep it going. We agreed with the Government the timeframe. That was put in place, and we are confident we will meet the new Q1 capture.&#xa0;
+
+[[[Q250 ]]]&#xa0; 
+
+[[[Chair:]]] Could you have shut it down and paid employees whilst you dealt with the problems?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Again, it comes back to dealing with the facts at hand and trying to fix a legacy issue. It is as simple as that, and that is what we are going to be doing. 
+
+[[[Chair:]]] You have not really answered my question.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I would not want to speculate on what we could or could not have done, but what is clear is that we are fixing a legacy issue that has been blighting Zambia since 1937. Operations like that and foreign investment are what can be done; that is for the good of the ground. &#xa0;
+
+[[[Q251 ]]]&#xa0; 
+
+[[[Chair:]]] What is the life expectancy of employees in that plant?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: The life expectancy of employees at that plant? I am afraid I do not have that information to hand.
+
+[[[Chair:]]] Could you provide it?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: For sure.&#xa0;
+
+[[[Q252 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Thank you, Chairman. Those were some useful supplementary points. It is not impressive to have taken 13 years to have resolved that problem, but let me move on to a general question to each of you. The International Council on Mining and Metals told us that, in terms of the benefits that mining affords to national economies, “The top four segments of contribution accrue to national governments. Only the smallest contribution, employment, can be said to directly benefit local communities.” Do you agree with that? Do you think it is a fair comment?
+
+[[[Tara Hopkins]]]: From a Rio Tinto perspective, modern&#x2011;day mining companies do not have huge numbers of employees working at them. A lot of mining companies try to be as effective as possible, in terms of ensuring that we are using technology. We have a Mine of the Future plan in Australia, where you have automated trucks and things like that. Sometimes there is a misconception that we are huge employers at mine sites, and that is not necessarily the case. That is probably what the ICMM is saying there. The number of employees at mine sites is quite small. &#xa0;
+
+[[[Q253 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] The point they were making is that you all have within your mission a concern to support the communities whose lives are significantly changed by the fact that you are operating there but, actually, the point that the ICMM was making is that the major benefits of your involvement within a country are at the national level, not within those communities. In a sense, your answer to my question actually endorses that, in the sense that you are only employing small numbers of people in some cases—clearly not in Mopani. 
+
+[[[Tara Hopkins]]]: There is the employee point. Again, just from a Rio Tinto perspective, we do spend a lot of time, money, investment, resources and people on local communities. Usually about $290&#xa0;million per year is spent on community programmes. The taxes that we pay and the royalties that we pay go to the national government, and they have a tax policy in place, as a sovereign government, to choose what they want to do with those taxes. We do not have the right to tell them what to do with their taxes, but companies do contribute to the local communities on a community&#x2011;by&#x2011;community basis as well. We are working in extremely diverse places, and so we have to make it fit for purpose. 
+
+[[[Ed Daniels]]]: The scale of numbers in the energy industry just makes it very difficult to compare what you are comparing. In the UK last year, we collected £11&#xa0;billion on behalf of the taxpayer and gave it to HMG from various taxes that we are subjected to. We paid £500&#xa0;million of corporation tax in the UK and we paid probably another £500&#xa0;million of taxes via our employees, if you see me, through employment. The scale of that enterprise makes it quite difficult to compare that with our social investment, social community and growth programmes. What I would say is we are supporting skills development and enterprise development on a pretty significant scale. If you compare it to the global energy industry, you will always come up relatively short, as your numbers suggest. 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I would follow on from what Ms Hopkins has just said. Last year, we spent over $200&#xa0;million investing in sustainability initiatives across the group as a whole. What can be found is that, ultimately, where there is a difference between extractive industries working and operating in developed countries, such as Australia and Canada, versus developed communities. The footprint and the importance that can be attached to the other ancillary services—the investment in developing countries in things like education, healthcare, hospitals and building of vital infrastructure—is obviously magnified in those countries. We spent something like $700&#xa0;million last year on procurement from local contractors and suppliers in the DRC. That was from over 200 different suppliers and contractors. That in itself helps magnify the investment that the extractors make on the ground in developing countries.&#xa0;
+
+[[[Q254 ]]]&#xa0; 
+
+[[[Mr Binley:]]] I am always worried about people like Mr Mugabe. Is any of your investment filtered off in a way that you would not really want to see? Do you fear that, on the ground, there is a degree of payback that does not figure in your books?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Mr Binley, to put it succinctly, we invest and we pay our taxes that we are required to in the countries, in accordance with the rules and regulations governed locally, but also from a top level, from our code of conduct.&#xa0;
+
+[[[Q255 ]]]&#xa0; 
+
+[[[Mr Binley:]]] You can give us a guarantee that no other money is filched away in any other way to people like Mr Mugabe and some of his cohort.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Mr Binley, as I have just said—
+
+[[[Mr Binley:]]] I want you to give me an undertaking. Is that fair to say? You are an honourable company. 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Absolutely. What I can say is that we abide absolutely in line with our code of conduct and our principles, as being a member of the FTSE&#xa0;100 companies, abiding by the laws and rules and regulations of the countries where we operate, be it here in the UK or elsewhere. It is as simple as that. 
+
+[[[Mr Binley:]]] As far as you are aware, there is no backhand money changing hands.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: That is exactly the point I have just made in terms of how we abide as a corporate.&#xa0;
+
+[[[Q256 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I am conscious of time, but I do want to pursue the issue a little bit further, because this issue of the enormous profits you secure from operating in developing countries in particular, in relation to the benefits that are brought to those countries, is of significant public interest. There has been a description that many of the countries in which you are operating suffer a resource curse, in relation to the imbalance between the riches that they have and the benefits that people living there receive. Do you think that is a myth? What would you be doing as companies to address that issue?
+
+[[[Ed Daniels]]]: There are challenges with relatively underdeveloped countries that have a bounty of natural resources. I think a couple of things. One, transparency is really important, so EITI, and making sure it is very transparent to all how tax revenues are levied and paid in particular jurisdictions is an important component. The second component is about capability building in those countries. To invest a resource bounty wisely and to have the infrastructure to be able to do that is not trivial. It takes time, effort and people in order to be able to understand how to receive and how best to invest that money, whether it is in education and skills or in a national wealth fund. It is about both corporates but also government helping other governments with building that capability to handle the resource wealth that they have accrued.
+
+[[[Tara Hopkins]]]: I would back up all of those points about EITI, the need for transparency and the need for citizens to be able to hold their governments to account, in terms of where taxes have been received. Also, we have a broader contribution to make that is not always well communicated. I use the example of the Republic of Guinea, where Rio&#xa0;Tinto has an iron ore project called Simandou. Again, we know that there will not be vast numbers of people being employed at the mine site. What we are trying to do is look at the southern economic growth corridor, so basically looking at the infrastructure that we will be building and how that infrastructure can be used for the greater population. It is those types of innovative ways of thinking. You do not want a country to be completely dependent on one company or one resource. We want to be operating in diversified economies. &#xa0;
+
+[[[Q257 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] I wonder if, just as a final question, Chair—I am conscious of time—that given all the good work that you describe your companies doing, how you explain—and I am quoting from the submission that we got from Christian Aid—that “nine out of the twelve African countries ranking lowest on the Human Development Index are mineral rich” and are therefore the countries in which you are operating. Is that not something that you as companies should be embarrassed by?
+
+[[[Ed Daniels]]]: We are invited by host governments to develop their natural resources. They invite us in. We uphold our standards and our general business principles. Obviously, because we are listed here, we will hold to the standards that apply here. We hold to the standards that apply in the US and in the Netherlands. The reality is, if we are giving taxation revenues, or sometimes governments will be joint venture partners, and therefore if those are earning those revenues, while we can encourage and influence governments through our role as being major companies in those countries, it is very difficult for us alone to go and inject ourselves and tell governments what to do with their money. That is a combination of civil society in that particular nation, and whether they are democratic or not I suspect has a part to play in this, but it is also a government&#x2011;to&#x2011;government conversation about that capability building that I discussed earlier. It is about how you put in a good regulatory framework, how you ensure the rule of law and minimisation of corruption, and all of those components that lead to the effective use of wealth, rather than the non&#x2011;effective use, as you seem to have referred to in the Christian Aid report.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: A point to add to that: our belief is that the countries where we operate, the developing countries, many of which are in Africa, ultimately need more foreign investment, not less. Ultimately, it can often be the case that it is the extractives industry that is first on the ground. It is helping put in place the infrastructure and it is helping set the pathway, to a certain extent, for greater investment to come in over a period of time, whilst also ensuring that the country benefits from its natural endowments and that we work with the local communities to ensure that, ultimately, there is a sustainable platform going forward. &#xa0;
+
+[[[Q258 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] We are talking about countries in which many of the extractive industries have been operating for some considerable time without that sort of economic progress. 
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I agree, but it comes down to a number of factors. Ultimately, foreign investment in these countries over time, attracting greater scrutiny but also investment from other sectors, is a good thing.&#xa0;
+
+[[[Q259 ]]]&#xa0; 
+
+[[[Paul Blomfield:]]] Given that such a significant proportion of your profits comes from operating in these countries and you profess a very strong social mission, do you not think you could be doing more?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: We are already doing a significant amount on the ground, be it in South Africa, Zambia, a whole host of different countries in Africa. If the Committee takes up the opportunity to come and visit our operations in South Africa, I would be happy to highlight some of those. Please rest assured that the investment we are making as an extractive in the countries where we operate is significant, not only for the benefit of local communities, but hopefully more broadly for the country itself.
+
+[[[Tara Hopkins]]]: The other point there is just around the multi&#x2011;decade nature of our industry. We cannot speak on behalf of the entire industry since time immemorial and what has been done, but rather companies like Rio Tinto need to have a social licence to operate. We need our local communities to want us to be there, ultimately. You are a guest in that country. As I said before, we thrive in a diversified economy. We do not want to be working in a country where everyone is solely dependent on our business, and so we do try, as much as we possibly can, to foster local content or skills and capability, and capacity building in government to better understand our industry. We are all working towards that aim. 
+
+[[[Paul Blomfield:]]] Thank you. I could explore this much further, but I am conscious of time.&#xa0;
+
+[[[Q260 ]]]&#xa0; 
+
+[[[Chair:]]] Just a very quick one to Charles: the European Investment Bank froze loans because of concerns about your company and its track record. Did you find that a problem? Have they unfrozen them as a result of the policies that you have asserted here?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: We are currently in the process of working with the EIB to ensure we come to a beneficial conclusion for both parties.
+
+[[[Chair:]]] I just want to go on now to William on EITI issues, before we finish.&#xa0;
+
+[[[Q261 ]]]&#xa0; 
+
+[[[Mr Bain:]]] Thank you, Chair. If I can first pose this question to Mr Watenphul, in your written evidence you rightly point to the other regulatory requirements that exist elsewhere in the world as well as EITI. You talk about the Dodd–Frank Act and the EU accounting directive that is due to come into force as well. As has come out in the evidence, there are different regulatory standards in other parts of the world, so what do you say are the key transparency and accountability issues that affect your sector and this country and require further legislative activity from this Parliament?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I would, Mr Bain, point to the fact that again it comes back to the fact that our footprint is quite small in the UK. It is our main listing, but what ultimately the UK has done in terms of helping support the transparency process is to sign up to becoming a member of the EITI. That can only be a good thing.&#xa0;
+
+[[[Q262 ]]]&#xa0; 
+
+[[[Mr Bain:]]] You will be aware of the strong public pressure towards greater transparency. There have been some very prominent campaigns run this year, calling for country&#x2011;by&#x2011;country, company&#x2011;by&#x2011;company reporting. What would your view on mandatory reporting country by country be?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Our view would be that, with the EU transparency directive that is going to be coming into place, that is something we as an industry will face anyway. It is something that we are already working towards as a company, and greater transparency for the end benefit, in terms of helping those countries take full account of the natural endowments they have, which is what the EITI is doing, should be a good thing.&#xa0;
+
+[[[Q263 ]]]&#xa0; 
+
+[[[Mr Bain:]]] If that commitment extended to Africa, what changes would that mean for your business as one which operates in that continent?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: I do not think it would mean any change, because it is not just about operating from local standards; it is ensuring that we as a corporate have a platform of standards that abridge all the jurisdictions where we operate.&#xa0;
+
+[[[Q264 ]]]&#xa0; 
+
+[[[Mr Bain:]]] Just to inform the Committee, what are the principal differences between what you have to do to satisfy the regulatory requirements of EITI and those other systems where there is a different set of regulations in place—that are not signed up to EITI?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: We take the approach that we operate in the same manner in those countries that are not signed up to EITI as we do elsewhere. It should not be a question of a set of rules for each different country where you operate. We, as responsible corporates, need to ensure that there is a system and policy put in place that is embedded throughout the organisation to ensure that they are the same principles that you act by regardless of where you operate.
+
+[[[Mr Bain:]]] Mr Daniels, Ms Hopkins, any further comments to add to that specific point about the difference between the EITI regulations and those countries that do not take part in it?
+
+[[[Ed Daniels]]]: I am not sure I am completely familiar with all of the regulations, so I&#xa0;would probably struggle to make much more comment than Mr Watenphul, but I would just re&#x2011;emphasise that we are a founder signatory of EITI ourselves; we are very supportive of the UK being a signatory of EITI. We are supportive of country&#x2011;by&#x2011;country reporting, provided it is legal—my caveat from earlier. My concern is of course, and there have been pressures around this, that once you get country&#x2011;by&#x2011;country reporting in the bag, all of a sudden we go to the next level of granularity and say, “Okay, great; now let’s do project&#x2011;by&#x2011;project reporting.” I have a number of concerns with that: one, commercial confidentiality. There is a concern about just the mountain of data and who is going to trawl through all of this material. Also, the reality is the reason we are doing this is to help developing nations and nations around the world be responsible custodians of the bounty that comes to them from natural resources. Further granularity I do not think really helps. It is about putting more effort into capability building with host governments, rather than getting ever more granular with the data that we provide.
+
+[[[Tara Hopkins]]]: I can reiterate our support for EITI over and over again. Transparency for Rio Tinto, and we say it in our Taxes Paid report, which we have been doing for three years now, makes business sense. That is what gives us the confidence and gives our shareholders confidence in us, but also the communities in which we are operating or countries in which we wish to be a guest. That is what gives us that licence to operate. There is the point around the EU accountancy directive rules, which will come into force in 2015, and there is Dodd–Frank in the US. EITI is aimed at governments and the other legislation is aimed at companies. It goes back to the point earlier on, which is that, in its current form, we think that all of these various initiatives and regulations will add to transparency, but if there are additional layers on top of that, it does start to get very complicated in terms of the type of reporting requirements that are on us. However, generally, we are all very supportive of the principles.&#xa0;
+
+[[[Q265 ]]]&#xa0; 
+
+[[[Mr Bain:]]] It is an interesting point, because it puts the three of you at odds with the Mining Association of the UK, which is not an enormous fan of EITI. Are there any changes that any of the three of you would recommend to the regulation of the industry at all in this country?
+
+[[[Ed Daniels]]]: In terms of oil and gas, I think I have made all the points I would wish to make around stability of regulation, stability of taxation and making sure the legality issue around taxation reporting in different countries is sorted. Maintaining a focused, clear energy strategy for the country is important. Given where the challenge of energy is going in the coming decades, it is not simply an extrapolation of the last 50 years. The energy system of the UK is going to have to change quite significantly in the next 50 years, so a good thought&#x2011;through strategy and a stable regime is really important for that to be effective over time.&#xa0;
+
+[[[Q266 ]]]&#xa0; 
+
+[[[Mr Bain:]]] Can you give us an indication of the regulatory cost in this country of complying with the different rules on listing and other financial requirements, anyone?
+
+[[[Ed Daniels]]]: I am sorry. We can write to you. That is quite a broad question, I have to say, if I may.
+
+[[[Mr Bain:]]] Relative to that in other countries where you are listed or in which you operate.
+
+[[[Ed Daniels]]]: Principally about listing?
+
+[[[Mr Bain:]]] Yes. 
+
+[[[Ed Daniels]]]: That is difficult for us, given how long ago we listed.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: It is certainly easier for us, given the cost associated with the respective listings is contained in our publicly available prospectuses and documents.
+
+[[[Tara Hopkins]]]: In terms of the cost of compliance with the UK’s very high corporate governance regime, all of the companies within ICMM and international mining companies that are based here would believe that that cost of compliance is worth it, because it gives us access to a pool of investors and it gives our shareholders confidence in our companies.&#xa0;
+
+[[[Q267 ]]]&#xa0; 
+
+[[[Mr Bain:]]] There are obviously other factors at play in your decision to list in this country rather than other countries. You have talked about education and some of the other factors. Can I address this just to Mr&#xa0;Watenphul? In your written evidence, you said, “If the UK wishes to remain an attractive location for extractive companies, it should seek to maintain a regulatory regime that not only imposes high standards but does so with the minimum cost to companies and the public purse.” Is it your contention that the current system satisfies that requirement in terms of minimum cost, or is that a warning that any change to the current regulatory regime might potentially cause your company to think about listing elsewhere?
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Again, we are very proud to be listed on the FTSE&#xa0;100. It provides the extractive industry in general with a huge amount of expertise that can then be exported overseas. You have read verbatim from our submission. To be honest, Mr Bain, there is not much more to add to that. It is clear that the UK has a real opportunity to continue to maintain its position as, arguably, the pre&#x2011;eminent place in the world for the extractives industry, in terms of expertise and to list. That should remain the case. &#xa0;
+
+[[[Chair:]]] Thank you. That concludes our current list of questions. Can I emphasise that obviously there were a number of issues that you could not give a detailed response to? These will be noted, and we would appreciate you coming back with further evidence on them.
+
+[[[Q268 ]]]&#xa0; 
+
+[[[Mr Walker:]]] Chairman, one thing: Ms Hopkins mentioned a paper on Rio Tinto’s economic contribution to the UK. If you have not already sent that to the Committee, it would be very useful for us to see that.
+
+[[[Tara Hopkins]]]: Happy to do so, yes. 
+
+[[[Mr Walker:]]] If the other businesses have anything similar, we would certainly be very grateful to see them. 
+
+[[[Ed Daniels]]]: Yes, we can send ours.
+
+[[[Chair:]]] In addition, it is very likely that we will want to write to you with further questions arising from evidence that we have had submitted to us. We would expect a response from you. If we do not feel that is adequate, we will be calling you again.&#xa0;
+
+[[[Q269 ]]]&#xa0; 
+
+[[[Katy Clark:]]] We have had some quite detailed submissions made in relation to social and environmental concerns, in relation particularly to mining operations that operate in a number of countries in which you operate. You obviously operate in some very mineral&#x2011;rich countries and some very wealthy countries, but where many of the people live in grinding poverty. Can we have an undertaking from you that, when we write to you about these issues—because we want to get the proper sources of the allegations that are being made—you will investigate and give detailed responses?
+
+[[[Tara Hopkins]]]: Absolutely.
+
+[[[Ed Daniels]]]: Yes.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: Yes.
+
+[[[Chair:]]] I would emphasise that, if we are not satisfied with the responses, then we will invite you again to address that.
+
+[[[Charles ]]]
+
+[[[Watenphul]]]: That is understood.&#xa0;
+
+[[[Chair:]]] On that note, can I thank you again for your contribution? We look forward to further correspondence with you. Thank you very much. &#xa0;              Oral evidence: Extractive Industries Sector, HC 832                            41

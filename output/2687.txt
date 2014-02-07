@@ -1,0 +1,81 @@
+&#xa0;
+
+[[[Written evidence submitted by Bath and North East Somerset Council]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[D]]]
+
+[[[eclaration of interest: ]]]The HSR would impact several site-specific and Local Plan policies within Bath &amp; North East Somerset, as described in Section 4 below. 
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]1.1.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Our main concern is summarised in the HSR Impact Assessment which acknowledges:  &#xa0;
+
+[[[“In some local authority areas, higher levels of environmental and social outcomes, which may be delivered in the do nothing option, m]]]
+
+[[[ay not be realised in option 2 (]]]
+
+[[[adopting the HSR recommendations]]]
+
+[[[).]]]
+
+[[[” ]]](p5) &#xa0;This would be true in our area, if our ability to set local sustainability standards is removed. We are also concerned about national impacts and the consultation process itself.&#xa0;1.2.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; We recommend the following:
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[2.1.]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+
+[[[Update and retain the Code for Sustainable Homes]]]&#xa0;2.1.1.&#xa0;&#xa0;&#xa0; The Code is a highly developed standard that can be implemented through planning, via a requirement for a design-stage certificate and a condition requiring a post-build certificate. The HSR Impact Assessment states that around 50% of LAs have a local Code standard and this is important tool for meeting local policy objectives. The Code can continue to be updated to remove redundancies. &#xa0;2.1.2.&#xa0;&#xa0;&#xa0; The HSR states cost as a reason for removing the Code, claiming that it is too expensive and local requirements would prevent development coming forward. However, this argument is counterbalanced by the following:&#xa0;&#xa0;&#xa0;This study, titled “Costs of building to the Code for Sustainable Homes, September 2013” found that per dwelling costs of meeting Code 5 have fallen from a range of £16.5k–23k in 2011 to £6.5k–10.5k today (a reduction of around 55%). The equivalent range for Code 6 is £28k–38k in the 2011 study to £15k–26k today (a c.40% decrease). &#xa0;The EC Harris report, cited in the Impact Assessment, also found a cost decrease, however since they assumed the use of ground source heat pumps instead of less expensive alternatives, the cost of Code 5 was not found to have fallen as significantly (Impact Assessment, Appx B, p95). Element Energy (2013) found that “The lowest cost method of achieving CSH5 is now typically based on a strategy with gas boiler with PV” (Element Energy, p5).&#xa0;2.1.3.&#xa0;&#xa0;&#xa0; Part L of  BRegs 2016 will not reach true zero carbon and has implementation problems:&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;2.1.4.&#xa0;&#xa0;&#xa0; The Code has driven innovation on a range of issues such as materials, transport and ecology. Some of these have been superseded and could be dropped in an update of the Code. However, some have stimulated improvements in construction techniques and can continue to do so. The HSR proposes to drop all these issues except possibly a local water standard. However, the proposed water standard is weaker than those in higher levels of the Code. &#xa0;2.1.5.&#xa0;&#xa0;&#xa0; Local authorities have made significant investments in developing Code and other energy policies, in terms of staff time and the development of robust evidence bases to ensure policies do not unduly hinder development. The Centre for Sustainable Energy estimates that for the Code alone this could be up to £4.8m total local investment, based on DCLG’s estimate that around 50% of LAs have Code policies. For these LAs to remove their existing local policies and provide evidence to justify inclusion of the “national list” of approved local standards will incur considerable extra time and cost. &#xa0;2.2.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The Impact Assessment does not monetise the loss that it acknowledges on p5 of “higher levels of environmental and social outcomes”, although this is a simple calculation using standard energy performance software. Since this this material piece of evidence is missing from the Impact Assessment, below is an exploration of what those impacts could be. &#xa0;2.3.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The Element Energy study cited above found that the “Allowable Solutions-based strategies lead to a lower overall cost than the largely PV-led strategies” (p9) and as such, would be preferred to onsite PV installation to meet BRegs 2016. Following this, it can be concluded that Code 5, if implemented in full (or a Merton Rule), could stimulate the use of onsite renewables more than BRegs 2016.  &#xa0;2.4.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Some preliminary estimates of the benefits to householders of Code 5/6 versus BRegs 2016, using onsite PV, have been included in the Appendix. They are straightforward calculations based on PV revenues and can be used to compare the impact of a local Code 5/6 standard, or a Merton Rule, against any level of BRegs, none of which will precipitate the use of PV, or other renewables, in the manner of the Code or a Merton Rule. &#xa0;2.5.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; These basic calculations show that there is an average of £695 saving per year on household energy bills if the homeowner benefits from the FITs and electricity sale, or a £212 saving if the householder only gets free electricity. However, these calculations are preliminary, and should be repeated and verified by DCLG to inform an evidence based consultation on the removal of local energy standards. &#xa0;2.6.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Developers may choose to deliver PV through an arrangement with a third party who would own and maintain the panels, keeping FIT revenues and selling the electricity back to the householder. This would negate the savings to the householder as cited above, but also mean that the cost of PV would no longer be a significant extra-over cost to the developer; reducing the costs of delivering Code 5 in full on site. &#xa0;
+
+[[[2.7.]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+
+[[[Retain “Merton Rules” as useful tool to raise local standards where viable]]]
+
+[[[&#xa0;]]]2.7.1.&#xa0;&#xa0;&#xa0; Unlike the Code, Merton Rules enable a focus on renewable energy. This can meet local needs, for example in areas where there is a special potential for renewable energy to reduce energy bills or meet climate objectives. &#xa0;2.7.2.&#xa0;&#xa0;&#xa0; Retaining the ability to set Merton Rules complements the Allowable Solutions mechanism, enabling developers to apply their Allowable Solutions directly to meeting the local Merton Rule requirement, as per the example below. &#xa0;2.7.3.&#xa0;&#xa0;&#xa0; In B&amp;NES, the Bath Western Riverside development’s biomass district heating system was installed as a direct result of its site-specific Merton Rule. This is contrary to the assumption within the Impact Assessment that removing Merton Rules will have a limited impact (para 70-72). The Impact Assessment has neither monetised the costs of removing Merton Rules, nor calculated the carbon implications of removing Merton Rules, both pre and post 2016. There is likely to be a post-2016 impact, since our Element Energy study showed where the option was provided, Allowable Solutions would be used instead of on-site renewables in order to meet higher energy standards, so BRegs 2016 may not simulate the same level of onsite renewables without the presence of a Merton Rule. Therefore there is insufficient evidence at present to inform a consultation on removing the ability of LAs to set Merton Rules. &#xa0;
+
+[[[2.8.]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+
+[[[Close the “transitional provisions” loophole in the proposed new Part L to BRegs 2013/4]]]
+
+[[[&#xa0;]]]2.8.1.&#xa0;&#xa0;&#xa0; The current Transitional Provision arrangement is a recent loophole which has negatively impacted the ability of BRegs to implement low carbon development. If left unchecked in BRegs 2013/4 and BRegs 2016, this could delay their implementation for many years to come. Since it is a recent loophole, a reversion can be made to the previous Transitional Provisions conditions to mitigate this problem, as described below: &#xa0;2.8.2.&#xa0;&#xa0;&#xa0; Prior to BRegs 2010, developers would need to build each new dwelling to the Part L standard in place when the construction of that dwelling was started. However, transitional provisions in BRegs 2010 weakened this, so that once one dwelling is started, the whole site only needs to meet the BRegs in place when the BRegs application was made for the site. In addition, developers can make a building regulation application to the Council or to a private sector Building Control company (such as the NHBC) upon purchasing a site which gives them a year under the existing BRegs to get started on site. The combination of these loopholes means that implementation of BRegs Part L can lag behind the introduction of a Part L update by several years- a particular risk given the large sites coming forward in B&amp;NES. &#xa0;2.8.3.&#xa0;&#xa0;&#xa0; BRegs 2016 needs to be accompanied by a robust Allowable Solutions mechanism. To ensure that local impacts of development are offset in the area most impacted by development, we will be proposing through the Allowable Solutions consultation that where a local fund or certified carbon-saving project exists, there should be an obligation to use it. In order that local projects can compete with projects outside of the locality, and to provide some certainty to industry about the likely costs of Allowable Solutions, we suggest that a “floor price” per tonne of carbon be set for Allowable Solutions in addition to a “cap”, and that local projects should be supported if they fall within the cost range between the floor and the cap. &#xa0;&#xa0;Below are the local impacts. This also serves as a declaration of interests. &#xa0;3.1.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Decline in Local Building Standards: With no effective transition arrangements proposed it is likely that local housing quality standards in the draft Core Strategy and other policy documents will be lost and that these would not be replaced by adequate national cover in Building Regulations.&#xa0;3.2.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Draft Core Strategy Sustainable Construction Policy Code requirement nullified &#xa0;3.2.1.&#xa0;&#xa0;&#xa0; Nullify part of draft Core Strategy Sustainable Construction Policy CP2 (p107) which sets a Code 4 district-wide minimum requirement &#xa0;3.2.2.&#xa0;&#xa0;&#xa0; CP2 withstood strong challenge at EIP because we demonstrated that developers could afford to meet this standard, based on our viability evidence&#xa0;3.3.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Placemaking Plan loss of ability to set higher Sustainable Construction requirements&#xa0;3.3.1.&#xa0;&#xa0;&#xa0; HSR would prevent the setting of higher Code standards in our forthcoming Placemaking Plan, where viable.  3.3.2.&#xa0;&#xa0;&#xa0; Further viability testing for the Placemaking Plan is likely to show that that some sites can viably build to a higher standard of sustainability than BRegs 2016, e.g. the MoD sites, for which the Concept Statements set an aspiration for Code 5. &#xa0;
+
+[[[&#xa0;]]]4.1.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+
+[[[On a national level, the HSR proposals represent a rollback of progress on sustainable construction and would lock us into a lower build quality for the lifetime of the new homes.]]] Higher local standards are needed to kick- start the innovation and adoption process for sustainable construction. Areas such as ours, with higher land values, act as early adopters, stimulating innovation which is then adopted more widely. Under the proposals in the HSR, this first step of the innovation and adoption process would be lost. &#xa0;4.2.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; We are concerned that this rollback is taking place without an assessment of the impact on meeting national carbon reduction targets. &#xa0;4.3.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; We are also concerned about the process that is being used to dispense with the Code for Sustainable Homes. The HSR consultation states: “the government proposes to wind down the role of the Code” (para 40), but the opportunity is not provided to comment on this. The Code was developed through a consultative process and has received a large amount of investment at the national and local level. Any changes should be subject to a full, evidence based consultation. 
+
+[[[&#xa0;]]]
+
+[[[Appendix: Estimate of energy saving benefits of CfSH 5&amp;6 over 2016 Part L:]]]These calculations follow the finding in the 2013 Element Energy study that Allowable Solutions would be used instead of on-site PV as the means to achieve BRegs 2016 compliance, an option that is not available for delivering Code 5 on-site in full.&#xa0;Average PropertyCfSH 5CfSH 6&#xa0;kWh£%kWh£%Mains Electricity Consumption3,431£515&#xa0;3,431£515&#xa0;Saving on Mains Electricity1,415£21241%1,561£23445%Export Income1,316£61&#xa0;4,311£200&#xa0;FIT Income2,731£422&#xa0;5,872£822&#xa0;Total Benefit&#xa0;£695135%&#xa0;£1,256244%&#xa0;The data from the table above can be used as needed depending on the delivery mechanism for PV. For example for CfSH 5 if the householder owns the PV, the FITs income/savings are 135% of the annual electricity bill. The FITS and solar export income may be ignored, e.g. in the case for a social housing provider, in which case the saving would only be £212 from a bill of £515, so a 41% saving. For CfSH 6 there are diminishing returns as more of the electricity is exported during the day with nothing to consume it.The calculation makes many assumptions including:&#xa0;A more detailed breakdown on a per house basis appears below:&#xa0;&#xa0;&#xa0;CfSH 5CfSH 6Property TypeTotal Electricity ConsumptionkWpSolar PV kWh outputExported Electricity kWhMains electricity cost savingsExport Electricity IncomeFIT IncomekWpSolar PV kWh outputExported Electricity kWhMains electricity cost savingsExport Electricity IncomeFIT Income2 bed flat2,8292.62,029892£171£41£3135.64,6483,325£198£154£6512 bed mid terrace2,8943.12,4191,210£181£56£3736.55,3954,223£176£196£7553 bed end terrace/semi3,8473.82,9661,390£236£64£4587.36,0594,271£268£198£8484 bed detached4,1534.53,5121,773£261£82£5428.97,3875,426£294£252£1,034
+
+[[[Average]]]
+
+[[[3,431]]]
+
+[[[3.5]]]
+
+[[[2,731]]]
+
+[[[1,316]]]
+
+[[[£212]]]
+
+[[[£61]]]
+
+[[[£422]]]
+
+[[[7.1]]]
+
+[[[5,872]]]
+
+[[[4,311]]]
+
+[[[£234]]]
+
+[[[£200]]]
+
+[[[£822]]]&#xa0;3 October 2013&#xa0; DCLG (2013) National Planning Policy Framework (2012) https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6077/2116950.pdf  Element Energy &amp; Davis Langdon (2011) “Cost of building to the Code for Sustainable Homes: Updated cost review” https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6378/1972728.pdf  Element Energy and David Langdon  (2013) “Cost of building to the Code for Sustainable Homes- September 2013” http://www.brighton-hove.gov.uk/sites/brighton-hove.gov.uk/files/EP059%20Costs%20of%20building%20to%20the%20Code%20for%20Sustainable%20Homes%20(Sept%202013)%20(draft).pdf  DCLG (2013) Housing Standards Review Consultation: Imapct Assessment https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/230252/3_-_Housing_Standards_Review_-_IA_with_Annex.pdf  Thomas, L (2010) “Housebuilders race to exploit Part L loophole” http://www.building.co.uk/sustainability/housebuilders-race-to-exploit-part-l-loophole/5006103.article Building Magazine  Reynolds, S (2013) “Part L changes finally announced” http://www.building4change.com/page.jsp?id=1921 Building for Change  DCLG “Get Britain Building” Case Study 2012: https://www.gov.uk/government/case-studies/get-britain-building-bath-riverside

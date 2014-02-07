@@ -1,179 +1,179 @@
 &#xa0;
-[normal]&#xa0;
-[normal]Written evidence from Ian Mackinnon, Freelance Data Wrangler, on behalf of 
-[normal]Campaign Against Arms Trade [[bold]OD07][bold]&#xa0;
-[normal]Campaign Against Arms Trade (CAAT) is a prolific user of the arms export licensing data
-[normal]1
-[normal] supplied by the Export Control Organisation (ECO). Since 2011 CAAT has provided an alternative browser
-[normal]2
-[normal] for the arms export data, to provide functionality absent in the ECO website: instant search, advanced filtering, resource addressability, ranking, time-series graphs and compliance with accessibility standards.
-[normal]&#xa0;
-[normal][1] https://www.exportcontroldb.bis.gov.uk/eng/fox
-[normal][2] http://www.caat.org.uk/resources/export-licences
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]1[bold] - General proposals for data formatting
-[normal]&#xa0;
-[normal]1.1[bold] - Document formats are never acceptable for storing data
-[normal]&#xa0;
-[normal]"Document" formats such as PDF, Microsoft Word, or Rich Text are not acceptable for distributing data. These formats contaminate data content with explanatory text and 
-[normal]presentation styling (markup). It is difficult to automatically extract data from these formats for computational analysis. Further, precision and details are almost always lost when numeric and relational data is stored as text.
-[normal]&#xa0;
-[normal]The golden rule should be that 
-[normal]if the provider of the data cannot easily recover data from their chosen publishing format such that it is 1:1 identical with the original source data, then that format is unacceptable for distributing the data.[bold]&#xa0;
-[normal]Acceptable formats for arbitrary data are XML, JSON, or YAML.
-[normal]&#xa0;
-[normal]CSV and Microsoft Excel formats are acceptable if and only if the data is 1:1 recoverable to its original pure form using publicly available software.
-[normal]&#xa0;
-[normal]Document formats are of course welcome if supplementary to well-formatted pure data.
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]1.2[bold] - Rounding should be explicit and totals should be calculated before rounding
-[normal]&#xa0;
-[normal]Rounding numeric data results in loss of precision, which is compounded every time an arithmetic operation is applied thereafter.
-[normal]&#xa0;
-[normal]Rounding should only be applied with good reason (eg. privacy is a good reason, amount of space available on a document page is a bad reason), in which case it should be absolutely explicit how rounding has been applied.
-[normal]&#xa0;
-[normal]Any arithmetic operations (eg. calculating a total) should be applied to the component figures before rounding occurs, so as not to compound errors.
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]1.3[bold] - Spreadsheet cells should not contain multiple pieces of data
-[normal]&#xa0;
-[normal]Freedom of Information (FoI) data supplied in Microsoft Excel or CSV format often includes comma-separated lists within a single cell. This leads to data corruption and is difficult to extract automatically.
-[normal]&#xa0;
-[normal]Observe in the following example how the list of countries is indistinguishable from the CSV cell separators and data containing the delimiting character (the comma).
-[normal]&#xa0;
-[normal]Value, Countries
-[normal]11, Algeria, Botswana
-[normal]22, Congo, Democratic Republic of
-[normal]&#xa0;
-[normal]An acceptable version of the above would allocate a single line per datum (reserving relationships with an ID number) and quote data which contain the delimiter:
-[normal]&#xa0;
-[normal]Row ID, Value, Country
-[normal]1, 11, Algeria
-[normal]1, 11, Botswana
-[normal]2, 22, "Congo, Democratic Republic of"
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]2 - Proposals for reforms of arms export licensing data supplied by the 
-[normal]Export Control Organisation[bold]&#xa0;
-[normal]&#xa0;
-[normal]2.1[bold] - Licences and dates should be disaggregated
-[normal]&#xa0;
-[normal]Data should contain separate entries for each individual export licence. Currently all licences to the same country are clumsily aggregated, and their component data (values, items and ratings) are jumbled. Disaggregating the values is complex and time-consuming and there are some data which cannot be disaggregated. Details of individual licences are fundamental for a full understanding of the export licences granted.
-[normal]&#xa0;
-[normal]Further, within each licence, each item should have a specific rating and value rather than the current, confusing aggregated form.
-[normal]&#xa0;
-[normal]Announcing a consultation on transparency and export licensing
-[normal], the Secretary of State 
-[normal]for Business, Innovation and Skills, 
-[normal]Vince Cable MP, reiterated the Foreign Secretary's commitment to "enhanced transparency of routine export licensing decisions" (Hansard, 7.2.12, col 7WS). 
-[normal]However, BIS has still not announced what data will be routinely released and in what format. It would be totally unacceptable if, following the consultation, less information is available than at present, when the data can be disaggregated to a daily, and thus often, to a per-licence basis.
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]2.2[bold] - Open export licence data must be provided in full
-[normal]&#xa0;
-[normal]Notice to Exporters 2013/18 issued on 31st July 2013 with regard to open licences appears to be a major step back from the greater transparency promised by the Secretary of State, Vince Cable, and is not in line with the Government Response to the Consultation exercise held in 2012. If the published information is no longer to include ratings / goods description nor, it appears, the value, it is almost meaningless, not least because the OIELs often cover an extremely wide range of equipment. However, the situation appears confused and CAAT is waiting for clarification from BIS as to its intentions.
-[normal]&#xa0;
-[normal]Data provided for Open Individual Export Licences (OIELs) should include the same level of detail as Standard Individual Export Licences (SIELs). That is:
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]The Export Group for Aerospace and Defence (EGAD) in its submission to the Committees on Arms Export Controls quoted a company as responding to the Consultation as saying: "If summary information for goods comprising destination/rating and the number of shipments and total value was provided this could probably be achieved within current resources." EGAD appeared to have no problem with the provision of the data as long as it could be provided simply. Indeed, the companies must collect and retain the data as a condition of the Open Licences.
-[normal]2.3[bold] - Data should be assumed to be public
-[normal]&#xa0;
-[normal]Providers should be asked to indicate whether information is sensitive, rather than making the presumption that it is.
-[normal]&#xa0;
-[normal]Given the strong public interest in transparency regarding export controls, ideally, no information would be withheld. If any is to be, the acceptable grounds for withholding information would need to be set out and the applicant company should have to demonstrate that publication would result in specific harm. The withholding of information about a licence 
-[normal]should be very rare, and would become even rarer as exporters adjust to the culture of transparency.
-[normal]&#xa0;
-[normal]There should be no discrepancy between information disclosed automatically and information granted through FoI requests. If the ECO is willing to make information public, only releasing it after a FoI request would simply cause a delay and add to the ECO's workload. It would also needlessly obstruct commitments to openness and transparency and be at odds with the Government's open data statements.
-[normal]&#xa0;
-[normal]With regards to the "time factor", the exporters who have, exceptionally, been granted 
-[normal]confidentiality for their original application should be asked at the expiry of the licence if the information can be released. This should be checked annually thereafter. The decision to continue to withhold licence details should be made at ministerial level.
-[normal]&#xa0;
-[normal]In all cases where information is withheld, the details should be reported to the Committees on Arms Export Controls which should also be told the justification for the secrecy.[bold]&#xa0;[bold]&#xa0;[bold]2.4[bold] - Applicants and end users should be specified for all licences
-[normal]&#xa0;
-[normal]Data for each licence should specify the applicant or licence holder, and the end user.
-[normal]&#xa0;
-[normal]Names of exporters should be supplied exactly, except in exceptional circumstances.
-[normal]&#xa0;
-[normal]End user names should be specific and unambiguous, for example, “Saudi Arabian National Guard”, “Egyptian Coast Guard” or a named media organisation. Where this is not possible, general terms of "government" or "commercial entity" are unacceptably vague. The description should be highly specific, for example, "mining company" or "private military company".
-[normal]&#xa0;
-[normal]Against the cost to the Export Control Organisation for the collection of the additional data, 
-[normal]must be set the benefit of informed scrutiny and an end to the need to rebuff reports about 
-[normal]innocuous licences. For example, the ECO would no longer be forced to answer media 
-[normal]inquiries about high-technology exports to a country with a controversial government if the 
-[normal]information routinely provided showed that the particular item in question was going to an 
-[normal]environmental research organisation tracking wildlife.
-[normal]&#xa0;
-[normal]Additionally, 
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]2.5[bold] - Quantities of goods actually exported
-[normal]&#xa0;
-[normal]As well as the value of goods licensed for export, ideally data should be routinely provided on the goods actually exported, and when exports took place. However, CAAT understands that it would require new systems that would enable HM Revenue and Customs computers to communicate with the Export Control Organisation's computers. Resources should be allocated to this as soon as possible.
-[normal]&#xa0;
-[normal]The UK is one of a very small minority of European Union countries that does not provide this data to the EU.
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]2.6[bold] - Data provision by applicants and the government should be prompt
-[normal]&#xa0;
-[normal]The details of the licences issued and the exports which took place during a calendar month should be published not more than two weeks after the end of the  month. The exporters should be asked to report in "real time" to facilitate this; it should not be left to them to decide when is convenient.
-[normal]&#xa0;
-[normal]In addition, details of the quantities actually exported should be published not more than two 
-[normal]weeks after the end of the month in which the export took place. The recent Committees on Arms Export Controls consultation document says the differences between licensed and actual quantities exported are likely to be small. However, it also admits to limitations with the Customs Handling of Import &amp; Export Freight (CHIEF) database that prevent figures from being accurately known. Requiring timely reporting by exporters would for the first time provide the data necessary for proper export licensing scrutiny.
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]2.7[bold] - Full raw data dumps should be provided
-[normal]&#xa0;
-[normal]Full export licence data should be constantly available as raw data in a machine-readable format as a single download.
-[normal]&#xa0;
-[normal]The ideal format would be relational, hierarchical, and both human- and machine-readable, 
-[normal]eg. XML, JSON, or YAML. Less desirable, but acceptable formats would be a raw SQL dump, 
-[normal]or CSV. If CSV were provided, individual licences must be uniquely identifiable by ID numbers so as to be able to cross check relational or hierarchical data (eg. licences containing multiple items, licences containing multiple ratings, items being classed as multiple ratings - all relationships need to be preserved.)
-[normal]&#xa0;
-[normal]2.8[bold] - Data access should be anonymous and accessible
-[normal]&#xa0;
-[normal]It should not be necessary for the user to provide contact details, log-in, maintain 
-[normal]an account, fill out a form, or even use a web browser to access export licence data; the download should be accessible from a public URL.
-[normal]&#xa0;
-[normal]The ECO should provide a basic searchable system, but the priority should be to make the raw data available.
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]2.9[bold] - Data should be clearly and permissively licensed
-[normal]&#xa0;
-[normal]All data should be accompanied by a clear description of the terms for use and re-use in the form of a standardised licence.
-[normal]&#xa0;
-[normal]Usage rights should be as permissive as possible to encourage innovative presentation, analysis and scrutiny in public.
-[normal]&#xa0;
-[normal]The UK Open Government Licence
-[normal]3
-[normal] would be an ideal choice.
-[normal]&#xa0;
-[normal][3] http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/
-[normal]open-government-licence.htm
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]September 2013
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]&#xa0;
-[normal]
+default&#xa0;
+defaultWritten evidence from Ian Mackinnon, Freelance Data Wrangler, on behalf of 
+defaultCampaign Against Arms Trade [defaultOD07]default&#xa0;
+defaultCampaign Against Arms Trade (CAAT) is a prolific user of the arms export licensing data
+default1
+default supplied by the Export Control Organisation (ECO). Since 2011 CAAT has provided an alternative browser
+default2
+default for the arms export data, to provide functionality absent in the ECO website: instant search, advanced filtering, resource addressability, ranking, time-series graphs and compliance with accessibility standards.
+default&#xa0;
+default[1] https://www.exportcontroldb.bis.gov.uk/eng/fox
+default[2] http://www.caat.org.uk/resources/export-licences
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default1default - General proposals for data formatting
+default&#xa0;
+default1.1default - Document formats are never acceptable for storing data
+default&#xa0;
+default"Document" formats such as PDF, Microsoft Word, or Rich Text are not acceptable for distributing data. These formats contaminate data content with explanatory text and 
+defaultpresentation styling (markup). It is difficult to automatically extract data from these formats for computational analysis. Further, precision and details are almost always lost when numeric and relational data is stored as text.
+default&#xa0;
+defaultThe golden rule should be that 
+defaultif the provider of the data cannot easily recover data from their chosen publishing format such that it is 1:1 identical with the original source data, then that format is unacceptable for distributing the data.default&#xa0;
+defaultAcceptable formats for arbitrary data are XML, JSON, or YAML.
+default&#xa0;
+defaultCSV and Microsoft Excel formats are acceptable if and only if the data is 1:1 recoverable to its original pure form using publicly available software.
+default&#xa0;
+defaultDocument formats are of course welcome if supplementary to well-formatted pure data.
+default&#xa0;
+default&#xa0;
+default1.2default - Rounding should be explicit and totals should be calculated before rounding
+default&#xa0;
+defaultRounding numeric data results in loss of precision, which is compounded every time an arithmetic operation is applied thereafter.
+default&#xa0;
+defaultRounding should only be applied with good reason (eg. privacy is a good reason, amount of space available on a document page is a bad reason), in which case it should be absolutely explicit how rounding has been applied.
+default&#xa0;
+defaultAny arithmetic operations (eg. calculating a total) should be applied to the component figures before rounding occurs, so as not to compound errors.
+default&#xa0;
+default&#xa0;
+default1.3default - Spreadsheet cells should not contain multiple pieces of data
+default&#xa0;
+defaultFreedom of Information (FoI) data supplied in Microsoft Excel or CSV format often includes comma-separated lists within a single cell. This leads to data corruption and is difficult to extract automatically.
+default&#xa0;
+defaultObserve in the following example how the list of countries is indistinguishable from the CSV cell separators and data containing the delimiting character (the comma).
+default&#xa0;
+defaultValue, Countries
+default11, Algeria, Botswana
+default22, Congo, Democratic Republic of
+default&#xa0;
+defaultAn acceptable version of the above would allocate a single line per datum (reserving relationships with an ID number) and quote data which contain the delimiter:
+default&#xa0;
+defaultRow ID, Value, Country
+default1, 11, Algeria
+default1, 11, Botswana
+default2, 22, "Congo, Democratic Republic of"
+default&#xa0;
+default&#xa0;
+default2 - Proposals for reforms of arms export licensing data supplied by the 
+defaultExport Control Organisationdefault&#xa0;
+default&#xa0;
+default2.1default - Licences and dates should be disaggregated
+default&#xa0;
+defaultData should contain separate entries for each individual export licence. Currently all licences to the same country are clumsily aggregated, and their component data (values, items and ratings) are jumbled. Disaggregating the values is complex and time-consuming and there are some data which cannot be disaggregated. Details of individual licences are fundamental for a full understanding of the export licences granted.
+default&#xa0;
+defaultFurther, within each licence, each item should have a specific rating and value rather than the current, confusing aggregated form.
+default&#xa0;
+defaultAnnouncing a consultation on transparency and export licensing
+default, the Secretary of State 
+defaultfor Business, Innovation and Skills, 
+defaultVince Cable MP, reiterated the Foreign Secretary's commitment to "enhanced transparency of routine export licensing decisions" (Hansard, 7.2.12, col 7WS). 
+defaultHowever, BIS has still not announced what data will be routinely released and in what format. It would be totally unacceptable if, following the consultation, less information is available than at present, when the data can be disaggregated to a daily, and thus often, to a per-licence basis.
+default&#xa0;
+default&#xa0;
+default2.2default - Open export licence data must be provided in full
+default&#xa0;
+defaultNotice to Exporters 2013/18 issued on 31st July 2013 with regard to open licences appears to be a major step back from the greater transparency promised by the Secretary of State, Vince Cable, and is not in line with the Government Response to the Consultation exercise held in 2012. If the published information is no longer to include ratings / goods description nor, it appears, the value, it is almost meaningless, not least because the OIELs often cover an extremely wide range of equipment. However, the situation appears confused and CAAT is waiting for clarification from BIS as to its intentions.
+default&#xa0;
+defaultData provided for Open Individual Export Licences (OIELs) should include the same level of detail as Standard Individual Export Licences (SIELs). That is:
+default&#xa0;
+default&#xa0;
+defaultThe Export Group for Aerospace and Defence (EGAD) in its submission to the Committees on Arms Export Controls quoted a company as responding to the Consultation as saying: "If summary information for goods comprising destination/rating and the number of shipments and total value was provided this could probably be achieved within current resources." EGAD appeared to have no problem with the provision of the data as long as it could be provided simply. Indeed, the companies must collect and retain the data as a condition of the Open Licences.
+default2.3default - Data should be assumed to be public
+default&#xa0;
+defaultProviders should be asked to indicate whether information is sensitive, rather than making the presumption that it is.
+default&#xa0;
+defaultGiven the strong public interest in transparency regarding export controls, ideally, no information would be withheld. If any is to be, the acceptable grounds for withholding information would need to be set out and the applicant company should have to demonstrate that publication would result in specific harm. The withholding of information about a licence 
+defaultshould be very rare, and would become even rarer as exporters adjust to the culture of transparency.
+default&#xa0;
+defaultThere should be no discrepancy between information disclosed automatically and information granted through FoI requests. If the ECO is willing to make information public, only releasing it after a FoI request would simply cause a delay and add to the ECO's workload. It would also needlessly obstruct commitments to openness and transparency and be at odds with the Government's open data statements.
+default&#xa0;
+defaultWith regards to the "time factor", the exporters who have, exceptionally, been granted 
+defaultconfidentiality for their original application should be asked at the expiry of the licence if the information can be released. This should be checked annually thereafter. The decision to continue to withhold licence details should be made at ministerial level.
+default&#xa0;
+defaultIn all cases where information is withheld, the details should be reported to the Committees on Arms Export Controls which should also be told the justification for the secrecy.default&#xa0;default&#xa0;default2.4default - Applicants and end users should be specified for all licences
+default&#xa0;
+defaultData for each licence should specify the applicant or licence holder, and the end user.
+default&#xa0;
+defaultNames of exporters should be supplied exactly, except in exceptional circumstances.
+default&#xa0;
+defaultEnd user names should be specific and unambiguous, for example, “Saudi Arabian National Guard”, “Egyptian Coast Guard” or a named media organisation. Where this is not possible, general terms of "government" or "commercial entity" are unacceptably vague. The description should be highly specific, for example, "mining company" or "private military company".
+default&#xa0;
+defaultAgainst the cost to the Export Control Organisation for the collection of the additional data, 
+defaultmust be set the benefit of informed scrutiny and an end to the need to rebuff reports about 
+defaultinnocuous licences. For example, the ECO would no longer be forced to answer media 
+defaultinquiries about high-technology exports to a country with a controversial government if the 
+defaultinformation routinely provided showed that the particular item in question was going to an 
+defaultenvironmental research organisation tracking wildlife.
+default&#xa0;
+defaultAdditionally, 
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default2.5default - Quantities of goods actually exported
+default&#xa0;
+defaultAs well as the value of goods licensed for export, ideally data should be routinely provided on the goods actually exported, and when exports took place. However, CAAT understands that it would require new systems that would enable HM Revenue and Customs computers to communicate with the Export Control Organisation's computers. Resources should be allocated to this as soon as possible.
+default&#xa0;
+defaultThe UK is one of a very small minority of European Union countries that does not provide this data to the EU.
+default&#xa0;
+default&#xa0;
+default2.6default - Data provision by applicants and the government should be prompt
+default&#xa0;
+defaultThe details of the licences issued and the exports which took place during a calendar month should be published not more than two weeks after the end of the  month. The exporters should be asked to report in "real time" to facilitate this; it should not be left to them to decide when is convenient.
+default&#xa0;
+defaultIn addition, details of the quantities actually exported should be published not more than two 
+defaultweeks after the end of the month in which the export took place. The recent Committees on Arms Export Controls consultation document says the differences between licensed and actual quantities exported are likely to be small. However, it also admits to limitations with the Customs Handling of Import &amp; Export Freight (CHIEF) database that prevent figures from being accurately known. Requiring timely reporting by exporters would for the first time provide the data necessary for proper export licensing scrutiny.
+default&#xa0;
+default&#xa0;
+default2.7default - Full raw data dumps should be provided
+default&#xa0;
+defaultFull export licence data should be constantly available as raw data in a machine-readable format as a single download.
+default&#xa0;
+defaultThe ideal format would be relational, hierarchical, and both human- and machine-readable, 
+defaulteg. XML, JSON, or YAML. Less desirable, but acceptable formats would be a raw SQL dump, 
+defaultor CSV. If CSV were provided, individual licences must be uniquely identifiable by ID numbers so as to be able to cross check relational or hierarchical data (eg. licences containing multiple items, licences containing multiple ratings, items being classed as multiple ratings - all relationships need to be preserved.)
+default&#xa0;
+default2.8default - Data access should be anonymous and accessible
+default&#xa0;
+defaultIt should not be necessary for the user to provide contact details, log-in, maintain 
+defaultan account, fill out a form, or even use a web browser to access export licence data; the download should be accessible from a public URL.
+default&#xa0;
+defaultThe ECO should provide a basic searchable system, but the priority should be to make the raw data available.
+default&#xa0;
+default&#xa0;
+default2.9default - Data should be clearly and permissively licensed
+default&#xa0;
+defaultAll data should be accompanied by a clear description of the terms for use and re-use in the form of a standardised licence.
+default&#xa0;
+defaultUsage rights should be as permissive as possible to encourage innovative presentation, analysis and scrutiny in public.
+default&#xa0;
+defaultThe UK Open Government Licence
+default3
+default would be an ideal choice.
+default&#xa0;
+default[3] http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/
+defaultopen-government-licence.htm
+default&#xa0;
+default&#xa0;
+defaultSeptember 2013
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default&#xa0;
+default

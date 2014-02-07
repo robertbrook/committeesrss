@@ -1,0 +1,781 @@
+&#xa0;SCIENCE AND TECHNOLOGY COMMITTEE Oral evidence: Women in STEM careers , HC 701Wednesday 30 October 2013Ordered by the House of Commons to be published on 30 October 2013.Written evidence from witnesses:–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Institute of Physics–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Equality Challenge Unit–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The Royal Society–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Daphne Jackson Trust–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Russell Group of Universities–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; University College London–&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; The Open UniversityWatch the meetingMembers present: Andrew Miller (Chair); Jim Dowd; Stephen Metcalfe; David Morris; Stephen Mosley; Pamela Nash; Sarah Newton; Graham Stringer; David Tredinnick; Roger WilliamsQuestions 53-126Witnesses: 
+
+[[[Dr June ]]]
+
+[[[McCombie]]], former Chair of IOP Project Juno Panel, Institute of Physics, 
+
+[[[Sarah Dickinson]]], Manager, Athena SWAN Charter, Equality Challenge Unit, 
+
+[[[Professor Dame Julia Higgins]]], Chair of Diversity Programme, The Royal Society, and 
+
+[[[Dr ]]]
+
+[[[Pia]]]
+
+[[[ ]]]
+
+[[[Ostergaard]]], Senior Fellowship Adviser, Daphne Jackson Trust, gave evidence.
+
+[[[Q1 ]]]&#xa0; 
+
+[[[Chair: ]]]Can I welcome you to this morning’s session? Thank you for coming. Thank you to those who have child-caring responsibilities. I understand that one of you has to run off to the dentist shortly, so we shall not detain you unnecessarily. It would be helpful if, just for the record, you would introduce yourselves.
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: I am Pia Ostergaard. I am a lecturer at St George’s university, but I am also affiliated with the Daphne Jackson Trust. I have been a Daphne Jackson fellow myself. When I finished my fellowship, I went on to become a fellowship adviser. I am still working for the trust in that capacity. That is why I am here today—to represent the Daphne Jackson Trust. 
+
+[[[Professor Higgins]]]: I am Julia Higgins. I am an emeritus professor at Imperial College, but I am here today because I chair the project that the Royal Society is running, funded by BIS, on diversity in the scientific work force called Leading the Way.  
+
+[[[Sarah Dickinson]]]: I am Sarah Dickinson. I am the Athena SWAN manager. Athena SWAN is a recognition scheme of excellence in women’s employment in Science, Technology, Engineering, Maths and Medicine in the UK.
+
+[[[Dr ]]]
+
+[[[McCombie]]]: I am June McCombie. I am a senior research officer at the university of Nottingham, but I am here as the ex-chair of the Juno Panel of the Institute of Physics, which I am representing here. &#xa0;
+
+[[[Q2 ]]]&#xa0; 
+
+[[[Chair:]]] Let us start off with a very basic question. For the various organisations that you represent, how do your initiatives aim to tackle the loss of women in science? 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: The Institute of Physics has a number of initiatives. It has a particular problem because the leaky pipeline for physics starts at the A-level to undergraduate transition. It has the Stimulating Physics Network, which is a targeted activity trying to encourage women in schools to go on to undergraduate study. In particular, the Juno project works with university physics departments and has a bottom-up approach. I will start with that and then hand over to Sarah for the Athena approach. It has a bottom-up approach of working with physics departments and seeing them through a process where they go from supporter to practitioner to champion, where we work with them strongly, looking at gender disaggregated statistics and on initiatives that they bring in as a result of looking at those statistics, and supporting them through the process to champion status, which is where they are seen to be exemplars of good practice. 
+
+[[[Sarah Dickinson]]]: Athena SWAN is quite similar except it takes more of a top-down approach, so we are looking for a senior academic buy-in. We are looking for a buy-in from the senior management of universities. Again, we hand out awards and give recognition for initiatives to encourage the recruitment and retention of women. We are looking for subject-specific initiatives, so we are looking for universities and departments to look at their data to identify the specific issues within their transition points and to put in initiatives around those areas. 
+
+[[[Professor Higgins]]]: The Royal Society could answer on various levels. The diversity project that we are running on behalf of BIS is looking at the entire work force, not just women. It is looking at all sorts of minorities, so it is much broader than just the question of women. One of the things we are doing there is trying to get the data together. It is a serious problem. The datasets that are available do not ask the same questions, do not speak to each other, do not match each other, and their definitions are variable. For example, just to take one point, teachers are non-scientists. Quite clearly, a very important part of the scientific work force is in teaching. It is very difficult to get the data. That is one piece.Within the Royal Society there is a committee, which I used to chair, called EDAN—Equality and Diversity Advisory Network—and that looks at the activities of the Royal Society itself, first of all, to ask questions, to make sure that we collect the data so that we know whether the fellowships, the scholarships, the meetings and all the things that the Royal Society runs are representative of the scientific community as a whole and not biased in any particular direction.The Royal Society itself has just over 400 university research fellowships for young scientists, in all areas of science, at the early part of their career, and for a long time those have specifically been designed to allow for flexibility so that people can move in and out—they can take their fellowship somewhere else. That is very supportive for women. The Royal Society also has a rather small number—we would wish to have more—of Dorothy Hodgkin fellowships, which are designed for scientists at an even earlier part of their career, who are not quite straight out of their doctorates but very close to that, with all the flexibility that the other fellowships have. When we first set them up—and I was involved as an officer of the Royal Society—we did so specifically wanting to give women a fellowship that was long enough for them to form a base in an academic career. That was extremely important. There are rather too few of them and we would love to fund more of them. That is a statement about those. They have helped a number of people to start really excellent careers. If a young woman has come out of a PhD and is thinking of getting married and starting a family, an uncertain career structure—I know you have questions about the career structure later on—is very off-putting. To have a base at the beginning is hugely important. 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: That is why we need to spread knowledge about the Daphne Jackson Trust as well, because career planning is very difficult at times. If you don’t know what is there to follow on from your PhD or postdoc, if you also want to have a family, then it is very important to have a fellowship scheme like ours. The way it works is that we support people who have had a career break of more than two years. We have supported men, but, out of the 250 people we have helped so far, out of the 250 fellows who have come through our scheme, only eight of those have been men. So it is the majority of women who take this long career break to bring up a family. The way the fellowship scheme works is that we do the negotiations. We get inquiries through the office and we decide whether people are eligible for a fellowship or not, and then we try to match them up with sponsorships that we have been trying to fund-raise. Our big hurdle here is definitely the lack of sponsorships. This is something that we could discuss further.&#xa0;
+
+[[[Q3 ]]]&#xa0; 
+
+[[[Chair:]]] Professor Higgins, you mentioned the problems of data, and Dr McCombie mentioned the leaky pipeline. We can see statistically that there is a leak in the pipeline and it is leaking all through from primary school upwards, in a sense. Is there any way in which we can, realistically, assess what impact that loss of women has had on science in the UK?
+
+[[[Professor Higgins]]]: It is one of the things that we are trying to do in the diversity project that we are running. We are attempting, first of all, to look at how you build a business case for having a diverse work force. Let me remind you that we are talking about the whole work force and not just the academic work force. We are also trying to collect data on where people have gone to, because, while we talk about the leaky pipeline, the only line that we can realistically look at is the academic one. You can see how many undergraduates, doctorates, staff and professors you have. You can see the loss of people. What you don’t know, and one of the things we are attempting to track, is where they have gone to. If at some point in their career they move out and go into, for example, school teaching, where they won’t be counted as a scientist any more, at least on the data that we have got, that is not necessarily a bad thing—it is a good thing. One of the problems is finding out where they go to. We have the HESA data, and we are tracking as part of the project where people are going to in an attempt to find out how much of it is a genuine loss and how much of it is a change of career. It is quite difficult to put your finger on exactly what the consequences are. Some of the consequences are quite clear. There are not very many visible women in science, and that is, as far as most of us are concerned, a bad thing because young women look for role models. If they look round, if I dare say, at a Committee like this, they may well think that being on a Select Committee is not a particularly good place for a woman to be. If they look round the university science departments and see that there are almost no women at the lecturer/senior lecturer level, they may well—even not consciously or unconsciously—not think that that is a role for them. If women are not doing science degrees, then we are certainly not going to have good female science teachers. As we know, we are desperately short of physics teachers—and particularly women physics teachers. There are consequences that you can quite clearly see, but it is difficult to put numbers on them, which I think you would quite like. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: I agree with Julia. It is very hard to come up with a direct quantitative assessment of the impact. You cannot gainsay the fact that, if in chemistry 48% of undergraduates are women but only 6% are at professorial level, then at some point there is a huge loss of human and intellectual capital going out of the system. We hope that most of the women leaving the system are taking their transferable skills into different employment sectors. Some of them may be moving on into the industrial sector, but we also know that there is a leaky pipeline there. They are certainly not going to be using, by and large to a large extent, the advanced research and technical skills that they have acquired during their training process. The majority will not be employing those in the other sectors, but they will be taking a lot of their other transferable skills with them. Although we can’t put a number on it—there are no Labour Force Surveys that allow us to track this movement in the UK—the numbers just tell you that there has to be a big loss of capital and there is a business case there to be made. 
+
+[[[Sarah Dickinson]]]: The Royal Society of Chemistry conducted a study into the gender differences of the PhD experience and found that, in the first year of PhD study, 74% of female PhD students wanted to pursue an academic research career, but by the third year of the PhD this figure had halved, so it was about 32%. So something over the course of the PhD was having an influence on their career decisions. As June said, that has economic implications in terms of the research chemists that we have in the market. &#xa0;
+
+[[[Q4 ]]]&#xa0; 
+
+[[[Chair:]]] Is there any indication that STEM careers have a worse profile than other areas of the economy?
+
+[[[Dr ]]]
+
+[[[McCombie]]]: There is in terms of representation of women, but I think it is also difficult— &#xa0;
+
+[[[Q5 ]]]&#xa0; 
+
+[[[Chair:]]] You mentioned here, in Parliament, boardrooms and everywhere you look. What is the evidence that STEM is any worse than any other part of the economy, or is there any evidence?
+
+[[[Sarah Dickinson]]]: The HESA data shows that, on average, the proportion of female professors in SET subject areas is 15% compared with 26% in non-SET. So there is evidence to show that there is a difference there. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: When we talk about STEM overall, we have to be quite careful, because in different areas of STEM there are different numbers and the leaks in the pipeline occur at different times, and this is why I am such an advocate of drilling down into the data in detail. I am looking for each academic line or research discipline where those leaks occur, and looking at the circumstances around them, such as the culture, whether it is a laboratory culture, a non-laboratory culture and so on.&#xa0;
+
+[[[Q6 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] As an aside, on gender balance of Select Committees, it varies. I know for a fact that the Health Committee has four out of nine members who are women. 
+
+[[[Professor Higgins]]]: Thank you. I did not really want to criticise you. &#xa0;
+
+[[[Q7 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] I wanted to make the point that it does vary. Sarah Dickinson, this question is for you. The Athena SWAN website says that 93 member institutes agree to the Athena SWAN charter, which commits to the advancement and promotion of the careers of women in STEM in higher education and research. However, only 48 universities have achieved an Athena SWAN award. What is standing in the way of 100% uptake? What is the problem? 
+
+[[[Sarah Dickinson]]]: It can take three years for an institution to get the data together in order to put their submission in. In 2011 there were 61 members, so we are still waiting for the newer members to put an award in. I guess that is what is standing in the way. It is actually getting the data together, looking at where your problems are and putting initiatives and plans in place to do that. It is okay for it to take a bit of time to get that right. I would rather that institutions and members took their time, put in a good submission and that the work they were doing was truly embedded, rather than to rush it.
+
+[[[Dr ]]]
+
+[[[McCombie]]]: We found a similar case for the Juno project, which is that we guesstimate it is taking five years from somebody registering an interest as a supporter to being able to put in a champion application, because we monitor at each stage whether the practices are embedded—looking at the quantitative data, putting in place measures and then evaluating whether they are effective or not, and not simply going on with them even if they are not effective. That process can easily take five years. In some cases, we are starting from a very low baseline, for want of a better way of putting it. 
+
+[[[Professor Higgins]]]: It is important to say that it is not a membership. It is having achieved something, so you have to decide to do it, do it and demonstrate that you have done it. That takes time. The whole point of Athena SWAN is to encourage and achieve change in the system—not to measure what is there but to make change forwards. I should say that I am the patron of Athena SWAN as well as various other things. It has achieved a lot but it has a long way to go. 
+
+[[[Sarah Dickinson]]]: We have people who join and quickly try and put in an application for an award. Quite often, if it is done in a short space of time, it is unsuccessful. So we try and encourage people to take a bit more time before putting in an application to get an award anyway. &#xa0;
+
+[[[Q8 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] Do you think that research councils should require an Athena SWAN award as a condition of research funding?
+
+[[[Professor Higgins]]]: Having once chaired a research council as well but also having an overview, no, I don’t. The history is that the medics did, but the medical grants are given to whole departments. The research councils give grants to individuals or to small groups of individuals, often across two or three departments or two or three universities. If that requirement were there, it would preclude a very large part of the system from even applying. What the research councils have said, and what we strongly support them in saying, is that the universities should demonstrate that they are doing something about diversity, particularly gender diversity—for example, applying for Athena SWAN, Juno awards or these other awards. In fact, to my knowledge, the RAF—the Research Assessment Framework—has specifically asked for information. I have read a few of the submissions going round my university, and it is quite clear that departments are taking it seriously. They are looking for what action they can take. If you said to me, just as a blanket, “Everybody should have such an award,” moving towards it may work, but demanding it now simply would not work. Moreover, it would completely flood the ECU. They would not be able to deal with that many applications. If I could just add one other thing, the great success of the SWAN awards has been that they have been voluntary, and they have appealed to the one thing that academics have, which is a huge sense of competition. You should have seen the envy that went round when the first gold award went to York university’s chemistry department. The other chemistry departments are desperate to get gold awards. So you are harnessing a driver that is very academic by making it voluntary and competitive. 
+
+[[[Sarah Dickinson]]]: Dame Sally Davis’s announcement, obviously, propelled Athena SWAN into—
+
+[[[Dr ]]]
+
+[[[McCombie]]]: It certainly focused minds.
+
+[[[Sarah Dickinson]]]: It did, but it was already gaining momentum from before that, as Julia said, because of this element of competition within academia. It has been gradually increasing. There were 10 founder members in 2005. By 2007 there were 28. By 2009 there were 44. So it was already gaining momentum. That announcement just propelled that. &#xa0;
+
+[[[Q9 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] Finally, on this subject, the low uptake of the Athena SWAN awards does not indicate a failure of diversity and equality initiatives in universities generally and other research organisations, does it?
+
+[[[Sarah Dickinson]]]: No, I do not think so. Overall, we currently have 257 award-holding institutions and departments. That is commendable. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: I think that Athena and other projects have had a large impact on how universities have approached the subject of diversity, because suddenly there is a very public face to whatever their activities are. While I agree that I wouldn’t like to see Athena research councils having to require Athena silver status in order to give research funding, I would like to see the disaggregated statistics of each university made public on their websites, which is not to say that they are good statistics or that they have ticked every box, but it would make very public the areas that they needed to address. Putting it into a public forum like that would focus minds yet again. &#xa0;
+
+[[[Q10 ]]]&#xa0; 
+
+[[[Roger Williams:]]] We have been told already as a generalisation that long hours in research is thought to be a good thing, while people who might want to work part time or have a degree of flexibility are lacking in commitment to the establishment. There may be policies in place to support part-time working and flexibility, but that seems to be lacking in terms of action. Who would be responsible to ensure that, for instance, departments are abiding by the law on allowing flexibility and part-time working?  
+
+[[[Professor Higgins]]]: I know that at Imperial it will be the senior management committee, which involves the principals of faculties, the rector and provost. The departments themselves have that responsibility and that should feed up. In my experience, interestingly, within Imperial College, which is my personal experience, the departments have been quite readily flexible. The interesting thing has been persuading the women to ask for the flexibility, which, of course, is partly a perception of what the culture will be like. Imperial College, for example, introduced fellowships a long time ago. They called them “fellowships” to make clear it was academic. The consequence is that a woman, if she is going to take maternity leave, applies for one of these fellowships, and her department is recompensed for all the time that she would spend on administration and teaching when she comes back from maternity leave. So she gets a year only to concentrate on research, which is hugely important in a research-intensive university. That is college-wide. The important thing is to make sure that it is well known, because, with a science and engineering college like ours, an individual department might only have one woman in five years who is going to have a family. But it has been taken up, and the women have all said it transformed their lives because it allowed them to make sure that their research carried on. 
+
+[[[Sarah Dickinson]]]: You make a very valid point about the awareness. That is something that comes through with the Athena SWAN submissions. Quite often the senior management and the head of department know that these policies are in place, that there is flexible working, core hours and things like that, but when they survey the staff there is a large proportion who are not aware of these policies. Schemes like Athena SWAN are helping them to disseminate this information and highlight the fact that these policies do exist. It is just a case of making sure that everyone knows about them. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: We also have to be aware that Imperial is at one end of the spectrum on this and that there are a number of universities and/or departments where these policies are not in place or are not supported as strongly. There is a huge diversity across the sector in this respect. So you can go from some universities where there is simply a statutory provision to others where there is a full programme of support during maternity or paternity leave, and then support when you re-engage in terms of allowing focus on research for a year and support to cover your teaching. You have the whole spectrum out there. There is no standardisation across the sector in this respect. Women or men who may be working at Imperial now will have had experience of short-term contracts in other universities where, possibly, their experience was not so pleasant and, therefore, they have come with those perceptions. 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]:  The perception is that to do science well you need to work long hours, and if you are working part time you are not ambitious. That is a huge problem if you then grow up in that culture, thinking, “If I ask for flexible working or to work part time, I am going to appear as not being ambitious.”  That is the big difficulty here because, as a woman, you do not want to be seen as being less ambitious. You are still equally ambitious about your career. Even though these things are in place—most universities have policies in place for part-time working—they just do not work as long as we stereotype people who want to work part time.
+
+[[[Professor Higgins]]]: Picking up on that, having some examples, pointing at one of our female heads of a big department who has worked flexibly, part time, for five years, and is now a fellow of the Royal Society, is better than all the messages you can send out, to say, “Look, it was possible. She did work part time. She has succeeded.” We need more and more examples of that. 
+
+[[[Sarah Dickinson]]]: I think it is important as well, though, that it is championed at all levels. That is why the top-down approach in some ways is good because it is quite often men at the top. It is great that, of the four gold departments we have, three of the applications were led by men because the flexible working was important to them too. It should not just be seen as a women’s issue. It is about good practice and that benefits everyone. Having men championing it is really good. 
+
+[[[Professor Higgins]]]: Can I just quote something by one of my colleagues? When we first started setting up a diversity committee at Imperial 15 years ago, one of my senior colleagues said that he very strongly supported this because anything that was good for women was going to be good for everybody in the college. It is important to say that, although we are talking about supporting women generally, what you actually do is get a supportive culture that improves the whole department. 
+
+[[[Sarah Dickinson]]]: Yes. Good practice equals good science. &#xa0;
+
+[[[Q11 ]]]&#xa0; 
+
+[[[Roger Williams:]]] I was going to ask that. Where you have examples of good practice, I would hope it is gender neutral so that men are able to take advantage of that as well as women. 
+
+[[[Professor Higgins]]]: Absolutely. &#xa0;
+
+[[[Q12 ]]]&#xa0; 
+
+[[[Roger Williams:]]] You talk about changing the culture and perception by having good role models, but sometimes that trickle-down effect does not take place as quickly as you would like. Are there any examples of how it can be speeded up— accelerated—so that people who are in post at the moment have the benefit from it rather than it gradually permeating the whole set-up? 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: You need to make more part-time fellowships available. It needs to be obvious that it is okay to take that direction whenever in your career you feel it is necessary. I have met lots of women who felt that they had to make a choice between a career in science or having children. That is a really tough choice. I don’t think we need to put people in that situation. It should be everyone’s right to have those children without having a detrimental effect on their career. I have examples of people who have waited too long because they have been told, “It’s best to wait for this break until you are a senior lecturer ideally,” but by that time you may be in your late 30s, the biological clock has stopped ticking, and gone are your chances to have a family. That is a very bad situation to put people in. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: You have to bear in mind that the average age for a permanent academic appointment in the UK for men or women is 34. That has very different implications for a woman than it does for a man. &#xa0;
+
+[[[Q13 ]]]&#xa0; 
+
+[[[Chair:]]] There are some encouraging messages there but there are some underlying quite serious worries. I do not recall there being a woman leading Imperial. Only one of the current Russell Group vice-chancellors is a woman, am I right? I think it is one.
+
+[[[Professor Higgins]]]: I can never remember exactly which one it is.
+
+[[[Chair:]]] It is Manchester. We always lead in the north-west of England, which leads me on to Graham.
+
+[[[Professor Higgins]]]: That is true in getting women to the very top. Imperial has had several faculty principals, may I say, but not a rector yet. &#xa0;
+
+[[[Q14 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] We are told that when women complete their PhDs there is a lot of pressure on them to move institutions, and often to move internationally at the next stage. What is the proportion of women to whom that happens, and what are the pressures? Why are those pressure there to move institutions and even internationally?
+
+[[[Professor Higgins]]]: One of them is opportunity. Are you talking about at the end of the PhD, when you are moving out into the first postdoc?
+
+[[[Graham Stringer:]]] Yes.    
+
+[[[Professor Higgins]]]: The main one is opportunity. Where is there an opportunity? It used to be traditional that people finishing PhDs would tend to look to work overseas for a postdoc and then come back. I don’t think that is nearly so common as it used to be.
+
+[[[Dr ]]]
+
+[[[McCombie]]]: It is not as prevalent, but it is still the case with the reduction in funding for postdoctoral research that there are increasing pressures now to look abroad for those posts. That is because of research council funding being less available and so postdoc positions are less available. Many years ago—25 years ago—it was almost de facto that you had to go abroad to do a postdoctoral period abroad before you would be considered for a permanent academic position in the UK. I don’t think that is the position now. 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: I think it is changing now. We are seeing, when we are working with the research councils and other funding bodies, that they are increasingly willing now to support people where they are. They have realised that the request to move is maybe not necessary; you might be in the right place where you did your PhD to continue your research because you now specialise. We have seen an increasing interest in supporting people where they are geographically placed. So there is a shift. &#xa0;
+
+[[[Q15 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] Do you have figures on the absolute proportions and how they have changed over the last decade or so?
+
+[[[Professor Higgins]]]: I don’t think anybody would. It would be very difficult to get those figures because it is not obvious where—&#xa0;
+
+[[[Q16 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] They would be interesting figures to look at. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: The universities do not, across the board, collect these statistics on destinations of postdocs. Individual schools or departments do in some cases, but they do not collect them across the board, and exit interviews are not greatly taken up. 
+
+[[[Professor Higgins]]]: The Royal Society will know about its university research fellows. It gives about 40 or 50 a year. It knows where they have come from and where they are taking them. I am not sure that we could give you the number now, but it is available. We know where they came from and where they go to. The research councils also know where people are taking them up; so it would be possible, but I don’t think that anybody has got all the data in one place. &#xa0;
+
+[[[Q17 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] A lot of the immediate postdoctoral positions are short-term contracts. Do you believe that disproportionately affects women?
+
+[[[Professor Higgins]]]: Yes, it does. &#xa0;
+
+[[[Q18 ]]]&#xa0; 
+
+[[[Graham Stringer:]]] Can you expand on that? 
+
+[[[Professor Higgins]]]: There are two ways. One is simply the point that, if you think of finishing a PhD and start to think about a family, it is exactly when women are thinking about starting a family and taking a short-term contract here and then there. There is a second question, which is a dual career question. What is your husband or partner doing and where are they going to be? Trying to match two part-time careers or mobile careers like that is very difficult. Historically, it has usually been the woman’s career that has given way to the man’s career. The woman has followed the man. I have read so many Daphne Jackson applications, and you look and see what happened was that they finished their PhD. Maybe they did a postdoc; their husband was moving to the north of England and they followed their husband. That is when the family started and their career finished. It should not automatically be the woman who gives in, but it nearly always is. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: It ties in a little bit with the previous question because the long-hours culture means that there are an increasing number of dual careers within academia, so you are looking not for just one short-term contract somewhere but for two short-term contracts in an equivalent area of research. That plays in as well. When you are on a short-term contract, if you have experience of some unconscious bias in your appraisals or evaluations for promotions, women are more likely to be in a junior position, perhaps on a short-term contract where their partner is in a permanent position at the point where they are considering taking maternity/paternity leave. The idea that one half of the family is going to give up their better paid job for six months to take up an equivalent amount of the maternity/paternity leave plays in as well. That is a problem. We come back to academic appointments at the age of 34, which are permanent appointments. That is when you are eligible for all of the allowances for maternity leave, for support when you come back, but at that point you will have done eight years on short-term contracts. 
+
+[[[Professor Higgins]]]: There are significant differences in the different sciences. With the physical sciences, the general rule would be to do one or two short-term contracts and then move into industry, Government or something, or to move into the first academic post. The biological sciences, funded particularly through Wellcome, have a large number of contracts of a five-year sort of length. I know numbers of women in the biological sciences who simply had sequences of five-year contracts, one after the other. That is very difficult to manage, but it is a significant difference with the physical sciences. One has to bear in mind that these are not the same. 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: It is clear from our statistics that the majority of fellows we help are women in the medical and biological sciences, and the least in maths and physics. There seem to be differences between the different fields of research, definitely. 
+
+[[[Sarah Dickinson]]]: If people are on a short-term contract, after a certain number of years—it depends on the university as to whether it is two, three or four years—the universities will move them from a short-term contract on to an open-ended or permanent contract, which means that their contract still ends when the funding expires but they are allowed to tap into the university’s redeployment register, redundancy payments, other policies and things like that. &#xa0;
+
+[[[Q19 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] We have sort of touched on some of the things that I wanted to talk about. It does seem to me, in answering this question, that you are going to have to answer it by the different disciplines. Sticking with this issue of maternity/paternity and how people can balance wanting a career with a family, are you saying that in some universities, even on the short-term contracts now, there is access to maternity and paternity benefits?
+
+[[[Sarah Dickinson]]]: Yes. &#xa0;
+
+[[[Q20 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] And that has been evolving over time. Would you say that that is, generally speaking, widespread now? As you quite rightly say, when people are in their late 20s or 30s, this is when, for biological reasons, people will want to start a family. Just as a rough rule of thumb, how many women who are on these short-term contracts, or men as well because of access to paternity, would have opportunity to these sorts of benefits?  
+
+[[[Sarah Dickinson]]]: It is incredibly variable. It really does vary from institution to institution and department to department. It also depends on the funding as well. We have examples of institutions that will split maternity and paternity, which are willing to do that now. So six months’ maternity will cut across the six months’ paternity if they are a dual-career couple. We have institutions that do extended maternity on full pay. Maternity leave varies considerably from institution to institution. Oxford and Cambridge, I know, have some very good maternity provisions; others just do statutory. It is completely variable. We see the different examples with every different application that we receive. 
+
+[[[Professor Higgins]]]: One of the things we are hoping for by spreading out the information and the good practice is that universities will realise that they recruit better people and they are more easy to recruit if they have a reputation for this good support. York university definitely told us that this gold medal—the gold SWAN award—that they got encouraged really good women to apply there because they knew it was a good place to work. So spreading the word of what it is like to be there, we hope, is going to become a good business practice. You can recruit good people if you have a good reputation but it is going to take time to spread the word.  
+
+[[[Sarah Dickinson]]]: And ultimately bring in more money. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: Yes. Achieving more shortlists with the highest intellectual capacity within them is going to be helped if you have this reputation. &#xa0;
+
+[[[Q21 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] I am sure that is right. Both men and women will seek out the universities that offer the best possible opportunities for them, not just for their academic work but to balance work. Given that we are in the 21st century and women have been in universities in large numbers for a long period of time, this is quite slow.
+
+[[[Dr ]]]
+
+[[[McCombie]]]: It is glacial.&#xa0;
+
+[[[Q22 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] It is true across all walks of life, politics in particular, for equal representation of women, so you are not facing this challenge alone. We have talked about best practice. Are there other mechanisms? A colleague touched on this before, saying that so much of research is funded by third parties. Are there some mechanisms that could be put in place to encourage the best practice so that research is only awarded to institutions where they have good maternity/paternity policies, where they have the best practice that you are showing has a positive benefit to science altogether as well as the individual? Should we be encouraging the funding bodies to say that they are only going to fund the institutions that have these policies and properly police them?
+
+[[[Professor Higgins]]]: I think that is happening. As I understand it—I am on the edge of this, and I do not know whether my colleagues know exactly—there was a statement from the five funding councils to the effect that they will be looking to universities to have good practice in place. They stopped short of saying what the evidence would be, that it had to be a SWAN award, a Juno award or whatever. 
+
+[[[Sarah Dickinson]]]: They did indicate. That is because SWAN is currently only for STEM subject areas, and Juno is only for physics. So you cannot demand SWAN across the board because for those that are non-STEM research it would not be applicable.
+
+[[[Dr ]]]
+
+[[[McCombie]]]: They have taken a step back from saying, “You have to have this before we will consider it for funding,” but they are saying, “We are going to look at this, and we will be questioning your institutions if you do not show that you have good practice in place.” It is a hard step to make, because research, not particularly in this area but across the board, has shown that you have to get up to about 20% representation before you have a fair evaluation of a sub-group within a work sector, whatever the diversity strand is. We are clearly well below that 20% in some areas of STEM and at some levels in STEM. How do we make that quantum leap or that jump up to that 20%, where unconscious bias is going to weigh in less where these accurate evaluations of women’s output are going to happen? It is important that there is a strong steer from the research councils. Whether they choose to make it compulsory or not, and whether Athena could ever cope with the flood of applications if they did, is an issue. The strongest possible steer has to be given that it is no longer acceptable for these policies not to be in place, not to be implemented and not to be evaluated regularly—not to be continually looked at to see if they are effective or not. As you say, the advancement has been glacial. We have had 30 years of initiatives and we are still in a position where we have a pipeline in chemistry from 48% to 6%, and where we only have roughly 22% of undergraduate physics students being women. We are not talking about a big success here, despite the fact that considerable steps have been made. It would be nice to think that there was a strong enough steer from you and from the research councils, which said, “This is no longer acceptable. If you don’t sort out your own house, something will be done.” &#xa0;
+
+[[[Q23 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] You are absolutely right. This is a chicken-and-egg situation. We know from research across all industries, all walks of life, that, unless you get a critical mass of 20% to 30% of women in senior positions, you will not get the change because of the lack of role models to give encouragement to younger women. That is well evidenced across all walks of life. It does seem to me that there is a clear role for people doling out the cash for the research to say that there have to be minimum standards for paternity and maternity leave and issues about the contracts to be looked at. It seems that there is good practice around extending them from two or three years to five years. Of course, Government have a role to play in this because Government are an awarder of large amounts of research funding. That is a level playing field for both men and women who want to pursue an academic career while having a family. I cannot see that any Government would have an issue in supporting those sorts of measures, whether they need to be a gold standard of SWAN or just a basic implementation of what would be expected in other industries and other walks of life around contracts and flexible working. 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: There are problems in bringing the fullest maternity pay and flexibility into the system if you do not know how people are being measured. The metrics are now completely changing in university careers, so you are measured on papers that you have published and how much grant income you have. If you have a career break, there needs to be a system in place to take that into account. I know that the REF is now starting to look into that, but all across the universities it is the perceptions. It is coming back to this perception about part-time working and not being ambitious enough. It is also the way that we are measuring good and excellent research. Just because you have produced 50 papers, it does not necessarily mean that you have done excellently. 
+
+[[[Sarah Dickinson]]]: There needs to be an emphasis on quality and not necessarily quantity. 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: That is a huge problem. Even if you put a lot of maternity pay into the system, there are other factors that will drive it. 
+
+[[[Professor Higgins]]]: I think people are getting better at measuring quality. I mean, they know how to do it; they don’t always do it. Can I just remark that, as somebody who sits in one of the biggest engineering faculties in the country, we have a different problem? At least three of our huge engineering departments have only something of the order of 10% girls doing engineering degrees. You cannot expect to have large numbers of women in the academic world. There is a very specific problem, which, separately, a number of people have been trying to address for a very long time to get more girls into engineering. Part of the problem is backing the teaching and the lack of physics teachers. It is all a vicious circle. Within engineering it is going to take an enormously long time before we really have anything like a critical mass of staff in the research in those departments. 
+
+[[[Sarah Dickinson]]]: In specific areas like chemistry, which we keep coming back to, it is a retention issue, whereas in engineering and physics it is a recruitment issue. We need to ensure that we are putting the right initiatives and steps in place at the right stage. 
+
+[[[Sarah Newton:]]] I absolutely and completely agree with you.&#xa0;
+
+[[[Q24 ]]]&#xa0; 
+
+[[[Pamela Nash:]]] Earlier on in your response and again just now, you mentioned about the pressure not to take on part-time work because that would make you seem to be less ambitious. Is that the same for taking maternity leave, in your experience? 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: I don’t think it is necessarily related to whether you take maternity leave, but because the two are so interlinked, usually, when you have children, you want to work part time. It is very difficult to separate the two, so I cannot really say whether this view is only for people who—&#xa0;
+
+[[[Q25 ]]]&#xa0; 
+
+[[[Pamela Nash:]]] What about paternity leave for the men with whom you have worked? Do they take their paternity leave?
+
+[[[Sarah Dickinson]]]: It is variable. We ask about this in the Athena SWAN applications. It is something that we are really pushing in the community. You will have some applications that come in and no men have taken any paternity leave for the last six years—of course we question why that is—whereas you will have others who have a really high uptake. Again, it is quite often because they have extended periods in place. I guess also it is indicative of the culture. If there is a culture that will support paternity leave and men taking time off officially to spend time with their children, that is a good thing. &#xa0;
+
+[[[Q26 ]]]&#xa0; 
+
+[[[Pamela Nash:]]] The point I am getting at is that, if women are falling behind because they are taking maternity leave and taking that time out, shouldn’t men have to take that time out as well?
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: In the Scandinavian countries they have made it compulsory for men to take paternity leave. If they don’t take it, the family loses those weeks of leave. So the uptake is high. 
+
+[[[Professor Higgins]]]: There are other ways of coping with this. You say, “Why is a woman falling behind?” It is usually because you are trying to do the teaching and administration, which is a heavy load, as well as the research. You don’t fall behind in teaching and administration but you fall behind in research. Trying to do all of that part time is very difficult. So if the university takes it seriously and says, “What we must support is your research piece because that is the piece that carries you forward,” and some of the departments precisely do that, you can actually compensate but you have to do it consciously. You have to realise what the problems are. 
+
+[[[Sarah Dickinson]]]: Yes. They give people returning from maternity leave focused research time so that they have limited or no teaching and administration to do so that they can focus on research and catch up with that.&#xa0;
+
+[[[Q27 ]]]&#xa0; 
+
+[[[David Morris:]]] Many diversity initiatives require women to sit on recruitment committees and act as mentors and role models. Do you think this puts too much strain on women in academia?  
+
+[[[Dr ]]]
+
+[[[McCombie]]]: It does give an extra load, but there is no doubt that the majority of women involved see this as something they should do in order to try and redress any problems and to make sure that committees and so on are less influenced by unconscious bias and inaccurate evaluations. What I find difficult is where you are asked both to do that and perform more one-to-one nurturing roles in a department, so you actually cover both ends of the spectrum. We are where we are. I regret that in some universities I have visited that it is no longer a requirement that there is a member of HR on all the appointment panels, who used to be able, at least, to flag up if there was going to be a problem. I know that pressures have meant that in some institutions that requirement has been withdrawn, which balanced it a little bit. You cannot physically have a woman on every single committee and every single appointments panel in the university because there simply are not enough, certainly in the STEM areas. 
+
+[[[Sarah Dickinson]]]: People are coming up with some interesting initiatives. If you do not have enough females in a department, they are taking females from other departments or bringing in female HR representatives to ensure that there is a gender balance. In terms of committees, it is things like deputising roles or shadowing roles, so there is a great opportunity for early career women to get the opportunity to sit on a committee and shadow so that it adjusts the gender issues. Also, it is great that female students can request a female tutor if they wish, but you don’t necessarily have to enforce that. It could be something that is a choice rather than an enforcement to try and spread the loads. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: Or there is one female/male tutor in each school who one can ask to see if you have an issue with your own personal tutor. That is what we do in my own school. 
+
+[[[David Morris:]]] Thank you very much. You seem to have covered the rest of my questions.&#xa0;
+
+[[[Chair: ]]]Stephen, a substantial part of what you were going to ask has been covered.&#xa0;
+
+[[[Q28 ]]]&#xa0; 
+
+[[[Stephen Metcalfe:]]] This is a two-part question and I will keep it as short as I can. We have painted a picture of short-term contracts, no job security, a requirement to move around, a sink-and-swim culture and no formal career structure. It is a bleakish landscape. Do you think that that landscape discriminates more against women than men?
+
+[[[Professor Higgins]]]: Yes—only that, if you have a dual-career family, somebody tends to give in, and, historically and anecdotally, it has tended to be the woman. It does not have to be. It probably discriminates against people who want to get married and have a family. In our society, it is often the woman’s career that has suffered. It is perhaps not against women but it is against the difficulties involved. With regard to the point about no career structure, it is at the first point up until somebody is at university. There is then a perfectly good progression, assuming one can go up it and permanent jobs and all the other things. It is at the early stage of moving around where there is no structure. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: The sort of situation you are describing is very high pressure and everybody is time poor. That is one of the problems in the system. We are all time poor at the moment, so, when it comes to evaluations, all of us—men and women—have unconscious biases that kick in so we do not evaluate the output of men and women equally. We need to step back from this time-poor culture. Where evaluations are in place, we need to take the time over them. They need to be done well, because it is shown that unconscious bias is negated to a large extent if we can take time over that. 
+
+[[[Sarah Dickinson]]]: In relation to some of the structures that are in place, men seem to flourish better. The whole thing about putting yourself forward for promotion, as we are seeing, is changing now, and institutions and departments are starting to go out and encourage staff, but it is largely in the structure that in order to get promoted you have to put yourself forward. For whatever reason, women do not seem to be as keen to do that as men. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: When they do put themselves forward, they are more successful, because they are 110% certain that they fulfil the criteria; they are not 70% certain. &#xa0;
+
+[[[Q29 ]]]&#xa0; 
+
+[[[Stephen Metcalfe:]]] I suppose what I am trying to get at is this kind of macho culture that has grown up, because, fundamentally, humans are different, and men and women have different views on things. Do you think that that culture just does not appeal in the same way—that men just take it in their stride and women find it more difficult? I do not want to generalise too much, but is there evidence about that? 
+
+[[[Sarah Dickinson]]]: Again, I think that would be subject-specific. There is certainly evidence for that in chemistry. I know that when I was doing chemistry PhD work there was evidence for that. Again, it will vary from subject area to subject area. In physics, the physics postdoc experience shows a gender difference, but they found that that culture is not so prevalent in physics as it is in chemistry.  &#xa0;
+
+[[[Q30 ]]]&#xa0; 
+
+[[[Stephen Metcalfe:]]] You have talked about there having been initiatives for 30 years to try and address some of these issues and it is continually at the top of everyone’s agenda, but we are not making the difference that we need to. Therefore, is it time for a sea change, and, if it is time for a sea change, what can we do to change that culture so that it is more female-friendly? 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: One of the problems is that women feel that they have to do a vertical career progression. At this point in time, where you also want to start a family, it might be better if you could move horizontally for a while, because you might not be quite ready to take on commitments such as sitting on several committees for the university and what else comes with moving upwards. There is a lack of support for horizontal career development. I am wondering if, looking at the system and how it works, whether allowing two different directions of career progression could put a different system in place for women to adapt better or feel more comfortable. 
+
+[[[Professor Higgins]]]: Can I say that things have changed? When I became a professor I doubled the number of female professors in Imperial College. There was one physics professor, Daphne Jackson, at one point, and there is now 10%, so things are changing. Probably—in fact certainly—they are changing too slowly. What I don’t think we have seen yet is the full implication of the SWAN awards coming through because I really do think they have made a sea change in what people see. They have only existed—
+
+[[[Sarah Dickinson]]]: Since 2005. 
+
+[[[Professor Higgins]]]: So it is less than 10 years. I am not saying that will solve everything, but we are probably seeing a rising tide—or whatever the term is. 
+
+[[[Sarah Dickinson]]]: And culture takes a long time to change. Hopefully, some of the initiatives that we are looking to embed will slowly result in a culture change. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: Maybe we say that we catch that rising tide and that it is no longer acceptable not to have broad shortlists. 
+
+[[[Professor Higgins]]]: I think that your Committee can hold people to account. For example, if a research council said, “We will expect,” you should be saying, “And did you get?”&#xa0;
+
+[[[Chair:]]] You have almost tempted me to invite a call, anonymously, for the really worst practice and we publish that list. That might scare a few people. &#xa0;
+
+[[[Q31 ]]]&#xa0; 
+
+[[[Stephen Mosley:]]] I want to ask a question about tracking—what happens when people leave academia—but I think Professor Higgins answered it in question 1. I will go at slightly a different tangent here. The focus of the discussion so far has been very much on academia and what happens in an academic career. For me, the value of a science degree is not just seeking to go into academia. You can go into industry. I did a chemistry degree. At one point I was considering doing a PhD. I decided not to and went out into industry, and the chemistry degree I have was a foundation for my entire career. It has allowed me to do everything. Could I ask you about non-academic careers? What support is there to encourage people into and to support people in terms of non-academic careers? 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: There is more appreciation now of the fact that people have to be talked to and supported to going into non-academic fields, because there is a pyramid in academia, just as there is in any other sector. We don’t have good tracking information on where people go to when they leave science academia and whether they go into the industrial science sector, whether they move into teaching or into a non-science area in its broadest sense. We just do not track that data. We do not buy into one of the European tracking mechanisms for this. In the UK, apart from the Labour Force Survey, we do not have an idea about it. We do know, though, from studies that have been done on individual parts of the industrial sector that we have seen the same leaky pipe. There are not the same numbers of CEOs of firms who are women as there are men. So the leaky pipeline is there wherever we look. Because we specifically run programmes that address this leaky pipeline in academia, that is where we are coming from, but we know that the industrial sector does not answer the problem for us. It is not as though every woman who leaves science and academia goes to a successful position in the industrial sector. 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: We have fellows who have been working in industry and had a career break. I remember a case study of a lady who took a 12-year career break and then found it difficult to get back into industrial chemistry. She then heard about the Daphne Jackson fellowship, applied and we got her back into a place with a fellowship scheme. It is not just in academia that there is a need for this support.  
+
+[[[Professor Higgins]]]: Industry is hugely different. If you talk to different companies, some of them have extremely good internal structures and schemes and some of them do not. It varies right across the sector. There isn’t anybody who has an overview of what is going on. We have something of an overview of what is going on in universities now, but there is nobody with an overview of how the different sectors of industry work.&#xa0;
+
+[[[Q32 ]]]&#xa0; 
+
+[[[Chair:]]] It ought to be possible through learned societies to get some tracking data.
+
+[[[Sarah Dickinson]]]: They have some data, obviously, through their membership, so they have an idea of where people are. The learned societies themselves are quite interesting because, until you get to the top, they are very female-oriented and they do give a good example of where a lot of the women leaving science have gone to. They quite often go into science policy. But, yes, the learned societies might be able to map some sort of data from their membership. 
+
+[[[Dr ]]]
+
+[[[McCombie]]]: But that is a relatively small sector. 
+
+[[[Professor Higgins]]]: The number of people employed who are members of their relevant societies is really very small. 
+
+[[[Dr ]]]
+
+[[[Ostergaard]]]: They are not necessarily all members. 
+
+[[[Professor Higgins]]]: To come back to your starting point, somebody moving out from a science degree finishing up sitting where you are is exactly what one would wish. So they are not lost. &#xa0;
+
+[[[Q33 ]]]&#xa0; 
+
+[[[Stephen Mosley:]]] I advise sixth-formers and other young people to do a science degree because it is a foundation for doing anything. If you want to go into law, you can do it. If you want to go into science, you can do it. There are no barriers whatsoever. It is a fantastic foundation. 
+
+[[[Sarah Dickinson]]]: There was a big thing in the City about finance companies wanting physics graduates and physics PhD students and they were going into the universities. &#xa0;
+
+[[[Q34 ]]]&#xa0; 
+
+[[[Stephen Mosley:]]] I did not want to give the impression from the Committee that we were solely focused on academia. 
+
+[[[Professor Higgins]]]: I am sorry that we have tracked into academia, but what I meant to say and what I wanted to emphasise was that the scientific work force is much broader than that. One thing to remark on is that there is an exploration going on to extend the Athena SWAN into the big research institutes, which is adjacent to academia, where the criteria would work. I have taught with some people in industry, who have asked whether it is not possible to devise somehow, not necessarily from this particular group, an equivalent award—more than Investors in People, but something that really looked at diversity—for industry that they would competitively want. It might be a question that you could ask the CBI or something. 
+
+[[[Stephen Mosley: ]]]That is an interesting thought.
+
+[[[Sarah Dickinson]]]: If you go back to the research institutes, they have no funding stipulation to join Athena SWAN and they, basically, wrote saying that they wanted to; so we are piloting that with them currently.  &#xa0;
+
+[[[Chair:]]] David, you had a quick question about Imperial. &#xa0;
+
+[[[Q35 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] Professor Dame Julia, it is about gender balance among students at Imperial College. My understanding is that Imperial has a very high number of overseas students. Is any attempt made to adjust the number of women students coming from overseas to influence the gender balance, and is that possible? 
+
+[[[Professor Higgins]]]: No, I do not think there is, but it does, if you see what I mean. I do not think it is conscious but I think it does. One of the things you will see, if you look at the pipeline data for engineering, is that the numbers go up at the level of PhD and postdoc because we are recruiting a large number of female engineers from overseas to do research, and many of them stay in our country. That is accidental—it is not overt—but there are more female engineers and, to some extent, physicists in overseas countries than there are here. We do recruit them, but there is no overt attempt to adjust the numbers of females at the lower level. I think that would be very difficult to do. If it were known among the females, they wouldn’t like it. No female that I know wants positive discrimination. We want positive action but not positive discrimination. &#xa0;
+
+[[[Chair:]]] Thank you very much for a very informative session. 
+
+[[[Examination of Witnesses]]]Witnesses: 
+
+[[[Professor ]]]
+
+[[[Uta]]]
+
+[[[ Frith]]], Emeritus Professor of Cognitive Development at University College London, representing the Russell Group, 
+
+[[[Professor Jane Powell]]], Deputy Warden, Goldsmiths, University of London, representing the 1994 Group, and 
+
+[[[Clem Herman]]], Senior Lecturer in Computing and Communications, Open University, gave evidence. &#xa0;
+
+[[[Q36 ]]]&#xa0; 
+
+[[[Chair:]]] I think all three of you sat in on the first session, but, for the record, I ask you to introduce yourselves. 
+
+[[[Clem Herman]]]: My name is Clem Herman. I work at the Open university, where I am a senior lecturer in computing and communications. My research work is around gender and STEM. I have done a number of practical initiatives as well as research projects in this area, so I am here to contribute from that experience. I am also the chair of our Athena SWAN committee. We have heard quite a lot about the Athena SWAN process, so I have some insight into that particular area as well. 
+
+[[[Professor Powell]]]: I am Jane Powell. I am deputy warden at Goldsmiths. It is part of the University of London and one of the 11 member universities in the 1994 Group of research-intensive institutions. By background I am a clinical psychologist, so I have come through the academic promotions ladder and have now stepped into leadership within my institution. For the last five years I have been overseeing our Research Excellence Framework process, which has put a spotlight on gender issues in a very helpful way, both institutionally and across the sector. I can talk from a variety of perspectives. 
+
+[[[Professor Frith]]]: I am Uta Frith. I am an emeritus professor of cognitive development at UCL. I am here as a representative of the Russell Group of universities. These are universities that think of themselves as particularly internationally recognised universities, putting great emphasis on the STEM subjects and striving for excellence in many ways. &#xa0;
+
+[[[Q37 ]]]&#xa0; 
+
+[[[Chair:]]] Thank you for coming. We have heard a lot this morning about universities. What role do you think universities ought to have in improving diversity within scientific workplaces? 
+
+[[[Professor Powell]]]: From the point of view of a university that is part of a broad sector but also at the research-intensive end of the spectrum, we see over half of undergraduates coming into universities generally being women. The representation of women in different disciplines, both within and outside STEM subjects, is obviously very variable. Given that, and given our generally progressive attitudes and opportunities for flexible working within universities, we have a key role in doing all we can to ensure that we see that progression within our own institutions and that we are outward-facing in order to connect with other organisations, whether academically related or more industry-facing or public sector, in order to ensure that we facilitate that pipeline from the universities outwards—and, conversely, drawing on the expertise of those organisations to help us work with and facilitate the progression of our own students and staff. 
+
+[[[Professor Frith]]]: Perhaps I can add to this. What we have seen from the first session is that universities take their leadership role in relation to STEM subjects quite seriously. They have managed, probably through Athena SWAN projects as a sort of flagship idea, really to make a difference toward greater diversity and excellence, while emphasising that this will lead to even better quality—and better quality of life, not just quality of research teaching and all those other things. Yes; we take this important role seriously, and things are happening. &#xa0;
+
+[[[Q38 ]]]&#xa0; 
+
+[[[Chair:]]] We hear that there is a spectrum of relative success, with some bad practice. Ms Herman, in terms of your research have you been able to identify why in some places progress is so slow? 
+
+[[[Clem Herman]]]: A lot of it is to with the fact that universities are organisations and institutions, in the same way as are other institutions. To make change in an institution takes a lot of time, and people who work in industry and so on will know that. Organisational change is a very difficult and complex thing to achieve. As was said earlier, we have had initiatives running for the last 30 years or so trying to tackle this issue, but a lot of them have been piecemeal, small things. They were effective in their particular domain, but, without taking a holistic picture and taking a look at the whole organisation, these kinds of changes are temporary or can be undone. You ask about progress. Yes, there has been progress, but if we keep things as they are—if we keep systems as they are—progress will be incredibly slow. It will be the same statistics that you have heard already; perhaps it will take 50 or 80 years before we get gender equality if we just keep doing the same thing, hoping that the pipeline will produce more women. The approaches that we have heard about—the Athena SWANs—are laudable because they are looking at the institution as a whole; they are looking at the various aspects of the problem at the same time, and trying to make institutional change. I am optimistic that progress will be more rapid if we take that kind of approach rather than hoping that things will get better just by a sort of drip feed. &#xa0;
+
+[[[Q39 ]]]&#xa0; 
+
+[[[Chair:]]] What does good practice look like, in terms of your research? 
+
+[[[Clem Herman]]]: Again, a lot of the things that we heard about earlier—to do with policies on maternity leave, return from maternity and so on—are essential building blocks that we need to put in place so that individuals are not hampered in their careers. A host of different things need to be worked together in order to change the culture so that an individual can reach her potential in her career. In terms of progress and the measurement of it, it is difficult. A lot of it is based on things like the numbers of women who are professors. That, obviously, is the same as the boardroom argument; they are important as figureheads, but only a small group of individuals are ever going to reach that very high level. We want a culture where people are able to achieve their potential, but we should not focus entirely on the headline figures and numbers. 
+
+[[[Professor Frith]]]: I second that very much. It is most important that we also recognise the kinds of efforts being made that are not quantifiable. These are things like celebrating mentors, for example, which is done at some universities. There is now a way to make role models much more visible to younger people. It is a way also of having more incentive to do really well, to mix in this very competitive world for younger women. At the moment, these are small beginnings, but these grassroots are happening at many universities and seem to give good signals. So I would expect that they will spread. 
+
+[[[Professor Powell]]]: These initiatives are all positive. They are catalysed, helpfully, by national level activities that put them in the spotlight. I mentioned at the beginning that I have been overseeing our submission to the Research Excellence Framework. This has been pivotal in ensuring a variety of schemes and achievements. Recognition of some of the difficulties that women have in achieving productivity in quite the same form as their male counterparts has become an institutional priority—one that cannot be overlooked. It requires us to look at our data to see whether the adjustments that are being made nationally are translating through into the success rates of women at all levels. We need to have that combination of bottom-up initiatives. We need a celebration of the figureheads and models, but also something that coheres all of that into a picture that is very visible and is reported back but which also involves many people contributing to articulating it. 
+
+[[[Clem Herman]]]: Again, in terms of those kinds of initiative, it is taking all of the organisation—not only the academics. It is taking a wide 360° look at the organisation, which is what can make a difference. &#xa0;
+
+[[[Q40 ]]]&#xa0; 
+
+[[[Chair:]]] Some success has been achieved in the UK by setting challenging targets or goals. I think of the run-up to the Olympics and the success that came with it. Do your own institutions set themselves challenging targets in this respect? 
+
+[[[Professor Frith]]]: I shall answer on behalf of the Russell Group. There should be a great amount of caution about setting targets. We have heard, for example, that setting targets in the health service only encourages people somehow to do very tricky things to fulfil them, and that has had many unintended side effects. The same could happen here. It is very difficult to know what a target should be. We heard the figure of 20% in the first session, for example, but it is much more important to show progression towards— movement up—without setting a target. Setting targets inhibits many things, and it probably provokes more difficulties than it can solve. It is a difficult issue. 
+
+[[[Professor Powell]]]: I agree with what Uta is saying, in the sense that an appropriate target is difficult to define, and it is going to vary by institution, discipline and the phase that a particular department has reached in its development. The approach that we take at Goldsmiths, which would probably be replicated at other institutions, is to look at the data that we have in relation to gender and other issues within particular areas, and then institutionally and within those areas to look at progression targets—not where we necessarily want to be in the end, but percentage increases that we hope to see and are working towards over a defined time period, with a view to reviewing them. &#xa0;
+
+[[[Q41 ]]]&#xa0; 
+
+[[[Chair:]]] It is a principle of the importance of measuring things, because measured things get recorded properly. 
+
+[[[Professor Powell]]]: Yes. It is difficult, and it throws up many ambiguities and anomalies, partly in collecting the right data and then in translating something quite complex to a single figure, but that is the general principle by which we operate. &#xa0;
+
+[[[Q42 ]]]&#xa0; 
+
+[[[Chair:]]] And the OU? 
+
+[[[Clem Herman]]]: Yes, the OU has targets for all sorts of things. We have action plans, a business plan and, again, like most organisations, there are things that we want to achieve. If you are talking about targets in that sense, yes, we do have those kinds of things. In our Athena SWAN action plan, the action plan itself has targets, which are designed to be something that is measurable in terms of output. In that sense, targets are positive, because that is how people work. We work to work plans, we work to set goals and so on, but we have to be wary about gender equality targets, for example, because we do not want to fall into changing things artificially in a way that is not conducive to the business of the organisation. We have to be careful around that. &#xa0;
+
+[[[Q43 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] In academia generally, is diversity more of an issue for STEM fields? 
+
+[[[Professor Powell]]]: It depends, again, which discipline you are looking at. For example, I am from psychology, which is sometimes considered to be a STEM subject but is sometimes excluded from that definition. HEFCE has a kind of ambiguous position on it. In psychology, something like 75% of our undergraduates are women; when you look at our staffing, over half of our staff are women but not three quarters. At one level, we see good diversity—we have a fairly even mix of men and women—but it does not represent what we see within the student body. Our other clear STEM department at Goldsmiths is computing, and there we have a very disproportionate bias. The great majority of our staff are men, but it is changing. We have recently made a number of women appointments. To a large extent, however, that reflects what we are seeing at the undergraduate level. In one institution, we see almost polar extremes of diversity being represented. &#xa0;
+
+[[[Q44 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] Is that possibly because of the natural inclination of the female sex to go more into the caring professions than into hard-wired computers and computing? 
+
+[[[Professor Powell]]]: I would not describe psychology as a caring profession. It is a scientific discipline, and the methodologies in psychology are in many ways what you would see in the harder sciences, being very quantitative and with interfaces. Neuroscience, for example, which is Uta’s discipline, is very much at the hard end of science. Its breadth is very wide, but it probably is the case that the subject matter—the focus on how humans work—perhaps has a disproportionate draw to women, whereas what is perceived as being at the core of computing may have a greater appeal particularly to men. However, Clem will be able to comment better on that than I can. 
+
+[[[Clem Herman]]]: Yes, because my teaching area is in computing and IT. At the OU, we have quite a high number of female students in comparison to the sector, and in staff even at a senior level, so we are not very typical of the sector in that sense. I want to pick up on David’s point about women being naturally more caring or whatever. 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] It was a question rather than a statement. 
+
+[[[Clem Herman]]]: You have hit on a very important point in this whole debate, which is about the wider perception of different subjects and disciplines and their gender allocation. The discussions that we have about what is happening in the university sector are not immune from the much wider social forces about what is gender appropriate for one sex to study or do as a job. We are influenced by these things, so, whatever we do, we also need to think about how that relates to wider media coverage, the way that subjects are perceived by young people in terms of career choice and so on. Computing, in particular, has this image problem. Whereas people who work in ICT and computing do a wide range of jobs, are often people-interfacing and so on, the perception that young people have about computing is geeky, nerdy, blokey, or whatever you want to call it. That is a crucial point in their decision making, as those kinds of stereotypes really come into play. &#xa0;
+
+[[[Q45 ]]]&#xa0; 
+
+[[[Chair:]]] This is just a few days after Ada Lovelace day, but there we are.
+
+[[[Clem Herman]]]: Yes, exactly; we do things to try and change them, but that is there. &#xa0;
+
+[[[Q46 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] I return to a question that I asked the previous panel. Why has the uptake of the Athena SWAN project been so poor, at only 50% in the UK? 
+
+[[[Professor Frith]]]: On the uptake of Athena SWAN, it is not like saying, “I will apply for this. Therefore, I will get an award.” It is actually very difficult to get an award. Furthermore, once you have the award you cannot hang on to it for ever; you have to move up or you lose it altogether. The fact that not everybody gets these awards shows what a rigorous, interesting and effective system it is. If everybody could just sign up to it, you would have 100% uptake after five years or so. We should be disturbed by that, saying, “What is this? It is just a completely meaningless symbolic gesture.” As it is, it is a very hard thing to do. I know that just making an application for the award for each of the departments, institutes and universities involved is a lot of hard work, and it is an additional burden for people in administration. They have to think about what is happening in their own administration, and that thinking about it is a very interesting lever for changing things, as it suddenly makes people aware. That is one of the interesting effects of the Athena SWAN project, which is so different from just setting targets and changing things in a top-down way. It makes people reflect while they are collecting the data what is going on, and it often leads to change in small ways—but we need change in many small ways. 
+
+[[[Professor Powell]]]: There is another angle to this. Within the 1994 Group, eight of the nine institutions with strong science and technology subjects are within the Athena SWAN system. Our institution is just about to take it up. We do not have much STEM, but Athena SWAN is now being rolled out to the arts and humanities. That is a very positive move, because there is not a stark divide between what we do with academics in different areas. You may or may not be aware of the concordat for the development of research careers, which is a national initiative signed up to by many universities, academic bodies, UUK and so on. It is all about encouraging institutions to take on a variety of actions, including things like Athena SWAN but not necessarily Athena SWAN, that look at how to support male and female researchers in making the transition from fixed-term contracts to permanent academic posts and to making their way into the wider world. That has now come under the focus of the Research Excellence Framework, so that all institutions are more or less required when putting in their submissions to say how they are implementing the concordat for the development of research careers. Sometimes that will involve pointing to an Athena SWAN initiative, and sometimes it will involve pointing to activities that are consonant with Athena SWAN but not formalised in that way. There is a lot of pulling together of those strands. I do not know whether the uptake of Athena SWAN itself is critical, but the REF has mobilised some of that increase in uptake that we heard about from the previous panel. 
+
+[[[Clem Herman]]]: You asked why it has not been taken up. It is about what are the drivers for organisations. There are so many different legislative changes going on in this sector—REF and other things—and organisations are torn in different ways by the different initiatives. The current increase in the number of applications and so on for Athena SWAN has been driven by this top-down research funding, although we do not know how much of a directive that is. There is that kind of top-down, bottom-up discussion about how much organisations want to change, and how much they are being made to change. That is quite interesting. 
+
+[[[Professor Frith]]]: I should give you the numbers again. I do not see a poor uptake at all; 19 out of the 24 Russell Group universities have some kind of Athena SWAN role, and we cannot conclude that the rest did not try or just forgot it. There is that burden. To do it, you have to have the manpower and the extra funding. It is substantial; it is a burden. Indeed, it is something that perhaps not all the institutions throughout the country can necessarily take on—unless they get some extra help. &#xa0;
+
+[[[Q47 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] Do you think that universities encourage diversity initiatives at a high level, or is there a tendency to push them out to devolved departments and research groups, in a sense abrogating responsibility? 
+
+[[[Professor Frith]]]: My impression is that it is at every level. That is really important because, when we look at the leaky pipeline, so many transition points seem critical, but these points are different in different subjects so it cannot be done in one global way. There is no one recipe that would benefit all the STEM subjects. It is different, and I believe that quite some thought is being devoted to where, and at what level, extra attention is needed, with some extra support, to prevent the leak being too big. &#xa0;
+
+[[[Q48 ]]]&#xa0; 
+
+[[[David Morris:]]] Why does academic research still operate through short-term contracts during the postdoctoral stage, and who is responsible for the continuation of this system? 
+
+[[[Professor Frith]]]: I shall try to answer. Short-term contracts are probably inevitable in a very competitive situation. The UK prides itself on producing absolutely top science, punching above its weight compared with other countries. To remain competitive like that is a tough job, and many people apply for research projects. To get innovation, you cannot just fund something for a long time; usually it is shorter than five years, and five years already counts as quite good. You also need to be able to stop a research project. It may have sounded amazingly promising. It is just like the stock market: how do you know what will work? You have to try it out, and the short-term contract is a way of stopping avenues that seem promising but were not so promising. I cannot see that this could be changed as a culture, with the competitiveness of science in the UK at the universities being maintained at the same time. &#xa0;
+
+[[[Q49 ]]]&#xa0; 
+
+[[[David Morris:]]] Do you think that postdoctoral research positions and fellowships should last longer than five years rather than two? 
+
+[[[Professor Frith]]]: Not necessarily. There are incredibly different requirements in different disciplines. It is very nice to hear about initiatives from individual universities to have long-term university contracts in place, for example, if things do not work out too well after a short-term contract. Bridging funds are possible before the next application comes through, which might be for another three years or possibly for five years. There are ways of managing this, which are individually tailored. 
+
+[[[Professor Powell]]]: There has to be a diversity of different forms of contract. Bear in mind that some of these two or three-year postdocs are working, for example, on the organisation of quite a complex project, and the person undertaking that role applies a wide range of skills that build on what they have studied at doctoral level. Those skills equip them not just for a more limited number of permanent academic jobs available, but, importantly, they also equip them with skills for outside the academic sector. There is nothing intrinsically wrong or disadvantageous about some of those jobs being fixed term, as long as universities and others are working with individual researchers on how they can utilise those skills for what they want to do next. It is equally important that we look with the research funding councils at schemes that take a longer view, tying in those periods of postdoctoral funding to successful careers within the academic sector, developing research, working collaboratively, taking on important teaching roles and bringing on the next generation of researchers. One of the success stories in that area has been the schemes run by a number of research councils, which are collaborative with universities and which say, “We will fund a research programme for five years for promising individuals to carry out research, often determined by themselves.” There will be a gradual transition, with a build-up of teaching time and the university connecting that initial fellowship with a permanent academic post over the longer term, so that it becomes a collaborative effort between the university and the funding council. We have had a number of those, and I am sure they have been in your institution as well, Uta, which are very competitive, but they can work well for both men and women in helping to build prospectively on the achievements of somebody, given some intensive time to develop their research. &#xa0;
+
+[[[Q50 ]]]&#xa0; 
+
+[[[Stephen Metcalfe:]]] First, I ask a question similar to the one that I asked the first panel. We have had evidence, both written and from previous panels, that there is a fairly bleak landscape. Certainly, as a young scientist trying to carve out a career, there is no formal career structure, there are long hours and short-term contracts, and quite a lot of moving around—a sink-or-swim culture that is quite macho. Do you recognise that culture? Is anything happening to change that, or is it that, because women who have got to the top of their careers have been through it, it perpetuates itself? 
+
+[[[Professor Frith]]]: That is a very interesting question. There is some truth to what you are saying. One point that you made was slightly countered; it is not quite true that there is absolutely no career structure. &#xa0;
+
+[[[Q51 ]]]&#xa0; 
+
+[[[Stephen Metcalfe:]]] In the early years, perhaps. 
+
+[[[Professor Frith]]]: A little bit, yes: it is not quite so bleak. There is something about certain personalities that thrive on challenges. It is also a little bit like in sport. Why should people wish to climb up mountains or go sailing or racing? There are nicer and easier ways to manage your life. So you are attracting a very competitive kind of person. In that sense, it is a macho culture. It is interesting that there are a substantial number of women who can thrive in it, but the more women there are the more likely it is that this culture will be changed. That is one of the hopes. We actually think of diversity as a benefit. This is not the perpetuation of the culture but a change of culture. It is a hope; we cannot say that this has been happening very much, but it is an interesting point. Yes, you bring up these people to use their elbows and to be absolutely as tough as they can possibly be, and to do amazingly well internationally, but what do you get in the end? Are they happy? What will they do to the next generation? These are good questions to be discussed. 
+
+[[[Clem Herman]]]: I want to pick up the point that you made about it being a very macho culture. What we miss sometimes in these discussions is that not all men are like that and not all women are the stereotyped women. We have to see it in terms of a particular type of masculine culture, which you see in other fields. You only have to look at the finance sector, for instance. There are ways of being very competitive at work that are cultural norms in certain sectors. That is not to say that there are not women who thrive on that and do well, but there are men who cannot achieve in that kind of culture either. That is something to tackle. You could have a good researcher who is not good at getting grants, or who does not have those kinds of skills or the elbow for knocking people out of the way. Someone who is not like that, who may not succeed as a scientist, may have a brilliant mind but not be able to survive in that kind of culture. There are things about the way it has become that we need to question. 
+
+[[[Professor Powell]]]: Sometimes, there is a level of perception that sits on top of the reality. I am not disputing that that is a reality, perhaps more in some disciplines than others, but when you see an area that is populated predominantly by men—as a woman, you see it—there can easily be a feeling that you are not cut out for it because, “Where are the women?” I did not have that experience within psychology, where there are a lot of women, and, by and large, it does not seem to be quite that elbow-pushing culture, but stepping into senior management I very much had that experience. I am one of a small minority, and going into settings and applying for jobs where you see a predominantly male gathering is off-putting. The perception for me initially was that I was not sure that I wanted to do that or to be there, as I would not fit in. Having done it, that is not my experience, but I suspect that that is an issue that deters some women from doing what they want to do or engaging in that competition. &#xa0;
+
+[[[Q52 ]]]&#xa0; 
+
+[[[Stephen Metcalfe:]]] How do we change that? That perception may be very different from the reality, but, if there is that perception, it could put people off before they even tried. How can we change that? 
+
+[[[Professor Powell]]]: I personally think that it has to matter to institutions and organisations to do all that they can to facilitate those pathways. Again, that comes back to needing the bottom-up actions; we need the mentoring and the problem-solving, the child care, the flexible working and so on, but we also need to make it important that universities, research funders and so on ensure that they are being effectively utilised. &#xa0;
+
+[[[Q53 ]]]&#xa0; 
+
+[[[Stephen Metcalfe:]]] When you say institutions, do you mean the departments that are perhaps already embedded in this culture, or the wider institution that may have a different culture in different departments, and brings that to bear on science? 
+
+[[[Professor Powell]]]: Both. This is just talking about within universities, and it has to matter to universities to look properly across the board and into its different departments to see what is going on. It is easy to look at a collective figure. I can say that, at Goldsmiths, half of our staff are men and half are female. Our progression rates are biased in favour of women at the moment, but it is not until you start looking at how that is variegated between disciplines that you begin to see that, just because everything looks fine broadly, whether it is or not, there are some areas where it is not fine at all. You may have minorities of women in departments who are trying to fight against a system. That is a deterrent in itself, and it is a bit stacked against them. Until we have the coming together of the top and the bottom to isolate it as a problem and something that needs working with, it is not easily going to happen. Coming back to a point made earlier, that often requires institutions at least to be asked to report on the figures. Until we are asked, we might do it but it might not be our top priority in relation to other important matters. Uta has already referred to the huge strains on time—everybody’s time, at department level, at central level, both academic and professional. Something has to force one of a thousand things to be the thing that catches the right attention for a moment. 
+
+[[[Clem Herman]]]: I have some experience of research that I did, not in academia but with STEM companies, where there were well-intentioned policies. They had all the right kind of policies at the higher level, but the blockages that women experienced were perceived as being at a close level with their line manager, for example, or the way that the line manager had interpreted particular pieces of policy. It is at the micro level where, sometimes, those kinds of problems or issues are played out. It is about having the institution—as you say, the top-down approach—but you have to have the understanding and ability to deal with it; you have to empower the local people to deal with it.&#xa0;
+
+[[[Q54 ]]]&#xa0; 
+
+[[[Stephen Metcalfe:]]] That is an interesting point. It is about having the desire to change. Having got to a certain level in your progression, you then say, “Right, I am here, but now I am not going to apply the same route that I used to get here to those under me.” There may be a change in culture, but there is always a danger that people will say, “I got here the hard way. I am going to make you do it the same way. Why should I accommodate you and change it all now?” Do you recognise that, or is there a real desire to change from top to bottom? 
+
+[[[Clem Herman]]]: I am not speaking for my university in this, but there is a syndrome known as the queen-bee syndrome, which has been identified in the literature, which is, “We’re going to make it to the top. We’ll pull up the ladder behind us.” It is exactly that point, “I got here.” That is changing, precisely because they have had to be so tough to get there that you become that person in that role. 
+
+[[[Professor Powell]]]: I do not particularly recognise that, and I don’t recognise seeing it in many of my colleagues that I have worked with either, but I do feel that, when you get to whatever senior position it is, you suddenly have so many things to do, partly because at that level you are suddenly responsible for a lot of things, and it is quite hard to fit in something that is time-consuming if you are to do it properly. It is about making sure that that ladder is easier for others. Another point that came up this morning is that, as one of a small and decreasing number of women at different levels of seniority, you are called upon to be visible in a lot of different settings, probably on more committees, working groups and so on, than your male counterparts. So your time gets squeezed, and with the best will in the world it can become quite hard to make things easier. &#xa0;
+
+[[[Q55 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] We have covered most of the points that I wanted to raise. One thing that I would like to come back to, Professor Frith, is that it seemed to me that you were saying that having more diversity is a luxury that some organisations won’t afford to pay. 
+
+[[[Professor Frith]]]: That is a very interesting way of putting it. Diversity has been recognised generally as something to strive for—a virtue—and something that will aid your reputation. Universities are out to have a good reputation; it is absolutely essential for them to attract the kind of quality of students and staff that they need. It cannot really be called a luxury, no, but it is something incredibly desirable—and something hard to do, not just something to be paid lip service to. That is what we are recognising. You cannot just do this by a few words, saying that you have good intentions, but by doing things and taking some actions. That takes time, but the important thing is that there should be a momentum. It should not be relaxing, like, “Okay, this year we’ve appointed so many professors; we’ve done it,” but, on the contrary, to keep pushing the agenda all the time. &#xa0;
+
+[[[Q56 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] You were talking about a burden and that some organisations would not be able to do this, which links to what Professor Powell was saying and what was said in previous discussions. If there are some people who let themselves off the hook of this responsibility by saying, “It is too expensive. We’d love to do it, but we really can’t,” surely external funders should be making it more of a requirement to push the organisations into taking these actions by reporting back on what they are doing. It stops becoming just an aspiration—the policies that Clem Harman was telling us about—and there is a bit of a stick for those organisations that need it to prod them, saying that, if you are going to get the funds, the fine words are not enough and we want to see what you are actually doing. 
+
+[[[Professor Frith]]]: It is incentives that work best. Punishments are another matter, and they might not have such good effects. You are talking now about punishments. &#xa0;
+
+[[[Q57 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] I am talking about the research councils. We have heard about the efforts that have been made to ask for evidence of organisations tackling the issue of there not being enough women in research. They are asked to do this, but nobody is going back to them and making them accountable for what they said they were going to do. I would not call that a punishment. I would call it an incentive but making them take responsibility for their actions. 
+
+[[[Professor Powell]]]: I agree. I have already alluded to the REF being instrumental, and I was very pleased to see that, with the announcement of more capital spend on our engineering and big science projects, that is being tied to a requirement to report back, to demonstrate— particularly in engineering—efforts to increase gender representation. It is being made explicit. I do not know the detail of it, but this was the recent announcement of £200 million, to be matched by another £200 million from the universities, but with it being contingent on reporting back to show what is being done to enhance the balance. &#xa0;
+
+[[[Q58 ]]]&#xa0; 
+
+[[[Chair:]]] Professor Frith, in your response earlier, you were slightly nervous about the question. Did your response reflect the fact that not all the Russell Group meet the same standards? 
+
+[[[Professor Frith]]]: All universities are different, and within universities, the departments and institutes are different. It is certainly true that there is good practice and there is less good practice. That is just a fact. I do not know how you can have a simple way of lifting everybody up to something absolutely amazing and wonderful. There are too many demands and different priorities. For example, it might be to push the agenda about diversity. It could happen that it pushed to a point where, for example, the other really important principle of sheer excellence, sheer merit, might suffer. I do not know whether, if you did this on an annual basis, it might be bad, because in one year there might, for some completely random factors or reasons, be fewer applications by women. To be held to account for why you did not have a particular proportion of successful applications this year would be bad. What is the right time scale? Is it a year or five years, maybe? I do not know. Again, it might vary according to what subject you are dealing with, or whether you are dealing with short-term contracts. To engineer this in such a heavy-handed way might be counterproductive. I appeal again to this concept of reputation, which is incredibly powerful. It is absolutely critical to be seen to do the right thing, to attract the right staff and the right students. If reputation does not work any more, I think as a society we would be really in trouble. &#xa0;
+
+[[[Q59 ]]]&#xa0; 
+
+[[[Sarah Newton:]]] Given what we have heard from the evidence about the glacial nature of the progress, obviously reputation laying is not working. However, I absolutely accept what you say that, whatever encouragement is given to organisations receiving a lot of taxpayers’ money to do research, and whatever responsibility they have and however we ask them to account for it, it needs to be done in a way that does not undermine the pursuit of excellence. I do not think that anybody would want us to undermine the pursuit of excellence, but, given the collective brainpower within your institutions, it seems impossible to me that you could not come up with an appropriate mechanism that would hold organisations receiving large amounts of research funding to account, and to make less glacial progress with the advancement of greater diversity. 
+
+[[[Professor Frith]]]: This should apply not just to universities, I hope. 
+
+[[[Sarah Newton:]]] Absolutely not. 
+
+[[[Chair:]]] Indeed, and to people who have received taxpayers’ money. &#xa0;
+
+[[[Q60 ]]]&#xa0; 
+
+[[[Jim Dowd:]]] I want to look briefly at the field of unconscious bias, and we have received a lot of submissions from various august bodies detailing this.Before I go into the detail of the question, Professor Powell, you said a few moments ago—and it may just be that this is the enlightened nature of Goldsmiths, which is our leading academic institution in south-east London—that you are more likely to be put on committees and other bodies because you are a woman, whereas the university of Manchester told us that unintended bias includes women not being invited to speak at seminars or international conferences, which are important academically. You did not mention seminars and academic conferences. What you seemed to be saying was at odds with what the university of Manchester have told us. Is it just because Goldsmiths is a far more enlightened institution? 
+
+[[[Professor Powell]]]: I do not know enough about the university of Manchester’s policies and procedures; I could not possibly comment. At Goldsmiths, we make strenuous efforts to have men and women represented on our interview panels. That is relatively straightforward when we are interviewing for more junior posts, but the more senior the posts get, the requirements of the panel change. You have to have more senior members of the college on those interview panels, and they end up being quite large panels, so it ends up falling to a relatively small number of women to form the pool from which to draw representation on to them. We work hard at it, and it happens by and large, but not always, and occasionally we have all-female interview panels, which is not desirable either, by the way. I am not sure how systematically each of our departments thinks about its invited speakers programmes. It probably varies from one department to another. It has certainly been a focus in our computing department, where it is harder for that automatically to happen. Another initiative that we have taken recently is to set up a centre called the Centre for Feminist Research, but it will be dealing with a wide range of gender-facing issues, partly theoretically based but also looking at how it informs our own diversity and equality procedures. We are an example of an institution that, by the nature of our disciplines, our staff and our interests, is making some very progressive moves. Those moves may not be replicated in other institutions, but one would hope to see other institutions taking equivalent or different steps that draw on their own internal strengths and challenges. &#xa0;
+
+[[[Q61 ]]]&#xa0; 
+
+[[[Jim Dowd:]]] What will be the chances, when Pat Loughrey goes, of him being replaced by a woman as warden? It might be you: I don’t know.  
+
+[[[Professor Powell]]]: When Pat was appointed, the search committee took steps to try and draw in a field of women candidates as well as male candidates. There were one or two in the wider field, but it was difficult to identify any who were equipped with the right experience to be in the final three or four who were shortlisted. I do not know. We will no doubt, again, be looking to have good gender representation when we come to appointing Pat’s successor. I am invited to participate in appointment panels for deputy or pro V-Cs elsewhere, and it is difficult to find fields in which there are enough women to get that excellence and good experience alongside an even balance. It is a real challenge. It really is a challenge; it is depressing, actually. &#xa0;
+
+[[[Q62 ]]]&#xa0; 
+
+[[[Jim Dowd:]]] What general mechanisms are there to recognise and deal with unconscious bias? 
+
+[[[Clem Herman]]]: There are procedures that can be put in place. For example, recruitment panels can have very clear procedures. You can anonymise applications so that you do not clearly see the gender by taking the names off; those kinds of things are well- known strategies in recruitment and so on. There is also an awareness-raising that has to happen before that, and the very fact that it is unconscious implies that one has to surface it. That is something where good recruitment and selection training, as opposed to paper procedures, is really important. Anyone who comes on to any of our recruitment panels in the OU has to have been through a particular kind of training. It is about raising that, and making people realise that they do have unconscious bias. Again, that is a staff development issue. The same would apply for applications to research funds as well as for appointments and so on. Publication is another area that we have not touched upon—the journals that publish the work that gets people into their careers and moves them on. There is quite a lot of evidence that women are less published, so the rigorous—&#xa0;
+
+[[[Q63 ]]]&#xa0; 
+
+[[[Jim Dowd:]]] Are there not measurements of that, comparing the number of items submitted and the numbers refused? 
+
+[[[Clem Herman]]]: Yes, there are; there are all sorts of metrics on that. &#xa0;
+
+[[[Q64 ]]]&#xa0; 
+
+[[[Jim Dowd:]]] That vindicates what you are saying, does it? 
+
+[[[Clem Herman]]]: Yes, but it remains the case that it is an area, especially in fields where there are not that many people and people may know who is researching similar topics, where one has to be careful to make sure that there isn’t any unconscious bias in that direction. 
+
+[[[Professor Powell]]]: There is unconscious bias also on the other side of the fence in how women feel about putting themselves forward and then how they put themselves forward when they do. There is quite a bit of research showing that women feel that they have to have all of the person specifications to apply, whereas men will be satisfied with 50 and have a go. When women write their narrative statements, they are more likely perhaps to downplay some of their achievements than men. There is then an interaction between how women present themselves on the one hand and how the selection panels receive that information on the other. Some of those gender styles of presentation need to be understood by panels, but, equally, there is a job to be done—and it is being done to some extent—in helping women think about how they are selling themselves. I see that on interview panels; it is sometimes quite marked, and I wish that I could say to some of the women on the other side of the table, “Look, be a little more focused. Tell us about this more in the way that the male candidates have,” because those are the things that stick in the mind of the selection panel. It is a two-sided process there for bias. &#xa0;
+
+[[[Q65 ]]]&#xa0; 
+
+[[[Jim Dowd:]]] What about encouraging women to go before interview panels for jobs they are unlikely to get simply for the experience of having done so? 
+
+[[[Professor Powell]]]: That is something that we need to do, but it is quite hard. Again, you cannot make generalisations about how all women are and how all men are, but, on balance, there is probably a greater reticence on the part of women to put themselves forward at that level. That is partly because they think it is presumptuous and partly because they think that they might not cope with the stress, especially if they have a lot of competing priorities going on. It is something that needs a focus, but it is one of the things that are picked up through mentoring programmes. We need to have more wholesale ways of looking at that at the institutional level. &#xa0;
+
+[[[Q66 ]]]&#xa0; 
+
+[[[Pamela Nash:]]] This inquiry is obviously looking particularly at women in STEM careers, and we have heard a lot of evidence this morning that I have to say sounds depressingly familiar to me as a woman in politics. A lot of this information could apply to politics and a lot of other careers paths for women. Perhaps we are not asking the right questions. I still do not feel that we are hitting the nail on the head about what is the specific problem for women in STEM careers. A lot of what we are talking about is at the academic level, but we are losing women from science much earlier than that. Perhaps you would tell us what we should be asking other witnesses or what you have not had a chance to say so far. 
+
+[[[Clem Herman]]]: One thing is the culture of STEM and the extremeness of the minority in which women find themselves in that context. There is also an historical association between science, technology and masculinity. If you think historically, engineering and technology have been very male-focused in the way that they have been operated, and there is still a legacy of that. It is more extreme because there is some kind of incongruousness in being an engineer and a woman. There has been quite a lot of research about that. You are called a woman engineer because somehow an engineer is inherently still considered to be a masculine thing. Sometimes a scientist is still called a woman scientist. You have to preface it with being called something different because the norm is still seen as a male thing. Your question is what we can do about it and what we can change about it. We have to look at practices, how things are done in those disciplines and in those industries, and unpick the day-to-day practices. They are often inscribed with particular ways of doing things that inherently have that kind of macho culture stuff. This is a huge project. It is not something on which I can offer you a simple one-line policy to change, but we have to acknowledge that.&#xa0;
+
+[[[Q67 ]]]&#xa0; 
+
+[[[Pamela Nash:]]] Professor Powell, do you have anything to add? 
+
+[[[Professor Powell]]]: It is worth exploring more how efforts are being made at school level. I can speak a little about some of the initiatives that are happening at Goldsmiths, which I know are paralleled by initiatives by other members of the 1994 Group universities. Our computing department goes into local schools, working with an industry-based organisation called Lady Geek, which is about the academics going into schools with industry partners to talk about the relevance of IT degrees to female students. For example, social media, which is one of the heartlands of IT developments now, is predominantly used by women. It is a very female sector, so a lot of work can be done, as we have done, to promote interest in those subjects among girls at school level, and we hope to see an increasing proportion of applicants to our programmes being female. We have a particular kind of computing at Goldsmiths. Some of it is very art-focused and art-based, looking at technology for artistic production; some is social media-based and some is gaming-based. Our staff—not me personally; it is not my background—are putting in a lot of effort to advertise that fact, to make it more attractive to women. It would be very worth while to explore how similar efforts are being made in other disciplines by other departments, and how those can be supported. 
+
+[[[Professor Frith]]]: I can add hardly anything, except that things need to be done at many different levels, and to start very early in primary school as far as STEM subjects are concerned. We are all pressing for that and are all very aware of that. It is heartening to see so many women scientists, who I know are busy at universities, going to schools, as you say, and talking and engaging with these young people, who are also coming into the labs. These are incredibly valuable forces for change, but they are very diffuse. It is interesting, but there is something about this momentum; as I say, we need to keep doing it. I would much prefer that kind of approach to the more punishment-oriented. I am sorry, I am going back to saying that, if you have to account for what you are doing, that is equivalent to a punishing and rather negative sort of attitude. I feel more optimistic in thinking that the momentum is already there, and we have to encourage it. We have to praise it, reward it to some extent and recognise it, and it will grow stronger. &#xa0;
+
+[[[Q68 ]]]&#xa0; 
+
+[[[Pamela Nash:]]] I would like to turn briefly, before we all have to rush off, to pay. Are women academics still getting paid less than their male counterparts, and are there any examples of best practice in your universities—perhaps publishing salary summaries to show the gap and that, hopefully, they are addressing it? 
+
+[[[Professor Frith]]]: As part of the Russell Group of universities, at least some of them have total transparency, and some of them, perhaps to their own surprise, have found that their pay is equal. That is cause for celebration, though it should not be. At least, yes, if that can be shown and can be made totally universal, that would be a major step forward. &#xa0;
+
+[[[Q69 ]]]&#xa0; 
+
+[[[Pamela Nash:]]] You say “universal”, but do you not think that it should be mandatory? 
+
+[[[Professor Frith]]]: That I do not know. Again, it is this question of whether you use a carrot or a stick. The carrot is my option every time. &#xa0;
+
+[[[Q70 ]]]&#xa0; 
+
+[[[Pamela Nash:]]] I agree, but I cannot think of a carrot for that particular example. 
+
+[[[Professor Powell]]]: There is a pay gap. Once a year, the Times Higher publishes a table—I do not know whether you have had the chance to see it—which shows at below professorial level and at professorial level what the average pay is per institution, and it shows it for men and women. Across the board, you see a gap. It is much smaller in some institutions than others, and there might be a tiny number of institutions where it is tipped in favour of women, but it will be a vanishingly small number of institutions and only at certain levels. The Times Higher is widely read, and that table brings it into the gaze not just of the public but of the academics working in universities. Over recent years there have been one or two quite high profile cases, where female staff have taken out equal pay claims within a university. That has rather shaken up the practices of other institutions, which did not want to find themselves having to fight a rearguard action. I am not sure whether the gap is narrowing—I hope it is—but those data are there at institutional level in a very public form. I am not sure whether that is paralleled by publication on the universities’ own websites about their own pay levels. &#xa0;
+
+[[[Q71 ]]]&#xa0; 
+
+[[[Roger Williams:]]] When the report is written, I guess we will want to quantify a couple of things. One of those would be what the financial cost is of the leaky pipe of women who could have been kept in academia and industry but who have been lost. One of the key figures is how much it costs to take an individual to postdoctoral level. I am not asking for an answer now, but perhaps you would write to the Committee about that. 
+
+[[[Clem Herman]]]: That is a really important point. Work that we have done at the Open university with women returners with that whole programme, working similarly to the Daphne Jackson trust, shows that the sad reality for some of the women, when you hear their stories, is they have had an academic career and a career break, and their return path is becoming a science technician in a school. It is a great job, and I am not putting it down, but it is one of the lowest paid jobs in that kind of scientific work. The contribution that she may have been able to make in another context would have been enormous. There is a figure, but it is hard to quantify. &#xa0;
+
+[[[Q72 ]]]&#xa0; 
+
+[[[Roger Williams:]]] A start would be the cost of getting to the postdoctoral level, although I know that that will differ between institutions and subjects. One of the other issues would be to understand better why women leave academia or industry. I would like to ask about the use of questionnaires as to why people are leaving. Is that something that is used in your institutions or universities? Do you know of its use, and is it widespread? Do you think it is a good idea? 
+
+[[[Professor Frith]]]: I do not know of any such efforts or attempts to do that. I would remind you of the staying in academia route, going right to the top. It involves an incredibly steep pyramid. In other words, there are not the jobs there. You cannot say, “Why are you leaving? You could have had a job.” It is actually saying that we are producing qualified people who will do a fantastic job in all spheres of public life, industry or business. Having a PhD and doing a very good job is an expensive education, but I would hope that it will do an enormous amount of good in a lot of areas that are not at all academic. However, I have no idea how to quantify that or how to get information about it. &#xa0;
+
+[[[Q73 ]]]&#xa0; 
+
+[[[Roger Williams:]]] Questionnaires might give us some idea of why people are leaving; it may be that they had the opportunity for a job but felt they could not fit their lifestyle around it. 
+
+[[[Professor Powell]]]: There are questionnaires that will be developed to some extent locally as part of an exit interview procedure, which is done more or less erratically; it is sometimes difficult to get people to sit down for such an interview. You can develop questionnaires, and there are questionnaires at institutional and national level. They are not terribly good ones, but I understand that there have been new fields added to the HESA staff record, which I have here, which will provide more information on reasons for leaving and destinations. That will be available from March 2014. However, as someone who has designed and analysed many questionnaires over my career, I would add that it is really hard to get clear information on that. If you give people a checklist of reasons for why they moved on, it will often be a combination of 15 different reasons and choosing one misrepresents it, so trying to identify from a questionnaire what the conspiracy of circumstances is can be quite difficult. To understand it, you need a study that combines quantitative and qualitative methods, with interviews, which are then codified and followed through and explored. Certainly, it is a focus of development institutionally and, I understand, a bit more at national level. 
+
+[[[Clem Herman]]]: I second that, because of the research that we did. As I said, we worked with women returners, and over 1,000 women came through our “return to SET” programme, which we ran for about five years. We asked them; we did that qualitative and questionnaire research on exactly that point, but there is a real combination of factors. It is very rarely just the child care; it is often the combination of not being in the right location and not having the kind of networks around to support them. All sorts of things can be barriers. It is complex, so I second that. If you want to do that kind of research, it needs to have a more holistic approach. 
+
+[[[Professor Powell]]]: Some funding for research projects of that kind would be very good. &#xa0;
+
+[[[Q74 ]]]&#xa0; 
+
+[[[David ]]]
+
+[[[Tredinnick]]]
+
+[[[:]]] Professor Powell, in your answer to Stephen Metcalfe, you suggested that, because there are not so many women at the top of institutions, they are obliged to take on a number of different roles, perhaps sitting on committees and other things that they might not normally be expected to do. Is that a degree of tokenism? Do you think that sometimes women are placed because it looks good? 
+
+[[[Professor Powell]]]: Strategically, there is going to be an element of that in relation to different forms of diversity. I have to say that it is even harder when you get down to the representation of different ethnicities on these committees. My female senior colleagues of different ethnicity face a particular challenge. I would also say, having been on a lot of these committees, that the women who get into those positions usually have quite a lot to say and a particular perspective to bring to the table, which is sometimes gender-related but more often than not is based on expertise and so on. Whether or not there is some tokenism to ensure that we get the right kind of gender balance, which is important and is there, whether you call it tokenism or an effort at fair representation, once those panels are constituted they benefit enormously from having brought to the table what people from these different backgrounds are able to bring with them. I have been on very few of those committees where the person perhaps appointed in part on that basis does not play an active and constructive role in the discussion. &#xa0;
+
+[[[Chair:]]] I thank the panel very much for their attendance this morning. It has been a very constructive session. &#xa0;              Oral evidence: Women in STEM careers , HC 701                            4

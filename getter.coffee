@@ -2,8 +2,8 @@
 
 # # Getter
 
-request =   require("request")
-fs      =   require("fs")
+request =   require "request"
+fs      =   require "fs"
 
 # **walk** prevents getter opening too many files at once
 
@@ -17,30 +17,27 @@ walker = walk.walk("./data/")
 
 walker.on "file", (root, fileStats, next) ->
   fs.readFile root + fileStats.name, (err, data) ->
-        
     $ = cheerio.load(data)
     myString = ""
-    myState = "default"
     $("p span").each (index, element) ->
       if element.attribs["style"]
         if ~(element.attribs["style"]).indexOf("bold")
           # ## Header
           # I found something _bold!_
-          myString += element.children[0].data
+          myString += "\n\n[[[" + element.children[0].data + "]]]"
           
         else
           # this is just normal text
           # This is an [example link](http://example.com/).
           myString += element.children[0].data
-          myString += "\n"
-        myString += myState
+#          myString += "\n"
         
     if fileStats.size > 1647        
-      fs.writeFile "./output/" + fileStats.name, myString, (err) ->
+      fs.writeFile "./output/" + fileStats.name + ".txt", myString, (err) ->
         if err
           console.log err
         else
-          console.log "Wrote out " + fileStats.name + ", " + fileStats.size
+          console.log "Wrote out " + fileStats.name + ".txt, " + fileStats.size
     next()
 
 walker.on "errors", (root, nodeStatsArray, next) ->
@@ -51,3 +48,4 @@ walker.on "end", ->
   console.log "That's all folks."
     
 # That's all folks.
+

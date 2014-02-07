@@ -1,0 +1,45 @@
+&#xa0;
+
+[[[Written evidence submitted by Royal Academy of Engineering (ESA018)]]]
+
+[[[Introduction ]]]
+
+[[[&#xa0;]]]The Royal Academy of Engineering is pleased to submit evidence to the House of Commons Science and Technology Select Committee inquiry into the European and UK Space Agencies. This response has been prepared following consultation with a number of our Fellows with expertise in this area, both in industry and academia.&#xa0;Key points: 
+
+[[[&#xa0;]]]&#xa0;&#xa0;&#xa0;
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[ESA f]]]
+
+[[[unding]]]
+
+[[[:]]]
+
+[[[ ]]]
+
+[[[strengths ]]]&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[ESA funding: weaknesses]]]&#xa0;&#xa0;&#xa0;&#xa0;Whilst ESA has been effective in funding academics, the UK is currently a hub of innovative, small space-related companies and SMEs that are not yet supported by ESA.&#xa0;It is well known that growth can stem from SMEs; therefore, it is recommended that ESA should consider directing funding to SMEs working in the space sector. Directing funding to SMEs may be easier if operated independently within the UK rather than via ESA. &#xa0;
+
+[[[ESA o]]]
+
+[[[rganisation]]]
+
+[[[ and work]]]
+
+[[[:]]]
+
+[[[ strengths]]]
+
+[[[ ]]]&#xa0;
+
+[[[&#xa0;]]]
+
+[[[ESA organisation and work: weaknesses]]]&#xa0;&#xa0;&#xa0;&#xa0;The appropriate relationship depends on the respective roles of ESA, EU and UK. ESA is a pan-European research and development (R&amp;D) organisation whereas the EU and UK have a broader interest in the use of space to benefit the European citizen. Any governance regime must acknowledge these differing roles and the tensions between them, for example an R&amp;D organisation is likely to aim to drive technology forward whereas an operational organisation will focus more on minimising costs and schedules. &#xa0;A model that has worked well in the past, such as for Galileo, is where the EU gathers requirements and utilises ESA as the procurement agency to procure a system that meets EU’s requirements. 
+
+[[[&#xa0;]]]&#xa0;The EU’s framework programmes are somewhat slow, with the result that they fail to be useful on many aspects of R&amp;D. On average, it takes 12-24 months between coming up with a concept and starting a FP7 project. Combining this with the need to involve several countries means that the programmes are not the best way of producing competitive commercial products.&#xa0;Inclusion of the Global Monitoring for Environment and Security (GMES) in Multi-Annual Financial Framework (MAFF) is welcomed and will bring stability to the funding for the GMES.&#xa0;We would like to highlight again the potential of SMEs to increase innovation in the space sector, which would benefit greatly from more direct EU and ESA support.  &#xa0;
+
+[[[&#xa0;]]]The UK space agency generally performs well and is supportive of industry; however, its achievements are often hampered because the majority of its funding is committed to being spent via ESA. The UK stands out as an anomaly amongst the ‘big 4’ European space sector nations. In contrast with France, Germany and Italy, who all have a large national programme as well as being major contributors to ESA, the UK has a relatively small national programme. France, Germany and Italy use their large national programmes:&#xa0;&#xa0;The UK is regularly approached by other nations to undertake bilateral missions on a ‘no exchange of funds’ basis. Presently, the UK does not have significant funding available for these activities, preventing the UK from taking part in more international collaborations. It is recommended that increasing the size of and improving the current UK national programme will foster more collaboration between the UK and other key nations in the space sector. &#xa0;There is an absence of a well-defined space engineering (as opposed to science) research programme in the UK universities. There is a need for a national programme and, as part of this, more low TRL academic research as well as high TRL SME R&amp;D.&#xa0;&#xa0;It is agreed that the UK gets good value for money from its membership of ESA for large programmes where the UK generally finances at GDP proportion (~17%) and gains full access to all mission data. &#xa0;&#xa0;The Academy refers the committee to its 2013 report titled Extreme space weather: impacts on engineered systems and infrastructure. A summary report is also available.&#xa0;The report identifies and explores in considerable depth the consequences of space weather events on the electricity grid, satellites, avionics, air passengers, signals from satellite navigation systems, mobile telephones and more. Focusing on the UK, it assesses the resilience to space weather events on a variety of engineered systems and identifies ways to prepare and mitigate for such events. &#xa0;The study demonstrated that solar superstorms are indeed a risk to the UK’s infrastructure. With respect to satellites and the services that depend on them, the report made the following conclusions:&#xa0;Some satellites may be exposed to environments in excess of typical specification levels, so increasing microelectronic upset rates and creating electrostatic charging hazards. Because of the multiplicity of satellite designs in use today there is considerable uncertainty in the overall behaviour of the fleet but experience from more modest storms indicates that a degree of disruption to satellite services must be anticipated. Fortunately the conservative nature of spacecraft designs and their diversity is expected to limit the scale of the problem. Our best engineering judgement is that up to 10% of satellites could experience temporary outages lasting hours to days as a result of the extreme event, but it is unlikely that these outages will be spread evenly across the fleet since some satellite designs and constellations would inevitably prove more vulnerable than others. In addition, the significant cumulative radiation doses would be expected to cause rapid ageing of many satellites. Very old satellites might be expected to start to fail in the immediate aftermath of the storm while new satellites would be expected to survive the event but with higher risk thereafter from incidence of further (more common) storm events. Consequently, after an extreme storm, all satellite owners and operators will need to carefully evaluate the need for replacement satellites to be launched earlier than planned in order to mitigate the risk of premature.&#xa0;It highly recommends a UK Space Weather Board should be initiated within government to provide overall leadership of UK space weather activities: observations and measurements, operational services, research and related technology developments. In regard to the latter the board should, through its leadership, support and facilitate the UK space sector to enable it to respond to ESA and other space environment missions.&#xa0;The Academy would also like to refer the committee to its 2010 consultation response to the inquiry on Scientific advice and evidence in emergencies. The response highlights the importance of international coordination in preparing for and reacting to emergencies involving space weather events. &#xa0;Space weather sensors and predictions are an international endeavour; moreover the impact of extreme solar storms will be global. Realistically, the US will be a focus for space weather monitoring and notification as US society and defence are highly reliant on space assets. The US electricity network is also located at a higher geomagnetic latitude than the UK system making it more susceptible to such events. ESA has the remit to provide the civilian focus for solar storm monitoring and space weather in Europe and will develop high level links into the US programme. &#xa0;April 2013&#xa0; Extreme space weather: impacts on engineered systems and infrastructure A report reviewing the impacts of space weather on engineered systems and infrastructure (February 2013)&#xa0; Extreme space weather: impacts on engineered systems and infrastructure (Summary report)(February 2013)&#xa0; Scientific Advice and Evidence in EmergenciesThe Royal Academy of Engineering response to the House of Commons Science and Technology Committee&#xa0; (September 2010) http://www.raeng.org.uk/societygov/policy/responses/pdf/Response_to_Scientific_advice_evidence_emergencies.pdf &#xa0;

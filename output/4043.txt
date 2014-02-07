@@ -1,0 +1,83 @@
+&#xa0;
+
+[[[Written submission from the ]]]
+
+[[[D]]]
+
+[[[epartment ]]]
+
+[[[for ]]]
+
+[[[Communities and ]]]
+
+[[[Local Government]]]
+
+[[[ (BRC 44)]]]&#xa0;
+
+[[[Introduction]]]&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[&#xa0;]]]
+
+[[[Response to ]]]
+
+[[[the ]]]
+
+[[[C]]]
+
+[[[ommittee’s ]]]
+
+[[[questions]]]&#xa0;i) the extent to which members of the public are aware of the competent persons scheme and that certain domestic electrical works need to be reviewed and certified to meet the requirements of Building Regulations;&#xa0;&#xa0;&#xa0;ii) the extent to which those carrying out electrical works are adequately trained to meet the requirements of the Building Regulations and the extent to which all those working for a company are brought up to the same level of skills;&#xa0;&#xa0;&#xa0;&#xa0;iii) the extent to which those carrying out electrical works, to which the Building Regulations apply, review or have their work reviewed to ensure that it meets the requirements of the Regulations;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;iv) the adequacy of the review of electrical works carried out by Competent Persons;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;v) the effect of competition between accreditation bodies, and the two separate registers of electricians, on the standards of review of domestic electrical work;&#xa0;&#xa0;&#xa0;&#xa0;vi) the adequacy of the supervision by DCLG of the accreditation schemes;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[Annex A]]]
+
+[[[&#xa0;]]]
+
+[[[Section 3: Certification, inspection and testing]]]
+
+[[[ ]]]
+
+[[[&#xa0;]]]
+
+[[[General]]]3.1              For notifiable electrical installation work, one of the following three procedures must be used to certify that the work complies with the requirements set out in the Building Regulations.a.              Self-certification by a registered competent person.b.              Third-party certification by a registered third-party certifier.c.              Certification by a building control body.3.2              To verify that the design and installation of electrical work is adequate, and that installations will be safe to use, maintain and alter, the electrical work should be inspected and tested in accordance with the procedures in 
+
+[[[BS 7671]]]. 
+
+[[[              ]]]
+
+[[[NOTE: ]]]Electrical inspection and test forms should be given to the person ordering the work. Building Regulations certificates should normally be given to the occupier, but in the case of rented properties may be given to the person ordering the work and copied to the occupier.
+
+[[[&#xa0;]]]
+
+[[[Self-certification by a registered competent person]]]3.3              Electrical installers who are registered competent persons should complete a 
+
+[[[BS 7671]]] electrical installation certificate for every job they undertake. The electrical installer should give the certificate to the person ordering the work.3.4              The installer or the installer’s registration body must within 30 days of the work being completed do both of the following. a.              Give a copy of the Building Regulations compliance certificate to the occupier.b.              Give the certificate, or a copy of the information on the certificate, to the building control body.
+
+[[[&#xa0;]]]
+
+[[[Certification by a registered third]]]
+
+[[[ ]]]
+
+[[[party]]]
+
+[[[ ]]]3.5              Before work begins, an installer who is not a registered competent person may appoint a registered third-party certifier to inspect and test the work as necessary. 3.6              Within 5 days of completing the work, the installer must notify the registered third-party certifier who, subject to the results of the inspection and testing being satisfactory, should then complete an electrical installation condition report and give it to the person ordering the work.
+
+[[[NOTE: ]]]The electrical installation condition report should be the model 
+
+[[[BS]]]
+
+[[[&#xa0;]]]
+
+[[[7671]]] form or one developed specifically for Part P purposes. 3.7              The registration body of the third-party certifier must within 30 days of a satisfactory condition report being issued do both of the following. a.              Give a copy of the Building Regulations compliance certificate to the occupier.b.              Give the certificate, or a copy of the information on the certificate, to the building control body.
+
+[[[Certificatio]]]
+
+[[[n by a building control body]]]3.8              If an installer is not a registered competent person and has not appointed a registered third-party certifier, then before work begins the installer must notify a building control body. 3.9              The building control body will determine the extent of inspection and testing needed for it to establish that the work is safe, based on the nature of the electrical work and the competence of the installer. The building control body may choose to carry out any necessary inspection and testing itself, or it may contract a specialist to carry out some or all of the work and furnish it with an electrical installation condition report. 3.10              An installer who is competent to carry out inspection and testing should give the appropriate 
+
+[[[BS 7671]]] certificate to the building control body, who will then take the certificate and the installer’s qualifications into account in deciding what further action, if any, it needs to take. Building control bodies may ask installers for evidence of their qualifications.3.11              This can result in a lower building control charge as, when setting its charge, a local authority is required by the Building (Local Authority Charges) Regulations 2010 to take account of the amount of inspection work that it considers it will need to carry out.3.12              Once the building control body has decided that, as far as can be ascertained, the work meets all Building Regulations requirements, it will issue to the occupier a Building Regulations completion certificate (if a local authority) or a final certificate (if an approved inspector). 
+
+[[[&#xa0;]]]
+
+[[[Inspection and testing of non-notifiable work]]]3.13              Non-notifiable electrical installation work, like notifiable work, should be designed and installed, and inspected, tested and certificated in accordance with 
+
+[[[BS 7671]]].3.14              If local authorities find that non-notifiable work is unsafe and non-compliant, they can take enforcement action.&#xa0;&#xa0;December 2013&#xa0; https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/8385/2077837.pdf https://www.gov.uk/government/consultations/building-regulations-electrical-safety Please see page 9 in the linked document at  www.planningportal.gov.uk/uploads/br/BR_PDF_AD_P_2013.pdf https://www.gov.uk/government/publications/building-regulations-third-party-certification-schemes-for-electrical-installations-in-dwellings https://www.gov.uk/government/publications/competent-person-schemes-conditions-of-authorisation https://www.gov.uk/building-work-replacements-and-repairs-to-your-home http://electrical.theiet.org/building-regulations/eas/index.cfm http://www.competentperson.co.uk/  

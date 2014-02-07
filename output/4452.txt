@@ -1,0 +1,1053 @@
+&#xa0;Written evidence from the Forum of Insurance Lawyers (CMI0018)&#xa0;Whiplash Consultation – cross industry stakeholder consensus paper on Medical Evidence&#xa0;
+
+[[[I]]]
+
+[[[nt]]]
+
+[[[r]]]
+
+[[[o]]]
+
+[[[d]]]
+
+[[[u]]]
+
+[[[c]]]
+
+[[[ti]]]
+
+[[[on]]]&#xa0;Following on from the recent MOJ consultation on “Reducing the Number and Costs of Whiplash Claims” in March 2013, it became apparent through discussions amongst various industry stakeholders (from all sides) that, when it came to thoughts around if and how the current medical evidence process could be improved, there was much common ground in relation to some of the key issues in the existing system that could be addressed.  An informal discussion took place to explore whether there was enough consensus amongst stakeholders to explore the possibility of agreeing a more robust process that could be presented to the MOJ and would mitigate against the potential of a more revolutionary, rather than evolutionary, approach being imposed that ultimately might not improve things for any of the stakeholders or consumers.&#xa0;A summary of the issues and possible solutions agreed by representatives from all sides of the industry (claimant, defendant, ABI and MRO) is contained in the table below:-&#xa0;&#xa0;&#xa0;
+
+[[[K]]]
+
+[[[e]]]
+
+[[[y]]]
+
+[[[ ]]]
+
+[[[I]]]
+
+[[[s]]]
+
+[[[s]]]
+
+[[[ue]]]&#xa0;
+
+[[[P]]]
+
+[[[o]]]
+
+[[[t]]]
+
+[[[en]]]
+
+[[[t]]]
+
+[[[ial]]]
+
+[[[ ]]]
+
+[[[S]]]
+
+[[[olu]]]
+
+[[[t]]]
+
+[[[ion]]]&#xa0;1&#xa0;Lack of independence when it comes to Drs and MROs providing medical evidence&#xa0;-              Introduce rules that require Drs and MROs to be paid regardless of the outcome of the relevant claim to remove any perceived commercial pressures to support the claimant / claim&#xa0;-              Require Drs to certify on each report that they have no financial interest in the outcome of the claim&#xa0;-              Only allow accredited Drs to provide whiplash evidence&#xa0;2&#xa0;No central accreditation for Drs or MROs – currently no quality test for who is providing medical evidence in this area&#xa0;-              Introduce a new, centrally managed, accreditation scheme thatserves to create the benchmark for “expertise” in this area&#xa0;3&#xa0;Lack of consistent information being provided (or captured) in the reports themselves&#xa0;-              Mandatory information to be captured electronically from each RTAmedical report&#xa0;-              The information captured to be used to highlight trends and outliers in expert opinion&#xa0;4&#xa0;Lack of accountability for those providing the reports – no central audit function or sanctions, meaning reports are being written with impunity&#xa0;-              Creation of new central body (
+
+[[[M]]]
+
+[[[edC]]]
+
+[[[o]]])&#xa0;-              MedCo to be responsible for audit of data being captured&#xa0;&#xa0;&#xa0;&#xa0;-              MedCo to be responsible for audit/review of medical experts&#xa0;-              MedCo to have power to award, suspend and remove accreditation&#xa0;5&#xa0;Insufficient information being provided to the Dr at the time of the examination – often only the claimant’s version of events.&#xa0;-              Introduce mandatory information that must be presented to the Dr&#xa0;-              Amend the MOJ portal to allow for any conflicting, alternative view of the accident circumstances to be presented to the Dr&#xa0;-              Mandatory review of medical notes for cases with extended prognosis or where requested by the at fault insurer.&#xa0;6&#xa0;Excessive costs – currently no fixed cost regime for volume, standard medical reports&#xa0;-              Introduce fixed costs for volume medical reports into CPR&#xa0;-              Would remove the ability to overcharge for standard reports(currently fuelling growth in “in house” medical agencies)&#xa0;-              Would remove Solicitor / Insurer frictional costs currently incurredarguing over “reasonable cost” for standard medical reports&#xa0;&#xa0;More detail behind the above issues and proposed solutions are contained in the following pages.&#xa0;The belief is that the above package of reforms, when taken together, would result in a cultural shift in behaviour and thought process for claimants, Drs and MROs alike.  The changes would make all parties think a lot harder about what they say (claimants) and what they write (Drs).  Further, the introduction of an accreditation (that a Dr or MRO could lose), the central capture of certain key injury / medical opinion data and the creation of a new audit / review process would, taken together, greatly enhance the industry’s ability to highlight rogue behaviour and remove it from the medical evidence process, something that all stakeholders desire.&#xa0;Whilst the above proposed reforms are aimed at General Practitioner reports in Low Value RTA claims, consideration should be given to whether all or any of the proposals could be applied to other types of medical expert reports used in the Low Value RTA arena.&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[P]]]
+
+[[[rop]]]
+
+[[[o]]]
+
+[[[s]]]
+
+[[[e]]]
+
+[[[d S]]]
+
+[[[o]]]
+
+[[[l]]]
+
+[[[u]]]
+
+[[[ti]]]
+
+[[[on]]]&#xa0;
+
+[[[R]]]
+
+[[[e]]]
+
+[[[a]]]
+
+[[[l]]]
+
+[[[ ]]]
+
+[[[or]]]
+
+[[[ ]]]
+
+[[[p]]]
+
+[[[e]]]
+
+[[[rc]]]
+
+[[[e]]]
+
+[[[i]]]
+
+[[[v]]]
+
+[[[ed ]]]
+
+[[[i]]]
+
+[[[s]]]
+
+[[[s]]]
+
+[[[u]]]
+
+[[[e be]]]
+
+[[[i]]]
+
+[[[ng a]]]
+
+[[[d]]]
+
+[[[dre]]]
+
+[[[s]]]
+
+[[[s]]]
+
+[[[e]]]
+
+[[[d]]]&#xa0;
+
+[[[C]]]
+
+[[[omments]]]
+
+[[[ ]]]
+
+[[[/ a]]]
+
+[[[d]]]
+
+[[[d]]]
+
+[[[i]]]
+
+[[[ti]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[a]]]
+
+[[[l ]]]
+
+[[[i]]]
+
+[[[nfo]]]&#xa0;1.&#xa0;
+
+[[[Cr]]]
+
+[[[e]]]
+
+[[[ati]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[of]]]
+
+[[[ ]]]
+
+[[[a new in]]]
+
+[[[d]]]
+
+[[[ependent]]]
+
+[[[ ]]]
+
+[[[in]]]
+
+[[[d]]]
+
+[[[ust]]]
+
+[[[r]]]
+
+[[[y bod]]]
+
+[[[y]]]
+
+[[[/]]]
+
+[[[v]]]
+
+[[[ehic]]]
+
+[[[l]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[to]]]
+
+[[[ ]]]
+
+[[[s]]]
+
+[[[i]]]
+
+[[[t at]]]
+
+[[[ ]]]
+
+[[[cen]]]
+
+[[[t]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[ of]]]
+
+[[[ ]]]
+
+[[[im]]]
+
+[[[p]]]
+
+[[[r]]]
+
+[[[o]]]
+
+[[[v]]]
+
+[[[ed]]]
+
+[[[ ]]]
+
+[[[medical e]]]
+
+[[[v]]]
+
+[[[ide]]]
+
+[[[n]]]
+
+[[[ce]]]
+
+[[[ ]]]
+
+[[[pro]]]
+
+[[[c]]]
+
+[[[e]]]
+
+[[[s]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[(]]]
+
+[[[“]]]
+
+[[[M]]]
+
+[[[ed]]]
+
+[[[C]]]
+
+[[[o]]]
+
+[[[”]]]
+
+[[[)]]]&#xa0;Current absence of any regulatory or other body to provide structure, guidance, ongoing audit and, if necessary, sanctions where the medical evidence providers or process fall short.&#xa0;The absence of any central audit function means a current lack of accountability and resultant risk of experts writing opinions with impunity.&#xa0;-              MedCo  should  be  run  by  a  new,  independent  board  with  cross  industry representation with potential Government involvement (at least around policy issues).&#xa0;-              Option to put the creation and running of MedCo out to tender to commercial entities, but equally possible for it to be “not for profit” but with fixed cost infrastructure and full time employees.&#xa0;-              MedCo should be self-funding, with suggested options for the funding of set up and ongoing costs including an annual accreditation fee to be paid by Drs or MROs or a levy contained within each medical report fee.&#xa0;-              MedCo’s powers and responsibilities to include:-&#xa0;(i)                            Accrediting Drs (and possibly MROs) -  see criteria below (ii)                             Reviewing / auditing Experts and their evidence / opinions a.              Rolling random testing / auditing programmeb.              Specific review where data analysis highlights outliers in opinion c.              Specific review where expert(s) is referred for review
+
+[[[Nb]]]: no requirement for systematic annual review of every expert dueto practical and cost restraints.&#xa0;(iii)  Suspend/remove accreditation where criteria no longer met&#xa0;(iv)  Gathering required MI to allow identification of outliers in opinion in (ii)above&#xa0;-              The introduction of MedCo with the powers to audit and remove accreditation where necessary would lead to a cultural change in certain expert behaviour and thought process.&#xa0;2&#xa0;
+
+[[[Cr]]]
+
+[[[e]]]
+
+[[[ati]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[of]]]
+
+[[[ ]]]
+
+[[[c]]]
+
+[[[en]]]
+
+[[[t]]]
+
+[[[r]]]
+
+[[[al]]]
+
+[[[ ]]]
+
+[[[&amp; in]]]
+
+[[[d]]]
+
+[[[ependent]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[c]]]
+
+[[[c]]]
+
+[[[r]]]
+
+[[[edi]]]
+
+[[[t]]]
+
+[[[ati]]]
+
+[[[o]]]
+
+[[[n ]]]
+
+[[[f]]]
+
+[[[or]]]
+
+[[[ ]]]
+
+[[[D]]]
+
+[[[r]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[p]]]
+
+[[[r]]]
+
+[[[o]]]
+
+[[[v]]]
+
+[[[idi]]]
+
+[[[n]]]
+
+[[[g]]]
+
+[[[ ]]]
+
+[[[medic]]]
+
+[[[a]]]
+
+[[[l e]]]
+
+[[[v]]]
+
+[[[ide]]]
+
+[[[n]]]
+
+[[[ce]]]
+
+[[[ ]]]
+
+[[[for]]]
+
+[[[ ]]]
+
+[[[R]]]
+
+[[[T]]]
+
+[[[A]]]
+
+[[[ ]]]
+
+[[[cl]]]
+
+[[[a]]]
+
+[[[ims]]]&#xa0;Current  absence  of  clear  criteria  for  being considered an “expert” in this area&#xa0;-              Annual re-accreditation required.&#xa0;-              Accreditation criteria to include, as a minimum, a demonstration / evidence by the Dr of:-&#xa0;(i)              A certain level of clinical experience (level TBC)&#xa0;(ii)              a working knowledge of up to date recognised research / opinion in&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;relevant medical area (with potentially an annual CPD requirement)&#xa0;(iii)              working knowledge of CPR&#xa0;(iv)         the Dr’s independence from the claims process and outcome of the claim – the Dr must be paid regardless of the outcome of the relevant claim and be obliged to certify that he has no financial interest in the outcome of the claim&#xa0;(v)          Objective,   sound  &amp;  reasonable  opinions   regarding  injuries   and prognosis periods on an ongoing basis (report information audit)&#xa0;(vi)         the ability to generate the required information (electronically) to allow central analysis by MedCo of medical report data and opinions&#xa0;-              A suitable level (£) of accreditation fee or report levy was not considered at this stage.&#xa0;3&#xa0;
+
+[[[In]]]
+
+[[[t]]]
+
+[[[r]]]
+
+[[[oducti]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[of]]]
+
+[[[ ]]]
+
+[[[a ma]]]
+
+[[[n]]]
+
+[[[da]]]
+
+[[[t]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[y ]]]
+
+[[[r]]]
+
+[[[eq]]]
+
+[[[u]]]
+
+[[[i]]]
+
+[[[r]]]
+
+[[[ement]]]
+
+[[[ ]]]
+
+[[[for]]]
+
+[[[ ]]]
+
+[[[e]]]
+
+[[[a]]]
+
+[[[c]]]
+
+[[[h]]]
+
+[[[ ]]]
+
+[[[D]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[/ ]]]
+
+[[[r]]]
+
+[[[ep]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[to]]]
+
+[[[ ]]]
+
+[[[ge]]]
+
+[[[n]]]
+
+[[[e]]]
+
+[[[r]]]
+
+[[[ate]]]
+
+[[[ ]]]
+
+[[[c]]]
+
+[[[er]]]
+
+[[[t]]]
+
+[[[ain el]]]
+
+[[[e]]]
+
+[[[ctro]]]
+
+[[[n]]]
+
+[[[i]]]
+
+[[[c]]]
+
+[[[ ]]]
+
+[[[data/]]]
+
+[[[m]]]
+
+[[[anage]]]
+
+[[[m]]]
+
+[[[ent in]]]
+
+[[[f]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[ma]]]
+
+[[[t]]]
+
+[[[ion]]]
+
+[[[ ]]]
+
+[[[to]]]
+
+[[[ ]]]
+
+[[[fa]]]
+
+[[[c]]]
+
+[[[ilita]]]
+
+[[[t]]]
+
+[[[e im]]]
+
+[[[p]]]
+
+[[[r]]]
+
+[[[o]]]
+
+[[[v]]]
+
+[[[ed]]]
+
+[[[ ]]]
+
+[[[au]]]
+
+[[[d]]]
+
+[[[it]]]
+
+[[[ ]]]
+
+[[[and]]]
+
+[[[ ]]]
+
+[[[an]]]
+
+[[[al]]]
+
+[[[y]]]
+
+[[[s]]]
+
+[[[is]]]&#xa0;Standard report formats already exist, as do electronic report writing tools so the underlying information within medical reports is not regarded as the core issue.&#xa0;However, there is no central gathering of the relevant data to track medical opinion &amp; prognosis periods being given by experts, from which decisions can be taken and rogue or questionable opinions highlighted.&#xa0;-              There were mixed views on the need or benefit in designing a new mandatory medical report format or tick box sheet/form for RTA claims.&#xa0;-              However, MedCo requires electronic data from each RTA related medical report in  order  to  assess  the  range  of  injuries  being  sustained  and  associated prognosis periods and other information being provided across the industry and country.&#xa0;-              The  ability  to  highlight  which  experts  (rather  than  individual  reports)  and organisations merit closer examination relies upon the capture of certain data centrally.&#xa0;-              Capturing more data centrally would provide much needed information on the volume of whiplash injuries (and their severity) and claims and importantly allow reports/opinions/prognosis periods to be assessed.&#xa0;-              Data Protection issues would need to be considered carefully.&#xa0;4&#xa0;
+
+[[[Cr]]]
+
+[[[e]]]
+
+[[[ati]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[of]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[r]]]
+
+[[[ame]]]
+
+[[[w]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[k]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[h]]]
+
+[[[at ensu]]]
+
+[[[r]]]
+
+[[[e]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[D]]]
+
+[[[r]]]
+
+[[[s’]]]
+
+[[[ ]]]
+
+[[[and]]]
+
+[[[ ]]]
+
+[[[M]]]
+
+[[[R]]]
+
+[[[O]]]
+
+[[[s’ in]]]
+
+[[[d]]]
+
+[[[ependence]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[r]]]
+
+[[[om]]]
+
+[[[ ]]]
+
+[[[t]]]
+
+[[[he cl]]]
+
+[[[a]]]
+
+[[[ims]]]
+
+[[[ ]]]
+
+[[[pro]]]
+
+[[[c]]]
+
+[[[e]]]
+
+[[[s]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[its]]]
+
+[[[e]]]
+
+[[[l]]]
+
+[[[f]]]
+
+[[[.]]]&#xa0;Perception that Drs are potentially frightened to say what they really think for fear they might not be paid for their work.&#xa0;Independence of MROs is a related, but separate topic to the independence of the Drs actually writing the medical reports.&#xa0;There is a perception that MROs linked or owned by solicitors fails any objective independence test.&#xa0;-              Drs must be paid regardless of the outcome of the relevant claim  whether instructed by a solicitor directly, via an MRO or an insurance company.&#xa0;-              No consensus as to who should be responsible to pay the Dr, or when the Dr should be paid.  Specifically, it is questionable whether it is suitable for a Dr to agree to wait until conclusion of the case before he is paid needs to be considered given the perceived incentive this creates.&#xa0;-              There was a suggestion that the defendant insurance company should pay the Dr’s / MRO’s fee within a specified number of days of receiving the medical report via the MOJ portal in liability admitted cases, which would ensure there is&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;no financial incentive linked to the outcome of the claim.&#xa0;-              Although the current statement of truth goes some of the way, agreement that a specific “statement of independence” [from the outcome of the claim] at the end of each report would focus the expert’s mind.&#xa0;-              There is a requirement to define what “independent of the claims process” actually means in this context, with guidance to be provided regarding appropriate level of connected party relationship and proximity of relationships between instructing parties and the experts.&#xa0;-              Agreement that solicitors and insurers should continue to be allowed to instruct a medical expert directly, subject to that Dr satisfying the accreditation and independence tests.&#xa0;-              Differing views regarding whether solicitors sending all their medical evidence requirements to their own, in house MRO, is appropriate if even from a perception perspective.&#xa0;-              Differing views regarding whether or not the fact that the ABS license process allow solicitors to own an MRO means that the independence question has been dealt with already.&#xa0;-              Agreement that a fixed cost regime (within the CPR) with prices set at the appropriate  level  for  volume  medical  reports  would  remove  the  financial incentive for many solicitors to own their own, in house, MRO.&#xa0;5&#xa0;
+
+[[[In]]]
+
+[[[t]]]
+
+[[[r]]]
+
+[[[oducti]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[of]]]
+
+[[[ ]]]
+
+[[[spec]]]
+
+[[[i]]]
+
+[[[f]]]
+
+[[[ic ma]]]
+
+[[[n]]]
+
+[[[dat]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[y]]]
+
+[[[ ]]]
+
+[[[in]]]
+
+[[[f]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[m]]]
+
+[[[ati]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[that m]]]
+
+[[[u]]]
+
+[[[st]]]
+
+[[[ ]]]
+
+[[[b]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[pro]]]
+
+[[[v]]]
+
+[[[ided]]]
+
+[[[ ]]]
+
+[[[to]]]
+
+[[[ ]]]
+
+[[[the]]]
+
+[[[ ]]]
+
+[[[Dr]]]
+
+[[[ p]]]
+
+[[[r]]]
+
+[[[ior]]]
+
+[[[ ]]]
+
+[[[to]]]
+
+[[[ ]]]
+
+[[[/]]]
+
+[[[ a]]]
+
+[[[t]]]
+
+[[[ ]]]
+
+[[[the]]]
+
+[[[ ]]]
+
+[[[e]]]
+
+[[[x]]]
+
+[[[aminat]]]
+
+[[[i]]]
+
+[[[on]]]&#xa0;Drs often only have the claimant’s version ofevents on which to base their opinion.&#xa0;Further, if the claimant is aware that his will be the only version of events presented, it opens up the possibility of exaggeration or at least someone “laying it on a bit thick” to make a point, without fear of challenge.&#xa0;-              Defendant insurers should have the ability to submit (via the MOJ portal) their view / understanding of the accident circumstances and / or previous accident history if they do not agree with the version of events/claims history submitted with the claimant’s CNF – both versions to be provided to the Dr where two versions exist.&#xa0;-              The Claimant should not be examined until either the defendant has submitted its response to the CNF, or before a max 16 working days have elapsed (to allow for the defendant to respond within portal time limits).  This ensures that both versions of events will be available to the expert if necessary.&#xa0;-              Agreement that the Dr is not in a position to believe one version of the events more than the other, but knowledge that both versions of events will be submitted to the Dr will make claimants consider carefully embellishing the facts.&#xa0;-              Agreed that the Dr’s role is not to judge or perform the role of a detective, but toprovide his objective opinion based upon the information in front of him.&#xa0;-              Agreement that the MOJ portal should allow the defendant to request that&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;medical records be reviewed on a case by case basis, as they would do so in the knowledge that it would incur cost to them and prolong the claim lifecycle,so would not be done without thought.&#xa0;-              Suggestion that medical records should be reviewed as a matter of course if a prognosis period of, say, &gt; 9 mths is being given.&#xa0;-              Proposal that the existence of two materially differing versions of events could be noted in the medical report and, together with other indicators, captured in the electronic information being provided to MedCo in order to build up a series of “red flags”.&#xa0;-              Suggestion  that  the  Dr,  whilst  clearly  not  an  expert  in  motor  engineering matters, might be in a better position to build an overall picture of events if information was provided outlining the extent of damage sustained to the vehicle.&#xa0;6&#xa0;
+
+[[[Cr]]]
+
+[[[e]]]
+
+[[[ati]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[of]]]
+
+[[[ ]]]
+
+[[[an a]]]
+
+[[[c]]]
+
+[[[c]]]
+
+[[[r]]]
+
+[[[edi]]]
+
+[[[t]]]
+
+[[[at]]]
+
+[[[i]]]
+
+[[[on ]]]
+
+[[[f]]]
+
+[[[or]]]
+
+[[[ ]]]
+
+[[[M]]]
+
+[[[R]]]
+
+[[[O]]]
+
+[[[s]]]
+
+[[[ ]]]
+
+[[[pro]]]
+
+[[[v]]]
+
+[[[idi]]]
+
+[[[n]]]
+
+[[[g]]]
+
+[[[ ]]]
+
+[[[R]]]
+
+[[[T]]]
+
+[[[A me]]]
+
+[[[d]]]
+
+[[[ic]]]
+
+[[[a]]]
+
+[[[l]]]
+
+[[[ ]]]
+
+[[[e]]]
+
+[[[v]]]
+
+[[[ide]]]
+
+[[[n]]]
+
+[[[ce]]]&#xa0;
+
+[[[(]]]
+
+[[[s]]]
+
+[[[e]]]
+
+[[[pa]]]
+
+[[[r]]]
+
+[[[a]]]
+
+[[[t]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[to]]]
+
+[[[ ]]]
+
+[[[in]]]
+
+[[[d]]]
+
+[[[i]]]
+
+[[[v]]]
+
+[[[id]]]
+
+[[[u]]]
+
+[[[al]]]
+
+[[[ ]]]
+
+[[[Dr]]]
+
+[[[ a]]]
+
+[[[c]]]
+
+[[[c]]]
+
+[[[r]]]
+
+[[[edi]]]
+
+[[[t]]]
+
+[[[ati]]]
+
+[[[o]]]
+
+[[[n)]]]&#xa0;Current absence of any clear criteria to be met prior to any organisation providing or processing medical evidence in this area.&#xa0;Currently no benchmarks exist for suitable or minimum requirements regarding the processing of highly sensitive medical information, the nature of commercial terms with the underlying panel of experts or the independence of the organisation from the outcome of the claims process itself.&#xa0;-              Differing views over whether MROs should be accredited if the Drs on the underlying expert panel are to be accredited and audited per the proposals above.&#xa0;-              Agreement  that  min  standards  regarding  the  processing  and  storage  of sensitive medical information are required to give confidence to claimants regarding how their personal information is being stored/used/shared.&#xa0;-              Agreement that MROs should be required to demonstrate that they pay their experts regardless of the outcome of the relevant claim.&#xa0;-              Differing views regarding whether the independence arguments in favour of requiring Drs to be paid in all cases apply equally to the payment of MROs’ invoices.&#xa0;-              Differing views over whether MROs agreeing commercially to carry some of the financial risk of cases failing (waiving their fees) fetters their independence.&#xa0;-              Agreement that the introduction of a fixed cost regime (within the CPR) for volume expert types would remove some of the financial incentives for solicitors to own in house MROs.&#xa0;-              Differing views regarding whether a solicitor sending all its medical evidence instructions to its own, in house MRO, fetters the MRO’s independence from the claims process.&#xa0;&#xa0;&#xa0;7&#xa0;
+
+[[[In]]]
+
+[[[t]]]
+
+[[[r]]]
+
+[[[oducti]]]
+
+[[[o]]]
+
+[[[n]]]
+
+[[[ ]]]
+
+[[[of]]]
+
+[[[ ]]]
+
+[[[a]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[ix]]]
+
+[[[e]]]
+
+[[[d]]]
+
+[[[ ]]]
+
+[[[cost ]]]
+
+[[[r]]]
+
+[[[egime]]]
+
+[[[ ]]]
+
+[[[f]]]
+
+[[[o]]]
+
+[[[r]]]
+
+[[[ ]]]
+
+[[[v]]]
+
+[[[olu]]]
+
+[[[m]]]
+
+[[[e]]]
+
+[[[ ]]]
+
+[[[medi]]]
+
+[[[c]]]
+
+[[[al e]]]
+
+[[[v]]]
+
+[[[ide]]]
+
+[[[n]]]
+
+[[[ce]]]&#xa0;The current rules and process allow for rogue and  excessive  invoices  for  GP  and Orthopaedic  reports  at  rates  significantly above the generally agreed “going rates” to be issued and supported on assessment.&#xa0;The absence of an industry wide fixed cost regime,  as  opposed  to  a  voluntary arrangement between certain insurers and certain MROs, creates an incentive for organisations to operate at the fringes (and “below the radar”) for commercial benefit, adding  unnecessary  cost  to  the  claims process.&#xa0;-              A fixed cost regime akin to the current voluntary MRO Agreement with prices set at the appropriate level would remove excessive invoices from the system and remove the need for defendant insurers to challenge medical disbursement costs.&#xa0;-              It would remove the financial incentive for solicitors or CMCs to own their own MRO for financial gain, and leave the decision to own an MRO (if permitted) to be almost purely based on whether the solicitor or CMC wants control of the medical evidence process from a “customer journey” perspective.&#xa0;&#xa0;

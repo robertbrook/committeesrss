@@ -1,0 +1,991 @@
+&#xa0;Treasury CommitteeOral evidence: Autumn Statement 2013, HC 826Thursday 12 December 2013Ordered by the House of Commons to be published on Thursday 12 December 2013Watch the meetingMembers present: Mr Andrew Tyrie (Chair), Mark Garnier, Stewart Hosie, Andrea Leadsom, Mr Andrew Love, John Mann, Mr Pat McFadden, Mr George Mudie, Mr Brooks Newmark, Jesse Norman, Teresa Pearce, Mr David Ruffley, John Thurso&#xa0;Questions [145-236]Witness[es]: 
+
+[[[Rt]]]
+
+[[[ Hon George Osborne]]], Chancellor of the Exchequer, and 
+
+[[[Mr James Bowler]]], Director for Strategy, Planning and Budget, HM Treasury, gave evidence.
+
+[[[Q145 ]]]&#xa0; 
+
+[[[Chair:]]] Good morning, Chancellor. Good morning, Mr Bowler. You are in charge of budget and planning?
+
+[[[Mr Bowler]]]: Yes, I am the one who puts it together.
+
+[[[Chair:]]] Yes. Thank you both very much for coming to give evidence this morning. I would also like to take this opportunity to thank the Government for their co-operation in implementing both the Treasury Select Committee proposals on the Payments Council and also the Banking Commission proposals, which have now found their way on to the statute book. There was a great deal of co-operation and also co-operation with the Opposition Front Benchers and I think that is good news. It shows that Parliament can move from the dignified to the effective part of the constitution sometimes. You are going to come and talk to us about the macro-economy, among other things, in the aftermath of the autumn statement but you are going to be with us in a few months’ time anyway for the budget. Are you able to tell us yet when the budget is going to be?
+
+[[[Mr Osborne]]]: Thank you, Mr Tyrie, for that welcome and I am glad we were able to work together on those important issues of fixing our banking system and do so in a co-operative way. My intention is that the budget will be on 19 March next year.
+
+[[[Q146 ]]]&#xa0; 
+
+[[[Chair:]]] I would like to ask you a few questions about ring-fencing. If we look at what is known in the trade as resource DEL—that is departmental expenditure limits excluding capital—until your autumn statement about half was ring-fenced. That is right, isn’t it? That is health, schools and age, basically.
+
+[[[Mr Osborne]]]: Yes.
+
+[[[Chair:]]] But you have now added another chunk, haven’t you: local government, HMRC and security intelligence spending?
+
+[[[Mr Osborne]]]: I would not say that those are ring-fenced. Those were individual decisions that I took this year. Local government because they have made significant savings already and I would now like to see them implement the council tax freeze; the security intelligence services because of the pressure of work they face due to the threat to the UK; and HMRC because they have a specific plan to ensure greater revenues coming in, so I was satisfied by that plan.
+
+[[[Q147 ]]]&#xa0; 
+
+[[[Chair:]]] This is only for a year then?
+
+[[[Mr Osborne]]]: I would not put those in the ring-fence in the sense—
+
+[[[Chair:]]] I was trying to be clear whether they are ring-fenced for a year or whether they are ring-fenced for longer.
+
+[[[Mr Osborne]]]: They were exempted from the decision to top-slice, to use the jargon, the other Government budgets.
+
+[[[Chair:]]] For one year or for present hearing?
+
+[[[Mr Osborne]]]: Just for this decision. Obviously we could take the same decision if we were ever to do a top-slice again, but I would not commit myself in future to ring-fencing their budgets; whereas the commitment to protect health spending, the commitment to protect school spending and the commitment to 0.7% ODA-GNI target for aid are commitments we have made for this Parliament.
+
+[[[Q148 ]]]&#xa0; 
+
+[[[Chair:]]] I understand. I am just trying to get clarity. These are not even ring-fenced for one year. They are only being given this special treatment until, for example, the budget?
+
+[[[Mr Osborne]]]: As I say, if we were to take a future decision on expenditure in departments, we would look at a case-by-case basis of those departments.
+
+[[[Chair:]]] The answer is you may change this policy at—
+
+[[[Mr Osborne]]]: I would not describe it as ring-fencing. I would describe it as a specific decision.
+
+[[[Chair:]]] That was your earlier point but, whether or not we call it ring-fencing, it is generally understood to be ring-fencing or maybe you have two types of ring-fencing running now. I was just trying to be clear. Local government, HMRC and security intelligence spending are only in this category—call it ring-fencing or whatever you want—for a period until you decide otherwise and that decision could come at any time. It could come as early as the budget. Is that right?
+
+[[[Mr Osborne]]]: I think you are implying that there might be some future expenditure decision at the budget or whatever. I would say that is all very hypothetical. I have made a very specific decision for this autumn statement about what budgets there needed to be further savings in and what budgets, for particular reasons, there were not. I would put those departments that you have mentioned in a different category to health, schools and aid.
+
+[[[Q149 ]]]&#xa0; 
+
+[[[Chair:]]] That is the same answer you gave first up, which is—
+
+[[[Mr Osborne]]]: Consistent.
+
+[[[Chair:]]] —short of what many people would consider some important information. Whether we run with what amounts to 50% of resource DEL being ring-fenced or 70%, we are going to have a problem, aren’t we, Chancellor, as we try to bear down, as all parties agree we need to bear down in varying degrees, and rein in the deficit? Ring-fencing is good politics but it is bad economics and bad housekeeping, isn’t it? We have an election coming. How important do you think it is that all political parties in the forthcoming election show some restraint in how they exercise their right to engage in what could become a bidding war for guaranteed protection for various heads of spending?
+
+[[[Mr Osborne]]]: I am not going to commit my party or talk about what other parties might do, but I would make this point. I do not accept your distinction between good politics and bad economics. First of all, I think what it is a reflection of is where the public wants their money spent. It is the public’s money, not my money or, dare I say it, Parliament’s money. It is the public’s money and the public have made it very clear that their priorities are things like the national health service. That is the first point.Secondly, investment in education is something that an economist would tell you is also a good investment. I think it makes economic sense to be investing in education and, indeed, more generally over this Parliament we have tried to shift spending into capital spending and investment in the long-term economic infrastructure of this country. Perhaps later we will talk about the decisions we have taken on student numbers, for example, in this autumn statement. That is an investment in Britain’s economic future, but it is up to all of us, which every party we represent, to seek to reflect and represent the aspirations of the British people and I think the decisions we have made on what budgets get a relative priority are representative of that.
+
+[[[Q150 ]]]&#xa0; 
+
+[[[John Mann:]]] Following the coalition agreement, why is it fair and acceptable that a German worker will be able to retire aged 63 but the same worker in this country will have to wait until they are 69 to retire?
+
+[[[Mr Osborne]]]: I think each country needs to make its own decisions about what is fiscally sustainable for that country, and it is up to the German Government to make that decision for Germany. I think in Britain a consensus was achieved by Adair Turner in the report commissioned by Tony Blair that, in order to protect decent pensions for people, the pension age had to rise in line with life expectancy. The previous Labour Government legislated for changes to the pension age of 66, 67 and 68. When we came into office we made a decision that, because life expectancy had increased in between the publication of the Turner report and the arrival of the new Government, the pensions ages of 66 and 67 needed to change. That then left 68 where Tony Blair legislated for.
+
+[[[John Mann:]]] But how is it possible that the same worker in Germany will, under their new coalition agreement, be able to retire aged 63?
+
+[[[Mr Osborne]]]: As I say, each country needs to make its own decisions about these things. What we are seeking to do—and we are passing legislation through Parliament at the moment and, as far as I understand, this has all-party support—is tie the pension age to changes in life expectancy and for that to be independently evaluated now by a review every five years. In the past these changes have been introduced first by a Conservative Government in the 1990s and then by a Labour Government. I would hope that one of the strengths of this country is we have a cross-party consensus that, in order to keep our pensions affordable in this country and to be able to go on paying decent pensions through the basic state pension, we have to make sure the life expectancy and the state pension age are linked.&#xa0;
+
+[[[Q151 ]]]&#xa0; 
+
+[[[John Mann:]]] Yes, you said that. Shall we move on to fuel? Let us take the average-sized British car. How much would you say, from your experience, it costs today to fill up a Vauxhall Astra?
+
+[[[Mr Osborne]]]: I do not have the numbers.
+
+[[[John Mann:]]] What would your estimate be? 
+
+[[[John Mann:]]] I am not going to make an estimate. I have no doubt you have the number in front of you, so you can tell me.
+
+[[[John Mann:]]] I do fill up my own car. If I was to tell you it was £73 to help you, how much more does it cost to fill up a Vauxhall Astra from the moment you became Chancellor to today?
+
+[[[Mr Osborne]]]: It is 20 pence per litre or around £11 cheaper than it would have been if I had stuck with the budget increases that you voted for.
+
+[[[John Mann:]]] You are saying it is cheaper for someone to fill up a Vauxhall Astra 1.6 litre now than it was when you became Chancellor?
+
+[[[Mr Osborne]]]: No, I am saying it is cheaper—
+
+[[[John Mann:]]] How much more is it?
+
+[[[Mr Osborne]]]: It is cheaper than it would have been if we had stuck with your plans.
+
+[[[John Mann:]]] I am just asking how much more it is. You are the man with your finger on the pulse. How much more to fill up a Vauxhall Astra that today costs £73 to fill up?
+
+[[[Mr Osborne]]]: As I say, it is cheaper than it would have been if we had stuck with your plans.
+
+[[[John Mann:]]] I know that your colleagues suggest that you are yearning for a Chinese-style Government, but you are here to answer questions. What is your estimate of how much more it is?
+
+[[[Mr Osborne]]]: As I say, the decisions that are within my gift—I do not control the world oil price—are the decisions of taxation and petrol is 20 pence per litre cheaper than it would have been if I had stuck with—
+
+[[[John Mann:]]] You say “cheaper”. Doesn’t the public have a right to know how much more it is for them to fill up their car in your tenure as Chancellor and should you not be the one who tells them?
+
+[[[Mr Osborne]]]: I am pointing out that it is cheaper than it would have been if I had stuck with the plans I inherited.
+
+[[[Q152 ]]]&#xa0; 
+
+[[[John Mann:]]] I will give you the answer. Under you, it is £5 more to fill up a Vauxhall Astra just in the time since you have been Chancellor, thanks to your VAT rise. On the growth figures, in the budget you made great play of the fact that this country was doing particularly well; we are growing faster than any other major advanced country, faster even than America. Obviously, in your definition of “advanced economies” you are not including China. You also do not appear to be including Korea where the JETCO has just been agreed and which may be a surprise to the Koreans. Can you confirm that we are not growing faster than China or Korea and can you just refresh us on whether you were accurate in relation to the United States?
+
+[[[Mr Osborne]]]: First of all, I referred to advanced western economies and I do not think people would describe China as an advanced western economy.
+
+[[[John Mann:]]] No, Chancellor. Let me correct you. No, you did not. I am quoting from you. This is what you said and we do need some accuracy from the Chancellor of the Exchequer. You said, “I can report that Britain is currently growing faster than any other major advanced economy.”
+
+[[[Mr Osborne]]]: Well, China is—
+
+[[[John Mann:]]] I am saying that Korea and China are advanced economies and you have just agreed a deal with Korea to try and attract more investment.
+
+[[[Mr Osborne]]]: China is—
+
+[[[John Mann:]]] Tell us about America. Were you accurate on America?
+
+[[[Mr Osborne]]]: If you let me answer your questions. First of all, I do not think China would be classified by most international bodies as an advanced economy. I think China goes out of its way, itself, to say that it is an emerging economy.
+
+[[[John Mann:]]] And Korea?
+
+[[[Mr Osborne]]]: Second, on the United States—
+
+[[[John Mann:]]] And Korea?
+
+[[[Mr Osborne]]]: As I say, the definition of the major advanced economies is normally the members of the G7. I will come on to the point about the United States.
+
+[[[John Mann:]]] You are saying that Korea is not an advanced economy, for clarity?
+
+[[[Mr Osborne]]]: I am saying it is not a member of the G7. Let me make this point about the United States. By the way, it is in our interests that the United States grows and does well because it is a major trading partner of ours. It is true, and I suspect this is where you are getting to, that a few hours after the autumn statement the GDP revisions for the United States came out that showed that it had grown by 0.9% in the previous quarter, rather than the 0.7% that it had been growing at, and we grew at 0.8%. Indeed, I have acknowledged that it, but it is hardly a blow that we are growing almost as fast as the United States of America and considerably faster than, again unfortunately, most of our European neighbours who we would like to grow faster. For example, in your own constituency, Mr Mann, the claimant count has fallen by 8% since the general election. Your constituents are also seeing some of that economic growth feeding through into more people being in work.
+
+[[[John Mann:]]] In my own constituency two out of three people who went to the credit union last week were turned down, even from a credit union.
+
+[[[Mr Osborne]]]: We are going—&#xa0;
+
+[[[Q153 ]]]&#xa0; 
+
+[[[John Mann:]]] There have been six major fines on RBS this year. There has been one on Lloyds yesterday. Are you happy with your performance in monitoring these state-owned banks and the fact that, even under your tenure, they are still doing the same thing in terms of their banking culture?
+
+[[[Mr Osborne]]]: The LIBOR fines levied against RBS were, of course, for things that happened primarily in the years 2008 and 2009.
+
+[[[Q154 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Garnier]]]
+
+[[[:]]] Chancellor, can I turn to the issue of household vulnerability and, in particular, household savings ratios and debt ratios and indeed how that is going to have an effect on consumption? Over the last couple of days we have been asking some economists and the OBR what their views are on the very high levels of household debt, even though it is coming down as a gross debt to income ratio and they seem broadly relaxed about it. Do you share that view?
+
+[[[Mr Osborne]]]: There has been a deleveraging of the household sector. It is something that the Governor of the Bank has pointed to. In a sense the whole nation, the Government and the private sector, had to undergo a process of deleveraging after the financial crash and the great recession, but the question for us now is: what is the appropriate level of household debt; not for any individual, but collectively. We now have a mechanism in place, through the Financial Policy Committee of the Bank of England, to make assessments on that and also they have tools to do things about it if they think it is getting out of kilter.
+
+[[[Q155 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Garnier]]]
+
+[[[:]]] One of the interesting things, if you go back through history, is this household gross debt to income ratio. If you look at one of your predecessors, Nigel Lawson, during the Lawson boom of the 1980s, that ratio went from 70% to 80%. In the decade leading up to the financial crisis that ratio went from 100% to 170%. While Nigel Lawson created a boom that required a 12% increase in household leverage, the Brown bubble saw a 70% increase in household leverage. Has that not left households unusually vulnerable to the inevitable rise in interest rates, which we will see at some point in the future?
+
+[[[Mr Osborne]]]: First of all, there has been a reduction from around 170% to 140.9%. I would say the interest rate decision is something that is for the Monetary Policy Committee. They are in charge of interest rates; at least the bank rate, not the market rates and may of the things we are doing in order to ensure credible public finance helps keep those market rates down and lower than they would otherwise be. The Monetary Policy Committee is established to make a judgment about the impact of a rate change on households in the broader economy and the Financial Policy Committee is there to deal with specific issues around indebtedness, which frankly I did not think were sufficiently well covered by the institutions in the run up to the crash. I don’t think it is for the Chancellor to make a comment on the impact of interest rate changes on families.
+
+[[[Q156 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Garnier]]]
+
+[[[:]]] I think that is a very fair comment. One of the interesting comments that Mark Carney made when I asked him about this when he came in with the MPC previously was that inevitably he would have to raise interest rates back to a level of normal low interest rates, potentially a six-fold increase in funding costs from 0.5% to more like 3%, when the economy recovers, which it is doing. The problem is he also made the point that he could not use his judgment on the minority of households that have been left very vulnerable as a result of the colossal increase in household debt leading up to the financial crisis. That inevitably means that you have had to deal with the legacy of shocked public finances, but as the recovery happens you are potentially going to have the legacy of the Brown bubble with vulnerable households that maybe haven’t emerged as vulnerable.As the tide of economic recovery comes in, we are only going to discover then what households have been held below the waterline and this is something you are going to have to deal with. You are absolutely right about the MPC making the decision about doing the right thing by the wider economy but, nonetheless, there are going to be households that, many years after the crisis happened, it is going to be up to politicians to help. What consideration have you given to that?
+
+[[[Mr Osborne]]]: First of all, for individual families or households that have problems with their own debts, personal debts, we have a money advice service now and organisations like the Citizens Advice Bureau and others are very good at helping people with individual cases. I would make a broader point. The best thing the authorities can do, and this is a decision that the MPC and the new Bank Governor have taken, is to at least provide people with good communication about the future expected path of interest rates. That enables families to anticipate what future changes there might be. I think the Bank of England has done a good job and indeed a better job than some central banks at giving a better forward guidance on the likely path of interest rates or the thresholds that would lead to them thinking about interest rate decisions. I think communication is an issue.I would just make this point, though. There has been a deleveraging. I completely agree with you that we had an unsustainable debt boom in the last decade that led to the biggest recession and financial crisis of modern history in this country, or contributed to it, but at the moment debt servicing costs are own for families. We also have this new architecture that will keep an eye on this and I have confidence in the system that Parliament and the Government have established to monitor this going forward.
+
+[[[Q157 ]]]&#xa0; 
+
+[[[Mark ]]]
+
+[[[Garnier]]]
+
+[[[:]]] Just one final question, if I may, getting back to Mr Mann’s questions on the cost of filling up a Vauxhall Astra. Chancellor, you are the Finance Minister of the sixth biggest economy on the planet. Can you just give us an idea of how much control you have, as an individual, have over global commodity prices, in particular energy costs?
+
+[[[Mr Osborne]]]: Sadly, I have no control over the global oil price.
+
+[[[Mark ]]]
+
+[[[Garnier]]]
+
+[[[:]]] None at all. That is fine, thank you.
+
+[[[Q158 ]]]&#xa0; 
+
+[[[Stewart ]]]
+
+[[[Hosie]]]
+
+[[[:]]] Chancellor, the OBR said, “Global monetary policy has been exceptionally loose for an extended period. As investors anticipate a return to more normal monetary conditions this could cause disruptive volatility in markets with potential spill-over effects for the wider economy.” In your view, what are the dangers posed to the economy as a whole by a return to more normal market conditions?
+
+[[[Mr Osborne]]]: First of all, I think an accommodative monetary policy has been an essential part of supporting demand during this exceptionally difficult recession and recovery from that recession, particularly with the problems in the banking system. Second, obviously there is an issue, which is particularly live in the United States, about, at least in their case, turning off some of the taps that are still on or reducing the tap flow. That is for them to decide.I do not want to be too repetitive, but I think the lesson we can learn from the discussion in the United States about the taper and the impact that has on markets is that good communication is necessary. I think Governor Carney goes out of his way in his speeches to be very clear about what is guiding his decisions and what the MPC are looking at. Of course, this has been a collective decision of the MPC.&#xa0;
+
+[[[Q159 ]]]&#xa0; 
+
+[[[Stewart ]]]
+
+[[[Hosie]]]
+
+[[[:]]] I understand the argument about the taper and I suppose a corollary here would be, were QE to be unwound and that new money withdrawn to reduce the balance sheet of the Bank, the same argument would apply, but I am thinking more specifically about the practical impact of a return to normal conditions rather than the way in which it happens. Will we see more liquidations in businesses who are managing to service the debt on very low interest rates? Will we see families get into more trouble who, again, manage to service the debt with low interest rates when the interest rates rise? Where do you see the specific dangers in a return to more normal conditions?
+
+[[[Mr Osborne]]]: First of all, I make a general observation that a return of robust economic growth is not a bad thing for families or households. It is a good thing and, indeed, the living standards of families and the success of businesses is tied to the economy. I think that argument has been well understood and has won the day here. That is the first point I make.Secondly, we come back to these points about household debt and the impact of interest rate changes on families. That is what the MPC and the Financial Policy Committee exist to make an assessment of. I made the observation that, first, overall household debt has come down and, second, the cost of servicing debt as a share of disposable household incomes is well below its pre-crisis levels and, third, when it comes to business ultimately the best thing for business is for there to be a pick-up in demand for their products and services. My whole argument has been recovery from a very deep recession and a very big financial crisis is not easy or straightforward, but the problems that you are bringing to me are essential problems that are associated with a growing economy rather than a shrinking one.
+
+[[[Q160 ]]]&#xa0; 
+
+[[[Stewart ]]]
+
+[[[Hosie]]]
+
+[[[:]]] In that case let me turn that question around. Do you think businesses and possibly households have become complacent about interest rates and do you believe there is a feeling that people think they are going to be lower for longer than they actually might be, notwithstanding what the Governor of the central Bank said?
+
+[[[Mr Osborne]]]: I think some of the survey evidence that the Bank has drawn attention to shows there is quite a good understanding in the broader society of the Bank of England’s forward guidance, certainly in the business community where small and large businesses have taken on more the messaging about the future path of interests, and that also there is an understanding in the broader population. That is what the survey evidence of the Bank of England has produced points to.
+
+[[[Q161 ]]]&#xa0; 
+
+[[[Stewart ]]]
+
+[[[Hosie]]]
+
+[[[:]]] Just one final question then in terms of what “normal” might be in the future. Assuming you were able to get trend growth again at 2.5% and assuming we can get inflation down and keep it at 2%, I think it was Paul Fisher from the MPC who suggested that would probably imply an interest rate of 4% to 5%. Is that what you see the base rate being in a few years’ time, once we get an economy with a proper trend growth path and low inflation?
+
+[[[Mr Osborne]]]: Again, it is not for the Chancellor of the Exchequer to common on what the normal interest rate, as you put it, should be. Hopefully, once Scotland decides to remain in the United Kingdom—it is a decision for the Scottish people—they will be part of this decision-making, because the Bank of England and the Monetary Policy Committee will serve the entire United Kingdom.
+
+[[[Stewart ]]]
+
+[[[Hosie]]]
+
+[[[:]]] I am sure we are going to have plenty more opportunities to do the politics of why Scotland will become independent, but that is not the question. The question is, if we get trend growth back to 2.5% and inflation down, which we hope, is it your expectation, although you do not set it, that we would see the base rate return to somewhere around 4% to 5%? It is a simple question.
+
+[[[Mr Osborne]]]: I am going to give a simple but, I confess, evasive answer. I do not think Chancellors of the Exchequer should comment on the interest rate.
+
+[[[Stewart ]]]
+
+[[[Hosie]]]
+
+[[[:]]] You have no idea about where you think the base rate will be, even though you do not set it, even if your growth forecasts and inflation expectations were met?
+
+[[[Mr Osborne]]]: I think Mark Carney and the MPC have given clear forward communication and people should take heed of it.
+
+[[[Stewart ]]]
+
+[[[Hosie]]]
+
+[[[:]]] That is extraordinary evasive, but thank you anyway, Chancellor.
+
+[[[Chair:]]] This is the sort of answer we have had from Chancellors of the Exchequer on that point for about a century, I would say.
+
+[[[Q162 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Newmark]]]
+
+[[[:]]] Chancellor, I am sure you are aware that every Labour Government has left power with more people unemployed than when they arrived and I am sure, having reviewed the statistics, that unemployment has been coming down quite dramatically lately for adult employment, which is good news if you are an adult and it is good news if you are a woman because more women are in work than ever before historically. If you are a young person, however, unemployment has still remained fairly sticky. Youth unemployment was, I believe, 21% between July and September this year. How concerned are you with that figure?
+
+[[[Mr Osborne]]]: The level of youth unemployment is clearly too high and we need to try and bring it down. I would say there are two features here of youth unemployment. One is a cyclical element, i.e. we had a very deep recession, sadly a lot of young people lost their jobs or were unable to find work and we need to bring that down. There is evidence that youth claimant count rolls and so on are falling. There is then a structural problem, which is the rise in youth unemployment that I think began from around 2004 and indeed David Miliband has written about this and drawn people’s attention to this challenge. A big part of the autumn statement was an attempt to address this. It is not the part that was on the front page of the newspapers the next day, but I think it is significant.First of all, if you have no skills or do not have adequate skills, i.e. level 2 skills, we are going to help you and insist that you undertake training as a condition of receiving your benefits. That is a pilot at the moment, but we want to make sure that that works and that is clearly the direction we want to head into. Job centres are also going to provide help to 16 and 17 year-olds in a systematic way, which they have not done for many years. We want to help people with low skills. Those with vocational skills who want apprenticeships, we are increasing the number of apprenticeships. There is a major reform happening to help businesses be tied into the apprenticeship system more closely through HMRC. Then I though one of the big supply-side reforms of the autumn statement was abolishing the cap on student numbers, because there are currently 60,000 people in this country who get the right qualifications, who have the aspiration to go to university, who are prepared to take out the loan to do so, and yet do not get places because of a Gosplan planning system that the Treasury and BIS operate. We are abolishing that and that is all designed to try and make sure that our young people are better equipped to make the best use of the opportunities in the world and deal with the youth unemployment issue you raise.Of course, there is also the jobs tax cut, which I know you personally promoted, which will also help those young people under the age of 21 get jobs.
+
+[[[Q163 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Newmark]]]
+
+[[[:]]] Given that the A Million Jobs campaign manifesto had a cut for those unemployed, 24 and under, which would have cost £287 million a year to the Exchequer because only those who were currently unemployed would be able to take advantage of it, why did you choose to abolish it for every employed under-21 year-old instead, which is more costly to the Exchequer?
+
+[[[Mr Osborne]]]: I wanted a simple, clear system. The Treasury has had some experience with this Parliament trying to tie National Insurance to new employees and it was not as successful as we had hoped, so I wanted a much more straightforward, simple system and what was affordable was to take under 21 year-olds out of the job stakes. I was very encouraged. I went to a Morrisons supermarket in Watford this week where they employ a lot of people under the age of 21 and they were very clear that this was an added incentive to try and employ those people. That was practical confirmation of what the theory would tell you, which is, if you make it easier to employ people, more people will be employed.
+
+[[[Q164 ]]]&#xa0; 
+
+[[[Chair:]]] I would just like to ask a question or two about the Help to Buy scheme. It is common ground that the housing market is picking up. What is your response to those who say, when it comes to the housing market, you are adding vodka to the punchbowl just as the party gets going?
+
+[[[Mr Osborne]]]: First of all, with the Financial Policy Committee we have a body that is empowered to take away the punchbowl. They now have that responsibility to look at overall levels of debt in the housing sector and more broadly. Specifically on Help to Buy, I would say this is a specific intervention to deal with a problem in the financial system. The problem in the financial system is that people who can afford mortgages—and we have much tougher mortgage affordability criteria these days than we did five or six years ago—pass that criteria, cannot afford the very deposits that the banks are asking, partly because their balance sheets are impaired and partly—
+
+[[[Chair:]]] This is the justification for the scheme.
+
+[[[Mr Osborne]]]: Yes.
+
+[[[Chair:]]] What I am asking you for is how you address the concern that you may be fuelling the beginnings of a housing boom with a Government measure.
+
+[[[Mr Osborne]]]: I think Help to Buy is very specific. Indeed, the early evidence from Help to Buy is that three-quarters of those who have taken it out are not living in London and the south-east. The average house purchase that they have been looking for is £160,000. That is below the national average. In other words, it is dealing with exactly the families we wanted to help.More broadly on housing, my view is of course you want a recovery in the housing market. That is very important for the construction industry and it is very important for people’s aspirations to be able to buy a house and move a house, but my view is the answer for this country—and this is something that is debated a lot in this Parliament—is we need more homes. I have been very explicit about that and we have brought through planning law changes in this Parliament; unfortunately opposed by the Opposition but, nevertheless, planning reforms that will help increase supply. In this autumn statement we announced an additional sum of money for social housing. We now have the largest social housing programme for a generation.Also, we have put in place incentives for the right to buy and incentives for unblocking large development sites where a bit of Government infrastructure, like a road, might help that large site get going. For example, there are big schemes in Leeds and in Manchester that will benefit from that programme. I am for building more homes as a long-term answer to the issue in Britain of a lack of housing.
+
+[[[Q165 ]]]&#xa0; 
+
+[[[Chair:]]] I just want to try and concentrate on the question that I am asking and I want you to concentrate on it, which is: are you fuelling the beginnings of a housing boom? In response to that you have said, “Well, in general terms we have the Financial Policy Committee of the Bank of England to keep an eye on things”. That may be true in general terms, but Government Ministers have gone too far, haven’t they, when they have suggested that the FPC has the right to cancel the Help to Buy scheme?
+
+[[[Mr Osborne]]]: I have not suggested that.
+
+[[[Chair:]]] You have not, but your ministerial colleagues have.
+
+[[[Mr Osborne]]]: First of all, the Financial Policy Committee have a lock because the scheme, even if someone wanted to, cannot be extended without their consent. Second, of course, in their role as a new body, they can offer advice to the Government and they have made it clear they will offer advice if they feel they need to on Help to Buy. Specifically, I have asked them to look at Help to Buy next September. As I say, I think there is a lot of—
+
+[[[Chair:]]] But they can look at it at any time, can’t they?
+
+[[[Mr Osborne]]]: Of course, they can look at it.
+
+[[[Chair:]]] So that does not mean anything, does it? They can look at it tomorrow morning if they wished to.
+
+[[[Mr Osborne]]]: It does, because I have asked them specifically to look at it.
+
+[[[Chair:]]] What does that mean, though? What does that add to what we already know?
+
+[[[Mr Osborne]]]: Because they might have chosen not to look at it.
+
+[[[Chair:]]] They can look at it at any time they like and you have said that we are getting protection from the FPC, but we do not have the first idea—
+
+[[[Mr Osborne]]]: I am the Chancellor who proposed the creation of this body. It is not that I want to distance myself from this body. I am the person who asked Parliament to set this body up. I would just make this observation and it is something that the Governor and others have made. Of course we have to be vigilant and we do now have a system for that vigilance, but there is not that issue today. You do have to be vigilant. It is interesting. In the OBR forecast, even by 2018 on their forecast, house prices will be lower in real terms than they were in 2007. Yes, vigilance but we have that system of vigilance in place.&#xa0;
+
+[[[Q166 ]]]&#xa0; 
+
+[[[Chair:]]] Just to be clear, we should set aside statements by Ministers who have said that the FPC can cancel this scheme and these misleading statements will come to an end. Is that right?
+
+[[[Mr Osborne]]]: Ultimately, I think decisions about housing schemes, which after all use the Government’s balance sheet, are decisions for Government and for Parliament. We have not handed over the responsibility and the accountability for that to the Bank of England, but the Bank of England, of course, have a very powerful advisory role and have specific instruments in the housing market space that they can use around capital requirements and the like and mortgage standards. What I would say is, of course, if the FPC were to provide us with advice we would do well to pay attention to it.
+
+[[[Q167 ]]]&#xa0; 
+
+[[[Chair:]]] The history of these schemes since the war is well-intentioned Governments getting into a deeper and deeper mire because of the political attractions of them. Have you worked out how we are going to get out of this mortgage market stimulant, bearing in mind that at the time you decide to bring it to an end there will be a lot of people very aggrieved that you are doing so, just as there were when attempts were made to reduce and then eliminate mortgage interest relief?
+
+[[[Mr Osborne]]]: First of all, the Government has exited from financial market intervention successfully over this Parliament and removed some of the backstop that existed to the banking system. So I think we have proved we can exit from financial intervention successfully without market disruption. Second, I think one of the encouraging signs about Help to Buy is not only that it is reaching those outside London and the south-east on lower than average house purchasers but also it is stimulating the re-emergence of higher loan-to-value products, some of which are now on the market without the Help to Buy guarantee but the Help to Buy guarantee has created space in which those products can sit.
+
+[[[Q168 ]]]&#xa0; 
+
+[[[Chair:]]] My question, Chancellor, is whether you have worked out how to get out; whether you have designed a taper; whether you are thinking about how to—we do not want to create cliff edge that could have a sharp downward effect in house prices bearing in mind the scale of this scheme, which is £12 billion.
+
+[[[Mr Osborne]]]: I have been pretty clear that it would end after three years. I am happy to consider further how that exit happens.
+
+[[[Chair:]]] I think you are going to need to consider it, aren’t you?
+
+[[[Mr Osborne]]]: But it is a decision— 
+
+[[[Chair:]]] It is going to come just after an election. We have this scheme straddling an election.
+
+[[[Mr Osborne]]]: It is a decision I look forward to taking after an election, subject to the wishes of the British people.
+
+[[[Chair:]]] I am sure the British people are listening to that answer.
+
+[[[Q169 ]]]&#xa0; 
+
+[[[Andrea ]]]
+
+[[[Leadsom]]]
+
+[[[:]]] Good morning, Chancellor. I would like to ask you about a couple of points. One is the eurozone and the other is the size of the financial sector in Britain. First of all, on the eurozone, the OBR have revised their forecast up for the eurozone growth this year from minus 0.5% to minus 0.4%. Impressive stuff. The OBR suggests that further damaging instability remains possible as a result of the eurozone. Can you give us your view of what you think needs to be done by way of adjustments to the eurozone area in order to reduce the risks to the British economy?
+
+[[[Mr Osborne]]]: First of all, with weakness of the eurozone remains one of the risks to the UK and these very low or negative growth rates in many peripheral countries in the eurozone are a tragedy for those countries themselves. I think the tail risk of the collapse of the euro that existed last year and cast a big pall over the whole of Europe, including the UK, has largely lifted by the decision of the European Central Bank to provide monetary support and the decision essentially of the German Government, if I can be blunt, to make sure that Greece stayed in the euro. That tail risk has lifted, but of course it remains a source of concern.&#xa0;
+
+[[[Q170 ]]]&#xa0; 
+
+[[[Andrea ]]]
+
+[[[Leadsom]]]
+
+[[[:]]] With 40% youth unemployment in countries like Italy, being one of the biggest European economies, and the fact that the eurozone is our biggest trading partner, can you see a smooth landing or do you think—for example, the European banking union is not yet completed. How urgent is resolving these issues?
+
+[[[Mr Osborne]]]: I would say that structural economic reform is the most important thing. For example, the Spanish Government has undertaken some quite significant labour market reform and you are beginning to see some improvements in the Spanish economy and improvements in Spanish exports. It shows that it is not a universally-bleak picture.When it comes to the European banking system, they are constructing a banking union. Indeed, I spent a happy day of my life this week discussing this with my European colleagues. That process is slow and there still remain some big decisions to be taken. Essentially, it is about supporting a single currency. You need a banking union to back a single currency and that would help break this link between weak banks and weak sovereigns, which did so much damage last year.
+
+[[[Q171 ]]]&#xa0; 
+
+[[[Andrea ]]]
+
+[[[Leadsom]]]
+
+[[[:]]] You are confident then that the European banking union will be completed?
+
+[[[Mr Osborne]]]: We have another Ecofin meeting next week to look at what is called the single resolution mechanism, which is basically the pot of money that stands behind the banks. They have agreed to a single supervisor. By the way, it is an issue for the United Kingdom that we make sure we get our relationship right with this banking union. Our basic approach has been not to frustrate the development of that banking union, because it is important for our continent’s economic and financial stability, but to make sure that Britain’s interests are protected and the introduction of things like double majorities for ins and outs have been new innovations that have helped protect the United Kingdom.
+
+[[[Andrea ]]]
+
+[[[Leadsom]]]
+
+[[[:]]] You are confident that the European banking union will be completed?
+
+[[[Mr Osborne]]]: I do not think by the end of the year we are going to have the all-singing, all-dancing, totally joined up banking union that everyone wants. I think it is going to be a process of evolution that is going to take several years but, to be fair to those who ultimately are going to have stand behind this, the German taxpayers and the Dutch taxpayers, they want to make sure they get it right and there are protections there for their taxpayers and there is proper supervision of these banks. It is not an overnight process, but it is happening.
+
+[[[Q172 ]]]&#xa0; 
+
+[[[Andrea ]]]
+
+[[[Leadsom]]]
+
+[[[:]]] Turning to the size of the financial sector, Mark Carney made a speech on the Financial Times’ 125th anniversary about how the banking sector could be nine times British GDP by 2050. Is that something that would fill you with horror or do you think that is something we should welcome as a successful, thriving financial sector?
+
+[[[Mr Osborne]]]: I would make two points here. One is we want a very successful financial services sector. It is one of the things that Britain has a global strength in. I think it is the largest private sector employer in this country and, in many of the areas that we represent in Parliament, it is probably the largest employer. It is not just the City of London. It is incredibly important to Manchester and Cardiff and Bristol and Edinburgh and so on.The question then is, can the British economy accommodation a global bank set up? My answer is emphatically yes, if we get the regulation right. The crucial thing we have to solve, which obviously came so terribly unstuck in 2007-08, is this problem of “too big to fail”. One of the things we were discussing in Brussels this week, and this is a central part of the Vickers reforms, is that you can bail in the creditors.Unless you want to, I don’t want to have a long discussion about the Co-op Bank. What has happened there is very sad, but there is a bail in taking place in the Co-op Bank. I don’t think that would have been possible in 2007-08. We now have the instruments to enable that to happen or to act as a backstop to encourage it to happen and the result should be that the Co-op Bank survives this process and that no taxpayer’s money has had to go into it. Obviously the Co-op Bank is much smaller than some of our other banks, but it shows that this bail in process is possible and that should then enable the UK to have a banking sector larger than its economy. Now to final observations. Of course, financial services is about a lot more than banking. Sometimes that is forgotten. We have a very important and successful insurance industry, which we do more to promote in this autumn statement. The other point I want to make is we encourage all the other sectors to grow and in the autumn statement document on page 14, chart 1.1, we do show that that there is a rebalancing happening within the private sector and that other sectors are growing more quickly than financial services.&#xa0;
+
+[[[Q173 ]]]&#xa0; 
+
+[[[Andrea ]]]
+
+[[[Leadsom]]]
+
+[[[:]]] Yes. One last question. If Governor King’s cup was half empty when it came to banking, it appears that Mark Carney’s cup is half full when it comes to banking and the size of the sector. Do you think that there might potentially be some kind of moral hazard that Mark Carney has signed up for five years when the banking sector is probably recovering and his enthusiasm and relaxedness about the potential size of the financial sector may not be his problem in the end?
+
+[[[Mr Osborne]]]: No, I don’t think you are being entirely fair to Governor Carney. He comes with a huge degree of experience of the financial system. He is chair of the Financial Stability Board, the global body that looks at this. I thought his speech to the Financial Times the other week was very interesting because it was explaining how Britain can be the home of a large and successful financial services industry provided the instruments are there to deal with a problem in a crisis and to make sure that we do not have a situation where the collapse of a bank collapses our economy.
+
+[[[Q174 ]]]&#xa0; 
+
+[[[Chair:]]] That is not answering Andrea’s point, is it, which is that Parliament came to a firm decision about the need for eight-year terms for Governors of the Bank of England for a reason and that reason is that they should be around long enough to find out the consequences of their decisions.
+
+[[[Mr Osborne]]]: I think Mark Carney made it clear that he would take the job with a five-year term. He is appointed for eight years but he made it clear that he will step down after five.
+
+[[[Chair:]]] It is a very unusual state of affairs.
+
+[[[Mr Osborne]]]: My judgment was, and I guess it was your judgment as well since you saw him after—
+
+[[[Chair:]]] We did cross-examine him on this point.
+
+[[[Mr Osborne]]]: My judgment was that that was a very small price to pay for having someone of his experience and talent.&#xa0;
+
+[[[Q175 ]]]&#xa0; 
+
+[[[John ]]]
+
+[[[Thurso]]]
+
+[[[:]]] Chancellor, how concerned are you by what is referred to as the productivity puzzle?
+
+[[[Mr Osborne]]]: I think it remains absolutely an issue of concern. Indeed, I flagged it up in my autumn statement speech. Productivity is too low. It is a clear cause for concern in that sense, but the better news is that the OBR forecast that productivity will pick up. They make the observation that, ultimately, a sustainable recovery and a sustainable increase in people’s living standards depends on that happening.
+
+[[[Q176 ]]]&#xa0; 
+
+[[[John ]]]
+
+[[[Thurso]]]
+
+[[[:]]] When Brian Hilliard, who is an economist with Societe Generale, came before us he made the point, “If you do not understand why productivity has been so bad in the past, how on earth are you going to know what it is going to do in the future”. How close are you and the Treasury to understanding why productivity has been so weak?
+
+[[[Mr Osborne]]]: I think we are clear that it is a combination of the impairment of the banking system. That is the primary reason and I think there is an interesting argument, which we would give some credence to, about the allocation of resources within an impaired banking system, but I do not accept the argument that is made in the United States primarily, but you see spilling over here, that there is some great secular stagnation taking place in the west, that we cannot be more productive or that we cannot provide better living standards for our populations, and Mark Carney gave an interesting speech about that this week in Europe.
+
+[[[Q177 ]]]&#xa0; 
+
+[[[John ]]]
+
+[[[Thurso]]]
+
+[[[:]]] The OBR has stated, and I paraphrase, Britain has suffered a loss of productivity since the financial crisis, which they estimate will not come back. When we were talking to Charlie Bean about it, he said if you just compare the level of productivity now with the naïve extrapolation of the pre-crisis trend it is about 15% below that. Indeed, he went on to say that getting this right and slack in the labour market judgment right is probably one of the most critical and key assumptions that the MPC is currently making. If we do not understand it and we are not sure what is happening and it is the key element of decisions being made both by the OBR and the MPC and yet they slightly in conflict over what they are saying, is this not a pretty critical area that we, as policy-making, should be looking at?
+
+[[[Mr Osborne]]]: I would agree that we are right to focus on productivity and what we can do to improve the productivity of the United Kingdom and that points to a whole set of economic reforms, which we have touched on in this discussion, around education and planning and so on. It is worth bearing in mind that the flipside of lower productivity has been higher employment during this period. I was not someone who ever believed that the UK economy should have gone through an unemployment shock because that would have improved the productivity even further.You did have some people advocating that in the press; not very much in Parliament because I think we all have to represent people in Parliament and getting people into work and keeping them in work is something that is very important to families. We have had a very strong employment record through this recession and recovery, much stronger than previous British experiences and much stronger than some other countries in the western world. I absolutely agree with you that making sure we are becoming more productive and rejecting those who say that Britain and other countries cannot compete in the world is a very important part of what Parliament and politics should be focused on.
+
+[[[Q178 ]]]&#xa0; 
+
+[[[John ]]]
+
+[[[Thurso]]]
+
+[[[:]]] The extrapolation would be that if very low interest rates are permitting a misallocation of capital and therefore you get into another point about zombie politics, but the other side of that is not only a misallocation of capital but a misallocation of labour. As the economy continues to recover and as interest rates rise the zombie companies fall out and there is a realignment of both capital and both capital and labour within that. That would lead to the conclusion that there would be a short-term upward blip in unemployment while that reallocation takes place.
+
+[[[Mr Osborne]]]: I don’t accept that and that is not what the OBR are forecasting. Again, they are our independent forecaster in this. They are forecasting a rise in productivity and a fall in unemployment. Of course, this all takes place against a backdrop where we hope that demand is increasing and that the economy is becoming more balanced as business investment and exports pick up.
+
+[[[Q179 ]]]&#xa0; 
+
+[[[John ]]]
+
+[[[Thurso]]]
+
+[[[:]]] What would be the effect on wages and living standards if productivity continues to be weak?
+
+[[[Mr Osborne]]]: I think the OBR themselves put it quite well. I do not have the phrase in front of me but it was something like, “Ultimately, the recovery will only be secure and living standards will only rise in a sustained way if there is a pick up on productivity”. I think it is in our executive summary.
+
+[[[Q180 ]]]&#xa0; 
+
+[[[John ]]]
+
+[[[Thurso]]]
+
+[[[:]]] If I may summarise: there may be some good short-term benefits to keeping people in work by productivity being low or low productivity may be an acceptable price to pay for that, but going forward, if we are to have a sustainable recovery and reasonable living stands, productivity has to increase?
+
+[[[Mr Osborne]]]: I would put it the other way round. I do not think unemployment is a price worth paying.
+
+[[[Q181 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Good morning, Chancellor. I would like to ask you a few questions about the future shape and direction of public spending on the back of this statement. The OBR has said that, according to your plans, by 2018-19 Government consumption, that is spending on public services and administration, as a share of GDP will be at its lowest level since 1948. Do you think this is desirable?
+
+[[[Mr Osborne]]]: That assumption is based on what I think is an erroneous judgment—
+
+[[[Q182 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] On their part?
+
+[[[Mr Osborne]]]: No. The erroneous judgment about what the political system would do, because I think they are perfectly right that on the current plans, that is what it shows, but I think the next Government will want to undertake further reductions in the welfare budget and further welfare savings. If you undertake further welfare savings, then you do not reach that 1948 number.
+
+[[[&#xa0;]]]
+
+[[[Q183 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Would it be desirable to have the Government’s share of consumption at that level, in your view?
+
+[[[Mr Osborne]]]: As I say, I think that as an important part of the consolidation that remains to take place, we need further welfare savings. I do not think all the savings need and should be made within the Department. I think we should make a balanced judgment about where Government spends its money. Yes, we have to make difficult decisions to save money further in Whitehall, but we should accompany that with savings in the welfare budget.
+
+[[[Q184 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] I want to ask you about this departmental welfare thing in a second, but I am trying to get your view here. In your view is it desirable—I am using the word very deliberately—and do you believe it is a good thing to have Government’s share of consumption at the level of the 1940s, or is it undesirable?
+
+[[[Mr Osborne]]]: As I say, I think that estimate is based on the assumption there would be no welfare savings, but I do not think—
+
+[[[Q185 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Do you have no view on this?
+
+[[[Mr Osborne]]]: The measure I prefer to look at is the total share of public expenditure as a share of GDP. That was 47% when I came to office, totally out of kilter with what is the British historical average and also out of kilter with what is sustainable for the British economy, in my view. That is now falling and will get to around 40%, just below 40%. It will not reach the 36% I believe it reached under Gordon Brown’s early years as Chancellor, but if you look at it in another way, overall public expenditure in 2018-19 will be no lower than 2008-09 in real terms. I do not think in 2008-09 we felt that the state was somehow too small.
+
+[[[Q186 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Let me ask you a little bit about what you touched on there about the balance of future public expenditure cuts. The IFS have said that your plans imply an acceleration in the rate of departmental cuts that have run at about 2.3% a year between 2011 and 2016 and that would be expected to increase to 3.7% per year between 2016 and 2019. Do you accept that projection?
+
+[[[Mr Osborne]]]: Again, that projection assumes there are no welfare savings. I do not accept that. That is going to be a decision for political parties and the Government after the election, but my view is that welfare expenditure cannot be excluded from the difficult decisions that need to be made. If you want to maintain the same pace of reduction in Government spending that we have had over this Parliament rather than accelerating it, then you are going to have to find billions of pounds of welfare savings and I think that is what this country needs to do, personally. If it comes to a choice, we should be making our investments in schools and in science, because that is securing the long-term economic health of this country and we should not be cutting those things because we are not prepared to deal with the welfare budget.
+
+[[[Q187 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] They say to stay on the current trajectory of departmental spending cuts, this 2.3%, the sort of welfare cuts you would be looking at is a further £12 billion a year. Is that a figure you accept?
+
+[[[Mr Osborne]]]: That is what the IFS have pointed out. I am not going to put a precise figure on it today, not least because these numbers change around as the forecast changes.
+
+[[[Q188 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Is that roughly what we should be expecting?
+
+[[[Mr Osborne]]]: I think you are going to have to find billions of pounds more in welfare savings if you want to make sure we reduce the deficit, eliminate the deficit and get our debt falling, and second, have a state that is investing in the things like education and science and healthcare that matter to our country’s future. This is the hard choice, and I would argue that the reason we are here as a country in a situation where the economy is recovering, the plan is working is because we have been prepared to take these difficult decisions. They have been controversial, some of them. I think pretty much every single one you have voted against, but that does not mean they were not the right decisions. We are going to have to go on taking those decisions and if people want to pretend they do not have to be made after the election, I think the public will see through that.
+
+[[[Q189 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Can I ask you about a couple of the individual measures and how they are going to be paid for that were announced in the spending review? Again, the IFS have pointed to some announcements, the means of payment for which have not yet been identified. The free school meals policy, this is about £750 million a year. The funding for this is only set out until 2016. What will happen to that policy after that period if you were re-elected?
+
+[[[Mr Osborne]]]: My assumption is that policy will continue.
+
+[[[Mr McFadden:]]] How would it be going forward—
+
+[[[Mr Osborne]]]: I do not think it is a policy we would turn off. We just introduced it.
+
+[[[Mr McFadden:]]] But how would it be paid for?
+
+[[[Mr Osborne]]]: That would have to be one of the priorities for the spending review that would take place in 2015.
+
+[[[Q190 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Would you have to identify further cuts elsewhere of £750 million?
+
+[[[Mr Osborne]]]: Again, it is a question of what do you want the state to do and what do you want the state to provide. I support the free school meals policy and so we are going to have to go on funding it.
+
+[[[Q191 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] You have said that you will sell the historical student loan book in order to fund the lifting of the cap on university places, which you have referred to a few times this morning. Selling something brings you in a one-off fee, but at the moment student loans are a form of receipt, because they are paid back every year. Can I just confirm that your calculations on this take into account the loss of future repayments as well as the one-off fee you would get from selling the book?
+
+[[[Mr Osborne]]]: They do not, because the Treasury—I think this is in the established practice under all governments—takes account of the first-round effects of these things, but the OBR, which we created, takes account of the second-round effects.If I make a broader point on the student loans, there are two costs to abolishing the student cap. One is the direct cost of paying more grants to people on low incomes. That is straight out of Government spending and takes its place alongside all the other priorities. The other cost is the cost to the Government of borrowing money in order to fund student courses with the expectation that we will be paid back by students through the loans system. That is a financial transaction, it is a cash flow issue, if you like, because we borrow the money upfront and get paid back later. The student loan sale helps us through the early years of that cash flow issue.&#xa0;
+
+[[[Q192 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] Of course, these places have to be funded every year if the cap is lifted and, again, the receipt is a one-off. What I am trying to get at is you said in your statement that the cost of paying for the lifting of the cap would be met by the sale of the student loan book. You have just said that you have not accounted for the loan of future payments in that calculation. What about the future year-on-year cost of the extra places? Can you say to us that this is fully funded by the sale of the student loan book?
+
+[[[Mr Osborne]]]: There are two elements to the extension. The first is the grants. That rises from around £200 million a year to around £700 million a year over the next five years and we set that number out in these documents. That is the grant system that is helping people on low incomes afford to go to university. There is then the second cost, which is borrowing the money for the places, and as I say, the disposal of the asset of the student loan book—which by the way will take several years as well—helps us through the first few years of that, the cash flow issue, but it is a cash flow issue. 
+
+[[[Q193 ]]]&#xa0; 
+
+[[[Mr McFadden:]]] And after that?
+
+[[[Mr Osborne]]]: After that, we will be well on our way to establishing a system, because the loans system we introduced—that unfortunately, again, Mr McFadden, you voted against, although I suspect your heart was not in it—is creating a more sustainable system, because we are then starting to get repayments from people who have left. Of course these new students next year will, after three or four years, be starting to repay the loan that they would have received.
+
+[[[Mr McFadden:]]] I have no more time today, but I suspect you will be receiving further questions about financing from others.
+
+[[[Q194 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] I thought they were very interesting answers to Patrick, but the one thing I find hard to reconcile with the facts is your plan is working. As I see it—and I will question you on it—the growth or the improvement we are seeing is not of a sustainable nature. Your deficit has stalled for three years around £110 billion; your debt is hitting, by the next election, £1.5 trillion and your plan is working?
+
+[[[Mr Osborne]]]: The plan is working because the economy is growing, the deficit is falling and a record number of people are in work. I am not for a second saying the job is done, I made that very clear, but we have to stick to the plan that has brought us this far.
+
+[[[Q195 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] Chancellor, the deficit in the Autumn statement is going down from £115 billion to £111 billion, just over £3 billion. It has been about that for three years; this is the third year. You had one successful year at the beginning and you have stalled in the £110 billion area for three years. How is it coming down? It is coming down, but I do not think you will be Chancellor by the time it gets to zero, probably will not want to; probably be Prime Minister or Shadow Prime Minister, I should say.
+
+[[[Mr Osborne]]]: I will take that as an endorsement of the Conservatives winning the election, but I will leave the allocation of the places in the Cabinet to the Conservative Party and the Conservative Leader, David Cameron.I would say we have made substantial progress, which you indeed helpfully highlight, that we were borrowing £159 billion. We are expected to borrow around £110 billion this year. That is a big reduction in borrowing, but I am the first to say we want to go further. The forecast shows we are going further and also if you look at the forecast, and indeed the evidence on the structural deficit, we have had the fastest and most sustained reduction in structural deficit of any of the G7 economies.&#xa0;
+
+[[[Q196 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] I do not demur that the first year you did well in your terms with the deficit, but you have stalled for two and a half years now. Every second you speak, as the Daily Telegraph pointed out, there is £3,000 every second on the debt mountain and it is climbing to £1.5 trillion. Why have you held it at £110 billion, £111 billion for three years?
+
+[[[Mr Osborne]]]: When I last appeared before this Committee to talk about these issues, we were expected to borrow £120 billion, so it has come down to around £110 billion, but look, I would make this point: the debt is going to go on going up if you have a deficit and so what you need to do is get the deficit down and then you will get the debt starting to fall. My intention and my belief is you need to then commit to running surpluses in good years, because there is an interesting table that people have not focused on here of the difference between running a 2% deficit and a 1% surplus and the fact a 2% deficit does not bring your debt down in a sustainable way. Mr Mudie, if you want to join me in the difficult decisions we need to get that deficit down so we can get our debt falling, I would welcome your support. It has not exactly been forthcoming over the last three and a half years, but maybe you are having a change of heart.
+
+[[[Q197 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] Chancellor, it has been pointed out in one of these documents from the OBR—it will not be in your Autumn statement—that you are behind Alistair Darling’s deficit reduction and I supported Alistair Darling’s budget protection of deficit reduction. You are later than him, you are borrowing more than he did, as he projected, at this stage, but deficit is one thing. It is the growth that we should be worried about. You are saying the improvement. The experts did concur that—and that means agree—the improvement is based on people who are spending their savings or going further into debt consumption, and everyone accepts that cannot continue. It is not sustainable.The other you have been discussing is the housing side. If we are going to do something about the structural deficit and give us long-term prosperity, we have to do something about growth, sustainable growth. Business investment, as one of the keys, fell 5%. Net exports, particularly industrial, will take about four years to make a contribution. I am genuinely serious: I want, as you want, this country growing and the debt at acceptable levels, but I think I am disappointed, I would have to say, at the failure to deliver either on the deficit side or on the growth side, sustainable growth.
+
+[[[Mr Osborne]]]: First of all on the deficit, as I understand the Labour Party’s position, I was going too far too fast. You are now saying I did not go far and fast enough. On investment and export, I think there is common agreement here between us that we want to see more investment and more exports. Of course exports have been hit hard by the collapse of our main export market in the European Continent, but the good news is our exports in emerging markets are picking up a lot. Business investment, again the forecast is for that to improve, and British Chambers of Commerce today—and the Chief Economist of the British Chambers of Commerce—have said that the British economy is on the right track and they point to an increase in business optimism and an expectation that their members are going to start investing. What can we do to encourage that? I would say above all we can provide a backdrop of economic stability and certainty and solidity to our economic programme. That is what we are doing by having a plan, working through that plan and providing people with the confidence that Britain has a grip on its problems in the public finances and that we are providing a competitive environment in which we can do business with the rest of the world.&#xa0;
+
+[[[Q198 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] You see, Chancellor, we did criticise you for your plan to go too fast because where you are now is completely different from where you have projected in 2010; you are something like £60 billion, £70 billion behind. If your plan is working, it is not your first plan that is working, because your deficit would have been down so much further. I am not falling out with that. I am simply pointing out when you joked at me about supporting a deficit, I supported Alistair Darling’s deficit and his was a bit slower, but more ambitious than where you are now.
+
+[[[Mr Osborne]]]: The only point I would make is there were absolutely no specific ideas about how to deliver this, and every single specific idea that has been produced you have opposed and I have yet to hear a single proposal from the Labour Party. I would welcome—
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] No, I think that is a valid thing to say, but when Pat McLoughlin asked you—
+
+[[[Mr Osborne]]]: McFadden.
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] Pat McFadden.
+
+[[[Mr Osborne]]]: Thank God he has left.
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] I think you would rather have Pat McLoughlin question you. But when Pat McFadden asked you, “How would you get to your desired deficit balance?” you could not tell him at this stage. Neither could Alistair Darling before his budget, before the election, so you attacked him for being imprecise. We are asking you today how you are going to get it down. What are you going to do? Are you going to cut welfare? If you cut welfare, does that mean there is sufficient then to keep the ring-fenced services at the present level? If you attack Patrick—and you certainly attacked Alistair—for being imprecise and vague, you give us specific answers today.
+
+[[[Mr Osborne]]]: I would say that I have delivered major reductions in public expenditure and in welfare spending, that in this Autumn statement I take further difficult decisions to raise revenue, like increasing the bank levy and the package on avoidance, but also difficult decisions, real decisions that are going to be difficult for departments to reduce public expenditure further. These are real things that happen and the Government has to accommodate them. I think we both agree that it is a valid criticism of the Opposition that they have not put forward any detailed plans. Ultimately, that is going to be the test of credibility.
+
+[[[Chair:]]] Extraordinary how deep the bonding goes in the Whips’ Office. As you know, Patrick McLoughlin was the former Deputy Chief Whip of one party, and George Mudie former Deputy Chief Whip of the other over the years. Weren’t you working together for many years, George?
+
+[[[Mr ]]]
+
+[[[Mudie]]]
+
+[[[:]]] We were.
+
+[[[Mr Osborne]]]: I was the Junior Whip as well, if that allows me to wear the same tie I think the Labour and Conservatives Whips’ Office share.
+
+[[[Q199 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] That is a fascinating revelation. Thank you, Chairman.              Chancellor, can I start by welcoming the removal of the student cap? That is a tremendous step forward and it is good for two reasons: firstly because it is good for young people in the way that you have indicated, and secondly because it levels the playing field for new institutions that are coming in, and certainly in Herefordshire, we are trying to create a new liberal sciences technical university and we are absolutely thrilled to see that development, so thank you very much indeed for that.              I want to return to an ancient theme of my own, which is infrastructure and the Private Finance Initiative in particular at this point. Of course the Treasury has taken some important measures to tighten up existing PFI contracts already, but the evidence from work we have done looking at the PFI contract in Hereford Hospital shows that there have been massive failures in fire compartmentation in other areas. That points to a more systematic problem. Those were rooted out by just checking the contracts, making sure that these contracts had done what they said they were doing, and what has come out of that are serious concerns on ventilation and emergency systems in maternity. I have referred these contractors to the Health and Safety Executive because of my concerns about that. There are 106 projects, hospitals built under PFI after 1997. Do you think that there is a case now—as I believe, an overwhelming case—for a central team that is specifically tasked with reviewing and bearing down on this waste?
+
+[[[Mr Osborne]]]: We have provided that facility for those who have undertaken PFI contracts to come to us and see if we can renegotiate some of these contracts, get them down. There has been some of that renegotiation taking place, but I am certainly open to suggestions of what more we can do to bear down on some of these terrible deals that have brought real hardship, most notably, for example, in the south-east London hospitals situation.
+
+[[[Q200 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Yes, thank you for that. There is in fact evidence that elements of the Department of Health have been almost captured by the contractor strength on PFI. I wonder whether you would consider asking the Treasury to take a specific look at whether or not the Department of Health is properly bearing down on those contracts, because I am far from persuaded that it is doing its job in that area.
+
+[[[Mr Osborne]]]: Again, any proposal that would enable us to save public expenditure, get better value for money is one I would look closely at. You have investigated this area thoroughly and have a great deal of expertise in this, so I will certainly listen to your proposals.
+
+[[[Q201 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] I am grateful for that, thank you. In my county, if you have cancer, the level of cancer care funding is £5,000 a year. If you live in Birmingham, it is £10,000 a year. The difference is that there are three times as many people in my county with cancer as a proportion of the population as there are in Birmingham. Do you think that kind of disparity is fair and is it something that the Government should be looking at addressing?
+
+[[[Mr Osborne]]]: This is a complicated question of how we apportion public expenditure around the United Kingdom and within England, and the truth is that our urban areas do get relatively more public spending, but they tend to also have much greater health and deprivation problems. It does not mean that it is perfect and you cannot look at this, as we are doing, for example, in the school funding formula. Look, as a constituency MP in Cheshire, I know there is always a debate about how much money per head of population we receive compared to neighbouring Manchester, and I think there is room for improvement in some of these formulas, but fundamentally we make a decision as a country that we spend more money in the most deprived areas.
+
+[[[Jesse Norman:]]] Even if those deprived areas are sometimes rural ones?
+
+[[[Mr Osborne]]]: One of the things that these formulas have not been very good at tackling is pockets of rural deprivation and that is, for example, in the national funding formula for schools, we are looking at issues where you could have two schools with the same number of kids on free school meals, which is not a bad indicator of deprivation, and yet because one is in a rural area and one is in an urban area, the rural school gets much less. That is something we are looking at in the national funding formula for schools. Of course, as I say, there is a broader debate to be had, but I think you are still going to end up with a situation where you are concentrating resources in areas of greater deprivation.
+
+[[[Q202 ]]]&#xa0; 
+
+[[[Jesse Norman:]]] Another important aspect of the plans that you have laid out for infrastructure is the use of insurance company funding for new infrastructure projects and I certainly welcomed that. In the report, you say, “The projects must be commercially and economically viable”. Do you think there is a risk that projects that are good value for the taxpayer may not be pursued if they are not economical for an insurance company investing?
+
+[[[Mr Osborne]]]: There is a very welcome announcement by the British insurance industry that it wants to invest in British infrastructure and that partly follows the successful conclusion of these European negotiations on Solvency II, which were very complicated, but ended up with there being a positive incentive for long-term investment and the insurance companies also saying, “The UK is a good place to put that long-term investment”. Obviously where there are projects that are economically viable on a commercial basis, that is where Government has a role and some of these big long-term infrastructure projects, I think there is a role for the Government and public money to make them happen, because all sorts of economic benefits flow from them.
+
+[[[Jesse Norman:]]] You mean there is a space that the insurance market might not fund that Government could properly fund?
+
+[[[Mr Osborne]]]: The insurance industry have indicated they are interested in energy projects, transport projects, housing projects and so on. I suspect the very biggest projects, the Crossrails and the High Speed 2s and so on, are going to still require substantial sums of public money, because ultimately Government is partly there to do the big projects that help a country, because they cannot be financed by the private sector.
+
+[[[Q203 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Ruffley]]]
+
+[[[:]]] Chancellor, you asked HMRC to use their Computable General Equilibrium model to model the dynamic effects, which turned out to be positive effects, of your very welcome cuts in corporation tax. The prediction pretty much follows an increase in wages in the long term of £400 to £500 per household, an increase in GDP of between 0.6% and 0.8% and an increase in the long term of investment to 2.5% to 4.5%. If that was not virtuous enough, the work that you published suggests that this will partially pay for itself; the static cost, in other words, of the cut from 28 pence to 20 pence, 60% of it could be recovered by the Exchequer because of increases in profits in wages and in consumption. Now, this excites quite a lot of interest certainly on our side of the House. I wonder why you decided now to do this rather important piece of work and publish it.
+
+[[[Mr Osborne]]]: It is something I had said needed to be done when I was in Opposition and it reflects a debate that is had, I would not just say on the centre right of British politics, but primarily on the centre right, which is that lower taxes can, at least in part, pay for themselves through the additional investment and economic growth they bring. Any Chancellor is going to be very cautious about how they manage the public finances and account for that management. We have a static scorecard and an established system of costing things, and of course now a major innovation in this Parliament, we have an Independent Office for Budget Responsibility that audits those things. But I did want to move the debate and begin a quiet revolution in the way people think about these things and so I started with corporation tax and commissioned this study. The study has shown that, as you point out, it increases investment, increases GDP, increases indeed earnings, and between 40% and 60% of the so-called cost of doing this is recovered by the Treasury. That will be subject to debate and scrutiny, as it should be now, but I think we can move on to look at potentially some other taxes where we take this work on. Of course the OBR will make sure that we do not do anything that is not rigorous in terms of scoring things, and I would certainly envisage for this Parliament continuing to use the static scoring as the basis of the budgets in Autumn statements, but these studies of individual taxes are what I think helps shift the debate in a positive way.
+
+[[[Q204 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Ruffley]]]
+
+[[[:]]] One might expect you would not want the next paper to be on something like VAT, where one might expect the recovery to the Exchequer to be on the rather low side, but what do you think should be the next piece of work that HMRC do with these CGE models, which tax?
+
+[[[Mr Osborne]]]: I would not want to completely commit myself in this meeting, but I think we could look at fuel duty, which I would regard as quite an inefficient tax, and—
+
+[[[Mr ]]]
+
+[[[Ruffley]]]
+
+[[[:]]] The distortionary taxes.
+
+[[[Mr Osborne]]]: The distortionary tax, and obviously an area where the Government has done a huge amount to ease the burden on motorists. The personal allowance is another area. You might as well concentrate on the areas where the Government itself has been concentrating to inform the public debate, and our major tax changes have been around corporation tax, personal allowance and fuel duty.
+
+[[[Q205 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Ruffley]]]
+
+[[[:]]] That is very useful. Are you going to use the results that you published last week on headline corporation tax in the Autumn statement forecast? Correction: are the OBR going to be using the results of HMRC’s work in their future forecasts?
+
+[[[Mr Osborne]]]: The OBR first of all can answer for themselves. I expect this is a space where it is not going to be a revolution overnight, and I would want to be cautious and take this step by step. What I am seeking to do is improve people’s understanding of what happens. Of course there is a reverse to all of this: if you are proposing an increase in corporation tax, as some in this Parliament are now proposing, that would cut investment, not raise as much money as people expect and damage economic growth.
+
+[[[Mr Bowler]]]: It is probably worth saying that the OBR look at indirect effects of all of the measures in a fiscal event, so in the corporation tax reductions, they have tended to increase business investment as a component of GDP a little bit, but that does not feed through to the scorecard costing of the policy.
+
+[[[Q206 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Ruffley]]]
+
+[[[:]]] When I asked the OBR a few days ago in this Committee whether or not they had formally blessed this CGE model, they said they had not. I have to be honest, they seem moderately lukewarm on this piece of work. I was surprised. They did not seem to indicate they were going to use this work at all.
+
+[[[Mr Osborne]]]: The OBR is a body that I would expect to proceed in a—
+
+[[[Mr ]]]
+
+[[[Ruffley]]]
+
+[[[:]]] With caution.
+
+[[[Mr Osborne]]]: —cautious way and it is there to provide an independent audit and a check on things. As I say, I am not expecting some overnight change in the way that Parliament and the Treasury does public finances, but I think it will start this quiet revolution where people come to realise that if you leave more money in people’s pockets, they tend to be better at spending it and investing it than Government.
+
+[[[Q207 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Ruffley]]]
+
+[[[:]]] I just have one final question, Chancellor, and I address this to you as an innovator in the field of financial policy as well as in politics. It has been suggested by the Taxpayers’ Alliance to some members of this Committee that as part of this quiet revolution that you are seeking to engender that each member of the Treasury Select Committee should be allowed to submit one fiscal policy for full assessment using the HMRC CG model each year. That would result in new fiscal ideas from outside Government being openly discussed and aired, and allow us in Parliament, the legislature rather than the Executive, to have the same technical resources available to us as Ministers and officials inside Government. Is that in the spirit of a quiet revolution that I think we all welcome? I certainly do. Is that something you would actively and favourably consider, do you think?              
+
+[[[Mr Osborne]]]: Could I say, “Not really”?
+
+[[[&#xa0;]]]
+
+[[[Q208 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Ruffley]]]
+
+[[[:]]] As a quick supplementary, Chairman, “not really”: isn’t there scope for this model being made available to outside bodies, including us?
+
+[[[Mr Osborne]]]: First of all, we take all budget submissions seriously, and indeed, quite a few things in this budget have come from ideas put forward by Members of Parliament and indeed they are not all Coalition Members of Parliament. This year, we made changes that Tristram Hunt suggested to us, and indeed by taking them up seems to have helped his career along the way as well on the ceramics industry in Stoke. We take all budget submissions seriously. We put the model out there and the way we have done it with corporation tax for scrutiny and debate, which we would now expect. I am not sure I would want to turn the Treasury into a congressional budget office that just works on individual policies for all Members of Parliament, but of course we do have a long-established mechanism for the Opposition as we approach a general election to speak to the Civil Service.
+
+[[[Q209 ]]]&#xa0; 
+
+[[[Mr Love:]]] Morning, Chancellor. The Institute for Fiscal Studies, in its commentary on the Autumn statement, stated in relation to household living standards, and I quote, “We do know from household surveys that income fell sharply in 2010 and 2011. It is almost certainly significantly lower now than it was in 2010”. Do you agree?
+
+[[[Mr Osborne]]]: I agree with what the Director of the IFS said, which is, “Wages have increased much less quickly than inflation”. As I say, that is not surprising. We had a great big recession, we had the biggest recession we have had in 100 years. It would be astonishing if household incomes had fallen and earnings had not fallen. I have always said this country is poorer because of what happened to it in 2008-09 and the best thing we can do now is make sure we are growing our economy.
+
+[[[Q210 ]]]&#xa0; 
+
+[[[Mr Love:]]] I was not quite clear from that answer whether you accept that there are significantly lower household living standards or significantly lower than they were in 2010.
+
+[[[Mr Osborne]]]: I would say that the country is poorer because of what happened in 2008-09.
+
+[[[Q211 ]]]&#xa0; 
+
+[[[Mr Love:]]] Let me go on. Let me pray in aid for the ONS survey that came out today, Survey of Earnings and Hours. They state, “This is the fourth consecutive year that the CPI has increased above the growth rate of median weekly earnings”. Would you accept that?
+
+[[[Mr Osborne]]]: It is quite an interesting survey that has come out this morning, because it shows an increase in median gross weekly earnings increasing at 2.2%. That is of course the current rate of inflation. I think that points to the broader argument I have been making, which is as the economy recovers, that is the route to a sustained increase in the living standards of the people who live in that economy. You cannot pretend that the two are unconnected, that you can have a living standards plan without an economy plan.
+
+[[[Q212 ]]]&#xa0; 
+
+[[[Mr Love:]]] We certainly accept that. What I am trying to get you to accept is that there has been a very significant drop in real household living standards over the past five years. That is what the ONS survey shows. That is what the IFS commented on.
+
+[[[Mr Osborne]]]: I agree with you. Over the last five years, absolutely, Mr Love, the country has become poorer because of what happened five years ago.
+
+[[[Q213 ]]]&#xa0; 
+
+[[[Mr Love:]]] Let me go on, because the Office of Budget Responsibility stated in reply to a question at this Committee that it is inconceivable that real household incomes have not been falling over the period 2008 to 2012. Would you agree with that?
+
+[[[Mr Osborne]]]: I agree, and again the timeframe is important, because I think the question was about 2008, and in 2008 this country had the biggest recession in its modern history and the biggest banking crisis probably ever in its history. The idea that that was not going to have an impact on the living standards of the people living in this country is fanciful, but what is also the case is it is fanciful to believe that you can improve those living standards without improving the economy. Our economic plan is improving that economy.
+
+[[[Q214 ]]]&#xa0; 
+
+[[[Mr Love:]]] Turning of course to the issues in relation to growth in the economy, if we are to believe the forecasts of the OBR, then we will see modest growth over the coming years. What we are trying to establish is how do people out there feel about the possibility of growth and how it has affected their living standards. Again, if I can quote the OBR, which is your independent body set up to speak truth to power—I think your own words—they said, “It is inconceivable that real household incomes have not been falling over that period”. Again, that is the period 2008 to 2012.
+
+[[[Mr Osborne]]]: I agree that what happened in 2008 has made this country a lot poorer. I accept that. What I would say is the way to make the country richer is to stick with the economic plan that has helped us recover from that economic calamity.
+
+[[[Q215 ]]]&#xa0; 
+
+[[[Mr Love:]]] But you accept that living standards are still, according to the ONS, falling this year and will probably fall next year and then in 2015, according to the OBR, we may well see a return to growth rates? You accept that over the period 2008 to 2015 we will see a significant fall in real incomes?
+
+[[[Mr Osborne]]]: First of all, the annual survey out this morning showed median gross weekly earnings growing at 2.2%. That is the current rate of inflation, and in the OBR earnings survey, again of course independent of the Government, shows earnings picking up next year to 2.6% and 3.3% in 2015. But if you are saying to me, “Are the effects of the calamity in 2008-09 being felt and still being felt?” Absolutely. That is why the job is not done and we have to work through the plan.
+
+[[[Q216 ]]]&#xa0; 
+
+[[[Mr Love:]]] But the ONS survey shows that there was a very small fall in real living standards in 2009 and then much more significant falls, mainly due to inflation, in 2010, 2011, 2012, a smaller fall in 2013. The OBR tell us there will probably be a very small fall in 2014 and then we will return to growth in 2015. Do you accept that pattern, based on the forecasts of the OBR and the work that has been done by the ONS?
+
+[[[Mr Osborne]]]: I just think it is inconceivable that you can lose 7% of your GDP and that does not have an impact on the living standards of the people of this country, but the best answer to that is to work through the problems, deal with the public finances, get the economy into a position where it can grow in a sustainable way.
+
+[[[Q217 ]]]&#xa0; 
+
+[[[Mr Love:]]] I just want to get clarity about what we have agreed. You do agree that those falls in living standards have occurred and will occur according the forecasts of the OBR and that growth will not return until 2015?
+
+[[[Mr Osborne]]]: I agree that the financial calamity of 2008-09 made this country poorer and I also agree that the OBR have set out independent forecasts.
+
+[[[Q218 ]]]&#xa0; 
+
+[[[Chair:]]] While we are on living standards, we have not talked very much about energy today and energy costs, which are a big part of the problem, and indeed are salient in the debate between the parties at the moment. Do you think it might be helpful if, led by the Treasury, the Government could publish a comprehensive explanation of how the component parts of energy costs are made up, including all those costs that derive not only from public expenditure subsidies or tax relief, but also regulatory incentives or disincentives and direct or indirect levies, such as the carbon emissions reduction obligation? It is not an easy task, but bring it all together so that the public can have a look at it and can make a judgment at an election, based on transparency.
+
+[[[Mr Osborne]]]: I would be happy to provide that. I do know that on coming into office, there was no single place, as far as I could discover, where all these things were brought together so people understand—
+
+[[[Chair:]]] As far as I know, there still is not.
+
+[[[Mr Osborne]]]: &#xad;—the impact of all these different policies on energy bills, but we have now brought that together and I am happy to share it with you.
+
+[[[Chair:]]] That would be extremely interesting and helpful, thank you, Chancellor.
+
+[[[Q219 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Newmark]]]
+
+[[[:]]] Yes. Before I get to my substantive question, I just wanted to reconfirm, Chancellor, that you agree with the IFS analysis that a further £12 billion in welfare savings will be required in order to keep departmental savings at the same rate.
+
+[[[Mr Osborne]]]: I do not want to put a number on it, but I agree with the analysis behind that number, that many billions of pounds of welfare savings are going to be required if we want to avoid cutting Government budgets even further than they have been in terms of the rates. Anyone who wants to be honest with the British public about dealing with the deficit, making sure we maintain public services of a sufficient quality, should also be honest about the welfare savings that are required. Of course, the welfare cap is one way to have that debate.
+
+[[[Q220 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Newmark]]]
+
+[[[:]]] That is what I want to touch on now. Currently the welfare cap of £26,000 is effectively £35,000 pre-tax and the majority of my constituents make nowhere near that amount. Do you think that is fair is my first question, and would it not be more reasonable to set the welfare cap to closer to effectively £26,000 pre-tax, which is what on average most people are making?
+
+[[[Mr Osborne]]]: First of all, just for the sake of clarity, I was referring earlier to the welfare cap as a cap on overall welfare spending, in a controlled total for welfare spending. On the benefit cap, which I very much support, I think this has introduced an element of fairness into the system that an out of work family should not receive more than the average working family gets. The level of the cap has been set. I think it was set in a fair way. Of course it is open to debate and open to future governments to change the level of the cap.&#xa0;
+
+[[[Q221 ]]]&#xa0; 
+
+[[[Mr ]]]
+
+[[[Newmark]]]
+
+[[[:]]] But given that most of my constituents, most of our constituents here, do not make anywhere near £35,000 pre-tax, are you at least sympathetic with the fact that if you are trying to find the savings—and we have heard most of the Members from all parties here, “You need to bring the deficit down” —isn’t that one area where you could continue to make considerable savings and bring the deficit down by reducing the welfare cap to a more reasonable level that ordinary people can relate to?
+
+[[[Mr Osborne]]]: I think the level of the benefit cap will continue to be a subject of fierce debate.
+
+[[[Q222 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] Morning, Chancellor. You have spoken a lot just now about welfare savings and welfare spending, but do you not think it important that the actual Department of the DWP give value for money?
+
+[[[Mr Osborne]]]: Yes, of course I do.
+
+[[[Mr ]]]
+
+[[[Newmark]]]
+
+[[[:]]] Are you concerned that the Universal Credit project does not give value for money?
+
+[[[Mr Osborne]]]: No, I am not, because I think what the Department is doing and what the Government is doing is trying to learn the lessons of what went wrong with tax credits, where the system was introduced in a single big bang. I do not think you will remember the Parliament time, but from your background, I am sure you were involved in the issues that arose for families with this attempt to introduce a major change to the welfare system in one go. Certainly I remember as a new MP having many people in my constituency surgery with these problems. I would much rather get this right than rush it.
+
+[[[Teresa Pearce:]]] Yes, I agree.
+
+[[[Mr Osborne]]]: I think taking time to get Universal Credit right is the right approach.
+
+[[[Q223 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] I agree that it needs to be right and not to be rushed, but £303 million has been spent on the software for Universal Credit at the moment and there has had to be a reset and a redesign of the software, so that is £303 million which is virtually unusable. Is that value for money?
+
+[[[Mr Osborne]]]: I am not sure I recognise the sum you—
+
+[[[Teresa Pearce:]]] I can go through it for you, if you want. There is £303 million: £40 million has been written off; £97 million has been written down, but they have had to change the accounting policy to write it down over five years, because it will not be of any use after five years, and that leaves £107 million that has not been capitalised because at the moment none of it is usable. The National Audit Office has confirmed these figures. I asked the Secretary of State about it and he did not seem to understand the figures, but that is £303 million and now there is a reset and a redesign of the software.
+
+[[[Mr Osborne]]]: That investment has helped deliver Universal Credit to those people in the pilot areas and is helping design a system that is going to bring more people on to these pilots and design the system that will enable the vast bulk of the claimants to move on to it over the next few years. Of course we are now moving these trials from just the simplest cases in terms of often single out of work people to families; that is the next step. But again, the alternative to this is some big bang introduction of a massive welfare change and surely we have learnt the lesson from the tax credits fiasco that we do not want to repeat that.&#xa0;
+
+[[[Q224 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] I agree that the lesson needs to be learnt from tax credits, from the CSA, which was also a big computer programme that did not work properly to start with, but the Secretary of State confirmed that he is having to entire rework the IT system at substantial cost. You are not the Secretary of State for Work and Pensions, I understand that, but you are the Chancellor, you are in charge of the budget that is given to that Department. Are you not worried?
+
+[[[Mr Osborne]]]: The thing that would worry me is if we were rushing this system and bringing misery to many families.
+
+[[[Q225 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] But are you not worried that the specification for the original software was clearly flawed, because it all has to be reset?
+
+[[[Mr Osborne]]]: I want to ensure good value for money and the best way to get good value for money is to take this step by step, make sure we are getting it right and if there is a problem with the software, I would much rather discover the problem with the software right at the beginning, before I have suddenly moved—
+
+[[[Teresa Pearce:]]] But it is two years in.
+
+[[[Mr Osborne]]]: Well, before we have moved 7 million people on to the software, which is what happened with tax credits. These are big, big projects and the idea that you—
+
+[[[Q226 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] Okay. Can I ask you about something else then? Can I ask you about the document Managing Public Money that was issued by the Treasury in July this year? Clearly it says in that document that a department that needs a write-off has to draw it to the Treasury’s attention as soon as possible. Could you tell me when they drew this to the Treasury’s attention?
+
+[[[Mr Osborne]]]: We have been in constant dialogue with the Department of Work and Pensions on the introduction of Universal Credit, because—
+
+[[[Q227 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] Is that why the accounts were so late?
+
+[[[Mr Osborne]]]: We are part of all the discussions, because when this comes in, it will be the single-largest item of Government spending, so again, the Treasury, as you would expect, is there in the room discussing with the Department how to bring about this major transformation of welfare so that work always pays.
+
+[[[Q228 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] It was brought to the Treasury’s attention. It also says in paragraph A4.10(5), “It should be notified to Parliament at the earliest opportunity if there is going to be a write-off of the capital cost”. Is it that this is the earliest opportunity, when the accounts are March 2013?
+
+[[[Mr Osborne]]]: I am satisfied we have followed the correct parliamentary procedure and kept Parliament informed, and indeed made sure the National Audit Office—and through them the Public Accounts Committee—have full transparency and access to the work we are doing. But again, this comes back to I would much rather trial these things and make sure the software works before—
+
+[[[Teresa Pearce:]]] So would I, but it does not.
+
+[[[Mr Osborne]]]: —saying to all our constituents, “You know what, you are going on this brand-new system”. I think everyone agrees now on the principle that work should pay. We now have to get the implementation of this right. As I say, in fact the early evidence from those who are on Universal Credit is very encouraging, that it has increased their work incentives and we have had very positive feedback. But as I say, let us take this step by step, let us not try to do it in one big bang.
+
+[[[Q229 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]]
+
+[[[ ]]]Clearly you are not as worried as I am. Let us just move on to the marriage tax allowance. You said that the marriage tax allowance would benefit some of the poorest families. How will that happen?
+
+[[[Mr Osborne]]]: Because some of the poorest families are those who are single earners and now they will be able to transfer their unused personal tax allowances.
+
+[[[Q230 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] So the poorest families, who will be at some point in the future, I hope, on Universal Credit, for every £1 they get in transferring the tax allowance will lose £1 in Universal Credit?
+
+[[[Mr Osborne]]]: They will be better off, but they—
+
+[[[Teresa Pearce:]]] How will they be better off if they lose pound for pound?
+
+[[[Mr Osborne]]]: Because there is not 100% taper on Universal Credit.
+
+[[[Q231 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] There is a certain point. Okay, so you think they will still be better off.What about tax simplification? What happened to that? This is not a very simple tax, is it? The transferable tax allowance includes a taper, a transfer, a cap. How is that simplification?
+
+[[[Mr Osborne]]]: It is a pretty simple concept, that people who are not using their personal allowance can transfer it to their married partner and it is an idea that has been in circulation for many, many years and I am pleased the Government is introducing it.
+
+[[[Q232 ]]]&#xa0; 
+
+[[[Teresa Pearce:]]] You think it ties with simplification even though there is a taper, a cap and a transfer?
+
+[[[Mr Osborne]]]: I think it creates a fairer tax system.
+
+[[[Teresa Pearce:]]] You do?
+
+[[[Mr Osborne]]]: Yes.
+
+[[[Q233 ]]]&#xa0; 
+
+[[[Chair:]]] One of the advantages of modern technology is that one can get back verbatim what witnesses have said to you while one is still in session.
+
+[[[Mr Osborne]]]: I am delighted to hear about this innovation.
+
+[[[Chair:]]] I have in front of me—at least according to the Telegraph website—and I quote you, Chancellor, “The FPC have a lock” this is on the Help to Buy scheme, “because the scheme cannot be extended without their consent” but that is not correct, is it? You told us that this is a decision for the Government.
+
+[[[Mr Osborne]]]: I have said that the Government would not proceed if the FPC withheld their consent. By the way, this is all entirely hypothetical, because I would expect the scheme to come—
+
+[[[Q234 ]]]&#xa0; 
+
+[[[Chair:]]] Let us just stick on the point. This is the first point I raised with you and I think it is quite important. You are saying that you will accept the FPC’s advice if they think this scheme should be closed down after three years, but although they do not have a legal lock, you are going to act on it.
+
+[[[Mr Osborne]]]: The short answer to that is yes, but I would put it another way, which is—
+
+[[[Q235 ]]]&#xa0; 
+
+[[[Chair:]]] You may put it another way and I will give you an opportunity to do that in a moment, but I just want to be clear on what you have said this morning, which is almost this afternoon. You have said that in practice the FPC do have a lock on this scheme after three years, because you—assuming you are still Chancellor and assuming this Government is still in power—will not proceed with this scheme if you receive advice that you should not by the FPC.
+
+[[[Mr Osborne]]]: The scheme was set in place for three years. I said it is a three-year scheme, it is not beyond that. If for whatever reason a government felt like it wanted to extend it, the FPC could veto that and stop it being extended. The practical application of that is that is a commitment I have made to Parliament. Parliament would no doubt hold me to account and vote me down if I did not listen to the FPC on that, so they do have a veto on its extension, but it is not my intention to extend the scheme.
+
+[[[Q236 ]]]&#xa0; 
+
+[[[Chair:]]] When the Governor wrote to us in reply to a number of questions we put to him, where he said, “I can confirm that the FPC does not have a veto on the scheme” for all practical purposes, he should assume that he does? 
+
+[[[Mr Osborne]]]: I would draw a distinction between extending the scheme beyond its life—I have been very clear that the FPC has a block—and then changes to the scheme during its operation, where I have also been very clear that we pay close attention to their advice.
+
+[[[Chair:]]] That is extremely helpful clarification and gives some added meat to the exchange of letters that took place a short while ago. Thank you very much, Chancellor, for giving evidence on a wide range of subjects. We may need to write to you about a few others, and you have already agreed to give us a very interesting piece of information on energy this morning. We are very grateful; thank you.&#xa0;&#xa0;&#xa0;              Oral evidence: Autumn Statement, HC 826                            2

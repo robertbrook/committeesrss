@@ -1,0 +1,57 @@
+&#xa0;
+
+[[[Written evidence submitted by]]]
+
+[[[ European ]]]
+
+[[[Bioplastics e.V.]]]
+
+[[[&#xa0;]]]
+
+[[[&#xa0;]]]
+
+[[[Background paper on the behaviour of bioplastic films in mechanical recycling streams]]]
+
+[[[&#xa0;]]]
+
+[[[Summary]]]&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[&#xa0;]]]
+
+[[[1. Definitions]]]&#xa0;Bioplastics are plastics that are biobased, biodegradable,              or both. This large family of different materials can be simplified into two groups:&#xa0;1.1. 
+
+[[[Biobased non-biodegradable plastics]]] (also: durable bioplastics) &#xa0;
+
+[[[Materials:]]] Biobased polyethylene (PE), biobased polyethylene terephthalate (PET), biobased polyamides, and materials such as starch-polyolefin blends etc.&#xa0;
+
+[[[Uses: ]]]Packaging sector or durable applications, for example in vehicles, buildings, household appliances, interior design, lifestyle goods and electronics. &#xa0;1.2. 
+
+[[[Biobased ]]]
+
+[[[biodegradable and]]]
+
+[[[ compostable plastics]]]
+
+[[[&#xa0;]]]
+
+[[[Materials:]]] Thermoplastic starch, polylactic acid (PLA) or polyhydroxyalkanoates etc.&#xa0;
+
+[[[Uses:]]] Short-lived applications such as in agriculture, catering products, packaging, or thin bags. Suitable for organic recycling, especially industrial composting.&#xa0;
+
+[[[Standards: ]]]Within the EU compostable products are certified under EN 13432 and EN 14995.&#xa0;&#xa0;
+
+[[[2. Bioplastics in mixed]]]
+
+[[[ waste streams]]]
+
+[[[ ]]]
+
+[[[&#xa0;]]]Modern waste recovery systems cope with intermingled materials, including a variety of different polymer types. Automated plants sort out the profitable parts of the waste stream (for example PE, or PET). The promising polymers are separated. The rest ends in another container, usually marked and resold as ‘mixed plastics’. &#xa0;To achieve this advanced sorting systems use a variety of analytical methods including near infrared, ultraviolet, x-ray, laser, polarized light, fluorescent light, electrostatic, melting point and other techniques. These methods are effective in keeping contamination of the main recycling streams with unwanted material low. &#xa0;Biodegradable plastics should end up in biowaste bins. If such bins are not available they can still be clearly identified from their labels and sorted out for delivery to a biowaste processer. &#xa0;However, even in well working systems an intermingling of waste streams cannot be completely avoided. Non-biodegradable plastics can end up in the organic waste stream (e.g. misthrows) and biodegradable, compostable plastics might be found in mechanical recycling (e.g. misidentification). It is already the case that conventional plastics find their way, in low volumes, to the wrong stream. &#xa0;We can then say that in well run waste management facilities most residual bioplastic will end up as ‘mixed plastic’ until such a time as recovery is profitable. We can also say, even when incorrectly sorted, that bioplastics today do not enter the waste stream in sufficient volume to cause concern. Or at least no more concern than any other type of plastic. &#xa0;
+
+[[[3. The case against bioplastics is not evidence-based]]]
+
+[[[&#xa0;]]]Voices in some parts of the waste management industry claim that bioplastics are a serious disturbance to the established recycling streams of for example, PE or PET. &#xa0;The following research and evidence refutes these assertions. It suggests the influence on the collection and processing of profitable materials is negligible.&#xa0;Biobased Polyethylene (PE, not biodegradable or compostable)&#xa0;Biobased PE is obtained by polymerisation of ethylene monomers. Depending on the polymerisation process biobased LDPE or biobased HDPE can be produced. The only difference to fossil-based PE is the source, which is plant based (bioethanol made from sugar cane, sugar beet, wheat etc.). &#xa0;As a result fossil and plant based PE are chemically identical. They share the exact same physical properties.  Therefore biobased PE can be mechanically recycled with the fossil based PE in the corresponding recycling streams. There is no new issue. &#xa0;PLA/PBAT blends (compostable according to EN 13432)&#xa0;Studies by the University of Hannover [1], [2] examined the influence of different compostable plastics on low-density polyethylene (LDPE). The tested mixtures contained between 0.5 % to 10 % foreign material. The LDPE contaminants were a PLA/PBAT blend, pure PBAT and a starch blend. They found:&#xa0;&#xa0;The biodegradable polyester PBAT was also tested as a possible contaminant for LDPE. The blending of pure PBAT with LDPE had no influence on the viscosity behaviour compared with pure LDPE and was affirmed to have no influence on the processing properties. The values for melt flow rate were close to the ones of pure LDPE and were also described to result in no distinctive disturbances during processing of the material. Optical changes could also not be observed.&#xa0;Below 10% contamination there is no issue.&#xa0;Starch blends (compostable according to EN 13432)&#xa0;A study by BIOTEC [3] has evaluated tensile strength, elongation at break and specific impact resistance for mixtures of PE with possible contaminations with a starch/PBAT blend as well as PP and PS. It was shown that the biodegradable starch blend contaminates PE no more than a contamination with conventional plastics as PS or PP. &#xa0;In most cases the properties of the mixtures of PE with PS or PP as contaminants showed worse performances than the contamination of PE with a starch blend. &#xa0;However, the same study found out that even lowest PET shares (2%) in a PE recycling stream results in serious problems. Due to the comparatively high melting temperature of PET (approx. 250°C), it was impossible to run a PE-based blown-film. &#xa0;These results suggest that the contaminating effect of a compostable plastic on PE is actually less than the contaminating effect of PET on PE. &#xa0;A study by the University of Hannover [1] also examined a starch blend used in flexible packaging applications. It was found out that the influence on the viscosity and flow characteristics was only marginal up to the tested ratio of 10%. &#xa0;Concerning the melt flow rate the influence on the processing properties was described as low considered with the pure LDPE. A change of colour was observed with increasing amount of starch blend.&#xa0;Tests carried out at the Plastics Testing Laboratory Foundation of the Polytechnic Institute of Milan and the Proplast Laboratories in Tortona/Italy (on behalf of CONAI, the National Packaging Consortium in Italy) [4], have confirmed that it is possible to reprocess and recycle bags of a starch based material and traditional plastic shopping bag waste up to a concentration of 10% of starch-blends as input material. &#xa0;CONAI found that flexible, compostable packaging can be recycled with common plastics packaging materials up to a content of 10% without any problems [5]. &#xa0;CONAI concluded that even if biodegradable bags are not disposed off properly they do not interfere with the recycling stream of conventional plastics.&#xa0;&#xa0;&#xa0;
+
+[[[4. ]]]
+
+[[[Literature:]]]&#xa0;[1] A. Kitzler, Bioplastics in Waste Management Streams, Dissertation, University of Hannover, 2013[2] H.-J. Endres, A.-A. de la Cruz, Influence of PLA/PBAT material (ecovio) on the recycling of conventional LD PE, University of Hannover, 2013 [3] C. Heß, Influence of BIOPLAST-Material and conventional non-PE Plastics on the mechanical Properties of recycled PE-Film, BIOTEC, Presented at K Fair 2013[4] Italian National Packaging Consortium CONAI, Findings of Biodegradable Packaging Recovery Project. Presented at the European Bioplastics Conference, Berlin, 2013.[5] http://www.ecodallecitta.it/notizie.php?id=114824, retrieved on December 8th, 2013&#xa0;&#xa0;7 January 2014&#xa0; Certified biodegradable plastics are marked with a corresponding label, e.g. the Seedling logo. This makes compostable plastics clearly identifiable and distinguishable from conventional and non-biodegradable ones. Blend of polylactic acid and poly(butyleneadipate-co-terephthalate); Tradename: ecovio® Tradename: BIOPLAST® Tradename: Mater-Bi®

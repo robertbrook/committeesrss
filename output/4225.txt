@@ -1,0 +1,35 @@
+
+
+[[[&#xa0;]]]&#xa0;&#xa0;&#xa0;Written evidence from the Department for Transport (HRS 038)&#xa0;During the recent Transport Select Committee hearing on High Speed Rail which took place on Tuesday 26 November, I promised to provide written evidence to the Committee detailing the basis of our revised estimates of business travellers. Annex A fulfils this promise and contains a detailed description of the approach taken and how it differs from the previous methodology.&#xa0;
+
+[[[A]]]
+
+[[[nnex A]]]
+
+[[[&#xa0;]]]
+
+[[[The Approach to Forecasting HS2 Demand by Journey Purpose]]]
+
+[[[&#xa0;]]]Why journey purpose matters&#xa0;&#xa0;&#xa0;Estimation of journey purpose splits prior to October 13&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;The new approach to estimating journey purpose splits&#xa0;&#xa0;&#xa0;
+
+[[[Figure 1]]]: Change in proportion of 2010 weekday business rail travel by flow&#xa0;&#xa0;Comparison with Other Data Sources&#xa0;&#xa0;&#xa0;
+
+[[[Proportion of weekday rail journeys in 2010 undertaken for business]]]
+
+[[[ purposes]]]
+
+[[[ ]]]
+
+[[[August 12 Model]]]
+
+[[[National Travel Survey]]]
+
+[[[PDFHv5]]]
+
+[[[October 13]]]
+
+[[[Model]]]London to East Midlands, Yorkshire and Humberside22%41%50%40%London to West Midlands and North West24%42%50%50%
+
+[[[Table 1]]]: Proportion of 2010 weekday business rail travel by flow (excluding weekend travel)&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
+
+[[[&#xa0;]]] http://www.dft.gov.uk/webtag/documents/expert/pdf/U3-5-6D-values-of-time-and-vehicle-operating-costs-Oct%202013.pdf Ticket sales data is taken from a rail industry ticket sales database known as LENNON. National Rail Travel Survey was undertaken by the SRA and DfT, and comprises the London Area Travel Surveys conducted in 2001 with additional surveys outside London conducted in 2004 and 2005. http://assets.dft.gov.uk/statistics/series/rail/nrtsupdate.pdf DfT WebTAG Unit 3.154, Section 4.2. http://www.dft.gov.uk/webtag/documents/expert/pdf/u3_15_4-rail-passenge-demand-forecasting-120723.pdf   The National Passenger Survey is undertaken by Passenger Focus and comprises periodic surveys designed to collect information on satisfaction with rail services but also includes details such as journey purpose. http://www.passengerfocus.org.uk/research/national-passenger-survey-introduction Note that the proportions in the graph are generally higher than those actually used in the appraisal due to the use of annualisation factors to multiply different journey purposes to annual totals and take account of weekend and bank holiday travel. The National Travel Survey is undertaken annually by the Department for Transport and is the primary source of data on personal travel patterns in Great Britainhttps://www.gov.uk/government/collections/national-travel-survey-statistics Model used to generate the August 2012 HS2 economic case was known as PFMv3 http://assets.hs2.org.uk/sites/default/files/inserts/120921_modelling%20development%20report%20v3%20final.pdf Model used to generate the October 2013 HS2 economic case was known as PFMv4.3 http://assets.hs2.org.uk/sites/default/files/inserts/S%26A%204_PLANET%20framework%20model%20%28PFM%20v4.3%29_model%20description.pdf
