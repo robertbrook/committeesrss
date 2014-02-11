@@ -8,6 +8,11 @@ gutil = require("gulp-util")
 docco = require("gulp-docco")
 getter = require("./getter")
 
+#
+#https://www.npmjs.org/package/gulp-cheerio/
+#https://github.com/phated/gulp-toc
+#https://www.npmjs.org/package/gulp-rss/
+
 paths =
   data: "data/*"
   output:"output/*"
