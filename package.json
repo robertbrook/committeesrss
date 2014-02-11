@@ -42,6 +42,8 @@
     "gulp-imagemin": "~0.1.5",
     "gulp-coffee": "~1.4.1",
     "gulp-docco": "0.0.1",
-    "gulp-load": "~0.1.1"
+    "gulp-load": "~0.1.1",
+    "gulp-html2txt": "0.0.1",
+    "gulp-prune-html": "0.0.1"
   }
 }
