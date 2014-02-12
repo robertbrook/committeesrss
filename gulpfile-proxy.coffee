@@ -1,32 +1,40 @@
-gulp = require("gulp")
-autoprefixer = require("gulp-autoprefixer")
-uglify = require("gulp-uglify")
-rename = require("gulp-rename")
-clean = require("gulp-clean")
-coffee = require("gulp-coffee")
-gutil = require("gulp-util")
-docco = require("gulp-docco")
-getter = require("./getter")
+gulp      = require "gulp"
+clean     = require "gulp-clean"
+gutil     = require "gulp-util"
+docco     = require "gulp-docco"
+html2md   = require "gulp-html2md"
+getter    = require "./getter"
+cheerio   = require "gulp-cheerio"
+lazy      = require "lazy"
 
-#
-#https://www.npmjs.org/package/gulp-cheerio/
-#https://github.com/phated/gulp-toc
 #https://www.npmjs.org/package/gulp-rss/
+#Currently, gulp-cheerio uses cheerio ~0.13.0.
+
+loggit = (text) ->
+  console.log (text)
 
 paths =
   data: "data/*"
   output:"output/*"
 
 gulp.task "default", ->
-  console.log "ok"
+  loggit "ok"
+  
+gulp.task "sync", ->
+  gulp.src([ "./data/*" ]).pipe(cheerio(run: ($) ->
+    $("title").each ->
+      h1 = $(this)
+      h1.text h1.text().toUpperCase()
+
+  ))
+  .pipe gulp.dest("./output")
 
 
-gulp.task "coffee", ->
-  gulp.src("*.coffee").pipe(coffee(
-    bare: true
-    sourceMap: true
-  ).on("error", gutil.log)).pipe gulp.dest "./"
-
+gulp.task "mdit", ->  
+  gulp.src([ "./data/10*" ])
+    .pipe html2md()
+    .pipe gulp.dest("./output")
+    
 gulp.task "clean", ->
   gulp.src(paths.output,
     read: false
