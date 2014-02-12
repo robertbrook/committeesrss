@@ -5,7 +5,7 @@ docco     = require "gulp-docco"
 html2md   = require "gulp-html2md"
 getter    = require "./getter"
 cheerio   = require "gulp-cheerio"
-lazy      = require "lazy"
+_         = require "underscore"
 
 #https://www.npmjs.org/package/gulp-rss/
 #Currently, gulp-cheerio uses cheerio ~0.13.0.
@@ -18,9 +18,12 @@ paths =
   output:"output/*"
 
 gulp.task "default", ->
-  loggit "ok"
+#  loggit "ok"
+  loggit _.each(_.range(0, 7000, 500))
+
   
 gulp.task "sync", ->
+  
   gulp.src([ "./data/*" ]).pipe(cheerio(run: ($) ->
     $("title").each ->
       h1 = $(this)
@@ -30,8 +33,9 @@ gulp.task "sync", ->
   .pipe gulp.dest("./output")
 
 
-gulp.task "mdit", ->  
-  gulp.src([ "./data/10*" ])
+gulp.task "mdit", -> 
+  ranges = ["./data/0*", "./data/10*", "./data/20*", "./data/30*", "./data/40*", "./data/50*"] 
+  gulp.src(ranges)
     .pipe html2md()
     .pipe gulp.dest("./output")
     
