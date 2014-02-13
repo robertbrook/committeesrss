@@ -28,12 +28,8 @@
                 <a class="pilcrow" href="#section-1">&#182;</a>
               </div>
               <p>Getter is a utility to fetch evidence to Parliamentary committees from data.parliament.uk and make their content available for onward use.</p>
-<h1 id="getter">Getter</h1>
 
             </div>
-            
-            <div class="content"><div class='highlight'><pre>request =   <span class="hljs-built_in">require</span>(<span class="hljs-string">"request"</span>)
-fs      =   <span class="hljs-built_in">require</span>(<span class="hljs-string">"fs"</span>)</pre></div></div>
             
         </li>
         
@@ -44,11 +40,13 @@ fs      =   <span class="hljs-built_in">require</span>(<span class="hljs-string"
               <div class="pilwrap ">
                 <a class="pilcrow" href="#section-2">&#182;</a>
               </div>
-              <p><strong>walk</strong> prevents getter opening too many files at once</p>
+              <h1 id="getter">Getter</h1>
 
             </div>
             
-            <div class="content"><div class='highlight'><pre>walk    =   <span class="hljs-built_in">require</span>(<span class="hljs-string">"walk"</span>)</pre></div></div>
+            <div class="content"><div class='highlight'><pre>
+request =   <span class="hljs-built_in">require</span> <span class="hljs-string">"request"</span>
+fs      =   <span class="hljs-built_in">require</span> <span class="hljs-string">"fs"</span></pre></div></div>
             
         </li>
         
@@ -59,26 +57,12 @@ fs      =   <span class="hljs-built_in">require</span>(<span class="hljs-string"
               <div class="pilwrap ">
                 <a class="pilcrow" href="#section-3">&#182;</a>
               </div>
-              <p><strong>cheerio</strong> is a helper from <a href="https://github.com/MatthewMueller/cheerio">https://github.com/MatthewMueller/cheerio</a></p>
+              <p><strong>walk</strong> prevents getter opening too many files at once</p>
 
             </div>
             
-            <div class="content"><div class='highlight'><pre>cheerio =   <span class="hljs-built_in">require</span>(<span class="hljs-string">"cheerio"</span>)
-
-
-
-
-walker = walk.walk(<span class="hljs-string">"./data/"</span>)
-
-walker.<span class="hljs-literal">on</span> <span class="hljs-string">"file"</span>, <span class="hljs-function"><span class="hljs-params">(root, fileStats, next)</span> -&gt;</span>
-  fs.readFile root + fileStats.name, <span class="hljs-function"><span class="hljs-params">(err, data)</span> -&gt;</span>
-        
-    $ = cheerio.load(data)
-    myString = <span class="hljs-string">""</span>
-    myState = <span class="hljs-string">"default"</span>
-    $<span class="hljs-function"><span class="hljs-params">(<span class="hljs-string">"p span"</span>)</span>.<span class="hljs-title">each</span> <span class="hljs-params">(index, element)</span> -&gt;</span>
-      <span class="hljs-keyword">if</span> element.attribs[<span class="hljs-string">"style"</span>]
-        <span class="hljs-keyword">if</span> ~(element.attribs[<span class="hljs-string">"style"</span>]).indexOf(<span class="hljs-string">"bold"</span>)</pre></div></div>
+            <div class="content"><div class='highlight'><pre>
+walk    =   <span class="hljs-built_in">require</span>(<span class="hljs-string">"walk"</span>)</pre></div></div>
             
         </li>
         
@@ -89,14 +73,23 @@ walker.<span class="hljs-literal">on</span> <span class="hljs-string">"file"</sp
               <div class="pilwrap ">
                 <a class="pilcrow" href="#section-4">&#182;</a>
               </div>
-              <h2 id="header">Header</h2>
-<p>I found something <em>bold!</em></p>
+              <p><strong>cheerio</strong> is a helper from <a href="https://github.com/MatthewMueller/cheerio">https://github.com/MatthewMueller/cheerio</a></p>
 
             </div>
             
-            <div class="content"><div class='highlight'><pre>          myString += element.children[<span class="hljs-number">0</span>].data
-          
-        <span class="hljs-keyword">else</span></pre></div></div>
+            <div class="content"><div class='highlight'><pre>
+cheerio =   <span class="hljs-built_in">require</span>(<span class="hljs-string">"cheerio"</span>)
+
+<span class="hljs-function"><span class="hljs-title">process</span> = <span class="hljs-params">()</span> -&gt;</span> 
+  walker = walk.walk(<span class="hljs-string">"./data/"</span>)
+
+  walker.<span class="hljs-literal">on</span> <span class="hljs-string">"file"</span>, <span class="hljs-function"><span class="hljs-params">(root, fileStats, next)</span> -&gt;</span>
+    fs.readFile root + fileStats.name, <span class="hljs-function"><span class="hljs-params">(err, data)</span> -&gt;</span>
+      $ = cheerio.load(data)
+      myString = <span class="hljs-string">""</span>
+      $<span class="hljs-function"><span class="hljs-params">(<span class="hljs-string">"p span"</span>)</span>.<span class="hljs-title">each</span> <span class="hljs-params">(index, element)</span> -&gt;</span>
+        <span class="hljs-keyword">if</span> element.attribs[<span class="hljs-string">"style"</span>]
+          <span class="hljs-keyword">if</span> ~(element.attribs[<span class="hljs-string">"style"</span>]).indexOf(<span class="hljs-string">"bold"</span>)</pre></div></div>
             
         </li>
         
@@ -107,29 +100,14 @@ walker.<span class="hljs-literal">on</span> <span class="hljs-string">"file"</sp
               <div class="pilwrap ">
                 <a class="pilcrow" href="#section-5">&#182;</a>
               </div>
-              <p>this is just normal text
-This is an <a href="http://example.com/">example link</a>.</p>
+              <h2 id="header">Header</h2>
+<p>I found something <em>bold!</em></p>
 
             </div>
             
-            <div class="content"><div class='highlight'><pre>          myString += element.children[<span class="hljs-number">0</span>].data
-          myString += <span class="hljs-string">"\n"</span>
-        myString += myState
-        
-    <span class="hljs-keyword">if</span> fileStats.size &gt; <span class="hljs-number">1647</span>        
-      fs.writeFile <span class="hljs-string">"./output/"</span> + fileStats.name, myString, <span class="hljs-function"><span class="hljs-params">(err)</span> -&gt;</span>
-        <span class="hljs-keyword">if</span> err
-          <span class="hljs-built_in">console</span>.log err
-        <span class="hljs-keyword">else</span>
-          <span class="hljs-built_in">console</span>.log <span class="hljs-string">"Wrote out "</span> + fileStats.name + <span class="hljs-string">", "</span> + fileStats.size
-    next()
-
-walker.<span class="hljs-literal">on</span> <span class="hljs-string">"errors"</span>, <span class="hljs-function"><span class="hljs-params">(root, nodeStatsArray, next)</span> -&gt;</span>
-  <span class="hljs-built_in">console</span>.log <span class="hljs-string">"error"</span>
-  next()
-
-walker.<span class="hljs-literal">on</span> <span class="hljs-string">"end"</span>,<span class="hljs-function"> -&gt;</span>
-  <span class="hljs-built_in">console</span>.log <span class="hljs-string">"That's all folks."</span></pre></div></div>
+            <div class="content"><div class='highlight'><pre>            myString += <span class="hljs-string">"\n\n[[["</span> + element.children[<span class="hljs-number">0</span>].data + <span class="hljs-string">"]]]"</span>
+          
+          <span class="hljs-keyword">else</span></pre></div></div>
             
         </li>
         
@@ -140,7 +118,65 @@ walker.<span class="hljs-literal">on</span> <span class="hljs-string">"end"</spa
               <div class="pilwrap ">
                 <a class="pilcrow" href="#section-6">&#182;</a>
               </div>
-              <p>That&#39;s all folks.</p>
+              <p>this is just normal text
+This is an <a href="http://example.com/">example link</a>.</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>            myString += element.children[<span class="hljs-number">0</span>].data</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <pre><code>     myString += <span class="hljs-string">"\n"</span>
+</code></pre>
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>        
+      <span class="hljs-keyword">if</span> fileStats.size &gt; <span class="hljs-number">1647</span>        
+        fs.writeFile <span class="hljs-string">"./output/"</span> + fileStats.name + <span class="hljs-string">".txt"</span>, myString, <span class="hljs-function"><span class="hljs-params">(err)</span> -&gt;</span>
+          <span class="hljs-keyword">if</span> err
+            <span class="hljs-built_in">console</span>.log err
+          <span class="hljs-keyword">else</span>
+            <span class="hljs-built_in">console</span>.log <span class="hljs-string">"Wrote out "</span> + fileStats.name + <span class="hljs-string">".txt, "</span> + fileStats.size
+      next()
+
+  walker.<span class="hljs-literal">on</span> <span class="hljs-string">"errors"</span>, <span class="hljs-function"><span class="hljs-params">(root, nodeStatsArray, next)</span> -&gt;</span>
+    <span class="hljs-built_in">console</span>.log <span class="hljs-string">"error"</span>
+    next()
+
+  walker.<span class="hljs-literal">on</span> <span class="hljs-string">"end"</span>,<span class="hljs-function"> -&gt;</span>
+    <span class="hljs-built_in">console</span>.log <span class="hljs-string">"That's all folks."</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>That’s all folks.</p>
+
+            </div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>exports.process = -&gt; process</p>
 
             </div>
             

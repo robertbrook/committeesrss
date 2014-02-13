@@ -6,6 +6,7 @@ html2md   = require "gulp-html2md"
 getter    = require "./getter"
 cheerio   = require "gulp-cheerio"
 _         = require "underscore"
+sloc      = require "gulp-sloc"
 
 #https://www.npmjs.org/package/gulp-rss/
 #Currently, gulp-cheerio uses cheerio ~0.13.0.
@@ -16,6 +17,8 @@ loggit = (text) ->
 paths =
   data: "data/*"
   output:"output/*"
+  
+ranges = ["./data/0*", "./data/10*", "./data/20*", "./data/30*", "./data/40*", "./data/50*"]
 
 gulp.task "default", ->
 #  loggit "ok"
@@ -33,8 +36,7 @@ gulp.task "sync", ->
   .pipe gulp.dest("./output")
 
 
-gulp.task "mdit", -> 
-  ranges = ["./data/0*", "./data/10*", "./data/20*", "./data/30*", "./data/40*", "./data/50*"] 
+gulp.task "mdit", ->  
   gulp.src(ranges)
     .pipe html2md()
     .pipe gulp.dest("./output")

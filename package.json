@@ -34,6 +34,7 @@
     "gulp-html2txt": "0.0.1",
     "gulp-html2md": "0.0.1",
     "gulp-cheerio": "~0.1.0",
-    "underscore": "~1.6.0"
+    "underscore": "~1.6.0",
+    "gulp-sloc": "~1.0.3"
   }
 }
