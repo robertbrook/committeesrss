@@ -19,6 +19,7 @@ fs        = require "fs"
 walk      = require "walk"
 cheerio   = require "cheerio"
 tomd      = require 'html-md'
+filesize  = require 'filesize'
 
 # ### Notes
 #https://www.npmjs.org/package/gulp-rss/
@@ -61,7 +62,7 @@ gulp.task "server", ->
           if err
             console.log err
           else
-            console.log "Wrote out " + fileStats.name + ".txt, " + fileStats.size
+            console.log "Wrote out " + fileStats.name + ".txt, " + filesize fileStats.size, round: 0, unix: true
       next()
 
   walker.on "errors", (root, nodeStatsArray, next) ->

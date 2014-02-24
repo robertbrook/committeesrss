@@ -40,6 +40,8 @@
     "gulp-download": "0.0.1",
     "gulp-filelog": "~0.2.0",
     "gulp-buffer": "0.0.2",
-    "html-md": "~3.0.2"
+    "html-md": "~3.0.2",
+    "humanize": "0.0.9",
+    "filesize": "~2.0.0"
   }
 }
