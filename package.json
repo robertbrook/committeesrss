@@ -21,7 +21,8 @@
     "cheerio": "*",
     "html-md": "*",
     "gulp": "*",
-    "coffee-script": "~1.7.1"
+    "coffee-script": "~1.7.1",
+    "node-curl": "*"
   },
   "license": "Open Parliament Licence",
   "devDependencies": {

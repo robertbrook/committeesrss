@@ -5,21 +5,21 @@
 # - run through the Markdown files to identify and extract individual contributions,
 # - save each contribution to a data store.
 
-gulp      = require "gulp"
-clean     = require "gulp-clean"
-gutil     = require "gulp-util"
-docco     = require "gulp-docco"
-html2md   = require "gulp-html2md"
-cheerio   = require "gulp-cheerio"
-filelog   = require "gulp-filelog"
-download  = require "gulp-download"
-_         = require "underscore"
-request   = require "request"
-fs        = require "fs"
-walk      = require "walk"
-cheerio   = require "cheerio"
-tomd      = require 'html-md'
-filesize  = require 'filesize'
+gulp = require "gulp"
+clean = require "gulp-clean"
+gutil = require "gulp-util"
+docco = require "gulp-docco"
+html2md = require "gulp-html2md"
+cheerio = require "gulp-cheerio"
+filelog = require "gulp-filelog"
+download = require "gulp-download"
+_ = require "underscore"
+request = require "request"
+fs = require "fs"
+walk = require "walk"
+cheerio = require "cheerio"
+tomd = require 'html-md'
+filesize = require 'filesize'
 
 # ### Notes
 #https://www.npmjs.org/package/gulp-rss/
@@ -29,20 +29,23 @@ filesize  = require 'filesize'
 
 paths =
   data: "data/*"
-  output:"output/*"
-  
-gulp.task "logg", ->  
+  output: "output/*"
+  source: "http://data.parliament.uk/writtenevidence/WrittenEvidence.svc/EvidenceHtml/" 
+
+gulp.task "logg", ->
   gulp.src(paths.data)
-    .pipe(filelog())
-    .pipe(gulp.dest(paths.output))
-    
-gulp.task "download", ->  
-  download(target_array)
-    .pipe(gulp.dest("data/"));
-    
+  .pipe(filelog())
+  .pipe(gulp.dest(paths.output))
+
+gulp.task "download", ->
+  for thisone in [1...100]
+#    thisone = String("0000" + thisone).slice -4
+    download paths.source + String("0000" + thisone).slice -4
+    .pipe gulp.dest("data/")
+
 gulp.task "default", ->
   console.log "ok"
-  
+
 gulp.task "server", ->
   walker = walk.walk("./data/")
   walker.on "file", (root, fileStats, next) ->
@@ -55,9 +58,9 @@ gulp.task "server", ->
             myString += "\n\n[[[" + element.children[0].data + "]]]"
           else
             myString += element.children[0].data
-      
-        
-      if fileStats.size > 1647        
+
+
+      if fileStats.size > 1647
         fs.writeFile "./output/" + fileStats.name + ".txt", myString, (err) ->
           if err
             console.log err
@@ -79,13 +82,15 @@ gulp.task "sync", ->
       h1.text h1.text().toUpperCase()
   ))
   .pipe gulp.dest("./output")
+  
 
-gulp.task "mdit", ->  
+
+gulp.task "mdit", ->
   ranges = ["./data/0*", "./data/10*", "./data/20*", "./data/30*", "./data/40*", "./data/50*"]
   gulp.src(ranges)
-    .pipe html2md()
+  .pipe html2md()
     .pipe gulp.dest("./output")
-    
+
 gulp.task "clean", ->
   gulp.src paths.output
   .pipe(filelog('clean'))
