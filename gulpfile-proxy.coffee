@@ -13,6 +13,7 @@ html2md = require "gulp-html2md"
 cheerio = require "gulp-cheerio"
 filelog = require "gulp-filelog"
 download = require "gulp-download"
+rename = require "gulp-rename"
 _ = require "underscore"
 request = require "request"
 fs = require "fs"
@@ -32,14 +33,13 @@ paths =
   output: "output/*"
   source: "http://data.parliament.uk/writtenevidence/WrittenEvidence.svc/EvidenceHtml/" 
 
-gulp.task "logg", ->
+gulp.task "log", ->
   gulp.src(paths.data)
   .pipe(filelog())
   .pipe(gulp.dest(paths.output))
 
 gulp.task "download", ->
-  for thisone in [1...100]
-#    thisone = String("0000" + thisone).slice -4
+  for thisone in [1...7000]
     download paths.source + String("0000" + thisone).slice -4
     .pipe gulp.dest("data/")
 
@@ -82,15 +82,18 @@ gulp.task "sync", ->
       h1.text h1.text().toUpperCase()
   ))
   .pipe gulp.dest("./output")
-  
 
-
-gulp.task "mdit", ->
+gulp.task "markdown", ->
   ranges = ["./data/0*", "./data/10*", "./data/20*", "./data/30*", "./data/40*", "./data/50*"]
   gulp.src(ranges)
   .pipe html2md()
     .pipe gulp.dest("./output")
 
+gulp.task "clobber", ->
+  gulp.src paths.data
+  .pipe(filelog('clean'))
+  .pipe clean()
+  
 gulp.task "clean", ->
   gulp.src paths.output
   .pipe(filelog('clean'))
