@@ -44,6 +44,8 @@
     "humanize": "0.0.9",
     "filesize": "~2.0.0",
     "gulp-rename": "~1.2.0",
-    "gulp-util": "~2.2.14"
+    "gulp-util": "~2.2.14",
+    "cli-color": "~0.2.3",
+    "jison": "~0.4.13"
   }
 }

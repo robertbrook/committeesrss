@@ -9,7 +9,6 @@ gulp = require "gulp"
 clean = require "gulp-clean"
 gutil = require "gulp-util"
 docco = require "gulp-docco"
-html2md = require "gulp-html2md"
 cheerio = require "gulp-cheerio"
 filelog = require "gulp-filelog"
 download = require "gulp-download"
@@ -19,14 +18,18 @@ request = require "request"
 fs = require "fs"
 walk = require "walk"
 cheerio = require "cheerio"
-tomd = require 'html-md'
+md = require 'html-md'
 filesize = require 'filesize'
+clc = require 'cli-color'
+Parser = require("jison").Parser
 
 # ### Notes
 #https://www.npmjs.org/package/gulp-rss/
 #Currently, gulp-cheerio uses cheerio ~0.13.0.
 #newer     = require "gulp-newer"
 #rss       = require "gulp-rss"
+ 
+#leadingname: "^.*(?=:)"
 
 paths =
   data: "data/*"
@@ -42,30 +45,45 @@ gulp.task "download", ->
   for thisone in [1...7000]
     download paths.source + String("0000" + thisone).slice -4
     .pipe gulp.dest("data/")
-
-gulp.task "default", ->
-  console.log "ok"
-
-gulp.task "server", ->
+    
+gulp.task "markdown", ->
   walker = walk.walk("./data/")
   walker.on "file", (root, fileStats, next) ->
     fs.readFile root + fileStats.name, (err, data) ->
-      $ = cheerio.load(data)
-      myString = ""
-      $("p span").each (index, element) ->
-        if element.attribs["style"]
-          if ~(element.attribs["style"]).indexOf("bold")
-            myString += "\n\n[[[" + element.children[0].data + "]]]"
-          else
-            myString += element.children[0].data
-
-
+      
       if fileStats.size > 1647
-        fs.writeFile "./output/" + fileStats.name + ".txt", myString, (err) ->
-          if err
-            console.log err
-          else
-            console.log "Wrote out " + fileStats.name + ".txt, " + filesize fileStats.size, round: 0, unix: true
+        myString = md(data.toString())
+        lines = myString.split "\n"
+        intro = lines[0..2].toString()
+        
+        if (intro.toLowerCase().indexOf "oral evidence", 0) > -1        
+          fs.writeFile "./output/#{fileStats.name}.md", myString, (err) ->
+            if err
+              console.log err
+            else
+              console.log clc.green "#{fileStats.name}: #{fileStats.name}.md, #{filesize fileStats.size, round: 0, unix: true} #{intro}\n"
+        else
+          console.log clc.yellow "#{fileStats.name}: NOT ORAL: #{intro}"
+      else
+        console.log clc.red "#{fileStats.name}: too small" 
+      console.log "\n"
+      next()
+
+  walker.on "errors", (root, nodeStatsArray, next) ->
+    console.log "error"
+    next()
+
+  walker.on "end", ->
+    console.log "That's all folks."
+    
+    
+gulp.task "parse", ->
+  walker = walk.walk("./output/")
+  walker.on "file", (root, fileStats, next) ->
+    fs.readFile root + fileStats.name, (err, data) ->
+      lines = data.toString().split "\n"
+      lines.forEach (line) ->
+        console.log line.match /^.*(?=:)/m
       next()
 
   walker.on "errors", (root, nodeStatsArray, next) ->
@@ -75,19 +93,8 @@ gulp.task "server", ->
   walker.on "end", ->
     console.log "That's all folks."
 
-gulp.task "sync", ->
-  gulp.src([ "./data/*" ]).pipe(cheerio(run: ($) ->
-    $("title").each ->
-      h1 = $(this)
-      h1.text h1.text().toUpperCase()
-  ))
-  .pipe gulp.dest("./output")
-
-gulp.task "markdown", ->
-  ranges = ["./data/0*", "./data/10*", "./data/20*", "./data/30*", "./data/40*", "./data/50*"]
-  gulp.src(ranges)
-  .pipe html2md()
-    .pipe gulp.dest("./output")
+gulp.task "default", ->
+  console.log "Welcome to CommitteeRSS"
 
 gulp.task "clobber", ->
   gulp.src paths.data
