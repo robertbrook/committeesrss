@@ -46,6 +46,9 @@
     "gulp-rename": "~1.2.0",
     "gulp-util": "~2.2.14",
     "cli-color": "~0.2.3",
-    "jison": "~0.4.13"
+    "jison": "~0.4.13",
+    "html-to-text": "0.0.8",
+    "htmlstrip-native": "0.0.2",
+    "string": "~1.8.0"
   }
 }
