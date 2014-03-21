@@ -75,9 +75,7 @@ gulp.task "parse", ->
   walker = walk.walk("./output/")
   walker.on "file", (root, fileStats, next) ->
     fs.readFile root + fileStats.name, (err, data) ->
-      lines = data.toString().split "\n"
-      lines.forEach (line) ->
-        console.log line.match /^.*(?=:)/m
+      console.log data.toString().split /(Q\d*)\s(.*)(?=:)/
       next()
 
   walker.on "errors", (root, nodeStatsArray, next) ->
