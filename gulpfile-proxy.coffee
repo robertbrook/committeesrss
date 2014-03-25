@@ -21,15 +21,11 @@ md = require 'html-md'
 filesize = require 'filesize'
 clc = require 'cli-color'
 S = require "string"
-
-#leadingname: "^.*(?=:)"
-
+  
 paths =
   data: "data/*"
   output: "output/*"
-  host: "http://data.parliament.uk"
-  path: "/writtenevidence/WrittenEvidence.svc/EvidenceHtml/"
-  source: host + path
+  source: "http://data.parliament.uk/writtenevidence/WrittenEvidence.svc/EvidenceHtml/"
 
 gulp.task "log", ->
   gulp.src(paths.data)
