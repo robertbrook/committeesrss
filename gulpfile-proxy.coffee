@@ -1,8 +1,8 @@
 # This is a one-file prototype intended to:
-# - hoover up HTML files of Evidence to Committees from data.parliament.uk, 
+# - hoover up HTML files of Evidence to Committees from data.parliament.uk,
 # - discard empty files and Written Evidence files,
 # - convert HTML files to Markdown,
-# - run through the Markdown files to identify and extract individual contributions,
+# - identify and extract individual contributions in Markdown files,
 # - save each contribution to a data store.
 
 gulp = require "gulp"
@@ -27,7 +27,9 @@ S = require "string"
 paths =
   data: "data/*"
   output: "output/*"
-  source: "http://data.parliament.uk/writtenevidence/WrittenEvidence.svc/EvidenceHtml/" 
+  host: "http://data.parliament.uk"
+  path: "/writtenevidence/WrittenEvidence.svc/EvidenceHtml/"
+  source: host + path
 
 gulp.task "log", ->
   gulp.src(paths.data)
@@ -51,16 +53,16 @@ gulp.task "markdown", ->
         lines = S(myString).lines()
         intro = lines[0..2].toString()
         
-        if (intro.toLowerCase().indexOf "oral evidence", 0) > -1        
+        if (intro.toLowerCase().indexOf "oral evidence", 0) > -1
           fs.writeFile "./output/#{name}.md", myString, (err) ->
             if err
               console.log err
             else
-              console.log clc.green "#{name}: #{name}.md, #{filesize size, round: 0, unix: true} #{intro}\n"
+              console.log clc.green "#{name}: #{name}.md\n#{intro}\n"
         else
           console.log clc.yellow "#{name}: not Oral Evidence\n"
       else
-        console.log clc.red "#{name}: too small\n" 
+        console.log clc.red "#{name}: too small\n"
       next()
 
   walker.on "errors", (root, nodeStatsArray, next) ->
