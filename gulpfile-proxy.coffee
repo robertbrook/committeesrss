@@ -21,7 +21,10 @@ md = require 'html-md'
 filesize = require 'filesize'
 clc = require 'cli-color'
 S = require "string"
-  
+pg = require("pg")
+
+conString = "postgres://localhost/oralevidence_development"
+
 paths =
   data: "data/*"
   output: "output/*"
@@ -68,12 +71,28 @@ gulp.task "markdown", ->
   walker.on "end", ->
     console.log "That's all folks."
     
-    
+
+
 gulp.task "parse", ->
   walker = walk.walk("./output/")
   walker.on "file", (root, fileStats, next) ->
     fs.readFile root + fileStats.name, (err, data) ->
-      console.log data.toString().split /(Q\d*)\s(.*)(?=:)/
+      bits = data.toString().split /(Q\d*)\s(.*)(?=:)/
+      bits.shift()
+      
+      while bits.length
+        question = []
+        question = bits.splice(0, 3)
+      
+        pg.connect conString, (err, client, done) ->
+          return console.error("error fetching client from pool", err)  if err
+          client.query 'INSERT into questions (qnumber, qname, qtext) VALUES($1, $2, $3) returning id', question, (err, result) ->
+            done()
+            return console.error("error running query", err)  if err
+            console.log result.rows
+            return
+          return
+      
       next()
 
   walker.on "errors", (root, nodeStatsArray, next) ->
